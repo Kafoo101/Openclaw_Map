@@ -1,0 +1,47 @@
+body {
+    margin: 0;
+}
+
+#container {
+    display: flex;
+    height: 100vh;
+}
+
+#chat {
+    width: 30%;
+    background: #eee;
+    padding: 10px;
+}
+
+#map {
+    width: 70%;
+    height: 100vh;
+}
+
+#chat {
+    width: 30%;
+    padding: 16px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    background: #f5f5f5;
+    border-right: 1px solid #ccc;
+}
+
+#chat input {
+    padding: 10px;
+    font-size: 14px;
+}
+
+#chat button {
+    padding: 10px;
+    background: #2b6cff;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+#chat button:hover {
+    background: #1f4fd6;
+}

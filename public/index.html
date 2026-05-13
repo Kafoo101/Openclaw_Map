@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Map App</title>
+
+    <link rel="stylesheet" href="index.css">
+
+    <link
+        rel="stylesheet"
+        href="https://unpkg.com/leaflet/dist/leaflet.css"
+    />
+</head>
+<body>
+
+<div id="container">
+
+    <!--<div id="chat">
+        <h3>Chat</h3>
+        <input placeholder="Type here...">
+    </div> -->
+
+    <div id="chat">
+        <h3>Route Planner</h3>
+
+        <input id="origin" placeholder="Origin" />
+
+        <input id="destination" placeholder="Destination" />
+
+        <button onclick="route()">Get Route</button>
+    </div>
+
+    <div id="map"></div>
+
+</div>
+
+<script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+<script src="index.js"></script>
+
+</body>
+</html>
