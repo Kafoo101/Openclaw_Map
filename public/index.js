@@ -1,6 +1,7 @@
 // initialize map
 const map = L.map('map');
 let currentRoute = null;
+let endMarker = null;
 
 // OpenStreetMap tiles
 L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
@@ -76,7 +77,10 @@ async function drawLine(origin, destination, originMark = false, destinationMark
     };
 
     if(originMark) L.marker([start.lat, start.lng]).addTo(map);
-    if(destinationMark) L.marker([end.lat, end.lng], {icon: redIcon}).addTo(map).bindPopup(end.displayName);
+    if(destinationMark) {
+        if(endMarker) map.removeLayer(endMarker);
+        endMarker = L.marker([end.lat, end.lng], {icon: redIcon}).addTo(map).bindPopup(end.displayName);
+    } 
 
     const coords = await getRoute(start, end);
     const latlngs = coords.map(c => [c[1], c[0]]);
