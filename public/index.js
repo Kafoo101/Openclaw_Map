@@ -1,3 +1,22 @@
+// initialize map
+const map = L.map('map');
+let currentRoute = null;
+
+// OpenStreetMap tiles
+L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    attribution: '&copy; OpenStreetMap contributors'
+}).addTo(map);
+
+const redIcon = new L.Icon({
+    iconUrl: "https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-red.png",
+    shadowUrl: "https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/images/marker-shadow.png",
+
+    iconSize: [25, 41],
+    iconAnchor: [12, 41],
+    popupAnchor: [1, -34],
+    shadowSize: [41, 41]
+});
+
 async function geocode(place) {
     const url = `https://nominatim.openstreetmap.org/search?format=json&q=${encodeURIComponent(place)}&limit=1`;
 
@@ -37,8 +56,8 @@ async function getRoute(start, end) {
 }
 
 async function drawLine(origin, destination, originMark = false, destinationMark = true) {
-    var start = await geocode(origin);
-    var end = await geocode(destination);
+    let start = await geocode(origin);
+    let end = await geocode(destination);
 
     if (!start || !end) {
         console.log("Location not found");
@@ -57,15 +76,16 @@ async function drawLine(origin, destination, originMark = false, destinationMark
     };
 
     if(originMark) L.marker([start.lat, start.lng]).addTo(map);
-    if(destinationMark) L.marker([end.lat, end.lng]).addTo(map).bindPopup(end.displayName).openPopup();
+    if(destinationMark) L.marker([end.lat, end.lng], {icon: redIcon}).addTo(map).bindPopup(end.displayName);
 
     const coords = await getRoute(start, end);
     const latlngs = coords.map(c => [c[1], c[0]]);
-    const routeLine = L.polyline(latlngs, {
+    if (currentRoute) map.removeLayer(currentRoute);
+    currentRoute = L.polyline(latlngs, {
         color: "blue",
         weight: 5
     }).addTo(map);
-    map.fitBounds(routeLine.getBounds());
+    map.fitBounds(currentRoute.getBounds());
 }
 
 async function route() {
@@ -79,14 +99,6 @@ async function route() {
 
     drawLine(origin, destination);
 }
-
-// initialize map
-const map = L.map('map');
-
-// OpenStreetMap tiles
-L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-    attribution: '&copy; OpenStreetMap contributors'
-}).addTo(map);
 
 // Initial Location
 goToPlace("National Taiwan Ocean University");
