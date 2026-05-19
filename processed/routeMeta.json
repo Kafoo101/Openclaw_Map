@@ -1,0 +1,2690 @@
+{
+  "KEE0155_KEE015501": {
+    "routeUID": "KEE0155",
+    "subRouteUID": "KEE015501",
+    "name_zh": "3044",
+    "name_en": "3044",
+    "headsign_zh": "基隆車站—經仙洞國小—高遠新村",
+    "headsign_en": "Keelung Station— Via Xiandong Elementary School — Gaoyuanxincun Community",
+    "direction": 0,
+    "departure_zh": "基隆火車站(南站)",
+    "departure_en": "Keelung Railway Station S.",
+    "destination_zh": "太白莊",
+    "destination_en": "Taibai Village",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0156_KEE015601": {
+    "routeUID": "KEE0156",
+    "subRouteUID": "KEE015601",
+    "name_zh": "3045",
+    "name_en": "3045",
+    "headsign_zh": "基隆車站—高遠新村",
+    "headsign_en": "Keelung Station— Gaoyuanxincun Community",
+    "direction": 0,
+    "departure_zh": "基隆火車站(南站)",
+    "departure_en": "Keelung Railway Station S.",
+    "destination_zh": "太白莊",
+    "destination_en": "Taibai Village",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0157_KEE015701": {
+    "routeUID": "KEE0157",
+    "subRouteUID": "KEE015701",
+    "name_zh": "3072",
+    "name_en": "3072",
+    "headsign_zh": "中和國小→基隆車站(經西定路)",
+    "headsign_en": "Zhonghe Elementary School→Keelung Station(Xiding Rd.)",
+    "direction": 0,
+    "departure_zh": "中和路168巷7弄19號",
+    "departure_en": "No.19 Aly. 7 Ln. 168 Zhonghe Rd.",
+    "destination_zh": "基隆火車站(南站)",
+    "destination_en": "Keelung Railway Station S.",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0158_KEE015801": {
+    "routeUID": "KEE0158",
+    "subRouteUID": "KEE015801",
+    "name_zh": "3073",
+    "name_en": "3073",
+    "headsign_zh": "基隆車站→中和國小(經西定路)→經成功市場",
+    "headsign_en": "Keelung Station→Zhonghe Elementary School(Xiding Rd.)→Via Chengong Market",
+    "direction": 0,
+    "departure_zh": "基隆火車站(南站)",
+    "departure_en": "Keelung Railway Station S.",
+    "destination_zh": "基隆火車站(南站)",
+    "destination_en": "Keelung Railway Station S.",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0180_KEE018001": {
+    "routeUID": "KEE0180",
+    "subRouteUID": "KEE018001",
+    "name_zh": "6034",
+    "name_en": "6034",
+    "headsign_zh": "東勢坑→經東勢街→羅傑摩爾(經暖西國小)",
+    "headsign_en": "Dongshi Tunnel→Via Dongshi St.→Luojiemoer(Nuanshi Elementary School)",
+    "direction": 0,
+    "departure_zh": "東安宮",
+    "departure_en": "Dongan Temple",
+    "destination_zh": "東安宮",
+    "destination_en": "Dongan Temple",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0181_KEE018101": {
+    "routeUID": "KEE0181",
+    "subRouteUID": "KEE018101",
+    "name_zh": "6033",
+    "name_en": "6033",
+    "headsign_zh": "東勢坑→經東勢街→羅傑摩爾(經暖暖國小)",
+    "headsign_en": "Dongshi Tunnel → Via Dongshi St.→Luojiemoer(Nuannuan Elementary School)",
+    "direction": 0,
+    "departure_zh": "東安宮",
+    "departure_en": "Dongan Temple",
+    "destination_zh": "東安宮",
+    "destination_en": "Dongan Temple",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0211_KEE021101": {
+    "routeUID": "KEE0211",
+    "subRouteUID": "KEE021101",
+    "name_zh": "201",
+    "name_en": "201",
+    "headsign_zh": "深美國小→經仁一路",
+    "headsign_en": "Shenmei Elementary School→Via Ren 1st Rd.",
+    "direction": 0,
+    "departure_zh": "深美國小(消防分隊)",
+    "departure_en": "Shen-Mei Elementary School ( Fire Units)",
+    "destination_zh": "深美國小(消防分隊)",
+    "destination_en": "Shen-Mei Elementary School ( Fire Units)",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0212_KEE021201": {
+    "routeUID": "KEE0212",
+    "subRouteUID": "KEE021201",
+    "name_zh": "202",
+    "name_en": "202",
+    "headsign_zh": "深美國小→經信二路",
+    "headsign_en": "Shenmei Elementary School→Via Xin 2nd Rd.",
+    "direction": 0,
+    "departure_zh": "深美國小(消防分隊)",
+    "departure_en": "Shen-Mei Elementary School ( Fire Units)",
+    "destination_zh": "深美國小(消防分隊)",
+    "destination_en": "Shen-Mei Elementary School ( Fire Units)",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0212_KEE0212A1": {
+    "routeUID": "KEE0212",
+    "subRouteUID": "KEE0212A1",
+    "name_zh": "202A",
+    "name_en": "202A",
+    "headsign_zh": "深美國小→經信二路",
+    "headsign_en": "Shenmei Elementary School→Via Xin 2nd Rd.",
+    "direction": 0,
+    "departure_zh": "基隆轉運站",
+    "departure_en": "Keelung Transit Station",
+    "destination_zh": "深美國小(消防分隊)",
+    "destination_en": "Shen-Mei Elementary School ( Fire Units)",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0231_KEE023101": {
+    "routeUID": "KEE0231",
+    "subRouteUID": "KEE023101",
+    "name_zh": "203",
+    "name_en": "203",
+    "headsign_zh": "深澳坑→經美的世界(經八斗山莊)",
+    "headsign_en": "Shenaokeng→Via Meideshijie Community(Badoushanzhuang Community)",
+    "direction": 0,
+    "departure_zh": "八斗子分站",
+    "departure_en": "Badouzi Substation",
+    "destination_zh": "基隆漁會",
+    "destination_en": "Keelung District Fishmens` Association",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0232_KEE023201": {
+    "routeUID": "KEE0232",
+    "subRouteUID": "KEE023201",
+    "name_zh": "203",
+    "name_en": "203",
+    "headsign_zh": "深澳坑→經富貴社區(經八斗山莊)",
+    "headsign_en": "Shenaokeng→Via Fugui Community(Badoushanzhuang Community)",
+    "direction": 0,
+    "departure_zh": "八斗子分站",
+    "departure_en": "Badouzi Substation",
+    "destination_zh": "基隆漁會",
+    "destination_en": "Keelung District Fishmens` Association",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0233_KEE023301": {
+    "routeUID": "KEE0233",
+    "subRouteUID": "KEE023301",
+    "name_zh": "203",
+    "name_en": "203",
+    "headsign_zh": "深澳坑→經富貴社區(去八斗山莊)",
+    "headsign_en": "Shenaokeng→Via Fugui Community(Badoushanzhuang Community)",
+    "direction": 0,
+    "departure_zh": "八斗子分站",
+    "departure_en": "Badouzi Substation",
+    "destination_zh": "基隆漁會",
+    "destination_en": "Keelung District Fishmens` Association",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0234_KEE023401": {
+    "routeUID": "KEE0234",
+    "subRouteUID": "KEE023401",
+    "name_zh": "203",
+    "name_en": "203",
+    "headsign_zh": "深澳坑→經富貴社區(回八斗山莊)",
+    "headsign_en": "Shenaokeng→Via Fugui Community(Badoushanzhuang Community)",
+    "direction": 0,
+    "departure_zh": "八斗子分站",
+    "departure_en": "Badouzi Substation",
+    "destination_zh": "基隆漁會",
+    "destination_en": "Keelung District Fishmens` Association",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0235_KEE023501": {
+    "routeUID": "KEE0235",
+    "subRouteUID": "KEE023501",
+    "name_zh": "203",
+    "name_en": "203",
+    "headsign_zh": "深澳坑→去經美的世界(回經富貴社區)",
+    "headsign_en": "Shenaokeng→Via Meideshijie Community(Fugui Community)",
+    "direction": 0,
+    "departure_zh": "八斗子分站",
+    "departure_en": "Badouzi Substation",
+    "destination_zh": "基隆漁會",
+    "destination_en": "Keelung District Fishmens` Association",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0236_KEE023601": {
+    "routeUID": "KEE0236",
+    "subRouteUID": "KEE023601",
+    "name_zh": "204",
+    "name_en": "204",
+    "headsign_zh": "教忠街→經美的世界",
+    "headsign_en": "Jiaozhong St.→Via Meideshijie Community",
+    "direction": 0,
+    "departure_zh": "深美分站",
+    "departure_en": "Shenmei Substation",
+    "destination_zh": "深美國小正門口",
+    "destination_en": "Shen-Mei Elementary School",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0237_KEE023701": {
+    "routeUID": "KEE0237",
+    "subRouteUID": "KEE023701",
+    "name_zh": "204",
+    "name_en": "204",
+    "headsign_zh": "教忠街→經美的世界(總站發車)",
+    "headsign_en": "Jiaozhong St.→Via Meideshijie Community",
+    "direction": 0,
+    "departure_zh": "基隆轉運站",
+    "departure_en": "Keelung Transit Station",
+    "destination_zh": "深美國小正門口",
+    "destination_en": "Shen-Mei Elementary School",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0238_KEE023801": {
+    "routeUID": "KEE0238",
+    "subRouteUID": "KEE023801",
+    "name_zh": "204",
+    "name_en": "204",
+    "headsign_zh": "教忠街→經富貴社區(經月眉路)",
+    "headsign_en": "Jiaozhong St.→Via Fugui Community(Yuemei Rd.)",
+    "direction": 0,
+    "departure_zh": "深美分站",
+    "departure_en": "Shenmei Substation",
+    "destination_zh": "深美國小正門口",
+    "destination_en": "Shen-Mei Elementary School",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0239_KEE023901": {
+    "routeUID": "KEE0239",
+    "subRouteUID": "KEE023901",
+    "name_zh": "204",
+    "name_en": "204",
+    "headsign_zh": "教忠街→經富貴社區",
+    "headsign_en": "Jiaozhong St.→Via Fugui Community",
+    "direction": 0,
+    "departure_zh": "深美分站",
+    "departure_en": "Shenmei Substation",
+    "destination_zh": "深美國小正門口",
+    "destination_en": "Shen-Mei Elementary School",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0245_KEE024501": {
+    "routeUID": "KEE0245",
+    "subRouteUID": "KEE024501",
+    "name_zh": "204",
+    "name_en": "204",
+    "headsign_zh": "教忠街→經美的世界(經月眉路)",
+    "headsign_en": "Jiaozhong St.→Via Meideshijie Community(Yuemei Rd.)",
+    "direction": 0,
+    "departure_zh": "深美分站",
+    "departure_en": "Shenmei Substation",
+    "destination_zh": "深美國小正門口",
+    "destination_en": "Shen-Mei Elementary School",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0245_KEE0245A1": {
+    "routeUID": "KEE0245",
+    "subRouteUID": "KEE0245A1",
+    "name_zh": "204A",
+    "name_en": "204A",
+    "headsign_zh": "教忠街→經美的世界(經教孝街)",
+    "headsign_en": "Jiaozhong St.→Via Meideshijie Community(Jiaohau St.)",
+    "direction": 0,
+    "departure_zh": "深美分站",
+    "departure_en": "Shenmei Substation",
+    "destination_zh": "深美國小正門口",
+    "destination_en": "Shen-Mei Elementary School",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0245_KEE0245B1": {
+    "routeUID": "KEE0245",
+    "subRouteUID": "KEE0245B1",
+    "name_zh": "204B",
+    "name_en": "204B",
+    "headsign_zh": "教忠街—經美的世界(經仁五路)",
+    "headsign_en": "Jiaozhong St. — Via Meideshijie Community(Ren 5th Rd.)",
+    "direction": 0,
+    "departure_zh": "深美分站",
+    "departure_en": "Shenmei Substation",
+    "destination_zh": "深美國小正門口",
+    "destination_en": "Shen-Mei Elementary School",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0245_KEE0245C1": {
+    "routeUID": "KEE0245",
+    "subRouteUID": "KEE0245C1",
+    "name_zh": "204C",
+    "name_en": "204C",
+    "headsign_zh": "教忠街—基隆車站(經富貴社區)",
+    "headsign_en": "Jiaozhong St. — Keelung Station(Fugui Community)",
+    "direction": 0,
+    "departure_zh": "深美分站",
+    "departure_en": "Shenmei Substation",
+    "destination_zh": "基隆轉運站",
+    "destination_en": "Keelung Transit Station",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0245_KEE0245D1": {
+    "routeUID": "KEE0245",
+    "subRouteUID": "KEE0245D1",
+    "name_zh": "204D",
+    "name_en": "204D",
+    "headsign_zh": "教忠街—基隆車站(經美的世界)",
+    "headsign_en": "Jiaozhong St. — Keelung Station(Fugui Community)",
+    "direction": 0,
+    "departure_zh": "深美分站",
+    "departure_en": "Shenmei Substation",
+    "destination_zh": "基隆轉運站",
+    "destination_en": "Keelung Transit Station",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0251_KEE025101": {
+    "routeUID": "KEE0251",
+    "subRouteUID": "KEE025101",
+    "name_zh": "205",
+    "name_en": "205",
+    "headsign_zh": "信義國中→深美國小(經和平島)",
+    "headsign_en": "Xinyi Junior High School→Shenmei Elementary School(Heping Island))",
+    "direction": 0,
+    "departure_zh": "信義國中",
+    "departure_en": "Sinyi Junior High School",
+    "destination_zh": "深美國小(消防分隊)",
+    "destination_en": "Shen-Mei Elementary School ( Fire Units)",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0251_KEE0251A1": {
+    "routeUID": "KEE0251",
+    "subRouteUID": "KEE0251A1",
+    "name_zh": "205A",
+    "name_en": "205A",
+    "headsign_zh": "信義國中—和平島(經祥豐街)",
+    "headsign_en": "Xinyi Junior High School — Heping Island(Xiangfeng St.)",
+    "direction": 0,
+    "departure_zh": "信義國中",
+    "departure_en": "Sinyi Junior High School",
+    "destination_zh": "阿拉寶灣",
+    "destination_en": "Alabao Bay",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0318_KEE031801": {
+    "routeUID": "KEE0318",
+    "subRouteUID": "KEE031801",
+    "name_zh": "301",
+    "name_en": "301",
+    "headsign_zh": "太白莊—經成功市場",
+    "headsign_en": "Taibai Village — Via Chengong Market",
+    "direction": 0,
+    "departure_zh": "太白莊",
+    "departure_en": "Taibai Village",
+    "destination_zh": "太白莊",
+    "destination_en": "Taibai Village",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0324_KEE032401": {
+    "routeUID": "KEE0324",
+    "subRouteUID": "KEE032401",
+    "name_zh": "3037",
+    "name_en": "3037",
+    "headsign_zh": "大竿林→經中山一路",
+    "headsign_en": "Daganlin → Via Zhongshan 1st Rd.",
+    "direction": 0,
+    "departure_zh": "富都新城",
+    "departure_en": "Fudouxincheng",
+    "destination_zh": "富都新城",
+    "destination_en": "Fudouxincheng",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0325_KEE032501": {
+    "routeUID": "KEE0325",
+    "subRouteUID": "KEE032501",
+    "name_zh": "3014",
+    "name_en": "3014",
+    "headsign_zh": "太白莊→經太平青鳥",
+    "headsign_en": "Taibai Village → Via Taiping Bleu Book",
+    "direction": 0,
+    "departure_zh": "太白莊",
+    "departure_en": "Taibai Village",
+    "destination_zh": "太白莊",
+    "destination_en": "Taibai Village",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0326_KEE032601": {
+    "routeUID": "KEE0326",
+    "subRouteUID": "KEE032601",
+    "name_zh": "311",
+    "name_en": "311",
+    "headsign_zh": "太平青鳥→經通仁街",
+    "headsign_en": "Taiping Bleu Book→Via Tongren St.",
+    "direction": 0,
+    "departure_zh": "基隆火車站(南站)",
+    "departure_en": "Keelung Railway Station S.",
+    "destination_zh": "基隆火車站(南站)",
+    "destination_en": "Keelung Railway Station S.",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0327_KEE032701": {
+    "routeUID": "KEE0327",
+    "subRouteUID": "KEE032701",
+    "name_zh": "312",
+    "name_en": "312",
+    "headsign_zh": "太平青鳥→經通仁街、健民街",
+    "headsign_en": "Taiping Bleu Book→Via Tongren St.、Jianmin St.",
+    "direction": 0,
+    "departure_zh": "基隆火車站(南站)",
+    "departure_en": "Keelung Railway Station S.",
+    "destination_zh": "基隆火車站(南站)",
+    "destination_en": "Keelung Railway Station S.",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0328_KEE032801": {
+    "routeUID": "KEE0328",
+    "subRouteUID": "KEE032801",
+    "name_zh": "3047",
+    "name_en": "3047",
+    "headsign_zh": "基隆車站→經成功市場→高遠新村→基隆車站",
+    "headsign_en": "Keelung Station→ Via Chengong Marke→ Gaoyuanxincun Community →Keelung Station",
+    "direction": 0,
+    "departure_zh": "基隆火車站(南站)",
+    "departure_en": "Keelung Railway Station S.",
+    "destination_zh": "基隆火車站(南站)",
+    "destination_en": "Keelung Railway Station S.",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0329_KEE032901": {
+    "routeUID": "KEE0329",
+    "subRouteUID": "KEE032901",
+    "name_zh": "3046",
+    "name_en": "3046",
+    "headsign_zh": "太白莊—高遠新村—經成功市場—基隆車站",
+    "headsign_en": "Taibai Village — Gaoyuanxincun Community  — Via Chengong Market — Keelung Station",
+    "direction": 0,
+    "departure_zh": "太白莊",
+    "departure_en": "Taibai Village",
+    "destination_zh": "基隆火車站(南站)",
+    "destination_en": "Keelung Railway Station S.",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0352_KEE035201": {
+    "routeUID": "KEE0352",
+    "subRouteUID": "KEE035201",
+    "name_zh": "101",
+    "name_en": "101",
+    "headsign_zh": "和平島—經中正路",
+    "headsign_en": "Heping Island — Via Zhongzheng Rd.",
+    "direction": 0,
+    "departure_zh": "阿拉寶灣",
+    "departure_en": "Alabao Bay",
+    "destination_zh": "阿拉寶灣",
+    "destination_en": "Alabao Bay",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0352_KEE0352A1": {
+    "routeUID": "KEE0352",
+    "subRouteUID": "KEE0352A1",
+    "name_zh": "101A",
+    "name_en": "101A",
+    "headsign_zh": "和平島—經中正路",
+    "headsign_en": "Heping Island — Via Zhongzheng Rd.",
+    "direction": 0,
+    "departure_zh": "基隆轉運站",
+    "departure_en": "Keelung Transit Station",
+    "destination_zh": "阿拉寶灣",
+    "destination_en": "Alabao Bay",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0353_KEE035301": {
+    "routeUID": "KEE0353",
+    "subRouteUID": "KEE035301",
+    "name_zh": "101",
+    "name_en": "101",
+    "headsign_zh": "和平島—經祥豐街",
+    "headsign_en": "Heping Island — Via Xiangfeng St.",
+    "direction": 0,
+    "departure_zh": "阿拉寶灣",
+    "departure_en": "Alabao Bay",
+    "destination_zh": "阿拉寶灣",
+    "destination_en": "Alabao Bay",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0354_KEE035401": {
+    "routeUID": "KEE0354",
+    "subRouteUID": "KEE035401",
+    "name_zh": "102",
+    "name_en": "102",
+    "headsign_zh": "和平島—經祥豐街(經仁五路)",
+    "headsign_en": "Heping Island — Via Xiangfeng St.(Via Ren 5th Rd.)",
+    "direction": 0,
+    "departure_zh": "阿拉寶灣",
+    "departure_en": "Alabao Bay",
+    "destination_zh": "阿拉寶灣",
+    "destination_en": "Alabao Bay",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0355_KEE035501": {
+    "routeUID": "KEE0355",
+    "subRouteUID": "KEE035501",
+    "name_zh": "103",
+    "name_en": "103",
+    "headsign_zh": "八斗子—經中正路(經海科館)",
+    "headsign_en": "Badouzi — Via Zhongzheng Rd.(National Museum of Marine Science & Technology)",
+    "direction": 0,
+    "departure_zh": "八斗子分站",
+    "departure_en": "Badouzi Substation",
+    "destination_zh": "八斗子車站",
+    "destination_en": "Badouzi Railway Station",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0356_KEE035601": {
+    "routeUID": "KEE0356",
+    "subRouteUID": "KEE035601",
+    "name_zh": "103",
+    "name_en": "103",
+    "headsign_zh": "八斗子—經祥豐街(經海科館)",
+    "headsign_en": "Badouzi — Via Xiangfeng St.(National Museum of Marine Science & Technology",
+    "direction": 0,
+    "departure_zh": "八斗子分站",
+    "departure_en": "Badouzi Substation",
+    "destination_zh": "八斗子車站",
+    "destination_en": "Badouzi Railway Station",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0358_KEE035801": {
+    "routeUID": "KEE0358",
+    "subRouteUID": "KEE035801",
+    "name_zh": "104",
+    "name_en": "104",
+    "headsign_zh": "新豐街—經中正路",
+    "headsign_en": "Xinfeng St. — Via Zhongzheng Rd.",
+    "direction": 0,
+    "departure_zh": "深美國小(消防分隊)",
+    "departure_en": "Shen-Mei Elementary School ( Fire Units)",
+    "destination_zh": "深美國小(消防分隊)",
+    "destination_en": "Shen-Mei Elementary School ( Fire Units)",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0359_KEE035901": {
+    "routeUID": "KEE0359",
+    "subRouteUID": "KEE035901",
+    "name_zh": "104",
+    "name_en": "104",
+    "headsign_zh": "新豐街—經祥豐街",
+    "headsign_en": "Xinfeng St. — Via Xiangfeng St.",
+    "direction": 0,
+    "departure_zh": "深美國小(消防分隊)",
+    "departure_en": "Shen-Mei Elementary School ( Fire Units)",
+    "destination_zh": "深美國小(消防分隊)",
+    "destination_en": "Shen-Mei Elementary School ( Fire Units)",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0359_KEE0359A1": {
+    "routeUID": "KEE0359",
+    "subRouteUID": "KEE0359A1",
+    "name_zh": "104A",
+    "name_en": "104A",
+    "headsign_zh": "新豐街—經祥豐街",
+    "headsign_en": "Xinfeng St. — Via Xiangfeng St.",
+    "direction": 0,
+    "departure_zh": "基隆轉運站",
+    "departure_en": "Keelung Transit Station",
+    "destination_zh": "深美國小(消防分隊)",
+    "destination_en": "Shen-Mei Elementary School ( Fire Units)",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0361_KEE036101": {
+    "routeUID": "KEE0361",
+    "subRouteUID": "KEE036101",
+    "name_zh": "105",
+    "name_en": "105",
+    "headsign_zh": "三總基隆分院—基隆車站",
+    "headsign_en": "Tri—Service General Hospital of Keelung — Keelung Station",
+    "direction": 0,
+    "departure_zh": "基隆轉運站",
+    "departure_en": "Keelung Transit Station",
+    "destination_zh": "基隆轉運站",
+    "destination_en": "Keelung Transit Station",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0362_KEE036201": {
+    "routeUID": "KEE0362",
+    "subRouteUID": "KEE036201",
+    "name_zh": "107",
+    "name_en": "107",
+    "headsign_zh": "八斗子—經信義國中",
+    "headsign_en": "Badouzi — Via Xinyi Junior High School",
+    "direction": 0,
+    "departure_zh": "八斗子分站",
+    "departure_en": "Badouzi Substation",
+    "destination_zh": "基隆漁會",
+    "destination_en": "Keelung District Fishmens` Association",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0363_KEE036301": {
+    "routeUID": "KEE0363",
+    "subRouteUID": "KEE036301",
+    "name_zh": "107",
+    "name_en": "107",
+    "headsign_zh": "八斗子—基隆車站(經信義國中)",
+    "headsign_en": "Badouzi — Keelung Station(Xinyi Junior High School)",
+    "direction": 0,
+    "departure_zh": "八斗子分站",
+    "departure_en": "Badouzi Substation",
+    "destination_zh": "基隆轉運站",
+    "destination_en": "Keelung Transit Station",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0364_KEE036401": {
+    "routeUID": "KEE0364",
+    "subRouteUID": "KEE036401",
+    "name_zh": "107",
+    "name_en": "107",
+    "headsign_zh": "調和街—基隆車站(經信義國中)",
+    "headsign_en": "Diaohe St. — Keelung Station(Via Xinyi Junior High School)",
+    "direction": 0,
+    "departure_zh": "調和市場",
+    "departure_en": "Diaohe Market",
+    "destination_zh": "基隆轉運站",
+    "destination_en": "Keelung Transit Station",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0365_KEE036501": {
+    "routeUID": "KEE0365",
+    "subRouteUID": "KEE036501",
+    "name_zh": "107",
+    "name_en": "107",
+    "headsign_zh": "調和街—經信義國中",
+    "headsign_en": "Diaohe St. — Via Xinyi Junior High School",
+    "direction": 0,
+    "departure_zh": "調和市場",
+    "departure_en": "Diaohe Market",
+    "destination_zh": "調和市場",
+    "destination_en": "Diaohe Market",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0366_KEE036601": {
+    "routeUID": "KEE0366",
+    "subRouteUID": "KEE036601",
+    "name_zh": "108",
+    "name_en": "108",
+    "headsign_zh": "潮境公園—經祥豐街",
+    "headsign_en": "Chaojing Park — Via Xiangfeng St.",
+    "direction": 0,
+    "departure_zh": "潮境公園",
+    "departure_en": "Chaojing Park",
+    "destination_zh": "潮境公園",
+    "destination_en": "Chaojing Park",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0367_KEE036701": {
+    "routeUID": "KEE0367",
+    "subRouteUID": "KEE036701",
+    "name_zh": "108",
+    "name_en": "108",
+    "headsign_zh": "潮境公園—基隆車站",
+    "headsign_en": "Chaojing Park — Keelung Station",
+    "direction": 0,
+    "departure_zh": "潮境公園",
+    "departure_en": "Chaojing Park",
+    "destination_zh": "基隆轉運站",
+    "destination_en": "Keelung Transit Station",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0369_KEE036901": {
+    "routeUID": "KEE0369",
+    "subRouteUID": "KEE036901",
+    "name_zh": "109",
+    "name_en": "109",
+    "headsign_zh": "天顯宮—基隆車站(經中正路)",
+    "headsign_en": "Tianxian Temple — Keelung Station(Via Zhongzheng Rd.)",
+    "direction": 0,
+    "departure_zh": "基隆轉運站",
+    "departure_en": "Keelung Transit Station",
+    "destination_zh": "基隆轉運站",
+    "destination_en": "Keelung Transit Station",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0370_KEE037001": {
+    "routeUID": "KEE0370",
+    "subRouteUID": "KEE037001",
+    "name_zh": "6065",
+    "name_en": "6065",
+    "headsign_zh": "碇內—七堵(經過港路)—碇內",
+    "headsign_en": "Dingnei— Qidu(Via Guogang Rd.) —Dingnei",
+    "direction": 0,
+    "departure_zh": "四腳亭",
+    "departure_en": "Sijiaoting",
+    "destination_zh": "四腳亭",
+    "destination_en": "Sijiaoting",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0371_KEE037101": {
+    "routeUID": "KEE0371",
+    "subRouteUID": "KEE037101",
+    "name_zh": "6071",
+    "name_en": "6071",
+    "headsign_zh": "八南里—羅傑摩爾(經過港路)",
+    "headsign_en": "Banan Village—Luojiemoer(Guogang Rd.",
+    "direction": 0,
+    "departure_zh": "八南里",
+    "departure_en": "Banan Village",
+    "destination_zh": "羅傑摩爾社區",
+    "destination_en": "Luojiemoer Community",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0372_KEE037201": {
+    "routeUID": "KEE0372",
+    "subRouteUID": "KEE037201",
+    "name_zh": "608",
+    "name_en": "608",
+    "headsign_zh": "基隆車站—南新街",
+    "headsign_en": "Keelung Station—Nanxin St.",
+    "direction": 0,
+    "departure_zh": "基隆火車站(南站)",
+    "departure_en": "Keelung Railway Station S.",
+    "destination_zh": "基隆火車站(南站)",
+    "destination_en": "Keelung Railway Station S.",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0373_KEE037301": {
+    "routeUID": "KEE0373",
+    "subRouteUID": "KEE037301",
+    "name_zh": "7012",
+    "name_en": "7012",
+    "headsign_zh": "瑪陵—經苓蘭生態農園",
+    "headsign_en": "Maling — Via Linglan Recreational Farm",
+    "direction": 0,
+    "departure_zh": "七堵分站",
+    "departure_en": "Qidu Substation",
+    "destination_zh": "南七堵",
+    "destination_en": "Nanqidu",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0374_KEE037401": {
+    "routeUID": "KEE0374",
+    "subRouteUID": "KEE037401",
+    "name_zh": "701",
+    "name_en": "701",
+    "headsign_zh": "七堵—瑪陵",
+    "headsign_en": "Qidu — Maling",
+    "direction": 0,
+    "departure_zh": "七堵分站",
+    "departure_en": "Qidu Substation",
+    "destination_zh": "南七堵",
+    "destination_en": "Nanqidu",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0375_KEE037501": {
+    "routeUID": "KEE0375",
+    "subRouteUID": "KEE037501",
+    "name_zh": "703",
+    "name_en": "703",
+    "headsign_zh": "七堵—瑪東里",
+    "headsign_en": "Qidu — Madong Village.",
+    "direction": 0,
+    "departure_zh": "七堵分站",
+    "departure_en": "Qidu Substation",
+    "destination_zh": "南七堵",
+    "destination_en": "Nanqidu",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0376_KEE037601": {
+    "routeUID": "KEE0376",
+    "subRouteUID": "KEE037601",
+    "name_zh": "702",
+    "name_en": "702",
+    "headsign_zh": "七堵—友蚋",
+    "headsign_en": "Qidu — Yourui",
+    "direction": 0,
+    "departure_zh": "七堵分站",
+    "departure_en": "Qidu Substation",
+    "destination_zh": "七堵郵局",
+    "destination_en": "Keelung Qidu Post Office",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0376_KEE0376A1": {
+    "routeUID": "KEE0376",
+    "subRouteUID": "KEE0376A1",
+    "name_zh": "702A",
+    "name_en": "702A",
+    "headsign_zh": "友蚋—經百三街",
+    "headsign_en": "Yourui — Via Bai 3rd St.",
+    "direction": 0,
+    "departure_zh": "七堵分站",
+    "departure_en": "Qidu Substation",
+    "destination_zh": "七堵郵局",
+    "destination_en": "Keelung Qidu Post Office",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0376_KEE0376D1": {
+    "routeUID": "KEE0376",
+    "subRouteUID": "KEE0376D1",
+    "name_zh": "702D",
+    "name_en": "702D",
+    "headsign_zh": "友蚋—回經大德路、百三街",
+    "headsign_en": "(Yourui — Via DaDe Rd. Bai 3rd St.)",
+    "direction": 0,
+    "departure_zh": "七堵分站",
+    "departure_en": "Qidu Substation",
+    "destination_zh": "七堵郵局",
+    "destination_en": "Keelung Qidu Post Office",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0380_KEE038001": {
+    "routeUID": "KEE0380",
+    "subRouteUID": "KEE038001",
+    "name_zh": "705",
+    "name_en": "705",
+    "headsign_zh": "百福車站—接駁公車",
+    "headsign_en": "Baifu Station — Shuttle Bus",
+    "direction": 0,
+    "departure_zh": "百福火車站",
+    "departure_en": "Baifu Railway Station",
+    "destination_zh": "百福宮",
+    "destination_en": "Baifu Temple",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0381_KEE038101": {
+    "routeUID": "KEE0381",
+    "subRouteUID": "KEE038101",
+    "name_zh": "301",
+    "name_en": "301",
+    "headsign_zh": "太白莊→經中山一路",
+    "headsign_en": "Taibai Village → Via Zhongshan 1st Rd.",
+    "direction": 0,
+    "departure_zh": "太白莊",
+    "departure_en": "Taibai Village",
+    "destination_zh": "太白莊",
+    "destination_en": "Taibai Village",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0382_KEE038201": {
+    "routeUID": "KEE0382",
+    "subRouteUID": "KEE038201",
+    "name_zh": "7061",
+    "name_en": "7061",
+    "headsign_zh": "泰安路—自治街",
+    "headsign_en": "Taian Rd. — Zizhi St.",
+    "direction": 0,
+    "departure_zh": "泰安路186之1號",
+    "departure_en": "No.186-1 Taian Rd.",
+    "destination_zh": "自治街",
+    "destination_en": "Zizhi St.",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0383_KEE038302": {
+    "routeUID": "KEE0383",
+    "subRouteUID": "KEE038302",
+    "name_zh": "7062",
+    "name_en": "7062",
+    "headsign_zh": "自治街—泰安路",
+    "headsign_en": "Zizhi St. — Taian Rd.",
+    "direction": 1,
+    "departure_zh": "自治街",
+    "departure_en": "Zizhi St.",
+    "destination_zh": "泰安路186之1號",
+    "destination_en": "No.186-1 Taian Rd.",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0384_KEE038401": {
+    "routeUID": "KEE0384",
+    "subRouteUID": "KEE038401",
+    "name_zh": "8011",
+    "name_en": "8011",
+    "headsign_zh": "安樂市場 — 信義國中(經長庚醫院)",
+    "headsign_en": "Renai House — Xinyi Junior High School(Changgung Memorial Hospital)",
+    "direction": 0,
+    "departure_zh": "安樂市場",
+    "departure_en": "Anle Market",
+    "destination_zh": "信義國中",
+    "destination_en": "Sinyi Junior High School",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0385_KEE038501": {
+    "routeUID": "KEE0385",
+    "subRouteUID": "KEE038501",
+    "name_zh": "8012",
+    "name_en": "8012",
+    "headsign_zh": "信義國中—經長庚醫院",
+    "headsign_en": "Xinyi Junior High School — Via Changgung Memorial Hospita",
+    "direction": 0,
+    "departure_zh": "信義國中",
+    "departure_en": "Sinyi Junior High School",
+    "destination_zh": "信義國中",
+    "destination_en": "Sinyi Junior High School",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0386_KEE038601": {
+    "routeUID": "KEE0386",
+    "subRouteUID": "KEE038601",
+    "name_zh": "8013",
+    "name_en": "8013",
+    "headsign_zh": "信義國中—基隆車站(經長庚醫院)",
+    "headsign_en": "Xinyi Junior High School — Keelung Station(Changgung Memorial Hospital)",
+    "direction": 0,
+    "departure_zh": "信義國中",
+    "departure_en": "Sinyi Junior High School",
+    "destination_zh": "長庚醫院",
+    "destination_en": "Keelung City Zhanggeng Memorial Hospital",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0387_KEE038701": {
+    "routeUID": "KEE0387",
+    "subRouteUID": "KEE038701",
+    "name_zh": "8021",
+    "name_en": "8021",
+    "headsign_zh": "八斗子—經長庚醫院",
+    "headsign_en": "Badouzi — Via Changgung Memorial Hospital",
+    "direction": 0,
+    "departure_zh": "八斗子車站",
+    "departure_en": "Badouzi Railway Station",
+    "destination_zh": "八斗子車站",
+    "destination_en": "Badouzi Railway Station",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0387_KEE0387A1": {
+    "routeUID": "KEE0387",
+    "subRouteUID": "KEE0387A1",
+    "name_zh": "8022A",
+    "name_en": "8022A",
+    "headsign_zh": "八斗子—長庚醫院",
+    "headsign_en": "Badouzi — Via Changgung Memorial Hospital",
+    "direction": 0,
+    "departure_zh": "八斗子車站",
+    "departure_en": "Badouzi Railway Station",
+    "destination_zh": "長庚醫院",
+    "destination_en": "Keelung City Zhanggeng Memorial Hospital",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0389_KEE038901": {
+    "routeUID": "KEE0389",
+    "subRouteUID": "KEE038901",
+    "name_zh": "301",
+    "name_en": "301",
+    "headsign_zh": "太白莊→經高遠新村",
+    "headsign_en": "Taibai Village → Via Gaoyuanxincun Community",
+    "direction": 0,
+    "departure_zh": "太白莊",
+    "departure_en": "Taibai Village",
+    "destination_zh": "太白莊",
+    "destination_en": "Taibai Village",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0391_KEE039101": {
+    "routeUID": "KEE0391",
+    "subRouteUID": "KEE039101",
+    "name_zh": "803",
+    "name_en": "803",
+    "headsign_zh": "八斗子—經長庚醫院(經信義國中)",
+    "headsign_en": "Badouzi — Via Changgung Memorial Hospital(Xinyi Junior High School)",
+    "direction": 0,
+    "departure_zh": "八斗子車站",
+    "departure_en": "Badouzi Railway Station",
+    "destination_zh": "國家新城",
+    "destination_en": "Guojiaxincheng",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0391_KEE039102": {
+    "routeUID": "KEE0391",
+    "subRouteUID": "KEE039102",
+    "name_zh": "803",
+    "name_en": "803",
+    "headsign_zh": "經長庚醫院—八斗子(經信義國中)",
+    "headsign_en": "Via Changgung Memorial Hospital —Badouzi (Xinyi Junior High School))",
+    "direction": 1,
+    "departure_zh": "國家新城",
+    "departure_en": "Guojiaxincheng",
+    "destination_zh": "八斗子車站",
+    "destination_en": "Badouzi Railway Station",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0393_KEE039301": {
+    "routeUID": "KEE0393",
+    "subRouteUID": "KEE039301",
+    "name_zh": "302",
+    "name_en": "302",
+    "headsign_zh": "太白莊→基隆火車站",
+    "headsign_en": "Zhongshan Senior High School → Via Xiding Rd.",
+    "direction": 0,
+    "departure_zh": "太白莊",
+    "departure_en": "Taibai Village",
+    "destination_zh": "太白莊",
+    "destination_en": "Taibai Village",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0394_KEE039401": {
+    "routeUID": "KEE0394",
+    "subRouteUID": "KEE039401",
+    "name_zh": "302",
+    "name_en": "302",
+    "headsign_zh": "太白莊→基隆火車站",
+    "headsign_en": "Zhongshan Senior High School → Via Xiding Rd.",
+    "direction": 0,
+    "departure_zh": "太白莊",
+    "departure_en": "Taibai Village",
+    "destination_zh": "太白莊",
+    "destination_en": "Taibai Village",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0395_KEE039501": {
+    "routeUID": "KEE0395",
+    "subRouteUID": "KEE039501",
+    "name_zh": "303",
+    "name_en": "303",
+    "headsign_zh": "大竿林→經西定路",
+    "headsign_en": "Daganlin → Via Xiding Rd.",
+    "direction": 0,
+    "departure_zh": "富都新城",
+    "departure_en": "Fudouxincheng",
+    "destination_zh": "富都新城",
+    "destination_en": "Fudouxincheng",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0395_KEE0395A1": {
+    "routeUID": "KEE0395",
+    "subRouteUID": "KEE0395A1",
+    "name_zh": "303A",
+    "name_en": "303A",
+    "headsign_zh": "大竿林→經西定路→經成功市場",
+    "headsign_en": "Daganlin → Via Xiding Rd.",
+    "direction": 0,
+    "departure_zh": "富都新城",
+    "departure_en": "Fudouxincheng",
+    "destination_zh": "富都新城",
+    "destination_en": "Fudouxincheng",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0396_KEE039601": {
+    "routeUID": "KEE0396",
+    "subRouteUID": "KEE039601",
+    "name_zh": "303",
+    "name_en": "303",
+    "headsign_zh": "大竿林→基隆車站",
+    "headsign_en": "Daganlin → Keelung Station",
+    "direction": 0,
+    "departure_zh": "富都新城",
+    "departure_en": "Fudouxincheng",
+    "destination_zh": "基隆火車站(南站)",
+    "destination_en": "Keelung Railway Station S.",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0397_KEE039701": {
+    "routeUID": "KEE0397",
+    "subRouteUID": "KEE039701",
+    "name_zh": "303",
+    "name_en": "303",
+    "headsign_zh": "基隆車站→大竿林(經西定路)",
+    "headsign_en": "Keelung Station → Via  Daganlin",
+    "direction": 0,
+    "departure_zh": "基隆火車站(南站)",
+    "departure_en": "Keelung Railway Station S.",
+    "destination_zh": "富都新城",
+    "destination_en": "Fudouxincheng",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0398_KEE039801": {
+    "routeUID": "KEE0398",
+    "subRouteUID": "KEE039801",
+    "name_zh": "303",
+    "name_en": "303",
+    "headsign_zh": "大竿林—回經中山一路",
+    "headsign_en": "Daganlin — Via Zhongshan 1st Rd.",
+    "direction": 0,
+    "departure_zh": "富都新城",
+    "departure_en": "Fudouxincheng",
+    "destination_zh": "富都新城",
+    "destination_en": "Fudouxincheng",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0398_KEE0398A1": {
+    "routeUID": "KEE0398",
+    "subRouteUID": "KEE0398A1",
+    "name_zh": "303A",
+    "name_en": "303A",
+    "headsign_zh": "大竿林—去經中山一路",
+    "headsign_en": "Daganlin — Via Zhongshan 1st Rd.",
+    "direction": 0,
+    "departure_zh": "富都新城",
+    "departure_en": "Fudouxincheng",
+    "destination_zh": "富都新城",
+    "destination_en": "Fudouxincheng",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0421_KEE042102": {
+    "routeUID": "KEE0421",
+    "subRouteUID": "KEE042102",
+    "name_zh": "7063",
+    "name_en": "7063",
+    "headsign_zh": "自治街—泰安路—自治街",
+    "headsign_en": "Zizhi St. — Taian Rd. —Zizhi St",
+    "direction": 1,
+    "departure_zh": "自治街",
+    "departure_en": "Zizhi St.",
+    "destination_zh": "自治街",
+    "destination_en": "Zizhi St.",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0434_KEE043401": {
+    "routeUID": "KEE0434",
+    "subRouteUID": "KEE043401",
+    "name_zh": "205",
+    "name_en": "205",
+    "headsign_zh": "總站—和平島(經祥豐街)",
+    "headsign_en": "Keelung Station — Heping Island(Xiangfeng St.)",
+    "direction": 0,
+    "departure_zh": "基隆轉運站",
+    "departure_en": "Keelung Transit Station",
+    "destination_zh": "阿拉寶灣",
+    "destination_en": "Alabao Bay",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0435_KEE043501": {
+    "routeUID": "KEE0435",
+    "subRouteUID": "KEE043501",
+    "name_zh": "206",
+    "name_en": "206",
+    "headsign_zh": "崇法國宅—基隆車站",
+    "headsign_en": "Chongfaguozhai — Keelung Station",
+    "direction": 0,
+    "departure_zh": "崇法國宅",
+    "departure_en": "Chongfa Public Housing",
+    "destination_zh": "基隆轉運站",
+    "destination_en": "Keelung Transit Station",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0436_KEE043601": {
+    "routeUID": "KEE0436",
+    "subRouteUID": "KEE043601",
+    "name_zh": "310",
+    "name_en": "310",
+    "headsign_zh": "濱海大道—大武崙沙灘",
+    "headsign_en": "Binhai Blvd — Tapurun Beach",
+    "direction": 0,
+    "departure_zh": "基隆火車站(南站)",
+    "departure_en": "Keelung Railway Station S.",
+    "destination_zh": "基隆火車站(南站)",
+    "destination_en": "Keelung Railway Station S.",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0437_KEE043701": {
+    "routeUID": "KEE0437",
+    "subRouteUID": "KEE043701",
+    "name_zh": "402",
+    "name_en": "402",
+    "headsign_zh": "堵南里—經七堵郵局",
+    "headsign_en": "Dunan Village — Via Qidu Post Office",
+    "direction": 0,
+    "departure_zh": "堵南里",
+    "departure_en": "Dunan Village",
+    "destination_zh": "堵南里",
+    "destination_en": "Dunan Village",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0438_KEE043801": {
+    "routeUID": "KEE0438",
+    "subRouteUID": "KEE043801",
+    "name_zh": "403",
+    "name_en": "403",
+    "headsign_zh": "東新街(海灣公司)—經七堵郵局(海灣公司)",
+    "headsign_en": "Dongxin St.(Crownvan Co. LTD) — Via Qidu Post Office(Crownvan Co. LTD)",
+    "direction": 0,
+    "departure_zh": "海灣公司",
+    "departure_en": "Crown Van Lines Co.",
+    "destination_zh": "海灣公司",
+    "destination_en": "Crown Van Lines Co. Ltd.",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0438_KEE0438A1": {
+    "routeUID": "KEE0438",
+    "subRouteUID": "KEE0438A1",
+    "name_zh": "403A",
+    "name_en": "403A",
+    "headsign_zh": "東新街(福基煤礦)—經光明路(海灣公司)",
+    "headsign_en": "Dongxin St.(Fuji Mine) — Via Guangming Rd.(Crownvan Co. LTD)",
+    "direction": 0,
+    "departure_zh": "福基煤礦",
+    "departure_en": "Fuji Coal Mine",
+    "destination_zh": "海灣公司",
+    "destination_en": "Crown Van Lines Co. Ltd.",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0438_KEE0438B1": {
+    "routeUID": "KEE0438",
+    "subRouteUID": "KEE0438B1",
+    "name_zh": "403B",
+    "name_en": "403B",
+    "headsign_zh": "東新街(福基煤礦)—經七堵郵局(福基煤礦)",
+    "headsign_en": "Dongxin St.(Fuji Mine) — Via Qidu Post Office(Fuji Mine)",
+    "direction": 0,
+    "departure_zh": "福基煤礦",
+    "departure_en": "Fuji Coal Mine",
+    "destination_zh": "福基煤礦",
+    "destination_en": "Fuji Coal Mine",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0438_KEE0438C1": {
+    "routeUID": "KEE0438",
+    "subRouteUID": "KEE0438C1",
+    "name_zh": "403C",
+    "name_en": "403C",
+    "headsign_zh": "東新街(福基煤礦)—經七堵郵局(海灣公司)",
+    "headsign_en": "Dongxin St.(Fuji Mine) —Qidu Post Office(Crownvan Co. LTD)",
+    "direction": 0,
+    "departure_zh": "福基煤礦",
+    "departure_en": "Fuji Coal Mine",
+    "destination_zh": "海灣公司",
+    "destination_en": "Crown Van Lines Co. Ltd.",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0438_KEE0438D1": {
+    "routeUID": "KEE0438",
+    "subRouteUID": "KEE0438D1",
+    "name_zh": "403D",
+    "name_en": "403D",
+    "headsign_zh": "東新街(海灣公司)—經光明路(海灣公司)",
+    "headsign_en": "Dongxin St.(Crownvan Co. LTD) — Via Guangming Rd.(Crownvan Co. LTD)",
+    "direction": 0,
+    "departure_zh": "海灣公司",
+    "departure_en": "Crown Van Lines Co.",
+    "destination_zh": "海灣公司",
+    "destination_en": "Crown Van Lines Co. Ltd.",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0438_KEE0438E1": {
+    "routeUID": "KEE0438",
+    "subRouteUID": "KEE0438E1",
+    "name_zh": "403E",
+    "name_en": "403E",
+    "headsign_zh": "東新街(海灣公司)—經光明路(福基煤礦)",
+    "headsign_en": "Dongxin St.(Crownvan Co. LTD) — Via Guangming Rd.(Fuji Mine)",
+    "direction": 0,
+    "departure_zh": "海灣公司",
+    "departure_en": "Crown Van Lines Co.",
+    "destination_zh": "福基煤礦",
+    "destination_en": "Fuji Coal Mine",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0438_KEE0438F1": {
+    "routeUID": "KEE0438",
+    "subRouteUID": "KEE0438F1",
+    "name_zh": "4037F",
+    "name_en": "4037F",
+    "headsign_zh": "東新街(海灣公司)—經七堵郵局(福基煤礦)",
+    "headsign_en": "Dongxin St.(Crownvan Co. LTD) — Via Qidu Post Office(Fuji Mine)",
+    "direction": 0,
+    "departure_zh": "海灣公司",
+    "departure_en": "Crown Van Lines Co.",
+    "destination_zh": "福基煤礦",
+    "destination_en": "Fuji Coal Mine",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0443_KEE044301": {
+    "routeUID": "KEE0443",
+    "subRouteUID": "KEE044301",
+    "name_zh": "406",
+    "name_en": "406",
+    "headsign_zh": "長安社區—經堵南里",
+    "headsign_en": "Zhang Community — Via Dunan Village",
+    "direction": 0,
+    "departure_zh": "長安社區",
+    "departure_en": "Changan Community",
+    "destination_zh": "長安社區",
+    "destination_en": "Changan Community",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0444_KEE044401": {
+    "routeUID": "KEE0444",
+    "subRouteUID": "KEE044401",
+    "name_zh": "407",
+    "name_en": "407",
+    "headsign_zh": "七堵—基隆車站(經長庚醫院)",
+    "headsign_en": "Qidu — Keelung Station(Changgung Memorial Hospital)",
+    "direction": 0,
+    "departure_zh": "七堵郵局",
+    "departure_en": "Keelung Qidu Post Office",
+    "destination_zh": "基隆火車站(南站)",
+    "destination_en": "Keelung Railway Station S.",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0445_KEE044501": {
+    "routeUID": "KEE0445",
+    "subRouteUID": "KEE044501",
+    "name_zh": "4081",
+    "name_en": "4081",
+    "headsign_zh": "基隆車站—長安社區(經長庚醫院)",
+    "headsign_en": "Keelung Station — Via Zhang Community(Changgung Memorial Hospital)",
+    "direction": 0,
+    "departure_zh": "基隆火車站(南站)",
+    "departure_en": "Keelung Railway Station S.",
+    "destination_zh": "長安社區",
+    "destination_en": "Changan Community",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0446_KEE044601": {
+    "routeUID": "KEE0446",
+    "subRouteUID": "KEE044601",
+    "name_zh": "409",
+    "name_en": "409",
+    "headsign_zh": "堵南里—長庚醫院(經七堵郵局)",
+    "headsign_en": "Dunan Village — Changgung Memorial Hospital(Qidu Post Office)",
+    "direction": 0,
+    "departure_zh": "堵南里",
+    "departure_en": "Dunan Village",
+    "destination_zh": "長庚醫院",
+    "destination_en": "Keelung City Zhanggeng Memorial Hospital",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0447_KEE044701": {
+    "routeUID": "KEE0447",
+    "subRouteUID": "KEE044701",
+    "name_zh": "4101",
+    "name_en": "4101",
+    "headsign_zh": "七堵郵局—壯觀台北(經長庚醫院)",
+    "headsign_en": "Via Qidu Post Office — Via Zhuangguantaipei Community",
+    "direction": 0,
+    "departure_zh": "七堵郵局",
+    "departure_en": "Keelung Qidu Post Office",
+    "destination_zh": "七堵郵局",
+    "destination_en": "Keelung Qidu Post Office",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0448_KEE044801": {
+    "routeUID": "KEE0448",
+    "subRouteUID": "KEE044801",
+    "name_zh": "501",
+    "name_en": "501",
+    "headsign_zh": "國家新城—經長庚醫院(經麥金路)",
+    "headsign_en": "Guojiaxincheng — Via Changgung Memorial Hospital",
+    "direction": 0,
+    "departure_zh": "樂利三街32巷",
+    "departure_en": "Ln. 32 Leli 3rd St.",
+    "destination_zh": "樂利三街32巷",
+    "destination_en": "Ln. 32 Leli 3rd St.",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0448_KEE0448A1": {
+    "routeUID": "KEE0448",
+    "subRouteUID": "KEE0448A1",
+    "name_zh": "501A",
+    "name_en": "501A",
+    "headsign_zh": "國家新城—經長庚醫院(經麥金路)",
+    "headsign_en": "Guojiaxincheng — Via Changgung Memorial Hospital",
+    "direction": 0,
+    "departure_zh": "基隆轉運站",
+    "departure_en": "Keelung Transit Station",
+    "destination_zh": "樂利三街32巷",
+    "destination_en": "Ln. 32 Leli 3rd St.",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0449_KEE044901": {
+    "routeUID": "KEE0449",
+    "subRouteUID": "KEE044901",
+    "name_zh": "502",
+    "name_en": "502",
+    "headsign_zh": "建德國中—經成功市場(經安樂路)",
+    "headsign_en": "Jiande Junior High School — Via Chengong Market",
+    "direction": 0,
+    "departure_zh": "建德國小",
+    "departure_en": "Jiande Elementary School",
+    "destination_zh": "建德國小",
+    "destination_en": "Jiande Elementary School",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0456_KEE045601": {
+    "routeUID": "KEE0456",
+    "subRouteUID": "KEE045601",
+    "name_zh": "408",
+    "name_en": "408",
+    "headsign_zh": "長安社區—基隆車站(經長庚醫院)",
+    "headsign_en": "Zhang Community — Keelung Station(Changgung Memorial Hospital)",
+    "direction": 0,
+    "departure_zh": "長安社區",
+    "departure_en": "Changan Community",
+    "destination_zh": "基隆火車站(南站)",
+    "destination_en": "Keelung Railway Station S.",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0467_KEE046701": {
+    "routeUID": "KEE0467",
+    "subRouteUID": "KEE046701",
+    "name_zh": "5106",
+    "name_en": "5106",
+    "headsign_zh": "七堵—大武崙(經壯觀台北)",
+    "headsign_en": "Qidu — Tapurun(Zhuangguantaipei Community)",
+    "direction": 0,
+    "departure_zh": "七堵火車站",
+    "departure_en": "Qidu Railway Station",
+    "destination_zh": "武隆街105巷",
+    "destination_en": "Ln. 105 Wulong St.",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0468_KEE046801": {
+    "routeUID": "KEE0468",
+    "subRouteUID": "KEE046801",
+    "name_zh": "R66",
+    "name_en": "R66",
+    "headsign_zh": "海科館→七堵車站",
+    "headsign_en": "R66",
+    "direction": 0,
+    "departure_zh": "八斗子車站",
+    "departure_en": "Badouzi Railway Station",
+    "destination_zh": "七堵火車站",
+    "destination_en": "Qidu Railway Station",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0468_KEE046802": {
+    "routeUID": "KEE0468",
+    "subRouteUID": "KEE046802",
+    "name_zh": "R66",
+    "name_en": "R66",
+    "headsign_zh": "七堵車站→海科館",
+    "headsign_en": "R66",
+    "direction": 1,
+    "departure_zh": "七堵火車站",
+    "departure_en": "Qidu Railway Station",
+    "destination_zh": "八斗子車站",
+    "destination_en": "Badouzi Railway Station",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0469_KEE046901": {
+    "routeUID": "KEE0469",
+    "subRouteUID": "KEE046901",
+    "name_zh": "R86",
+    "name_en": "R86",
+    "headsign_zh": "幸福華城→七堵車站(幸福華城發車)",
+    "headsign_en": "R86",
+    "direction": 0,
+    "departure_zh": "幸福華城",
+    "departure_en": "Xingfuhuacheng Community",
+    "destination_zh": "七堵火車站",
+    "destination_en": "Qidu Railway Station",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0469_KEE046902": {
+    "routeUID": "KEE0469",
+    "subRouteUID": "KEE046902",
+    "name_zh": "R86",
+    "name_en": "R86",
+    "headsign_zh": "七堵車站→幸福華城(幸福華城發車)",
+    "headsign_en": "R86",
+    "direction": 1,
+    "departure_zh": "七堵火車站",
+    "departure_en": "Qidu Railway Station",
+    "destination_zh": "幸福華城",
+    "destination_en": "Xingfuhuacheng Community",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0469_KEE0469A1": {
+    "routeUID": "KEE0469",
+    "subRouteUID": "KEE0469A1",
+    "name_zh": "R86A",
+    "name_en": "R86A",
+    "headsign_zh": "幸福華城→七堵車站(台北大鎮發車)",
+    "headsign_en": "R86",
+    "direction": 0,
+    "departure_zh": "台北大鎮",
+    "departure_en": "Taibeidazhen",
+    "destination_zh": "七堵火車站",
+    "destination_en": "Qidu Railway Station",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0469_KEE0469A2": {
+    "routeUID": "KEE0469",
+    "subRouteUID": "KEE0469A2",
+    "name_zh": "R86A",
+    "name_en": "R86A",
+    "headsign_zh": "七堵車站→幸福華城(台北大鎮發車)",
+    "headsign_en": "R86",
+    "direction": 1,
+    "departure_zh": "七堵火車站",
+    "departure_en": "Qidu Railway Station",
+    "destination_zh": "台北大鎮",
+    "destination_en": "Taibeidazhen",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0470_KEE047001": {
+    "routeUID": "KEE0470",
+    "subRouteUID": "KEE047001",
+    "name_zh": "R82",
+    "name_en": "R82",
+    "headsign_zh": "國家新城→七堵車站",
+    "headsign_en": "R82",
+    "direction": 0,
+    "departure_zh": "國家新城",
+    "departure_en": "Guojiaxincheng",
+    "destination_zh": "七堵火車站",
+    "destination_en": "Qidu Railway Station",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0470_KEE047002": {
+    "routeUID": "KEE0470",
+    "subRouteUID": "KEE047002",
+    "name_zh": "R82",
+    "name_en": "R82",
+    "headsign_zh": "七堵車站→國家新城",
+    "headsign_en": "R82",
+    "direction": 1,
+    "departure_zh": "七堵火車站",
+    "departure_en": "Qidu Railway Station",
+    "destination_zh": "國家新城",
+    "destination_en": "Guojiaxincheng",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0470_KEE0470A1": {
+    "routeUID": "KEE0470",
+    "subRouteUID": "KEE0470A1",
+    "name_zh": "R82A",
+    "name_en": "R82A",
+    "headsign_zh": "國家新城→百福車站",
+    "headsign_en": "Guojiaxincheng → Baifu Railway Station",
+    "direction": 0,
+    "departure_zh": "國家新城",
+    "departure_en": "Guojiaxincheng",
+    "destination_zh": "百福火車站",
+    "destination_en": "Baifu Railway Station",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0470_KEE0470A2": {
+    "routeUID": "KEE0470",
+    "subRouteUID": "KEE0470A2",
+    "name_zh": "R82A",
+    "name_en": "R82A",
+    "headsign_zh": "百福車站→國家新城",
+    "headsign_en": "Baifu Railway Station–Guojiaxincheng",
+    "direction": 1,
+    "departure_zh": "百福火車站",
+    "departure_en": "Baifu Railway Station",
+    "destination_zh": "國家新城",
+    "destination_en": "Guojiaxincheng",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0470_KEE0470B1": {
+    "routeUID": "KEE0470",
+    "subRouteUID": "KEE0470B1",
+    "name_zh": "R82B",
+    "name_en": "R82B",
+    "headsign_zh": "國家新城→七堵車站",
+    "headsign_en": "Guojiaxincheng → Qidu Railway Station",
+    "direction": 0,
+    "departure_zh": "國家新城",
+    "departure_en": "Guojiaxincheng",
+    "destination_zh": "七堵火車站",
+    "destination_en": "Qidu Railway Station",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0470_KEE0470B2": {
+    "routeUID": "KEE0470",
+    "subRouteUID": "KEE0470B2",
+    "name_zh": "R82B",
+    "name_en": "R82B",
+    "headsign_zh": "七堵車站→國家新城(經建德逆行)",
+    "headsign_en": "Qidu Railway Station→Guojiaxincheng(via Jiande Retrograde)",
+    "direction": 1,
+    "departure_zh": "七堵火車站",
+    "departure_en": "Qidu Railway Station",
+    "destination_zh": "國家新城",
+    "destination_en": "Guojiaxincheng",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0470_KEE0470C1": {
+    "routeUID": "KEE0470",
+    "subRouteUID": "KEE0470C1",
+    "name_zh": "R82C",
+    "name_en": "R82C",
+    "headsign_zh": "國家新城→七堵車站(經建德逆行",
+    "headsign_en": "Guojiaxincheng→Qidu Railway Station(via Jiande Retrograde)",
+    "direction": 0,
+    "departure_zh": "國家新城",
+    "departure_en": "Guojiaxincheng",
+    "destination_zh": "七堵火車站",
+    "destination_en": "Qidu Railway Station",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0470_KEE0470C2": {
+    "routeUID": "KEE0470",
+    "subRouteUID": "KEE0470C2",
+    "name_zh": "0470C",
+    "name_en": "0470C",
+    "headsign_zh": "七堵車站→國家新城",
+    "headsign_en": "Qidu Railway Station→Guojiaxincheng",
+    "direction": 1,
+    "departure_zh": "七堵火車站",
+    "departure_en": "Qidu Railway Station",
+    "destination_zh": "國家新城",
+    "destination_en": "Guojiaxincheng",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0470_KEE0470D1": {
+    "routeUID": "KEE0470",
+    "subRouteUID": "KEE0470D1",
+    "name_zh": "R82D",
+    "name_en": "R82D",
+    "headsign_zh": "國家新城→七堵車站(經建德逆行)",
+    "headsign_en": "Guojiaxincheng→Qidu Railway Station(via Jiande Retrograde))",
+    "direction": 0,
+    "departure_zh": "國家新城",
+    "departure_en": "Guojiaxincheng",
+    "destination_zh": "七堵火車站",
+    "destination_en": "Qidu Railway Station",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0470_KEE0470D2": {
+    "routeUID": "KEE0470",
+    "subRouteUID": "KEE0470D2",
+    "name_zh": "R82D",
+    "name_en": "R82D",
+    "headsign_zh": "七堵車站→國家新城(經建德逆行)",
+    "headsign_en": "Qidu Railway Station→(Guojiaxincheng(via Jiande Retrograde))",
+    "direction": 1,
+    "departure_zh": "七堵火車站",
+    "departure_en": "Qidu Railway Station",
+    "destination_zh": "國家新城",
+    "destination_en": "Guojiaxincheng",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0470_KEE0470E1": {
+    "routeUID": "KEE0470",
+    "subRouteUID": "KEE0470E1",
+    "name_zh": "R82E",
+    "name_en": "R82E",
+    "headsign_zh": "國家新城→百福車站",
+    "headsign_en": "Guojiaxincheng → Baifu Railway Station",
+    "direction": 0,
+    "departure_zh": "國家新城",
+    "departure_en": "Guojiaxincheng",
+    "destination_zh": "百福火車站",
+    "destination_en": "Baifu Railway Station",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0470_KEE0470E2": {
+    "routeUID": "KEE0470",
+    "subRouteUID": "KEE0470E2",
+    "name_zh": "0470E",
+    "name_en": "0470E",
+    "headsign_zh": "百福車站→國家新城(經建德逆行)",
+    "headsign_en": "Baifu Railway Station–Guojiaxincheng(via Jiande Retrograde)",
+    "direction": 1,
+    "departure_zh": "百福火車站",
+    "departure_en": "Baifu Railway Station",
+    "destination_zh": "國家新城",
+    "destination_en": "Guojiaxincheng",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0472_KEE047201": {
+    "routeUID": "KEE0472",
+    "subRouteUID": "KEE047201",
+    "name_zh": "T99",
+    "name_en": "T99",
+    "headsign_zh": "T99 濱海奇基",
+    "headsign_en": "Binhai Wonderful Keelung",
+    "direction": 0,
+    "departure_zh": "基隆轉運站",
+    "departure_en": "Keelung Transit Station",
+    "destination_zh": "八斗子車站",
+    "destination_en": "Badouzi Railway Station",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0472_KEE047202": {
+    "routeUID": "KEE0472",
+    "subRouteUID": "KEE047202",
+    "name_zh": "T99",
+    "name_en": "T99",
+    "headsign_zh": "T99 濱海奇基",
+    "headsign_en": "Binhai Wonderful Keelung",
+    "direction": 1,
+    "departure_zh": "八斗子車站",
+    "departure_en": "Badouzi Railway Station",
+    "destination_zh": "基隆轉運站",
+    "destination_en": "Keelung Transit Station",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0473_KEE047301": {
+    "routeUID": "KEE0473",
+    "subRouteUID": "KEE047301",
+    "name_zh": "6011",
+    "name_en": "6011",
+    "headsign_zh": "四腳亭—經源遠路",
+    "headsign_en": "Sijiaoting — Via Yuanyuan Rd.",
+    "direction": 0,
+    "departure_zh": "四腳亭分站",
+    "departure_en": "Sijiaoting Substation",
+    "destination_zh": "四腳亭",
+    "destination_en": "Sijiaoting",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0474_KEE047401": {
+    "routeUID": "KEE0474",
+    "subRouteUID": "KEE047401",
+    "name_zh": "6021",
+    "name_en": "6021",
+    "headsign_zh": "暖暖—經過港路",
+    "headsign_en": "Nuannuan — Via Guogang Rd.",
+    "direction": 0,
+    "departure_zh": "暖暖分站(調度站)",
+    "departure_en": "Nuannuan Substation",
+    "destination_zh": "威德廟",
+    "destination_en": "Weide Temple",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0475_KEE047501": {
+    "routeUID": "KEE0475",
+    "subRouteUID": "KEE047501",
+    "name_zh": "6031",
+    "name_en": "6031",
+    "headsign_zh": "東勢坑—經東勢街(經暖暖國小)",
+    "headsign_en": "Dongshi Tunnel — Via Dongshi St.(Nuannuan Elementary School).",
+    "direction": 0,
+    "departure_zh": "東安宮",
+    "departure_en": "Dongan Temple",
+    "destination_zh": "東安宮",
+    "destination_en": "Dongan Temple",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0476_KEE047601": {
+    "routeUID": "KEE0476",
+    "subRouteUID": "KEE047601",
+    "name_zh": "6032",
+    "name_en": "6032",
+    "headsign_zh": "基隆車站—東勢坑",
+    "headsign_en": "Keelung Railway Station—Dongshi Tunnel",
+    "direction": 0,
+    "departure_zh": "基隆火車站(南站)",
+    "departure_en": "Keelung Railway Station S.",
+    "destination_zh": "東安宮",
+    "destination_en": "Dongan Temple",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0477_KEE047701": {
+    "routeUID": "KEE0477",
+    "subRouteUID": "KEE047701",
+    "name_zh": "605",
+    "name_en": "605",
+    "headsign_zh": "龍門谷—經東碇路(經水源路)",
+    "headsign_en": "Longmen Valley — Via Dongding Rd.(Shuiyuan Rd.)",
+    "direction": 0,
+    "departure_zh": "幸福華城",
+    "departure_en": "Xingfuhuacheng Community",
+    "destination_zh": "幸福華城",
+    "destination_en": "Xingfuhuacheng Community",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0478_KEE047801": {
+    "routeUID": "KEE0478",
+    "subRouteUID": "KEE047801",
+    "name_zh": "6052",
+    "name_en": "6052",
+    "headsign_zh": "龍門谷—經東碇路(去長庚醫院)",
+    "headsign_en": "Longmen Valley — Via Dongding Rd.(Changgung Memorial Hospital)",
+    "direction": 0,
+    "departure_zh": "幸福華城",
+    "departure_en": "Xingfuhuacheng Community",
+    "destination_zh": "幸福華城",
+    "destination_en": "Xingfuhuacheng Community",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0479_KEE047901": {
+    "routeUID": "KEE0479",
+    "subRouteUID": "KEE047901",
+    "name_zh": "6053",
+    "name_en": "6053",
+    "headsign_zh": "龍門谷—經東碇路(回程經長庚醫院)",
+    "headsign_en": "Longmen Valley — Via Dongding Rd.(Changgung Memorial Hospital)",
+    "direction": 0,
+    "departure_zh": "幸福華城",
+    "departure_en": "Xingfuhuacheng Community",
+    "destination_zh": "幸福華城",
+    "destination_en": "Xingfuhuacheng Community",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0480_KEE048001": {
+    "routeUID": "KEE0480",
+    "subRouteUID": "KEE048001",
+    "name_zh": "605",
+    "name_en": "605",
+    "headsign_zh": "基隆車站—龍門谷",
+    "headsign_en": "Keelung Station — Longmen Valley",
+    "direction": 0,
+    "departure_zh": "基隆火車站(南站)",
+    "departure_en": "Keelung Railway Station S.",
+    "destination_zh": "幸福華城",
+    "destination_en": "Xingfuhuacheng Community",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0481_KEE048101": {
+    "routeUID": "KEE0481",
+    "subRouteUID": "KEE048101",
+    "name_zh": "605",
+    "name_en": "605",
+    "headsign_zh": "幸福華城→基隆火車站",
+    "headsign_en": "Longmen Valley — Keelung Station",
+    "direction": 0,
+    "departure_zh": "幸福華城",
+    "departure_en": "Xingfuhuacheng Community",
+    "destination_zh": "基隆火車站(南站)",
+    "destination_en": "Keelung Railway Station S.",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0482_KEE048201": {
+    "routeUID": "KEE0482",
+    "subRouteUID": "KEE048201",
+    "name_zh": "606",
+    "name_en": "606",
+    "headsign_zh": "碇內—七堵(經八堵車站)",
+    "headsign_en": "Dingnei — Qidu(National Keelung Commercial & Industrial Vocational Senior High School)",
+    "direction": 0,
+    "departure_zh": "四腳亭",
+    "departure_en": "Sijiaoting",
+    "destination_zh": "四腳亭",
+    "destination_en": "Sijiaoting",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0482_KEE0482A1": {
+    "routeUID": "KEE0482",
+    "subRouteUID": "KEE0482A1",
+    "name_zh": "6062A",
+    "name_en": "6062A",
+    "headsign_zh": "碇內—七堵(經過港路)",
+    "headsign_en": "Dingnei — Qidu(Via Guogang Rd.)",
+    "direction": 0,
+    "departure_zh": "四腳亭",
+    "departure_en": "Sijiaoting",
+    "destination_zh": "七堵分站",
+    "destination_en": "Qidu Substation",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0482_KEE0482B1": {
+    "routeUID": "KEE0482",
+    "subRouteUID": "KEE0482B1",
+    "name_zh": "606B",
+    "name_en": "606B",
+    "headsign_zh": "碇內—七堵(經工建路)",
+    "headsign_en": "Dingnei — Qidu(Gongjian Rd.)",
+    "direction": 0,
+    "departure_zh": "四腳亭",
+    "departure_en": "Sijiaoting",
+    "destination_zh": "四腳亭",
+    "destination_en": "Sijiaoting",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0482_KEE0482C1": {
+    "routeUID": "KEE0482",
+    "subRouteUID": "KEE0482C1",
+    "name_zh": "606C",
+    "name_en": "606C",
+    "headsign_zh": "碇內—七堵(經八堵車站)",
+    "headsign_en": "Dingnei — Qidu(National Keelung Commercial & Industrial Vocational Senior High School)",
+    "direction": 0,
+    "departure_zh": "四腳亭",
+    "departure_en": "Sijiaoting",
+    "destination_zh": "基隆商工",
+    "destination_en": "Keelung Commercial &amp; Industrial Vocational Sen",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0482_KEE0482C2": {
+    "routeUID": "KEE0482",
+    "subRouteUID": "KEE0482C2",
+    "name_zh": "606C",
+    "name_en": "606C",
+    "headsign_zh": "七堵—碇內(經八堵車站)",
+    "headsign_en": "Qidu— Dingnei (National Keelung Commercial & Industrial Vocational Senior High School)",
+    "direction": 1,
+    "departure_zh": "基隆商工",
+    "departure_en": "Keelung Commercial &amp; Industrial Vocational Sen",
+    "destination_zh": "四腳亭",
+    "destination_en": "Sijiaoting",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0487_KEE048701": {
+    "routeUID": "KEE0487",
+    "subRouteUID": "KEE048701",
+    "name_zh": "6082",
+    "name_en": "6082",
+    "headsign_zh": "南新街—基隆車站",
+    "headsign_en": "Nanxin St. — Keelung Station",
+    "direction": 0,
+    "departure_zh": "南新街",
+    "departure_en": "Nanxin St.",
+    "destination_zh": "基隆火車站(南站)",
+    "destination_en": "Keelung Railway Station S.",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0489_KEE048901": {
+    "routeUID": "KEE0489",
+    "subRouteUID": "KEE048901",
+    "name_zh": "606",
+    "name_en": "606",
+    "headsign_zh": "七堵—碇內(經過港路)",
+    "headsign_en": "Qidu – Dingnei(Via Guogang Rd.)",
+    "direction": 0,
+    "departure_zh": "南七堵",
+    "departure_en": "Nanqidu",
+    "destination_zh": "四腳亭",
+    "destination_en": "Sijiaoting",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0490_KEE049001": {
+    "routeUID": "KEE0490",
+    "subRouteUID": "KEE049001",
+    "name_zh": "R90",
+    "name_en": "R90",
+    "headsign_zh": "國家新城→八堵車站",
+    "headsign_en": "R90",
+    "direction": 0,
+    "departure_zh": "國家新城",
+    "departure_en": "Guojiaxincheng",
+    "destination_zh": "八堵火車站",
+    "destination_en": "Badu Railway Station",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0490_KEE0490A1": {
+    "routeUID": "KEE0490",
+    "subRouteUID": "KEE0490A1",
+    "name_zh": "R90A",
+    "name_en": "R90A",
+    "headsign_zh": "國家新城→七堵車站",
+    "headsign_en": "R90",
+    "direction": 0,
+    "departure_zh": "國家新城",
+    "departure_en": "Guojiaxincheng",
+    "destination_zh": "七堵火車站",
+    "destination_en": "Qidu Railway Station",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0490_KEE0490B1": {
+    "routeUID": "KEE0490",
+    "subRouteUID": "KEE0490B1",
+    "name_zh": "R90B",
+    "name_en": "R90B",
+    "headsign_zh": "國家新城→基隆高中",
+    "headsign_en": "R90Anle→Badu Line",
+    "direction": 0,
+    "departure_zh": "國家新城",
+    "departure_en": "Guojiaxincheng",
+    "destination_zh": "基隆高中",
+    "destination_en": "National Keelung Senior High School",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0521_KEE052101": {
+    "routeUID": "KEE0521",
+    "subRouteUID": "KEE052101",
+    "name_zh": "304",
+    "name_en": "304",
+    "headsign_zh": "高遠新村→經仙洞國小→基隆車站",
+    "headsign_en": "Gaoyuanxincun Community→Via Xiandong Elementary School→TRA Keelung Station",
+    "direction": 0,
+    "departure_zh": "聖安宮",
+    "departure_en": "Shenan Temple",
+    "destination_zh": "基隆火車站(南站)",
+    "destination_en": "Keelung Railway Station S.",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0521_KEE0521A1": {
+    "routeUID": "KEE0521",
+    "subRouteUID": "KEE0521A1",
+    "name_zh": "304A",
+    "name_en": "304A",
+    "headsign_zh": "高遠新村→經中山一路",
+    "headsign_en": "Gaoyuanxincun Community→Via Zhongshan 1st Rd.",
+    "direction": 0,
+    "departure_zh": "聖安宮",
+    "departure_en": "Shenan Temple",
+    "destination_zh": "太白莊",
+    "destination_en": "Taibai Village",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0523_KEE052301": {
+    "routeUID": "KEE0523",
+    "subRouteUID": "KEE052301",
+    "name_zh": "305",
+    "name_en": "305",
+    "headsign_zh": "濱海大道→大武崙沙灘(經西定路)",
+    "headsign_en": "Binhai Blvd → Waimusan Harbor(Xiding Rd.)",
+    "direction": 0,
+    "departure_zh": "基隆火車站(南站)",
+    "departure_en": "Keelung Railway Station S.",
+    "destination_zh": "基隆火車站(南站)",
+    "destination_en": "Keelung Railway Station S.",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0523_KEE0523A1": {
+    "routeUID": "KEE0523",
+    "subRouteUID": "KEE0523A1",
+    "name_zh": "305A",
+    "name_en": "305A",
+    "headsign_zh": "濱海大道—大武崙沙灘",
+    "headsign_en": "Binhai Blvd — Waimusan Harbor",
+    "direction": 0,
+    "departure_zh": "基隆火車站(南站)",
+    "departure_en": "Keelung Railway Station S.",
+    "destination_zh": "大武崙沙灘停車場",
+    "destination_en": "Tapurun Sandbeach Parking Lot",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0525_KEE052501": {
+    "routeUID": "KEE0525",
+    "subRouteUID": "KEE052501",
+    "name_zh": "306",
+    "name_en": "306",
+    "headsign_zh": "基隆車站—中平街(經西定路)",
+    "headsign_en": "Keelung Station — hongping St.",
+    "direction": 0,
+    "departure_zh": "基隆火車站(南站)",
+    "departure_en": "Keelung Railway Station S.",
+    "destination_zh": "基隆火車站(南站)",
+    "destination_en": "Keelung Railway Station S.",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0526_KEE052601": {
+    "routeUID": "KEE0526",
+    "subRouteUID": "KEE052601",
+    "name_zh": "307",
+    "name_en": "307",
+    "headsign_zh": "基隆車站→中和國小(經西定路)",
+    "headsign_en": "Keelung Station→Zhonghe Elementary School(Via Xiding Rd.)",
+    "direction": 0,
+    "departure_zh": "基隆火車站(南站)",
+    "departure_en": "Keelung Railway Station S.",
+    "destination_zh": "基隆火車站(南站)",
+    "destination_en": "Keelung Railway Station S.",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0527_KEE052701": {
+    "routeUID": "KEE0527",
+    "subRouteUID": "KEE052701",
+    "name_zh": "308",
+    "name_en": "308",
+    "headsign_zh": "基隆車站—外木山漁港",
+    "headsign_en": "Keelung Station — Waimusan Harbor",
+    "direction": 0,
+    "departure_zh": "基隆火車站(南站)",
+    "departure_en": "Keelung Railway Station S.",
+    "destination_zh": "外木山漁港",
+    "destination_en": "Waimusan Harbor",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0527_KEE0527A1": {
+    "routeUID": "KEE0527",
+    "subRouteUID": "KEE0527A1",
+    "name_zh": "308A",
+    "name_en": "308A",
+    "headsign_zh": "外木山漁港—基隆車站(經德安路)",
+    "headsign_en": "Waimusan Harbor — Keelung Station",
+    "direction": 0,
+    "departure_zh": "外木山漁港",
+    "departure_en": "Waimusan Harbor",
+    "destination_zh": "基隆火車站(南站)",
+    "destination_en": "Keelung Railway Station S.",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0529_KEE052901": {
+    "routeUID": "KEE0529",
+    "subRouteUID": "KEE052901",
+    "name_zh": "3043",
+    "name_en": "3043",
+    "headsign_zh": "高遠新村—基隆車站",
+    "headsign_en": "Gaoyuanxincun Community — Keelung Station",
+    "direction": 0,
+    "departure_zh": "聖安宮",
+    "departure_en": "Shenan Temple",
+    "destination_zh": "基隆火車站(南站)",
+    "destination_en": "Keelung Railway Station S.",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0531_KEE053101": {
+    "routeUID": "KEE0531",
+    "subRouteUID": "KEE053101",
+    "name_zh": "3062",
+    "name_en": "3062",
+    "headsign_zh": "中平街—基隆車站(經西定路)",
+    "headsign_en": "hongping St. — Keelung Station",
+    "direction": 0,
+    "departure_zh": "中和路三巷",
+    "departure_en": "Ln. 3 Zhonghe Rd.",
+    "destination_zh": "基隆火車站(南站)",
+    "destination_en": "Keelung Railway Station S.",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0532_KEE053201": {
+    "routeUID": "KEE0532",
+    "subRouteUID": "KEE053201",
+    "name_zh": "3063",
+    "name_en": "3063",
+    "headsign_zh": "基隆車站—中平街(經西定路)—經成功市場",
+    "headsign_en": "Keelung Station — hongping St.— Via Chengong Market",
+    "direction": 0,
+    "departure_zh": "基隆火車站(南站)",
+    "departure_en": "Keelung Railway Station S.",
+    "destination_zh": "基隆火車站(南站)",
+    "destination_en": "Keelung Railway Station S.",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0929_KEE092901": {
+    "routeUID": "KEE0929",
+    "subRouteUID": "KEE092901",
+    "name_zh": "503",
+    "name_en": "503",
+    "headsign_zh": "鶯歌里—七堵(去經南榮路)",
+    "headsign_en": "Yingge Village — Qidu(Nanrong Rd.)",
+    "direction": 0,
+    "departure_zh": "七堵分站",
+    "departure_en": "Qidu Substation",
+    "destination_zh": "南七堵",
+    "destination_en": "Nanqidu",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0930_KEE093001": {
+    "routeUID": "KEE0930",
+    "subRouteUID": "KEE093001",
+    "name_zh": "503",
+    "name_en": "503",
+    "headsign_zh": "鶯歌里—七堵(去經麥金路)",
+    "headsign_en": "Yingge Village — Qidu(Maijin Rd.)",
+    "direction": 0,
+    "departure_zh": "七堵分站",
+    "departure_en": "Qidu Substation",
+    "destination_zh": "南七堵",
+    "destination_en": "Nanqidu",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0931_KEE093101": {
+    "routeUID": "KEE0931",
+    "subRouteUID": "KEE093101",
+    "name_zh": "503",
+    "name_en": "503",
+    "headsign_zh": "基隆車站—鶯歌里",
+    "headsign_en": "Keelung Station — Yingge Village",
+    "direction": 0,
+    "departure_zh": "基隆轉運站",
+    "departure_en": "Keelung Transit Station",
+    "destination_zh": "南七堵",
+    "destination_en": "Nanqidu",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0932_KEE093201": {
+    "routeUID": "KEE0932",
+    "subRouteUID": "KEE093201",
+    "name_zh": "505",
+    "name_en": "505",
+    "headsign_zh": "大武崙—經安一路",
+    "headsign_en": "Tapurun — Via An 1st Rd.",
+    "direction": 0,
+    "departure_zh": "武隆街105巷",
+    "departure_en": "Ln. 105 Wulong St.",
+    "destination_zh": "武隆街105巷",
+    "destination_en": "Ln. 105 Wulong St.",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0933_KEE093301": {
+    "routeUID": "KEE0933",
+    "subRouteUID": "KEE093301",
+    "name_zh": "505",
+    "name_en": "505",
+    "headsign_zh": "大武崙—經長庚醫院",
+    "headsign_en": "Tapurun — Via Changgung Memorial Hospital",
+    "direction": 0,
+    "departure_zh": "武隆街105巷",
+    "departure_en": "Ln. 105 Wulong St.",
+    "destination_zh": "武隆街105巷",
+    "destination_en": "Ln. 105 Wulong St.",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0934_KEE093401": {
+    "routeUID": "KEE0934",
+    "subRouteUID": "KEE093401",
+    "name_zh": "505",
+    "name_en": "505",
+    "headsign_zh": "大武崙—經安一路(去經台北大鎮)",
+    "headsign_en": "Tapurun — Via An 1st Rd.(Taipeidazhen Community)",
+    "direction": 0,
+    "departure_zh": "武隆街105巷",
+    "departure_en": "Ln. 105 Wulong St.",
+    "destination_zh": "武隆街105巷",
+    "destination_en": "Ln. 105 Wulong St.",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0935_KEE093501": {
+    "routeUID": "KEE0935",
+    "subRouteUID": "KEE093501",
+    "name_zh": "505",
+    "name_en": "505",
+    "headsign_zh": "大武崙—經長庚醫院(回經台北大鎮)",
+    "headsign_en": "Tapurun — Via Changgung Memorial Hospital(Taipeidazhen Community)",
+    "direction": 0,
+    "departure_zh": "武隆街105巷",
+    "departure_en": "Ln. 105 Wulong St.",
+    "destination_zh": "武隆街105巷",
+    "destination_en": "Ln. 105 Wulong St.",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0936_KEE093601": {
+    "routeUID": "KEE0936",
+    "subRouteUID": "KEE093601",
+    "name_zh": "505",
+    "name_en": "505",
+    "headsign_zh": "大武崙—經安一路(回經台北大鎮)",
+    "headsign_en": "Tapurun — Via An 1st Rd.(Taipeidazhen Community)",
+    "direction": 0,
+    "departure_zh": "武隆街105巷",
+    "departure_en": "Ln. 105 Wulong St.",
+    "destination_zh": "武隆街105巷",
+    "destination_en": "Ln. 105 Wulong St.",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0938_KEE093801": {
+    "routeUID": "KEE0938",
+    "subRouteUID": "KEE093801",
+    "name_zh": "5062",
+    "name_en": "5062",
+    "headsign_zh": "壯觀里—基隆轉運站",
+    "headsign_en": "Zhuangguan Village — Keelung Transit Station",
+    "direction": 0,
+    "departure_zh": "松竹梅社區",
+    "departure_en": "Songzhumei Community",
+    "destination_zh": "九如(維也納)社區",
+    "destination_en": "Jiuru (Vienna) Community",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0938_KEE0938A1": {
+    "routeUID": "KEE0938",
+    "subRouteUID": "KEE0938A1",
+    "name_zh": "5062A",
+    "name_en": "5062A",
+    "headsign_zh": "壯觀里—基隆轉運站(經成功一路)",
+    "headsign_en": "Zhuangguan Village — Keelung Transit Station( Section 1,  Chenggong Road)",
+    "direction": 0,
+    "departure_zh": "松竹梅社區",
+    "departure_en": "Songzhumei Community",
+    "destination_zh": "九如(維也納)社區",
+    "destination_en": "Jiuru (Vienna) Community",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0939_KEE093901": {
+    "routeUID": "KEE0939",
+    "subRouteUID": "KEE093901",
+    "name_zh": "5081",
+    "name_en": "5081",
+    "headsign_zh": "澳底漁港—基隆車站",
+    "headsign_en": "Aodi Harbor — Keelung Station",
+    "direction": 0,
+    "departure_zh": "大武崙沙灘停車場",
+    "departure_en": "Tapurun Sandbeach Parking Lot",
+    "destination_zh": "基隆轉運站",
+    "destination_en": "Keelung Transit Station",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0939_KEE0939A1": {
+    "routeUID": "KEE0939",
+    "subRouteUID": "KEE0939A1",
+    "name_zh": "5082A",
+    "name_en": "5082A",
+    "headsign_zh": "澳底漁港—經安一路",
+    "headsign_en": "Aodi Harbor — Via An 1st Rd.",
+    "direction": 0,
+    "departure_zh": "基隆轉運站",
+    "departure_en": "Keelung Transit Station",
+    "destination_zh": "大武崙沙灘停車場",
+    "destination_en": "Tapurun Sandbeach Parking Lot",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0941_KEE094101": {
+    "routeUID": "KEE0941",
+    "subRouteUID": "KEE094101",
+    "name_zh": "509",
+    "name_en": "509",
+    "headsign_zh": "情人湖—經安一路",
+    "headsign_en": "Valentine Lake — Via An 1st Rd.",
+    "direction": 0,
+    "departure_zh": "基隆轉運站",
+    "departure_en": "Keelung Transit Station",
+    "destination_zh": "基隆轉運站",
+    "destination_en": "Keelung Transit Station",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0941_KEE0941A1": {
+    "routeUID": "KEE0941",
+    "subRouteUID": "KEE0941A1",
+    "name_zh": "509A",
+    "name_en": "509A",
+    "headsign_zh": "情人湖—經安一路(經東都社區)",
+    "headsign_en": "Valentine Lake — Via An 1st Rd.(Dondu Community)",
+    "direction": 0,
+    "departure_zh": "基隆轉運站",
+    "departure_en": "Keelung Transit Station",
+    "destination_zh": "基隆轉運站",
+    "destination_en": "Keelung Transit Station",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0941_KEE0941B1": {
+    "routeUID": "KEE0941",
+    "subRouteUID": "KEE0941B1",
+    "name_zh": "5093B",
+    "name_en": "5093B",
+    "headsign_zh": "情人湖—經麥金路",
+    "headsign_en": "Valentine Lake — Via Maijin Rd.",
+    "direction": 0,
+    "departure_zh": "基隆轉運站",
+    "departure_en": "Keelung Transit Station",
+    "destination_zh": "基隆轉運站",
+    "destination_en": "Keelung Transit Station",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0944_KEE094401": {
+    "routeUID": "KEE0944",
+    "subRouteUID": "KEE094401",
+    "name_zh": "510",
+    "name_en": "510",
+    "headsign_zh": "大武崙—七堵(經麥金路)",
+    "headsign_en": "Tapurun — Qidu(Maijin Rd.)",
+    "direction": 0,
+    "departure_zh": "武隆街105巷",
+    "departure_en": "Ln. 105 Wulong St.",
+    "destination_zh": "七堵火車站",
+    "destination_en": "Qidu Railway Station",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0944_KEE0944A1": {
+    "routeUID": "KEE0944",
+    "subRouteUID": "KEE0944A1",
+    "name_zh": "510A",
+    "name_en": "510A",
+    "headsign_zh": "七堵—大武崙",
+    "headsign_en": "Qidu — Tapurun",
+    "direction": 0,
+    "departure_zh": "七堵火車站",
+    "departure_en": "Qidu Railway Station",
+    "destination_zh": "武隆街105巷",
+    "destination_en": "Ln. 105 Wulong St.",
+    "operatorIds": [
+      "109"
+    ]
+  },
+  "KEE0944_KEE0944B1": {
+    "routeUID": "KEE0944",
+    "subRouteUID": "KEE0944B1",
+    "name_zh": "5105B",
+    "name_en": "5105B",
+    "headsign_zh": "大武崙—七堵(經壯觀台北)",
+    "headsign_en": "Tapurun — Qidu(Zhuangguantaipei Community)",
+    "direction": 0,
+    "departure_zh": "武隆街105巷",
+    "departure_en": "Ln. 105 Wulong St.",
+    "destination_zh": "七堵火車站",
+    "destination_en": "Qidu Railway Station",
+    "operatorIds": [
+      "109"
+    ]
+  }
+}

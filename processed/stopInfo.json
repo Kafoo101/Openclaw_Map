@@ -1,0 +1,5822 @@
+{
+  "KEE284410": {
+    "name_zh": "自強隧道口",
+    "name_en": "Ziqiang Tunnel",
+    "lat": 25.127558,
+    "lng": 121.73265
+  },
+  "KEE306173": {
+    "name_zh": "深美國小(消防分隊)",
+    "name_en": "Shen-Mei Elementary School ( Fire Units)",
+    "lat": 25.136411,
+    "lng": 121.778546
+  },
+  "KEE306179": {
+    "name_zh": "深美街",
+    "name_en": "Shenmei St.",
+    "lat": 25.135676,
+    "lng": 121.779916
+  },
+  "KEE306191": {
+    "name_zh": "深溪路口",
+    "name_en": "Shenxi Rd. Intersection",
+    "lat": 25.134931,
+    "lng": 121.782438
+  },
+  "KEE306193": {
+    "name_zh": "第一特獎社區",
+    "name_en": "Diyitejiang Community",
+    "lat": 25.133053,
+    "lng": 121.782411
+  },
+  "KEE306194": {
+    "name_zh": "第一特獎社區",
+    "name_en": "Diyitejiang Community",
+    "lat": 25.132913,
+    "lng": 121.782348
+  },
+  "KEE306195": {
+    "name_zh": "深美國小(消防分隊)",
+    "name_en": "Shen-Mei Elementary School ( Fire Units)",
+    "lat": 25.136638,
+    "lng": 121.778675
+  },
+  "KEE306196": {
+    "name_zh": "深美街",
+    "name_en": "Shenmei St.",
+    "lat": 25.1355,
+    "lng": 121.780183
+  },
+  "KEE306197": {
+    "name_zh": "深溪路口",
+    "name_en": "Shenxi Rd. Intersection",
+    "lat": 25.135071,
+    "lng": 121.78222
+  },
+  "KEE306198": {
+    "name_zh": "又一村",
+    "name_en": "Youyi Village",
+    "lat": 25.13436,
+    "lng": 121.78273
+  },
+  "KEE306199": {
+    "name_zh": "麗景江山社區",
+    "name_en": "Lijingjiangshan Community",
+    "lat": 25.131799,
+    "lng": 121.78202
+  },
+  "KEE306200": {
+    "name_zh": "麗景江山社區",
+    "name_en": "Lijingjiangshan Community",
+    "lat": 25.13149,
+    "lng": 121.78186
+  },
+  "KEE306201": {
+    "name_zh": "孝忠里民活動中心",
+    "name_en": "Xiaozhong Village Activity Center",
+    "lat": 25.130337,
+    "lng": 121.780927
+  },
+  "KEE306202": {
+    "name_zh": "孝東路",
+    "name_en": "Xiaodong Rd.",
+    "lat": 25.128476,
+    "lng": 121.77948
+  },
+  "KEE306203": {
+    "name_zh": "孝東路",
+    "name_en": "Xiaodong Rd.",
+    "lat": 25.12906,
+    "lng": 121.78085
+  },
+  "KEE306204": {
+    "name_zh": "住安城堡社區",
+    "name_en": "Zhuan Castle Community",
+    "lat": 25.128353,
+    "lng": 121.776126
+  },
+  "KEE306205": {
+    "name_zh": "住安城堡社區",
+    "name_en": "Zhuan Castle Community",
+    "lat": 25.127966,
+    "lng": 121.777083
+  },
+  "KEE306206": {
+    "name_zh": "培德工家",
+    "name_en": "Peide Industrial and Commercial High School",
+    "lat": 25.128743,
+    "lng": 121.773311
+  },
+  "KEE306207": {
+    "name_zh": "培德工家",
+    "name_en": "Peide Industrial and Commercial High School",
+    "lat": 25.128978,
+    "lng": 121.772838
+  },
+  "KEE306208": {
+    "name_zh": "太陽宮廟",
+    "name_en": "The Sun Palace Temple",
+    "lat": 25.127933,
+    "lng": 121.774733
+  },
+  "KEE306209": {
+    "name_zh": "信義國中",
+    "name_en": "Sinyi Junior High School",
+    "lat": 25.127936,
+    "lng": 121.768063
+  },
+  "KEE306210": {
+    "name_zh": "信義國中",
+    "name_en": "Sinyi Junior High School",
+    "lat": 25.127838,
+    "lng": 121.76805
+  },
+  "KEE306211": {
+    "name_zh": "韋昌嶺",
+    "name_en": "Weichang Mountain",
+    "lat": 25.129366,
+    "lng": 121.77185
+  },
+  "KEE306212": {
+    "name_zh": "東光市場",
+    "name_en": "Dongguang Market",
+    "lat": 25.127454,
+    "lng": 121.766105
+  },
+  "KEE306213": {
+    "name_zh": "東光市場",
+    "name_en": "Dongguang Market",
+    "lat": 25.127508,
+    "lng": 121.765605
+  },
+  "KEE306214": {
+    "name_zh": "地方法院",
+    "name_en": "Taiwan Keelung District Court",
+    "lat": 25.128286,
+    "lng": 121.764244
+  },
+  "KEE306215": {
+    "name_zh": "地方法院",
+    "name_en": "Taiwan Keelung District Court",
+    "lat": 25.128088,
+    "lng": 121.76416
+  },
+  "KEE306216": {
+    "name_zh": "東明市場",
+    "name_en": "Dongming Market",
+    "lat": 25.128185,
+    "lng": 121.763053
+  },
+  "KEE306217": {
+    "name_zh": "東橋",
+    "name_en": "Dong Bridge",
+    "lat": 25.127648,
+    "lng": 121.762035
+  },
+  "KEE306218": {
+    "name_zh": "市立醫院",
+    "name_en": "Keelung City Municipal Hospital",
+    "lat": 25.128723,
+    "lng": 121.760955
+  },
+  "KEE306219": {
+    "name_zh": "光華巷口",
+    "name_en": "Guanghua Intersection",
+    "lat": 25.127781,
+    "lng": 121.760408
+  },
+  "KEE306220": {
+    "name_zh": "基隆女中",
+    "name_en": "National Keelung Girls` Senior High School",
+    "lat": 25.128583,
+    "lng": 121.758885
+  },
+  "KEE306221": {
+    "name_zh": "月眉路口",
+    "name_en": "Yuemei Rd. Intersection",
+    "lat": 25.12795,
+    "lng": 121.75755
+  },
+  "KEE306222": {
+    "name_zh": "義九路口",
+    "name_en": "Yi 9th Rd. Intersection",
+    "lat": 25.128506,
+    "lng": 121.755788
+  },
+  "KEE306223": {
+    "name_zh": "仁一路27號",
+    "name_en": "No.27 Ren 1st Rd.",
+    "lat": 25.127983,
+    "lng": 121.755883
+  },
+  "KEE306224": {
+    "name_zh": "義七路口",
+    "name_en": "Yi 7th Rd. Intersection",
+    "lat": 25.12851,
+    "lng": 121.75243
+  },
+  "KEE306225": {
+    "name_zh": "愛九路口",
+    "name_en": "Ai 9th Rd. Intersection",
+    "lat": 25.12785,
+    "lng": 121.753133
+  },
+  "KEE306226": {
+    "name_zh": "義六路口",
+    "name_en": "Yi 6th Rd. Intersection",
+    "lat": 25.128586,
+    "lng": 121.750706
+  },
+  "KEE306227": {
+    "name_zh": "劉銘傳路口",
+    "name_en": "Liumingchuan Rd.",
+    "lat": 25.128033,
+    "lng": 121.751383
+  },
+  "KEE306228": {
+    "name_zh": "義四路口",
+    "name_en": "Yi 4th Rd. Intersection",
+    "lat": 25.128961,
+    "lng": 121.747723
+  },
+  "KEE306229": {
+    "name_zh": "愛六路口",
+    "name_en": "Ai 6th Rd. Intersection",
+    "lat": 25.128675,
+    "lng": 121.747583
+  },
+  "KEE306230": {
+    "name_zh": "義二路口",
+    "name_en": "Yi 2nd Rd. Intersection",
+    "lat": 25.129801,
+    "lng": 121.746175
+  },
+  "KEE306231": {
+    "name_zh": "電力公司",
+    "name_en": "Taiwan Power Company of Keelung City",
+    "lat": 25.129606,
+    "lng": 121.74556
+  },
+  "KEE306232": {
+    "name_zh": "仁二路(二信循環站)",
+    "name_en": "Ren 2nd Rd. (Erxin Loop Station )",
+    "lat": 25.129771,
+    "lng": 121.743128
+  },
+  "KEE306233": {
+    "name_zh": "忠一路孝一路口",
+    "name_en": "Zhong 1st Rd. &amp; Xiao 1st Rd. Intersection",
+    "lat": 25.130586,
+    "lng": 121.741375
+  },
+  "KEE306235": {
+    "name_zh": "基隆女中",
+    "name_en": "National Keelung Girls` Senior High School",
+    "lat": 25.128483,
+    "lng": 121.7595
+  },
+  "KEE306236": {
+    "name_zh": "市立體育館",
+    "name_en": "Keelung City Gymnasium",
+    "lat": 25.129143,
+    "lng": 121.755621
+  },
+  "KEE306237": {
+    "name_zh": "崇右影藝科技大學",
+    "name_en": "Chungyu University of Film and Arts",
+    "lat": 25.129345,
+    "lng": 121.75333
+  },
+  "KEE306238": {
+    "name_zh": "信義區公所",
+    "name_en": "Sinyi District Office",
+    "lat": 25.129626,
+    "lng": 121.750885
+  },
+  "KEE306239": {
+    "name_zh": "衛生福利部基隆醫院",
+    "name_en": "Ministry of Health and Welfare - Keelung Hospital",
+    "lat": 25.130225,
+    "lng": 121.747775
+  },
+  "KEE306240": {
+    "name_zh": "基隆市政府",
+    "name_en": "Keelung City Government",
+    "lat": 25.131453,
+    "lng": 121.745104
+  },
+  "KEE306241": {
+    "name_zh": "仁五路(東和大樓)",
+    "name_en": "Ren 5th Rd.",
+    "lat": 25.127423,
+    "lng": 121.740671
+  },
+  "KEE306243": {
+    "name_zh": "光明路口",
+    "name_en": "Guangming Rd. Intersection",
+    "lat": 25.093033,
+    "lng": 121.710616
+  },
+  "KEE306244": {
+    "name_zh": "八斗子車站",
+    "name_en": "Badouzi Railway Station",
+    "lat": 25.136582,
+    "lng": 121.801954
+  },
+  "KEE306245": {
+    "name_zh": "望海巷",
+    "name_en": "Wanghaixiang",
+    "lat": 25.13717,
+    "lng": 121.80208
+  },
+  "KEE306246": {
+    "name_zh": "海科館(碧水巷)",
+    "name_en": "National Museum Of Marine Science &amp; Technology (Bishuixiang)",
+    "lat": 25.140192,
+    "lng": 121.79951
+  },
+  "KEE306247": {
+    "name_zh": "調和市場",
+    "name_en": "Diaohe Market",
+    "lat": 25.13898,
+    "lng": 121.79578
+  },
+  "KEE306248": {
+    "name_zh": "調和街",
+    "name_en": "Diaohe St.",
+    "lat": 25.137366,
+    "lng": 121.796325
+  },
+  "KEE306249": {
+    "name_zh": "陽明海運",
+    "name_en": "Yangming Marine Transport Corporation",
+    "lat": 25.094081,
+    "lng": 121.710578
+  },
+  "KEE306250": {
+    "name_zh": "山海觀社區",
+    "name_en": "Shanhaiguan Community",
+    "lat": 25.136028,
+    "lng": 121.795673
+  },
+  "KEE306251": {
+    "name_zh": "和豐街新豐街口",
+    "name_en": "Hefong St. &amp; Xinfong St. Intersection",
+    "lat": 25.137938,
+    "lng": 121.78972
+  },
+  "KEE306252": {
+    "name_zh": "碧海擎天社區",
+    "name_en": "Bihaiqingtian Community",
+    "lat": 25.13611,
+    "lng": 121.78775
+  },
+  "KEE306253": {
+    "name_zh": "巴賽隆納社區",
+    "name_en": "Baselongna Community",
+    "lat": 25.13556,
+    "lng": 121.78552
+  },
+  "KEE306254": {
+    "name_zh": "海中天社區",
+    "name_en": "Haizhongtian Community",
+    "lat": 25.135259,
+    "lng": 121.784439
+  },
+  "KEE306255": {
+    "name_zh": "南七堵",
+    "name_en": "Nanqidu",
+    "lat": 25.096816,
+    "lng": 121.711912
+  },
+  "KEE306256": {
+    "name_zh": "七堵郵局",
+    "name_en": "Keelung Qidu Post Office",
+    "lat": 25.09742,
+    "lng": 121.712966
+  },
+  "KEE306257": {
+    "name_zh": "七堵國小",
+    "name_en": "Qidu Elementary School",
+    "lat": 25.09812,
+    "lng": 121.71497
+  },
+  "KEE306258": {
+    "name_zh": "城隍廟",
+    "name_en": "Chenghuang Temple",
+    "lat": 25.131096,
+    "lng": 121.740415
+  },
+  "KEE306259": {
+    "name_zh": "三分局",
+    "name_en": "Third Police Substation",
+    "lat": 25.098316,
+    "lng": 121.715666
+  },
+  "KEE306260": {
+    "name_zh": "大華橋",
+    "name_en": "Dahua Bridge",
+    "lat": 25.099523,
+    "lng": 121.717913
+  },
+  "KEE306261": {
+    "name_zh": "忠四路",
+    "name_en": "Zhong 4th Rd.",
+    "lat": 25.128031,
+    "lng": 121.739596
+  },
+  "KEE306262": {
+    "name_zh": "八堵加油站",
+    "name_en": "Badu Gas Station",
+    "lat": 25.104296,
+    "lng": 121.726195
+  },
+  "KEE306263": {
+    "name_zh": "光華國宅",
+    "name_en": "Guanghua Public Housing",
+    "lat": 25.12885,
+    "lng": 121.736416
+  },
+  "KEE306264": {
+    "name_zh": "八堵火車站",
+    "name_en": "Badu Railway Station",
+    "lat": 25.108196,
+    "lng": 121.72896
+  },
+  "KEE306265": {
+    "name_zh": "八南里",
+    "name_en": "Banan Village",
+    "lat": 25.10862,
+    "lng": 121.731263
+  },
+  "KEE306266": {
+    "name_zh": "八堵橋",
+    "name_en": "Badu Bridge",
+    "lat": 25.110615,
+    "lng": 121.734233
+  },
+  "KEE306267": {
+    "name_zh": "安樂路一段81巷口",
+    "name_en": "Entrance to Lane 81, Section 1, Anle Road",
+    "lat": 25.129374,
+    "lng": 121.735343
+  },
+  "KEE306268": {
+    "name_zh": "國安路口",
+    "name_en": "Guoan Rd. Intersection",
+    "lat": 25.11169,
+    "lng": 121.734821
+  },
+  "KEE306269": {
+    "name_zh": "鶯歌里(八德路口)",
+    "name_en": "Yingge Village (Bade Rd.)",
+    "lat": 25.114879,
+    "lng": 121.727829
+  },
+  "KEE306270": {
+    "name_zh": "富景天下社區",
+    "name_en": "Fujingtianxia Community",
+    "lat": 25.11658,
+    "lng": 121.72622
+  },
+  "KEE306271": {
+    "name_zh": "自強橋頭",
+    "name_en": "Ziqiang Bridge",
+    "lat": 25.119983,
+    "lng": 121.7228
+  },
+  "KEE306272": {
+    "name_zh": "長庚醫院",
+    "name_en": "Keelung City Zhanggeng Memorial Hospital",
+    "lat": 25.12109,
+    "lng": 121.721803
+  },
+  "KEE306274": {
+    "name_zh": "御花園社區",
+    "name_en": "Yuhuayuan Community",
+    "lat": 25.122595,
+    "lng": 121.717014
+  },
+  "KEE306275": {
+    "name_zh": "九如(維也納)社區",
+    "name_en": "Jiuru (Vienna) Community",
+    "lat": 25.12151,
+    "lng": 121.717658
+  },
+  "KEE306276": {
+    "name_zh": "老大公廟",
+    "name_en": "Laodagong Temple",
+    "lat": 25.128869,
+    "lng": 121.733406
+  },
+  "KEE306277": {
+    "name_zh": "松竹梅社區",
+    "name_en": "Songzhumei Community",
+    "lat": 25.120915,
+    "lng": 121.714789
+  },
+  "KEE306278": {
+    "name_zh": "莫內花園社區",
+    "name_en": "Moneihuayuan Community",
+    "lat": 25.122471,
+    "lng": 121.717202
+  },
+  "KEE306279": {
+    "name_zh": "婦幼福利中心",
+    "name_en": "Women and Children Welfare Center",
+    "lat": 25.125108,
+    "lng": 121.719718
+  },
+  "KEE306280": {
+    "name_zh": "麥金路樂利三街口",
+    "name_en": "Maijin &amp; Leli 3rd St. Intetsection",
+    "lat": 25.12742,
+    "lng": 121.719436
+  },
+  "KEE306281": {
+    "name_zh": "安和二街",
+    "name_en": "Anhe 2nd St.",
+    "lat": 25.129138,
+    "lng": 121.720216
+  },
+  "KEE306282": {
+    "name_zh": "新山淨水場",
+    "name_en": "Hsinshan Water Purification Station",
+    "lat": 25.132956,
+    "lng": 121.72032
+  },
+  "KEE306283": {
+    "name_zh": "自強隧道口",
+    "name_en": "Ziqiang Tunnel",
+    "lat": 25.127712,
+    "lng": 121.73255
+  },
+  "KEE306284": {
+    "name_zh": "石皮瀨",
+    "name_en": "Shipilai",
+    "lat": 25.13598,
+    "lng": 121.72078
+  },
+  "KEE306285": {
+    "name_zh": "興寮里",
+    "name_en": "Xingliao Village",
+    "lat": 25.138704,
+    "lng": 121.718354
+  },
+  "KEE306286": {
+    "name_zh": "忠聯倉儲",
+    "name_en": "Zhonglian Warehouse",
+    "lat": 25.139575,
+    "lng": 121.716005
+  },
+  "KEE306287": {
+    "name_zh": "東方巴黎社區",
+    "name_en": "Dongfangbali Community",
+    "lat": 25.140208,
+    "lng": 121.714251
+  },
+  "KEE306288": {
+    "name_zh": "武嶺街口",
+    "name_en": "Wuling St.Intersection",
+    "lat": 25.140271,
+    "lng": 121.712063
+  },
+  "KEE306289": {
+    "name_zh": "阿拉寶灣",
+    "name_en": "Alabao Bay",
+    "lat": 25.155283,
+    "lng": 121.7696
+  },
+  "KEE306290": {
+    "name_zh": "阿拉寶灣",
+    "name_en": "Alabao Bay",
+    "lat": 25.156185,
+    "lng": 121.770581
+  },
+  "KEE306291": {
+    "name_zh": "電信大樓",
+    "name_en": "Telecommunication Building",
+    "lat": 25.122336,
+    "lng": 121.725131
+  },
+  "KEE306292": {
+    "name_zh": "安樂郵局",
+    "name_en": "Anle Post Office",
+    "lat": 25.121549,
+    "lng": 121.724202
+  },
+  "KEE306293": {
+    "name_zh": "安樂區行政大樓",
+    "name_en": "Administration Building of Anle District",
+    "lat": 25.120786,
+    "lng": 121.723518
+  },
+  "KEE306294": {
+    "name_zh": "和平國小(佛祖廟)",
+    "name_en": "Heping Elementary School (Buddha Temple)",
+    "lat": 25.15545,
+    "lng": 121.76585
+  },
+  "KEE306295": {
+    "name_zh": "龍騰大地社區",
+    "name_en": "Longtengdadi Community",
+    "lat": 25.128881,
+    "lng": 121.718873
+  },
+  "KEE306296": {
+    "name_zh": "天驕社區",
+    "name_en": "Tianjiao Community",
+    "lat": 25.128315,
+    "lng": 121.715211
+  },
+  "KEE306297": {
+    "name_zh": "和平島公園",
+    "name_en": "Heping Island Park",
+    "lat": 25.15635,
+    "lng": 121.764786
+  },
+  "KEE306298": {
+    "name_zh": "麥金路樂利三街口",
+    "name_en": "Maijin &amp; Leli 3rd St. Intetsection",
+    "lat": 25.127529,
+    "lng": 121.719543
+  },
+  "KEE306299": {
+    "name_zh": "和平島",
+    "name_en": "Heping Island",
+    "lat": 25.1551,
+    "lng": 121.764574
+  },
+  "KEE306300": {
+    "name_zh": "婦幼福利中心",
+    "name_en": "Women and Children Welfare Center",
+    "lat": 25.124969,
+    "lng": 121.719741
+  },
+  "KEE306301": {
+    "name_zh": "長庚醫院(橘郡社區)",
+    "name_en": "Keelung City Zhanggeng Memorial Hospital (Jujun Community)",
+    "lat": 25.121013,
+    "lng": 121.721816
+  },
+  "KEE306303": {
+    "name_zh": "安樂區行政大樓",
+    "name_en": "Administration Building of Anle District",
+    "lat": 25.12093,
+    "lng": 121.723583
+  },
+  "KEE306304": {
+    "name_zh": "協同造船廠",
+    "name_en": "Xietong Shipyard",
+    "lat": 25.154903,
+    "lng": 121.765886
+  },
+  "KEE306305": {
+    "name_zh": "安樂郵局",
+    "name_en": "Anle Post Office",
+    "lat": 25.122163,
+    "lng": 121.724844
+  },
+  "KEE306306": {
+    "name_zh": "電信大樓",
+    "name_en": "Telecommunication Building",
+    "lat": 25.122753,
+    "lng": 121.725656
+  },
+  "KEE306307": {
+    "name_zh": "社寮里(天顯宮)",
+    "name_en": "Sheliao Village (Tianxian Temple)",
+    "lat": 25.1548,
+    "lng": 121.76748
+  },
+  "KEE306308": {
+    "name_zh": "光華國宅",
+    "name_en": "Guanghua Public Housing",
+    "lat": 25.128476,
+    "lng": 121.736678
+  },
+  "KEE306309": {
+    "name_zh": "成功市場",
+    "name_en": "Chenggong Market",
+    "lat": 25.127383,
+    "lng": 121.737406
+  },
+  "KEE306310": {
+    "name_zh": "和平橋頭(原民會館)",
+    "name_en": "Heping Bridge (Keelung City Indigenous Cultural Hall)",
+    "lat": 25.153018,
+    "lng": 121.769586
+  },
+  "KEE306311": {
+    "name_zh": "和平橋頭(原民會館)",
+    "name_en": "Heping Bridge (Keelung City Indigenous Cultural Hall)",
+    "lat": 25.152938,
+    "lng": 121.769868
+  },
+  "KEE306312": {
+    "name_zh": "正濱路口",
+    "name_en": "Zhengbin Rd. Intersection",
+    "lat": 25.152413,
+    "lng": 121.770265
+  },
+  "KEE306313": {
+    "name_zh": "正濱路口",
+    "name_en": "Zhengbin Rd. Intersection",
+    "lat": 25.152033,
+    "lng": 121.770283
+  },
+  "KEE306314": {
+    "name_zh": "舊正濱派出所",
+    "name_en": "Old Zhengbin Police Office",
+    "lat": 25.1521,
+    "lng": 121.767916
+  },
+  "KEE306315": {
+    "name_zh": "舊正濱派出所",
+    "name_en": "Old Zhengbin Police Office",
+    "lat": 25.152483,
+    "lng": 121.768616
+  },
+  "KEE306316": {
+    "name_zh": "二信分社",
+    "name_en": "The Second Credit Cooperative of Keelung Branch",
+    "lat": 25.151173,
+    "lng": 121.76709
+  },
+  "KEE306317": {
+    "name_zh": "二信分社",
+    "name_en": "The Second Credit Cooperative of Keelung Branch",
+    "lat": 25.151033,
+    "lng": 121.766816
+  },
+  "KEE306318": {
+    "name_zh": "正濱漁會大樓",
+    "name_en": "Chen-Pin Fishermen&#39;s Association Building",
+    "lat": 25.150685,
+    "lng": 121.76576
+  },
+  "KEE306319": {
+    "name_zh": "正濱漁會大樓",
+    "name_en": "Chen-Pin Fishermen&#39;s Association Building",
+    "lat": 25.15062,
+    "lng": 121.765798
+  },
+  "KEE306320": {
+    "name_zh": "太白莊",
+    "name_en": "Taibai Village",
+    "lat": 25.15252,
+    "lng": 121.744485
+  },
+  "KEE306321": {
+    "name_zh": "中濱里",
+    "name_en": "Zhongbin Village",
+    "lat": 25.149376,
+    "lng": 121.763711
+  },
+  "KEE306322": {
+    "name_zh": "中濱里",
+    "name_en": "Zhongbin Village",
+    "lat": 25.149321,
+    "lng": 121.763788
+  },
+  "KEE306323": {
+    "name_zh": "太白莊",
+    "name_en": "Taibai Village",
+    "lat": 25.152541,
+    "lng": 121.744755
+  },
+  "KEE306324": {
+    "name_zh": "東橋",
+    "name_en": "Dong Bridge",
+    "lat": 25.127638,
+    "lng": 121.762725
+  },
+  "KEE306327": {
+    "name_zh": "海中天社區",
+    "name_en": "Haizhongtian Community",
+    "lat": 25.13516,
+    "lng": 121.784553
+  },
+  "KEE306328": {
+    "name_zh": "和平島公園",
+    "name_en": "Heping Island Park",
+    "lat": 25.1564,
+    "lng": 121.76482
+  },
+  "KEE306329": {
+    "name_zh": "巴賽隆納社區",
+    "name_en": "Baselongna Community",
+    "lat": 25.1355,
+    "lng": 121.78605
+  },
+  "KEE306330": {
+    "name_zh": "碧海擎天社區",
+    "name_en": "Bihaiqingtian Community",
+    "lat": 25.136209,
+    "lng": 121.787757
+  },
+  "KEE306331": {
+    "name_zh": "和豐街新豐街口",
+    "name_en": "Hefong St. &amp; Xinfong St. Intersection",
+    "lat": 25.13782,
+    "lng": 121.78941
+  },
+  "KEE306332": {
+    "name_zh": "山海觀社區",
+    "name_en": "Shanhaiguan Community",
+    "lat": 25.136563,
+    "lng": 121.794725
+  },
+  "KEE306333": {
+    "name_zh": "調和街",
+    "name_en": "Diaohe St.",
+    "lat": 25.136998,
+    "lng": 121.796518
+  },
+  "KEE306334": {
+    "name_zh": "調和市場",
+    "name_en": "Diaohe Market",
+    "lat": 25.1388,
+    "lng": 121.79648
+  },
+  "KEE306335": {
+    "name_zh": "海調處",
+    "name_en": "Marine Affairs Field Office",
+    "lat": 25.147451,
+    "lng": 121.761597
+  },
+  "KEE306336": {
+    "name_zh": "海調處",
+    "name_en": "Marine Affairs Field Office",
+    "lat": 25.14589,
+    "lng": 121.761692
+  },
+  "KEE306337": {
+    "name_zh": "公教住宅",
+    "name_en": "Government Employees Housing",
+    "lat": 25.145497,
+    "lng": 121.761499
+  },
+  "KEE306338": {
+    "name_zh": "公教住宅",
+    "name_en": "Government Employees Housing",
+    "lat": 25.144501,
+    "lng": 121.761641
+  },
+  "KEE306339": {
+    "name_zh": "安瀾橋",
+    "name_en": "Anlan Bridge",
+    "lat": 25.142485,
+    "lng": 121.760703
+  },
+  "KEE306342": {
+    "name_zh": "正榮街口",
+    "name_en": "Zhengrong St. Intersection",
+    "lat": 25.143035,
+    "lng": 121.761113
+  },
+  "KEE306343": {
+    "name_zh": "正豐街",
+    "name_en": "Zhengfeng St.",
+    "lat": 25.140762,
+    "lng": 121.760126
+  },
+  "KEE306344": {
+    "name_zh": "中正區行政大樓",
+    "name_en": "Administration Building of Zhongzheng District",
+    "lat": 25.141083,
+    "lng": 121.758988
+  },
+  "KEE306345": {
+    "name_zh": "中正區行政大樓",
+    "name_en": "Administration Building of Zhongzheng District",
+    "lat": 25.140603,
+    "lng": 121.758783
+  },
+  "KEE306346": {
+    "name_zh": "情人湖路口",
+    "name_en": "Lovers Lake Rd. Intersection",
+    "lat": 25.141941,
+    "lng": 121.709669
+  },
+  "KEE306347": {
+    "name_zh": "金山鐵店",
+    "name_en": "Jinshan Iron Stores",
+    "lat": 25.14185,
+    "lng": 121.707533
+  },
+  "KEE306348": {
+    "name_zh": "大武崙",
+    "name_en": "Tapurun",
+    "lat": 25.14195,
+    "lng": 121.704178
+  },
+  "KEE306349": {
+    "name_zh": "三層站",
+    "name_en": "Sanceng Bus Station",
+    "lat": 25.143939,
+    "lng": 121.70254
+  },
+  "KEE306350": {
+    "name_zh": "大武崙工業區",
+    "name_en": "Tapurun Industry Park",
+    "lat": 25.149168,
+    "lng": 121.699903
+  },
+  "KEE306351": {
+    "name_zh": "石山",
+    "name_en": "Shishan",
+    "lat": 25.151925,
+    "lng": 121.697931
+  },
+  "KEE306352": {
+    "name_zh": "藍天麗地社區",
+    "name_en": "Lantianlidi Community",
+    "lat": 25.154507,
+    "lng": 121.696701
+  },
+  "KEE306353": {
+    "name_zh": "武聖街口",
+    "name_en": "Wusheng St. Intersection",
+    "lat": 25.156751,
+    "lng": 121.69592
+  },
+  "KEE306354": {
+    "name_zh": "武隆街105巷",
+    "name_en": "Ln. 105 Wulong St.",
+    "lat": 25.158376,
+    "lng": 121.693854
+  },
+  "KEE306355": {
+    "name_zh": "樂利2街62巷276號",
+    "name_en": "No.276 Ln. 62 Leli 2nd St.",
+    "lat": 25.121135,
+    "lng": 121.715685
+  },
+  "KEE306356": {
+    "name_zh": "樂利2街62巷212號",
+    "name_en": "No.212 Ln. 62 Leli 2nd St.",
+    "lat": 25.121651,
+    "lng": 121.716683
+  },
+  "KEE306357": {
+    "name_zh": "八斗子",
+    "name_en": "Badouzi",
+    "lat": 25.139535,
+    "lng": 121.795761
+  },
+  "KEE306358": {
+    "name_zh": "海科館(碧水巷)",
+    "name_en": "National Museum Of Marine Science &amp; Technology (Bishuixiang)",
+    "lat": 25.140145,
+    "lng": 121.80005
+  },
+  "KEE306359": {
+    "name_zh": "望海巷",
+    "name_en": "Wanghaixiang",
+    "lat": 25.137508,
+    "lng": 121.801906
+  },
+  "KEE306360": {
+    "name_zh": "幸福華城",
+    "name_en": "Xingfuhuacheng Community",
+    "lat": 25.090596,
+    "lng": 121.754533
+  },
+  "KEE306361": {
+    "name_zh": "八斗子分站",
+    "name_en": "Badouzi Substation",
+    "lat": 25.14345531,
+    "lng": 121.7905646
+  },
+  "KEE306362": {
+    "name_zh": "基隆漁會",
+    "name_en": "Keelung District Fishmens` Association",
+    "lat": 25.14115,
+    "lng": 121.79272
+  },
+  "KEE306363": {
+    "name_zh": "光華隧道口",
+    "name_en": "Guanghua Tunnel",
+    "lat": 25.150598,
+    "lng": 121.743448
+  },
+  "KEE306364": {
+    "name_zh": "調和街觀海街口",
+    "name_en": "Diaohe St. &amp; Guanhai St. Intersection",
+    "lat": 25.135649,
+    "lng": 121.796195
+  },
+  "KEE306365": {
+    "name_zh": "調和街(福德宮)",
+    "name_en": "Diaohe St. (Fude Temple)",
+    "lat": 25.131253,
+    "lng": 121.798873
+  },
+  "KEE306366": {
+    "name_zh": "調和街(福德宮)",
+    "name_en": "Diaohe St. (Fude Temple)",
+    "lat": 25.132055,
+    "lng": 121.79872
+  },
+  "KEE306367": {
+    "name_zh": "碧砂山水社區(維德醫院)",
+    "name_en": "Bishashanshui Community(Vita Hospital)",
+    "lat": 25.129691,
+    "lng": 121.799563
+  },
+  "KEE306368": {
+    "name_zh": "碧砂山水社區(維德醫院)",
+    "name_en": "Bishashanshui Community(Vita Hospital)",
+    "lat": 25.1302,
+    "lng": 121.7993
+  },
+  "KEE306369": {
+    "name_zh": "八斗子",
+    "name_en": "Badouzi",
+    "lat": 25.139742,
+    "lng": 121.795275
+  },
+  "KEE306370": {
+    "name_zh": "嶺林巷",
+    "name_en": "Linglinxiang",
+    "lat": 25.14095,
+    "lng": 121.79239
+  },
+  "KEE306371": {
+    "name_zh": "義胞新村",
+    "name_en": "Yibaoxincun",
+    "lat": 25.14194,
+    "lng": 121.79068
+  },
+  "KEE306372": {
+    "name_zh": "福泉寺",
+    "name_en": "Fuquan Temple",
+    "lat": 25.142173,
+    "lng": 121.789196
+  },
+  "KEE306373": {
+    "name_zh": "八斗高中",
+    "name_en": "Badou Senior High School",
+    "lat": 25.13962,
+    "lng": 121.78938
+  },
+  "KEE306374": {
+    "name_zh": "普羅旺世社區",
+    "name_en": "Provence Community",
+    "lat": 25.13828,
+    "lng": 121.788986
+  },
+  "KEE306375": {
+    "name_zh": "太白里",
+    "name_en": "Taibai Village",
+    "lat": 25.149643,
+    "lng": 121.744025
+  },
+  "KEE306376": {
+    "name_zh": "太白里",
+    "name_en": "Taibai Village",
+    "lat": 25.14948,
+    "lng": 121.744178
+  },
+  "KEE306377": {
+    "name_zh": "悠活台北村",
+    "name_en": "Yoho Village",
+    "lat": 25.128126,
+    "lng": 121.799204
+  },
+  "KEE306378": {
+    "name_zh": "悠活台北村",
+    "name_en": "Yoho Village",
+    "lat": 25.127879,
+    "lng": 121.799389
+  },
+  "KEE306381": {
+    "name_zh": "深澳國小",
+    "name_en": "Shenao Elementary School",
+    "lat": 25.126928,
+    "lng": 121.783601
+  },
+  "KEE306382": {
+    "name_zh": "民生社區",
+    "name_en": "Minsheng Community",
+    "lat": 25.126274,
+    "lng": 121.785301
+  },
+  "KEE306383": {
+    "name_zh": "華妍閣社區",
+    "name_en": "Huayange Community",
+    "lat": 25.125183,
+    "lng": 121.786683
+  },
+  "KEE306384": {
+    "name_zh": "山美教會",
+    "name_en": "Shanmei Church",
+    "lat": 25.12604,
+    "lng": 121.79909
+  },
+  "KEE306385": {
+    "name_zh": "三坑口",
+    "name_en": "Sankengkou",
+    "lat": 25.124601,
+    "lng": 121.788811
+  },
+  "KEE306386": {
+    "name_zh": "五坑口",
+    "name_en": "Wukengkou",
+    "lat": 25.123778,
+    "lng": 121.791128
+  },
+  "KEE306387": {
+    "name_zh": "深澳坑路280號口(金益煤礦)",
+    "name_en": "No.280 Shenaokeng Rd. Intersection (Jinyi Coal Mine)",
+    "lat": 25.121759,
+    "lng": 121.793319
+  },
+  "KEE306388": {
+    "name_zh": "六坑口",
+    "name_en": "Liukengkou",
+    "lat": 25.120646,
+    "lng": 121.795186
+  },
+  "KEE306389": {
+    "name_zh": "水源路二巷口",
+    "name_en": "Ln. 2 Shuiyuan Rd. Intersection",
+    "lat": 25.10615,
+    "lng": 121.73431
+  },
+  "KEE306390": {
+    "name_zh": "八斗子山莊籃球場",
+    "name_en": "Badouzi Village Basketball Court",
+    "lat": 25.12674,
+    "lng": 121.79595
+  },
+  "KEE306391": {
+    "name_zh": "基港里",
+    "name_en": "Jigang Village",
+    "lat": 25.148793,
+    "lng": 121.745356
+  },
+  "KEE306392": {
+    "name_zh": "礦工醫院",
+    "name_en": "Miners Hospital",
+    "lat": 25.107374,
+    "lng": 121.733682
+  },
+  "KEE306393": {
+    "name_zh": "八堵國小",
+    "name_en": "Badu Elementary School",
+    "lat": 25.108475,
+    "lng": 121.732275
+  },
+  "KEE306394": {
+    "name_zh": "八堵火車站",
+    "name_en": "Badu Railway Station",
+    "lat": 25.108196,
+    "lng": 121.72896
+  },
+  "KEE306395": {
+    "name_zh": "八斗子山莊籃球場",
+    "name_en": "Badouzi Village Basketball Court",
+    "lat": 25.126033,
+    "lng": 121.798783
+  },
+  "KEE306396": {
+    "name_zh": "七堵區行政大樓",
+    "name_en": "Administration Building of Qidu District",
+    "lat": 25.097923,
+    "lng": 121.716271
+  },
+  "KEE306397": {
+    "name_zh": "開元立體停車場",
+    "name_en": "Kaiyuan Rd. Parking Garage",
+    "lat": 25.096298,
+    "lng": 121.714648
+  },
+  "KEE306398": {
+    "name_zh": "七堵火車站",
+    "name_en": "Qidu Railway Station",
+    "lat": 25.094488,
+    "lng": 121.712729
+  },
+  "KEE306399": {
+    "name_zh": "基港里",
+    "name_en": "Jigang Village",
+    "lat": 25.1489,
+    "lng": 121.7452
+  },
+  "KEE306400": {
+    "name_zh": "七堵郵局",
+    "name_en": "Keelung Qidu Post Office",
+    "lat": 25.097174,
+    "lng": 121.712832
+  },
+  "KEE306401": {
+    "name_zh": "三分局",
+    "name_en": "Third Police Substation",
+    "lat": 25.098378,
+    "lng": 121.715941
+  },
+  "KEE306402": {
+    "name_zh": "調和街290巷115號",
+    "name_en": "No.115 Ln. 290 Diaohe St.",
+    "lat": 25.12633,
+    "lng": 121.79766
+  },
+  "KEE306403": {
+    "name_zh": "大華橋",
+    "name_en": "Dahua Bridge",
+    "lat": 25.098955,
+    "lng": 121.717183
+  },
+  "KEE306404": {
+    "name_zh": "調和街290巷115號",
+    "name_en": "No.115 Ln. 290 Diaohe St.",
+    "lat": 25.126516,
+    "lng": 121.797033
+  },
+  "KEE306405": {
+    "name_zh": "八堵加油站",
+    "name_en": "Badu Gas Station",
+    "lat": 25.103708,
+    "lng": 121.726411
+  },
+  "KEE306406": {
+    "name_zh": "八堵火車站",
+    "name_en": "Badu Railway Station",
+    "lat": 25.108018,
+    "lng": 121.72899
+  },
+  "KEE306407": {
+    "name_zh": "八堵國小",
+    "name_en": "Badu Elementary School",
+    "lat": 25.1085,
+    "lng": 121.732043
+  },
+  "KEE306408": {
+    "name_zh": "水源路二巷口",
+    "name_en": "Ln. 2 Shuiyuan Rd. Intersection",
+    "lat": 25.106153,
+    "lng": 121.734233
+  },
+  "KEE306409": {
+    "name_zh": "調和街口",
+    "name_en": "Diaohe St. Intersection",
+    "lat": 25.120191,
+    "lng": 121.797106
+  },
+  "KEE306410": {
+    "name_zh": "八斗子山莊",
+    "name_en": "Badouzi Village",
+    "lat": 25.12595,
+    "lng": 121.79893
+  },
+  "KEE306411": {
+    "name_zh": "六坑口",
+    "name_en": "Liukengkou",
+    "lat": 25.121031,
+    "lng": 121.795006
+  },
+  "KEE306412": {
+    "name_zh": "深澳坑路280號口(金益煤礦)",
+    "name_en": "No.280 Shenaokeng Rd. Intersection (Jinyi Coal Mine)",
+    "lat": 25.121919,
+    "lng": 121.793548
+  },
+  "KEE306413": {
+    "name_zh": "八斗子山莊",
+    "name_en": "Badouzi Village",
+    "lat": 25.12665,
+    "lng": 121.796616
+  },
+  "KEE306414": {
+    "name_zh": "仙洞國小",
+    "name_en": "Siandong Elementary school",
+    "lat": 25.146776,
+    "lng": 121.747211
+  },
+  "KEE306415": {
+    "name_zh": "仙洞國小",
+    "name_en": "Siandong Elementary school",
+    "lat": 25.147073,
+    "lng": 121.747263
+  },
+  "KEE306416": {
+    "name_zh": "五坑口",
+    "name_en": "Wukengkou",
+    "lat": 25.123836,
+    "lng": 121.791358
+  },
+  "KEE306417": {
+    "name_zh": "三坑口",
+    "name_en": "Sankengkou",
+    "lat": 25.124771,
+    "lng": 121.788825
+  },
+  "KEE306418": {
+    "name_zh": "華妍閣社區",
+    "name_en": "Huayange Community",
+    "lat": 25.125861,
+    "lng": 121.785996
+  },
+  "KEE306419": {
+    "name_zh": "潮境公園",
+    "name_en": "Chaojing Park",
+    "lat": 25.142303,
+    "lng": 121.802175
+  },
+  "KEE306420": {
+    "name_zh": "海科館正門",
+    "name_en": "National Museum Of Marine Science &amp; Technology(Main Entrance)",
+    "lat": 25.140077,
+    "lng": 121.797499
+  },
+  "KEE306421": {
+    "name_zh": "義胞新村",
+    "name_en": "Yibaoxincun",
+    "lat": 25.14219,
+    "lng": 121.78972
+  },
+  "KEE306422": {
+    "name_zh": "嶺林巷",
+    "name_en": "Linglinxiang",
+    "lat": 25.14033,
+    "lng": 121.79244
+  },
+  "KEE306423": {
+    "name_zh": "漁貨直銷中心(碧砂漁港)",
+    "name_en": "Taiwan Tourist Seafood Markets (Bisha Fish Harbor)",
+    "lat": 25.144581,
+    "lng": 121.785765
+  },
+  "KEE306424": {
+    "name_zh": "漁貨直銷中心(碧砂漁港)",
+    "name_en": "Taiwan Tourist Seafood Markets (Bisha Fish Harbor)",
+    "lat": 25.144315,
+    "lng": 121.785803
+  },
+  "KEE306425": {
+    "name_zh": "藍投溝",
+    "name_en": "Lantougou",
+    "lat": 25.14629,
+    "lng": 121.783666
+  },
+  "KEE306426": {
+    "name_zh": "藍投溝",
+    "name_en": "Lantougou",
+    "lat": 25.146516,
+    "lng": 121.783448
+  },
+  "KEE306427": {
+    "name_zh": "北寧路(九八八餐廳)",
+    "name_en": "Beining Rd. (988 Restaurant)",
+    "lat": 25.148309,
+    "lng": 121.783012
+  },
+  "KEE306428": {
+    "name_zh": "北寧路(九八八餐廳)",
+    "name_en": "Beining Rd. (988 Restaurant)",
+    "lat": 25.1483,
+    "lng": 121.78289
+  },
+  "KEE306429": {
+    "name_zh": "海大體育館",
+    "name_en": "National Taiwan Ocean University (The Gymnasium)",
+    "lat": 25.1506,
+    "lng": 121.77996
+  },
+  "KEE306430": {
+    "name_zh": "海大體育館",
+    "name_en": "National Taiwan Ocean University (The Gymnasium)",
+    "lat": 25.150539,
+    "lng": 121.779602
+  },
+  "KEE306431": {
+    "name_zh": "海大濱海校門",
+    "name_en": "National Taiwan Ocean University (Binhai School Entrance)",
+    "lat": 25.15097,
+    "lng": 121.77555
+  },
+  "KEE306432": {
+    "name_zh": "海大濱海校門",
+    "name_en": "National Taiwan Ocean University (Binhai School Entrance)",
+    "lat": 25.150829,
+    "lng": 121.77565
+  },
+  "KEE306433": {
+    "name_zh": "海大祥豐校門",
+    "name_en": "National Taiwan Ocean University (Xiangfeng School Entrance)",
+    "lat": 25.151159,
+    "lng": 121.773208
+  },
+  "KEE306434": {
+    "name_zh": "海大祥豐校門",
+    "name_en": "National Taiwan Ocean University (Xiangfeng School Entrance)",
+    "lat": 25.151029,
+    "lng": 121.772842
+  },
+  "KEE306435": {
+    "name_zh": "海門天險",
+    "name_en": "Haimentiansian",
+    "lat": 25.140876,
+    "lng": 121.7563
+  },
+  "KEE306436": {
+    "name_zh": "海門天險",
+    "name_en": "Haimentiansian",
+    "lat": 25.140736,
+    "lng": 121.756108
+  },
+  "KEE306437": {
+    "name_zh": "復興館",
+    "name_en": "Fuxingguan",
+    "lat": 25.13937,
+    "lng": 121.754073
+  },
+  "KEE306438": {
+    "name_zh": "崇慧花園社區",
+    "name_en": "Chunghuihuayuan Community",
+    "lat": 25.124495,
+    "lng": 121.798821
+  },
+  "KEE306439": {
+    "name_zh": "北屋新城",
+    "name_en": "Beiwuxincheng",
+    "lat": 25.139078,
+    "lng": 121.752025
+  },
+  "KEE306440": {
+    "name_zh": "崇慧花園社區",
+    "name_en": "Chunghuihuayuan Community",
+    "lat": 25.124386,
+    "lng": 121.798885
+  },
+  "KEE306441": {
+    "name_zh": "中船路",
+    "name_en": "Zhongchuan Rd.",
+    "lat": 25.137598,
+    "lng": 121.75072
+  },
+  "KEE306442": {
+    "name_zh": "深澳國小",
+    "name_en": "Shenao Elementary School",
+    "lat": 25.126853,
+    "lng": 121.78478
+  },
+  "KEE306443": {
+    "name_zh": "中船路",
+    "name_en": "Zhongchuan Rd.",
+    "lat": 25.137353,
+    "lng": 121.75095
+  },
+  "KEE306444": {
+    "name_zh": "萬源口",
+    "name_en": "Wanyuankou",
+    "lat": 25.126953,
+    "lng": 121.782181
+  },
+  "KEE306445": {
+    "name_zh": "調和街口",
+    "name_en": "Diaohe St. Intersection",
+    "lat": 25.12095,
+    "lng": 121.79785
+  },
+  "KEE306446": {
+    "name_zh": "普羅旺世社區",
+    "name_en": "Provence Community",
+    "lat": 25.137199,
+    "lng": 121.788586
+  },
+  "KEE306447": {
+    "name_zh": "八斗高中",
+    "name_en": "Badou Senior High School",
+    "lat": 25.139282,
+    "lng": 121.78979
+  },
+  "KEE306448": {
+    "name_zh": "福泉寺",
+    "name_en": "Fuquan Temple",
+    "lat": 25.142,
+    "lng": 121.789555
+  },
+  "KEE306450": {
+    "name_zh": "仙洞巖",
+    "name_en": "Fairy Grotto",
+    "lat": 25.145395,
+    "lng": 121.748108
+  },
+  "KEE306451": {
+    "name_zh": "萬源口",
+    "name_en": "Wanyuankou",
+    "lat": 25.127175,
+    "lng": 121.781528
+  },
+  "KEE306452": {
+    "name_zh": "仙洞巖",
+    "name_en": "Fairy Grotto",
+    "lat": 25.145546,
+    "lng": 121.74798
+  },
+  "KEE306453": {
+    "name_zh": "龍門谷",
+    "name_en": "Longmen Valley",
+    "lat": 25.091833,
+    "lng": 121.754418
+  },
+  "KEE306454": {
+    "name_zh": "就業中心",
+    "name_en": "Keelung Employment Service Station",
+    "lat": 25.137223,
+    "lng": 121.74894
+  },
+  "KEE306455": {
+    "name_zh": "碇內街口",
+    "name_en": "Dingnei St. Intersection",
+    "lat": 25.09406,
+    "lng": 121.754688
+  },
+  "KEE306456": {
+    "name_zh": "信七路口",
+    "name_en": "Xin 7th Rd. Intersection",
+    "lat": 25.1365,
+    "lng": 121.74798
+  },
+  "KEE306457": {
+    "name_zh": "信七路口",
+    "name_en": "Xin 7th Rd. Intersection",
+    "lat": 25.135875,
+    "lng": 121.747736
+  },
+  "KEE306458": {
+    "name_zh": "碇祥里",
+    "name_en": "Dingxiang Village",
+    "lat": 25.095726,
+    "lng": 121.754853
+  },
+  "KEE306459": {
+    "name_zh": "信五路口",
+    "name_en": "Xin 5th Rd. Intersection",
+    "lat": 25.13494,
+    "lng": 121.74691
+  },
+  "KEE306460": {
+    "name_zh": "信五路口",
+    "name_en": "Xin 5th Rd. Intersection",
+    "lat": 25.134185,
+    "lng": 121.746636
+  },
+  "KEE306461": {
+    "name_zh": "藝觀天廈",
+    "name_en": "Yiguan Building Community",
+    "lat": 25.097205,
+    "lng": 121.75658
+  },
+  "KEE306462": {
+    "name_zh": "芳堤名邸",
+    "name_en": "Fangtimingdi",
+    "lat": 25.098462,
+    "lng": 121.758216
+  },
+  "KEE306463": {
+    "name_zh": "市政府(柯達飯店)",
+    "name_en": "Keelung City Government (K Hotel)",
+    "lat": 25.132476,
+    "lng": 121.745278
+  },
+  "KEE306464": {
+    "name_zh": "市政府(柯達飯店)",
+    "name_en": "Keelung City Government (K Hotel)",
+    "lat": 25.13233,
+    "lng": 121.74541
+  },
+  "KEE306465": {
+    "name_zh": "康樂新村",
+    "name_en": "Kanglexincun",
+    "lat": 25.099215,
+    "lng": 121.757016
+  },
+  "KEE306466": {
+    "name_zh": "東暖新村",
+    "name_en": "Dongnuanxincun",
+    "lat": 25.09892,
+    "lng": 121.75517
+  },
+  "KEE306467": {
+    "name_zh": "碇內國小",
+    "name_en": "Dingnei Elementary School",
+    "lat": 25.098616,
+    "lng": 121.753983
+  },
+  "KEE306468": {
+    "name_zh": "碇內(博愛仁家)",
+    "name_en": "Dingnei (Senior Citizens Home of Compassion)",
+    "lat": 25.09837,
+    "lng": 121.751292
+  },
+  "KEE306469": {
+    "name_zh": "十六坑",
+    "name_en": "Shiliukeng",
+    "lat": 25.098161,
+    "lng": 121.74967
+  },
+  "KEE306470": {
+    "name_zh": "碇內國中",
+    "name_en": "Dingnei Junior High School",
+    "lat": 25.09542,
+    "lng": 121.74862
+  },
+  "KEE306471": {
+    "name_zh": "暖暖運動公園",
+    "name_en": "Nuannuan Sports Park",
+    "lat": 25.09477,
+    "lng": 121.743155
+  },
+  "KEE306472": {
+    "name_zh": "暖東苗圃",
+    "name_en": "Nuandong Nursery Garden",
+    "lat": 25.09456,
+    "lng": 121.739374
+  },
+  "KEE306473": {
+    "name_zh": "東興廟",
+    "name_en": "Dongxing Temple",
+    "lat": 25.094566,
+    "lng": 121.738683
+  },
+  "KEE306474": {
+    "name_zh": "寫意山水社區",
+    "name_en": "Xieyishanshui Community",
+    "lat": 25.092876,
+    "lng": 121.737703
+  },
+  "KEE306475": {
+    "name_zh": "暖西國小",
+    "name_en": "Nuanshi Elementary School",
+    "lat": 25.09269,
+    "lng": 121.736293
+  },
+  "KEE306476": {
+    "name_zh": "水源地",
+    "name_en": "Shuiyuandi",
+    "lat": 25.09705,
+    "lng": 121.7344
+  },
+  "KEE306477": {
+    "name_zh": "正榮社區",
+    "name_en": "Zhengrong Community",
+    "lat": 25.097938,
+    "lng": 121.73486
+  },
+  "KEE306478": {
+    "name_zh": "暖暖郵局",
+    "name_en": "Keelung Nuannuan Post Office",
+    "lat": 25.098961,
+    "lng": 121.735476
+  },
+  "KEE306479": {
+    "name_zh": "暖暖區公所",
+    "name_en": "Keelung City Nuannuan District Office",
+    "lat": 25.100108,
+    "lng": 121.736241
+  },
+  "KEE306480": {
+    "name_zh": "水源路",
+    "name_en": "Shuiyuan Rd.",
+    "lat": 25.10358,
+    "lng": 121.73564
+  },
+  "KEE306482": {
+    "name_zh": "七堵國小",
+    "name_en": "Qidu Elementary School",
+    "lat": 25.097855,
+    "lng": 121.714648
+  },
+  "KEE306484": {
+    "name_zh": "水源路",
+    "name_en": "Shuiyuan Rd.",
+    "lat": 25.10335,
+    "lng": 121.735563
+  },
+  "KEE306485": {
+    "name_zh": "暖暖區公所",
+    "name_en": "Keelung City Nuannuan District Office",
+    "lat": 25.100421,
+    "lng": 121.736101
+  },
+  "KEE306486": {
+    "name_zh": "暖暖郵局",
+    "name_en": "Keelung Nuannuan Post Office",
+    "lat": 25.099202,
+    "lng": 121.735673
+  },
+  "KEE306487": {
+    "name_zh": "正榮社區",
+    "name_en": "Zhengrong Community",
+    "lat": 25.0981,
+    "lng": 121.734816
+  },
+  "KEE306488": {
+    "name_zh": "水源地",
+    "name_en": "Shuiyuandi",
+    "lat": 25.097088,
+    "lng": 121.734476
+  },
+  "KEE306489": {
+    "name_zh": "暖西國小",
+    "name_en": "Nuanshi Elementary School",
+    "lat": 25.092596,
+    "lng": 121.736038
+  },
+  "KEE306490": {
+    "name_zh": "寫意山水社區",
+    "name_en": "Xieyishanshui Community",
+    "lat": 25.092843,
+    "lng": 121.737674
+  },
+  "KEE306491": {
+    "name_zh": "東興廟",
+    "name_en": "Dongxing Temple",
+    "lat": 25.094148,
+    "lng": 121.73911
+  },
+  "KEE306492": {
+    "name_zh": "暖暖運動公園",
+    "name_en": "Nuannuan Sports Park",
+    "lat": 25.094685,
+    "lng": 121.743116
+  },
+  "KEE306493": {
+    "name_zh": "碇內國中",
+    "name_en": "Dingnei Junior High School",
+    "lat": 25.095845,
+    "lng": 121.748801
+  },
+  "KEE306494": {
+    "name_zh": "十六坑",
+    "name_en": "Shiliukeng",
+    "lat": 25.09824,
+    "lng": 121.74912
+  },
+  "KEE306495": {
+    "name_zh": "碇內(博愛仁家)",
+    "name_en": "Dingnei (Senior Citizens Home of Compassion)",
+    "lat": 25.09826,
+    "lng": 121.75109
+  },
+  "KEE306496": {
+    "name_zh": "碇內國小",
+    "name_en": "Dingnei Elementary School",
+    "lat": 25.098438,
+    "lng": 121.753586
+  },
+  "KEE306497": {
+    "name_zh": "東暖新村",
+    "name_en": "Dongnuanxincun",
+    "lat": 25.098798,
+    "lng": 121.755071
+  },
+  "KEE306498": {
+    "name_zh": "康樂新村",
+    "name_en": "Kanglexincun",
+    "lat": 25.099165,
+    "lng": 121.756978
+  },
+  "KEE306499": {
+    "name_zh": "芳堤名邸",
+    "name_en": "Fangtimingdi",
+    "lat": 25.098462,
+    "lng": 121.758216
+  },
+  "KEE306500": {
+    "name_zh": "藝觀天廈",
+    "name_en": "Yiguan Building Community",
+    "lat": 25.097246,
+    "lng": 121.756382
+  },
+  "KEE306501": {
+    "name_zh": "碇祥里",
+    "name_en": "Dingxiang Village",
+    "lat": 25.096023,
+    "lng": 121.754763
+  },
+  "KEE306502": {
+    "name_zh": "碇內街口",
+    "name_en": "Dingnei St. Intersection",
+    "lat": 25.094121,
+    "lng": 121.754536
+  },
+  "KEE306503": {
+    "name_zh": "龍門谷",
+    "name_en": "Longmen Valley",
+    "lat": 25.091696,
+    "lng": 121.754366
+  },
+  "KEE306504": {
+    "name_zh": "中正路正濱路口",
+    "name_en": "Zhongzheng &amp; Zhengbin Rd.Intersection",
+    "lat": 25.151616,
+    "lng": 121.7708
+  },
+  "KEE306505": {
+    "name_zh": "海大中正路口",
+    "name_en": "National Taiwan Ocean University (Zhongzheng Rd. Intersection)",
+    "lat": 25.15108,
+    "lng": 121.77176
+  },
+  "KEE306506": {
+    "name_zh": "海大中正路口",
+    "name_en": "National Taiwan Ocean University (Zhongzheng Rd. Intersection)",
+    "lat": 25.15122,
+    "lng": 121.77189
+  },
+  "KEE306507": {
+    "name_zh": "海大附中",
+    "name_en": "National Keelung Maritime Vocational School",
+    "lat": 25.149715,
+    "lng": 121.771966
+  },
+  "KEE306508": {
+    "name_zh": "海大附中",
+    "name_en": "National Keelung Maritime Vocational School",
+    "lat": 25.149276,
+    "lng": 121.77172
+  },
+  "KEE306509": {
+    "name_zh": "市府宿舍",
+    "name_en": "Keelung City Dormitory",
+    "lat": 25.14788,
+    "lng": 121.77113
+  },
+  "KEE306510": {
+    "name_zh": "正濱國小",
+    "name_en": "Zhengbin Elementary School",
+    "lat": 25.146288,
+    "lng": 121.769893
+  },
+  "KEE306511": {
+    "name_zh": "正濱國小",
+    "name_en": "Zhengbin Elementary School",
+    "lat": 25.146438,
+    "lng": 121.770213
+  },
+  "KEE306512": {
+    "name_zh": "二信中學",
+    "name_en": "Erxin High School",
+    "lat": 25.14481,
+    "lng": 121.76791
+  },
+  "KEE306513": {
+    "name_zh": "二信中學",
+    "name_en": "Erxin High School",
+    "lat": 25.145023,
+    "lng": 121.768379
+  },
+  "KEE306514": {
+    "name_zh": "祥豐加油站",
+    "name_en": "Xiangfeng Gas Station",
+    "lat": 25.143129,
+    "lng": 121.76535
+  },
+  "KEE306515": {
+    "name_zh": "祥豐加油站",
+    "name_en": "Xiangfeng Gas Station",
+    "lat": 25.143569,
+    "lng": 121.766052
+  },
+  "KEE306516": {
+    "name_zh": "祥豐市場",
+    "name_en": "Xiangfeng Market",
+    "lat": 25.142445,
+    "lng": 121.76453
+  },
+  "KEE306517": {
+    "name_zh": "祥豐市場",
+    "name_en": "Xiangfeng Market",
+    "lat": 25.14214,
+    "lng": 121.76423
+  },
+  "KEE306518": {
+    "name_zh": "天主堂",
+    "name_en": "Church",
+    "lat": 25.141437,
+    "lng": 121.761604
+  },
+  "KEE306519": {
+    "name_zh": "天主堂",
+    "name_en": "Church",
+    "lat": 25.141141,
+    "lng": 121.761548
+  },
+  "KEE306520": {
+    "name_zh": "市府宿舍",
+    "name_en": "Keelung City Dormitory",
+    "lat": 25.14788,
+    "lng": 121.7709
+  },
+  "KEE306521": {
+    "name_zh": "崇法國宅",
+    "name_en": "Chongfa Public Housing",
+    "lat": 25.134983,
+    "lng": 121.768316
+  },
+  "KEE306522": {
+    "name_zh": "新桃花源社區",
+    "name_en": "New Taohuayuan Community",
+    "lat": 25.133089,
+    "lng": 121.763069
+  },
+  "KEE306523": {
+    "name_zh": "圓窗口",
+    "name_en": "Yuanchuangkou",
+    "lat": 25.128871,
+    "lng": 121.779263
+  },
+  "KEE306524": {
+    "name_zh": "圓窗口",
+    "name_en": "Yuanchuangkou",
+    "lat": 25.12891,
+    "lng": 121.77893
+  },
+  "KEE306525": {
+    "name_zh": "獅子園",
+    "name_en": "Shiziyuan",
+    "lat": 25.130528,
+    "lng": 121.77719
+  },
+  "KEE306526": {
+    "name_zh": "國家新城",
+    "name_en": "Guojiaxincheng",
+    "lat": 25.127541,
+    "lng": 121.713715
+  },
+  "KEE306527": {
+    "name_zh": "國家新城",
+    "name_en": "Guojiaxincheng",
+    "lat": 25.12719,
+    "lng": 121.713753
+  },
+  "KEE306528": {
+    "name_zh": "獅子園",
+    "name_en": "Shiziyuan",
+    "lat": 25.130678,
+    "lng": 121.77728
+  },
+  "KEE306529": {
+    "name_zh": "龍騰大地社區",
+    "name_en": "Longtengdadi Community",
+    "lat": 25.128881,
+    "lng": 121.718873
+  },
+  "KEE306530": {
+    "name_zh": "深澳坑路6巷口",
+    "name_en": "Ln. 6 Shenaokeng Rd. Intersection (Xiecheng Coal Mine)",
+    "lat": 25.133329,
+    "lng": 121.77713
+  },
+  "KEE306531": {
+    "name_zh": "深澳坑路6巷口",
+    "name_en": "Ln. 6 Shenaokeng Rd. Intersection (Xiecheng Coal Mine)",
+    "lat": 25.13331,
+    "lng": 121.776863
+  },
+  "KEE306532": {
+    "name_zh": "安和一街(土地公廟)(返)",
+    "name_en": "Anhe 1st St.(Tudi Gong Temple)",
+    "lat": 25.12278,
+    "lng": 121.722854
+  },
+  "KEE306533": {
+    "name_zh": "安和一街(土地公廟)",
+    "name_en": "Anhe 1st St.(Tudi Gong Temple)",
+    "lat": 25.122835,
+    "lng": 121.722954
+  },
+  "KEE306534": {
+    "name_zh": "安和一街口",
+    "name_en": "Anhe 1st St. Intersection",
+    "lat": 25.124286,
+    "lng": 121.72279
+  },
+  "KEE306535": {
+    "name_zh": "建德國小",
+    "name_en": "Jiande Elementary School",
+    "lat": 25.125128,
+    "lng": 121.722474
+  },
+  "KEE306536": {
+    "name_zh": "安和一街271巷",
+    "name_en": "Ln. 271 Anhe 1st St.",
+    "lat": 25.126243,
+    "lng": 121.722073
+  },
+  "KEE306537": {
+    "name_zh": "建德國中",
+    "name_en": "Jiande Junior High School",
+    "lat": 25.127431,
+    "lng": 121.722274
+  },
+  "KEE306538": {
+    "name_zh": "建德山莊",
+    "name_en": "Jiandeshanzhuang",
+    "lat": 25.128629,
+    "lng": 121.723548
+  },
+  "KEE306539": {
+    "name_zh": "安和一街131巷",
+    "name_en": "Ln. 131 Anhe 1st St.",
+    "lat": 25.126516,
+    "lng": 121.724483
+  },
+  "KEE306540": {
+    "name_zh": "安和一街123巷",
+    "name_en": "Ln. 123 Anhe 1st St.",
+    "lat": 25.125383,
+    "lng": 121.72335
+  },
+  "KEE306541": {
+    "name_zh": "自強橋頭",
+    "name_en": "Ziqiang Bridge",
+    "lat": 25.11958,
+    "lng": 121.72302
+  },
+  "KEE306542": {
+    "name_zh": "富景天下社區",
+    "name_en": "Fujingtianxia Community",
+    "lat": 25.11641,
+    "lng": 121.7261
+  },
+  "KEE306543": {
+    "name_zh": "八堵橋",
+    "name_en": "Badu Bridge",
+    "lat": 25.110336,
+    "lng": 121.734053
+  },
+  "KEE306544": {
+    "name_zh": "國安路口",
+    "name_en": "Guoan Rd. Intersection",
+    "lat": 25.111763,
+    "lng": 121.734731
+  },
+  "KEE306545": {
+    "name_zh": "美的世界社區",
+    "name_en": "Beautiful World Community",
+    "lat": 25.136539,
+    "lng": 121.773757
+  },
+  "KEE306546": {
+    "name_zh": "美的世界社區",
+    "name_en": "Beautiful World Community",
+    "lat": 25.136629,
+    "lng": 121.77362
+  },
+  "KEE306547": {
+    "name_zh": "大香港社區",
+    "name_en": "Daxianggang Community",
+    "lat": 25.136909,
+    "lng": 121.771072
+  },
+  "KEE306548": {
+    "name_zh": "安和一街137巷",
+    "name_en": "Ln. 137 Anhe 1st St.",
+    "lat": 25.127616,
+    "lng": 121.724883
+  },
+  "KEE306549": {
+    "name_zh": "大香港社區",
+    "name_en": "Daxianggang Community",
+    "lat": 25.13715,
+    "lng": 121.77147
+  },
+  "KEE306550": {
+    "name_zh": "金鳳宮",
+    "name_en": "Jinfeng Temple",
+    "lat": 25.135629,
+    "lng": 121.770782
+  },
+  "KEE306551": {
+    "name_zh": "基隆漁會",
+    "name_en": "Keelung District Fishmens` Association",
+    "lat": 25.14116,
+    "lng": 121.79287
+  },
+  "KEE306552": {
+    "name_zh": "金鳳宮",
+    "name_en": "Jinfeng Temple",
+    "lat": 25.135719,
+    "lng": 121.770881
+  },
+  "KEE306553": {
+    "name_zh": "翠峰山莊",
+    "name_en": "Cuifengshanzhuang Community",
+    "lat": 25.131871,
+    "lng": 121.770495
+  },
+  "KEE306554": {
+    "name_zh": "翠峰山莊",
+    "name_en": "Cuifengshanzhuang Community",
+    "lat": 25.13184,
+    "lng": 121.769996
+  },
+  "KEE306555": {
+    "name_zh": "環保局(信義大街)",
+    "name_en": "Environment Protection Bureau (Shinyi St.)",
+    "lat": 25.13113,
+    "lng": 121.76876
+  },
+  "KEE306556": {
+    "name_zh": "基隆監獄",
+    "name_en": "Keelung Jail",
+    "lat": 25.130421,
+    "lng": 121.767973
+  },
+  "KEE306557": {
+    "name_zh": "草濫",
+    "name_en": "Caolan",
+    "lat": 25.090223,
+    "lng": 121.707033
+  },
+  "KEE306558": {
+    "name_zh": "草濫",
+    "name_en": "Caolan",
+    "lat": 25.090105,
+    "lng": 121.707071
+  },
+  "KEE306559": {
+    "name_zh": "基隆監獄",
+    "name_en": "Keelung Jail",
+    "lat": 25.130446,
+    "lng": 121.767858
+  },
+  "KEE306560": {
+    "name_zh": "幸福人生社區",
+    "name_en": "Xingfurensheng Community",
+    "lat": 25.088913,
+    "lng": 121.705176
+  },
+  "KEE306561": {
+    "name_zh": "信中後站",
+    "name_en": "Sinyi Junior High School Rear Station",
+    "lat": 25.12941,
+    "lng": 121.767513
+  },
+  "KEE306562": {
+    "name_zh": "幸福人生社區",
+    "name_en": "Xingfurensheng Community",
+    "lat": 25.088756,
+    "lng": 121.705228
+  },
+  "KEE306563": {
+    "name_zh": "信中後站",
+    "name_en": "Sinyi Junior High School Rear Station",
+    "lat": 25.129605,
+    "lng": 121.767486
+  },
+  "KEE306564": {
+    "name_zh": "六堵嶺",
+    "name_en": "Liuduling",
+    "lat": 25.08723,
+    "lng": 121.705113
+  },
+  "KEE306565": {
+    "name_zh": "六堵嶺",
+    "name_en": "Liuduling",
+    "lat": 25.087298,
+    "lng": 121.70528
+  },
+  "KEE306566": {
+    "name_zh": "六堵加油站",
+    "name_en": "Liudu Gas Station",
+    "lat": 25.083696,
+    "lng": 121.703973
+  },
+  "KEE306567": {
+    "name_zh": "六堵科技園區服務中心",
+    "name_en": "Liudu Industry Park Service Center",
+    "lat": 25.087949,
+    "lng": 121.702491
+  },
+  "KEE306568": {
+    "name_zh": "市立體育館",
+    "name_en": "Keelung City Gymnasium",
+    "lat": 25.129126,
+    "lng": 121.755403
+  },
+  "KEE306569": {
+    "name_zh": "六堵科技園區",
+    "name_en": "Liudu Industry Park",
+    "lat": 25.091459,
+    "lng": 121.700279
+  },
+  "KEE306570": {
+    "name_zh": "監理站",
+    "name_en": "Keelung Motor Vehicles Supervision Station",
+    "lat": 25.088155,
+    "lng": 121.697625
+  },
+  "KEE306571": {
+    "name_zh": "百六街口",
+    "name_en": "Bai 6th St. Intersection",
+    "lat": 25.0849632,
+    "lng": 121.698619
+  },
+  "KEE306572": {
+    "name_zh": "百福國中",
+    "name_en": "Baifu Junior High School",
+    "lat": 25.082906,
+    "lng": 121.699148
+  },
+  "KEE306573": {
+    "name_zh": "福三街口",
+    "name_en": "Fu 3rd St. Intersection",
+    "lat": 25.0818273,
+    "lng": 121.698302
+  },
+  "KEE306574": {
+    "name_zh": "汙水處理廠",
+    "name_en": "Keelung City Water Treatment Plant",
+    "lat": 25.082365,
+    "lng": 121.703656
+  },
+  "KEE306575": {
+    "name_zh": "福二街口",
+    "name_en": "Fu 2nd St. Intersection",
+    "lat": 25.0818123,
+    "lng": 121.696832
+  },
+  "KEE306576": {
+    "name_zh": "百三街口",
+    "name_en": "Bai 3rd St. Intersection",
+    "lat": 25.0817796,
+    "lng": 121.695594
+  },
+  "KEE306577": {
+    "name_zh": "百福火車站",
+    "name_en": "Baifu Railway Station",
+    "lat": 25.077924,
+    "lng": 121.693539
+  },
+  "KEE306578": {
+    "name_zh": "威鎮八方社區",
+    "name_en": "Weizhenbafang Community",
+    "lat": 25.13451,
+    "lng": 121.762481
+  },
+  "KEE306589": {
+    "name_zh": "正榮街",
+    "name_en": "Zhengrong St.",
+    "lat": 25.14632,
+    "lng": 121.762495
+  },
+  "KEE306590": {
+    "name_zh": "東峰街口(孝德里里民會堂)",
+    "name_en": "Dongfeng St. Intersection (Shiaude Villagers Meeting Hall)",
+    "lat": 25.130521,
+    "lng": 121.776881
+  },
+  "KEE306591": {
+    "name_zh": "東峰街96巷口",
+    "name_en": "Ln. 96 Dongfeng St. Intersection",
+    "lat": 25.131423,
+    "lng": 121.775705
+  },
+  "KEE306592": {
+    "name_zh": "東峰街51號",
+    "name_en": "No.51 Dongfeng St.",
+    "lat": 25.132261,
+    "lng": 121.774578
+  },
+  "KEE306593": {
+    "name_zh": "東峰街150號",
+    "name_en": "No.150 Dongfeng St.",
+    "lat": 25.13067,
+    "lng": 121.77679
+  },
+  "KEE306594": {
+    "name_zh": "東峰街100號",
+    "name_en": "No.100 Dongfeng St.",
+    "lat": 25.13149,
+    "lng": 121.775705
+  },
+  "KEE306595": {
+    "name_zh": "東峰街52巷口",
+    "name_en": "Ln. 52 Dongfeng St. Intersection",
+    "lat": 25.132248,
+    "lng": 121.774591
+  },
+  "KEE306596": {
+    "name_zh": "富貴社區",
+    "name_en": "Fuguei Community",
+    "lat": 25.132978,
+    "lng": 121.773618
+  },
+  "KEE306597": {
+    "name_zh": "七堵分站",
+    "name_en": "Qidu Substation",
+    "lat": 25.097375,
+    "lng": 121.710168
+  },
+  "KEE306598": {
+    "name_zh": "富貴社區",
+    "name_en": "Fuguei Community",
+    "lat": 25.132873,
+    "lng": 121.773823
+  },
+  "KEE306599": {
+    "name_zh": "正濱國中",
+    "name_en": "Zhengbin Junior High School",
+    "lat": 25.145766,
+    "lng": 121.762833
+  },
+  "KEE306600": {
+    "name_zh": "三軍總醫院基隆分院",
+    "name_en": "Tri-Service General Hospital of Keelung",
+    "lat": 25.144528,
+    "lng": 121.762738
+  },
+  "KEE306601": {
+    "name_zh": "建心新城",
+    "name_en": "Jianxinxincheng",
+    "lat": 25.142248,
+    "lng": 121.763673
+  },
+  "KEE306602": {
+    "name_zh": "仁愛區行政中心",
+    "name_en": "Renai District Office",
+    "lat": 25.124965,
+    "lng": 121.73653
+  },
+  "KEE306603": {
+    "name_zh": "百福國中",
+    "name_en": "Baifu Junior High School",
+    "lat": 25.08311,
+    "lng": 121.69893
+  },
+  "KEE306604": {
+    "name_zh": "百六街口",
+    "name_en": "Bai 6th St. Intersection",
+    "lat": 25.0854029,
+    "lng": 121.6982818
+  },
+  "KEE306605": {
+    "name_zh": "消防隊",
+    "name_en": "Fire Department",
+    "lat": 25.085634,
+    "lng": 121.697226
+  },
+  "KEE306606": {
+    "name_zh": "百七街口",
+    "name_en": "Bai 7th St. Intersection",
+    "lat": 25.0860007,
+    "lng": 121.6944992
+  },
+  "KEE306607": {
+    "name_zh": "福一街口",
+    "name_en": "Fu 1st St. Intersection",
+    "lat": 25.0847964,
+    "lng": 121.694615
+  },
+  "KEE306608": {
+    "name_zh": "百福宮",
+    "name_en": "Baifu Temple",
+    "lat": 25.0829739,
+    "lng": 121.69498
+  },
+  "KEE306621": {
+    "name_zh": "正濱漁港(和平橋頭原民會館)",
+    "name_en": "Keelung City Indigenous Cultural Hall",
+    "lat": 25.153243,
+    "lng": 121.769674
+  },
+  "KEE306622": {
+    "name_zh": "正濱漁港(和平橋頭原民會館)",
+    "name_en": "Keelung City Indigenous Cultural Hall",
+    "lat": 25.1530069,
+    "lng": 121.7695575
+  },
+  "KEE306623": {
+    "name_zh": "和平島",
+    "name_en": "Heping Island",
+    "lat": 25.15642,
+    "lng": 121.76482
+  },
+  "KEE306624": {
+    "name_zh": "八斗子漁港(碧砂泊區漁貨直銷中心)",
+    "name_en": "Badouzi Fish Harbor",
+    "lat": 25.14389948,
+    "lng": 121.7866647
+  },
+  "KEE306625": {
+    "name_zh": "八斗子漁港(碧砂泊區漁貨直銷中心)",
+    "name_en": "Badouzi Fish Harbor",
+    "lat": 25.14475,
+    "lng": 121.78555
+  },
+  "KEE306626": {
+    "name_zh": "海洋科技博物館(潮境公園碧水巷)",
+    "name_en": "National Museum Of Marine Science &amp; Technology (Chaojing Park)",
+    "lat": 25.139927,
+    "lng": 121.799405
+  },
+  "KEE306627": {
+    "name_zh": "海洋科技博物館(潮境公園碧水巷)",
+    "name_en": "National Museum Of Marine Science &amp; Technology (Chaojing Park)",
+    "lat": 25.14016,
+    "lng": 121.79949
+  },
+  "KEE306628": {
+    "name_zh": "八斗子車站",
+    "name_en": "Badouzi Railway Station",
+    "lat": 25.13662303,
+    "lng": 121.8019779
+  },
+  "KEE306629": {
+    "name_zh": "八斗子車站",
+    "name_en": "Badouzi Railway Station",
+    "lat": 25.13662303,
+    "lng": 121.8019779
+  },
+  "KEE306633": {
+    "name_zh": "和平島地質公園入口",
+    "name_en": "Heping Island Park Entrance",
+    "lat": 25.160741,
+    "lng": 121.763475
+  },
+  "KEE306634": {
+    "name_zh": "四腳亭分站",
+    "name_en": "Sijiaoting Substation",
+    "lat": 25.098562,
+    "lng": 121.763109
+  },
+  "KEE306635": {
+    "name_zh": "四腳亭",
+    "name_en": "Sijiaoting",
+    "lat": 25.099075,
+    "lng": 121.76069
+  },
+  "KEE306636": {
+    "name_zh": "四腳亭",
+    "name_en": "Sijiaoting",
+    "lat": 25.098983,
+    "lng": 121.760908
+  },
+  "KEE306637": {
+    "name_zh": "寶祥吉祥",
+    "name_en": "Baoxiangjixiang",
+    "lat": 25.099584,
+    "lng": 121.758578
+  },
+  "KEE306638": {
+    "name_zh": "寶祥吉祥",
+    "name_en": "Baoxiangjixiang",
+    "lat": 25.099469,
+    "lng": 121.75835
+  },
+  "KEE306639": {
+    "name_zh": "世界貨櫃",
+    "name_en": "World Goods Container",
+    "lat": 25.099073,
+    "lng": 121.746995
+  },
+  "KEE306640": {
+    "name_zh": "世界貨櫃",
+    "name_en": "World Goods Container",
+    "lat": 25.0987,
+    "lng": 121.747316
+  },
+  "KEE306641": {
+    "name_zh": "源遠橋頭",
+    "name_en": "Yuanyuan Bridge",
+    "lat": 25.102433,
+    "lng": 121.741167
+  },
+  "KEE306643": {
+    "name_zh": "暖江橋頭",
+    "name_en": "Nuanjiang Bridge",
+    "lat": 25.102596,
+    "lng": 121.740781
+  },
+  "KEE306644": {
+    "name_zh": "暖江橋頭",
+    "name_en": "Nuanjiang Bridge",
+    "lat": 25.102375,
+    "lng": 121.741151
+  },
+  "KEE306646": {
+    "name_zh": "海會寺",
+    "name_en": "Haihui Temple",
+    "lat": 25.110533,
+    "lng": 121.736523
+  },
+  "KEE306647": {
+    "name_zh": "海會寺",
+    "name_en": "Haihui Temple",
+    "lat": 25.110883,
+    "lng": 121.735983
+  },
+  "KEE306648": {
+    "name_zh": "南榮公墓(英仁里)",
+    "name_en": "Nanrong Cemetery",
+    "lat": 25.113053,
+    "lng": 121.740453
+  },
+  "KEE306649": {
+    "name_zh": "南榮公墓(英仁里)",
+    "name_en": "Nanrong Cemetery",
+    "lat": 25.112833,
+    "lng": 121.739698
+  },
+  "KEE306650": {
+    "name_zh": "寶明寺",
+    "name_en": "Baoming Temple",
+    "lat": 25.115158,
+    "lng": 121.743128
+  },
+  "KEE306651": {
+    "name_zh": "寶明寺",
+    "name_en": "Baoming Temple",
+    "lat": 25.115418,
+    "lng": 121.742988
+  },
+  "KEE306652": {
+    "name_zh": "蓬萊隧道北口",
+    "name_en": "Penglai Tunnel N. Exit",
+    "lat": 25.118391,
+    "lng": 121.743656
+  },
+  "KEE306653": {
+    "name_zh": "安樂路一段81巷口",
+    "name_en": "Entrance to Lane 81, Section 1, Anle Road",
+    "lat": 25.1292,
+    "lng": 121.734995
+  },
+  "KEE306654": {
+    "name_zh": "源遠路76-1號(暖暖火車站)",
+    "name_en": "No.76-1 Yuanyuan Rd.(Nuannuan Station)",
+    "lat": 25.102726,
+    "lng": 121.739448
+  },
+  "KEE306655": {
+    "name_zh": "南榮國小",
+    "name_en": "Nanrong Elementary School",
+    "lat": 25.120889,
+    "lng": 121.743309
+  },
+  "KEE306656": {
+    "name_zh": "南榮國小",
+    "name_en": "Nanrong Elementary School",
+    "lat": 25.119909,
+    "lng": 121.74324
+  },
+  "KEE306657": {
+    "name_zh": "三坑",
+    "name_en": "Sankeng",
+    "lat": 25.123108,
+    "lng": 121.742954
+  },
+  "KEE306658": {
+    "name_zh": "三坑",
+    "name_en": "Sankeng",
+    "lat": 25.123435,
+    "lng": 121.742929
+  },
+  "KEE306659": {
+    "name_zh": "南榮路口",
+    "name_en": "Nanrong Rd. Intersection",
+    "lat": 25.126478,
+    "lng": 121.742603
+  },
+  "KEE306660": {
+    "name_zh": "南榮路口",
+    "name_en": "Nanrong Rd. Intersection",
+    "lat": 25.126693,
+    "lng": 121.741976
+  },
+  "KEE306661": {
+    "name_zh": "基隆火車站(南站)",
+    "name_en": "Keelung Railway Station S.",
+    "lat": 25.13128,
+    "lng": 121.73867
+  },
+  "KEE306662": {
+    "name_zh": "蓬萊隧道北口",
+    "name_en": "Penglai Tunnel N. Exit",
+    "lat": 25.118627,
+    "lng": 121.74357
+  },
+  "KEE306663": {
+    "name_zh": "源遠橋頭",
+    "name_en": "Yuanyuan Bridge",
+    "lat": 25.102561,
+    "lng": 121.740792
+  },
+  "KEE306664": {
+    "name_zh": "暖暖分站(調度站)",
+    "name_en": "Nuannuan Substation",
+    "lat": 25.103478,
+    "lng": 121.737231
+  },
+  "KEE306665": {
+    "name_zh": "威德廟",
+    "name_en": "Weide Temple",
+    "lat": 25.103266,
+    "lng": 121.737054
+  },
+  "KEE306666": {
+    "name_zh": "暖暖火車站",
+    "name_en": "Nuannuan Station",
+    "lat": 25.102386,
+    "lng": 121.739538
+  },
+  "KEE306667": {
+    "name_zh": "暖暖火車站(回)",
+    "name_en": "Nuannuan Station",
+    "lat": 25.102365,
+    "lng": 121.73962
+  },
+  "KEE306669": {
+    "name_zh": "暖暖國小",
+    "name_en": "Keelung Municipal Nuannuan Elementary School",
+    "lat": 25.1005,
+    "lng": 121.736849
+  },
+  "KEE306670": {
+    "name_zh": "東勢街土地廟",
+    "name_en": "Dongshih St. (Tudi Temple)",
+    "lat": 25.099569,
+    "lng": 121.736595
+  },
+  "KEE306671": {
+    "name_zh": "東勢街土地廟",
+    "name_en": "Dongshih St. (Tudi Temple)",
+    "lat": 25.099537,
+    "lng": 121.736777
+  },
+  "KEE306672": {
+    "name_zh": "暖暖街16巷口",
+    "name_en": "Ln. 16 Nuannuan St. Intersection",
+    "lat": 25.101629,
+    "lng": 121.737974
+  },
+  "KEE306673": {
+    "name_zh": "暖暖街16巷口(返)",
+    "name_en": "Ln. 16 Nuannuan St. Intersection",
+    "lat": 25.101629,
+    "lng": 121.737974
+  },
+  "KEE306674": {
+    "name_zh": "暖暖國小(返)",
+    "name_en": "Keelung Municipal Nuannuan Elementary School",
+    "lat": 25.1005,
+    "lng": 121.736849
+  },
+  "KEE306675": {
+    "name_zh": "環翠名盧",
+    "name_en": "Huancuiminglu",
+    "lat": 25.098358,
+    "lng": 121.73821
+  },
+  "KEE306676": {
+    "name_zh": "環翠名盧",
+    "name_en": "Huancuiminglu",
+    "lat": 25.098536,
+    "lng": 121.73827
+  },
+  "KEE306677": {
+    "name_zh": "碧嵐大地社區",
+    "name_en": "Bilandadi Community",
+    "lat": 25.096268,
+    "lng": 121.738844
+  },
+  "KEE306678": {
+    "name_zh": "暖暖聖光堂",
+    "name_en": "Nuan Holy Light Baptist Church",
+    "lat": 25.093239,
+    "lng": 121.738905
+  },
+  "KEE306679": {
+    "name_zh": "東勢街1-1號",
+    "name_en": "No.1-1 Dongshih St.",
+    "lat": 25.098808,
+    "lng": 121.737722
+  },
+  "KEE306680": {
+    "name_zh": "十八號碼頭",
+    "name_en": "No. 18 Wharf",
+    "lat": 25.144718,
+    "lng": 121.74967
+  },
+  "KEE306681": {
+    "name_zh": "十八號碼頭",
+    "name_en": "No. 18 Wharf",
+    "lat": 25.144511,
+    "lng": 121.749848
+  },
+  "KEE306682": {
+    "name_zh": "十六號碼頭",
+    "name_en": "No. 16 Wharf",
+    "lat": 25.141891,
+    "lng": 121.746828
+  },
+  "KEE306683": {
+    "name_zh": "中正路正濱路口",
+    "name_en": "Zhongzheng &amp; Zhengbin Rd.Intersection",
+    "lat": 25.151611,
+    "lng": 121.770686
+  },
+  "KEE306684": {
+    "name_zh": "十六號碼頭",
+    "name_en": "No. 16 Wharf",
+    "lat": 25.14189,
+    "lng": 121.746905
+  },
+  "KEE306685": {
+    "name_zh": "十四號碼頭",
+    "name_en": "No. 14 Wharf",
+    "lat": 25.140388,
+    "lng": 121.744985
+  },
+  "KEE306688": {
+    "name_zh": "泰安路186之1號",
+    "name_en": "No.186-1 Taian Rd.",
+    "lat": 25.07913,
+    "lng": 121.710819
+  },
+  "KEE306689": {
+    "name_zh": "泰安路130號",
+    "name_en": "No.130 Taian Rd.",
+    "lat": 25.08109,
+    "lng": 121.70867
+  },
+  "KEE306690": {
+    "name_zh": "泰安路77號",
+    "name_en": "No.77 Taian Rd.",
+    "lat": 25.085286,
+    "lng": 121.708798
+  },
+  "KEE306691": {
+    "name_zh": "泰安里民活動中心",
+    "name_en": "Taian Village Activity Center",
+    "lat": 25.086454,
+    "lng": 121.711234
+  },
+  "KEE306692": {
+    "name_zh": "泰安公園",
+    "name_en": "Taian Park",
+    "lat": 25.088051,
+    "lng": 121.709332
+  },
+  "KEE306693": {
+    "name_zh": "泰安路23之12號",
+    "name_en": "No.23-12 Taian Rd.",
+    "lat": 25.089085,
+    "lng": 121.708603
+  },
+  "KEE306694": {
+    "name_zh": "自治街",
+    "name_en": "Zizhi St.",
+    "lat": 25.09573,
+    "lng": 121.713305
+  },
+  "KEE306695": {
+    "name_zh": "自治街",
+    "name_en": "Zizhi St.",
+    "lat": 25.096005,
+    "lng": 121.713113
+  },
+  "KEE306696": {
+    "name_zh": "教師研習中心",
+    "name_en": "Teachers` In-Service Education Center",
+    "lat": 25.094135,
+    "lng": 121.73536
+  },
+  "KEE306697": {
+    "name_zh": "教師研習中心",
+    "name_en": "Teachers` In-Service Education Center",
+    "lat": 25.09408,
+    "lng": 121.735231
+  },
+  "KEE306698": {
+    "name_zh": "暖暖火車站(返)",
+    "name_en": "Nuannuan Station",
+    "lat": 25.102365,
+    "lng": 121.73962
+  },
+  "KEE306699": {
+    "name_zh": "媽祖廟(安德宮)",
+    "name_en": "Mazu Temple (Ande Temple)",
+    "lat": 25.102113,
+    "lng": 121.738415
+  },
+  "KEE306700": {
+    "name_zh": "暖暖高中",
+    "name_en": "Nuannuan High School",
+    "lat": 25.10415,
+    "lng": 121.739583
+  },
+  "KEE306701": {
+    "name_zh": "暖暖高中",
+    "name_en": "Nuannuan High School",
+    "lat": 25.104108,
+    "lng": 121.739558
+  },
+  "KEE306702": {
+    "name_zh": "南七堵",
+    "name_en": "Nanqidu",
+    "lat": 25.096969,
+    "lng": 121.711729
+  },
+  "KEE306704": {
+    "name_zh": "陽明海運",
+    "name_en": "Yangming Marine Transport Corporation",
+    "lat": 25.09456,
+    "lng": 121.710476
+  },
+  "KEE306705": {
+    "name_zh": "光明路口",
+    "name_en": "Guangming Rd. Intersection",
+    "lat": 25.093056,
+    "lng": 121.710411
+  },
+  "KEE306707": {
+    "name_zh": "過港郵局",
+    "name_en": "Keelung Guogang Post Office",
+    "lat": 25.105673,
+    "lng": 121.737163
+  },
+  "KEE306708": {
+    "name_zh": "過港郵局",
+    "name_en": "Keelung Guogang Post Office",
+    "lat": 25.105846,
+    "lng": 121.73692
+  },
+  "KEE306710": {
+    "name_zh": "六堵科技園區服務中心",
+    "name_en": "Liudu Industry Park Service Center",
+    "lat": 25.087989,
+    "lng": 121.702667
+  },
+  "KEE306711": {
+    "name_zh": "中漁新村",
+    "name_en": "Zhongyuxincun",
+    "lat": 25.107536,
+    "lng": 121.735921
+  },
+  "KEE306712": {
+    "name_zh": "中漁新村",
+    "name_en": "Zhongyuxincun",
+    "lat": 25.107331,
+    "lng": 121.736011
+  },
+  "KEE306713": {
+    "name_zh": "六堵代天府",
+    "name_en": "Liudu Daitian Temple",
+    "lat": 25.09001,
+    "lng": 121.701478
+  },
+  "KEE306715": {
+    "name_zh": "六堵科技園區",
+    "name_en": "Liudu Industry Park",
+    "lat": 25.09151,
+    "lng": 121.700439
+  },
+  "KEE306716": {
+    "name_zh": "指修宮",
+    "name_en": "Zhixiu Temple",
+    "lat": 25.108926,
+    "lng": 121.734488
+  },
+  "KEE306717": {
+    "name_zh": "工建西路22號",
+    "name_en": "No.22 Gongjian W. Rd.",
+    "lat": 25.094143,
+    "lng": 121.701413
+  },
+  "KEE306718": {
+    "name_zh": "指修宮",
+    "name_en": "Zhixiu Temple",
+    "lat": 25.108715,
+    "lng": 121.734565
+  },
+  "KEE306719": {
+    "name_zh": "六堵水廠",
+    "name_en": "Liudu Waterworks",
+    "lat": 25.094875,
+    "lng": 121.702745
+  },
+  "KEE306720": {
+    "name_zh": "暖暖國小",
+    "name_en": "Keelung Municipal Nuannuan Elementary School",
+    "lat": 25.100144,
+    "lng": 121.736716
+  },
+  "KEE306721": {
+    "name_zh": "俊賢路",
+    "name_en": "Junxian Rd.",
+    "lat": 25.095082,
+    "lng": 121.70629
+  },
+  "KEE306722": {
+    "name_zh": "海科館",
+    "name_en": "National Museum of Marine Science &amp;Technology",
+    "lat": 25.140145,
+    "lng": 121.80005
+  },
+  "KEE306723": {
+    "name_zh": "十號碼頭",
+    "name_en": "No. 10 Wharf",
+    "lat": 25.143405,
+    "lng": 121.742245
+  },
+  "KEE306724": {
+    "name_zh": "海三廠",
+    "name_en": "Third Naval Shipyard",
+    "lat": 25.144432,
+    "lng": 121.73863
+  },
+  "KEE306725": {
+    "name_zh": "海三廠",
+    "name_en": "Third Naval Shipyard",
+    "lat": 25.144706,
+    "lng": 121.739121
+  },
+  "KEE306726": {
+    "name_zh": "健民街口",
+    "name_en": "Jianmin St. Intersection",
+    "lat": 25.14188,
+    "lng": 121.738675
+  },
+  "KEE306727": {
+    "name_zh": "八號碼頭",
+    "name_en": "No. 8 Wharf",
+    "lat": 25.14044,
+    "lng": 121.739326
+  },
+  "KEE306728": {
+    "name_zh": "中山區衛生所",
+    "name_en": "Health Center of Zhongshan District",
+    "lat": 25.137335,
+    "lng": 121.740901
+  },
+  "KEE306729": {
+    "name_zh": "中山區衛生所",
+    "name_en": "Health Center of Zhongshan District",
+    "lat": 25.137702,
+    "lng": 121.74106
+  },
+  "KEE306730": {
+    "name_zh": "碼頭工會",
+    "name_en": "Longshoremen’s Association",
+    "lat": 25.135696,
+    "lng": 121.74082
+  },
+  "KEE306731": {
+    "name_zh": "碼頭工會",
+    "name_en": "Longshoremen’s Association",
+    "lat": 25.13562,
+    "lng": 121.740376
+  },
+  "KEE306732": {
+    "name_zh": "民治里活動中心",
+    "name_en": "Minzhi Village Activity Center",
+    "lat": 25.134357,
+    "lng": 121.739517
+  },
+  "KEE306733": {
+    "name_zh": "中山橋(高砂橋)",
+    "name_en": "Zhongshan Bridge (Gaosha Bridge)",
+    "lat": 25.132242,
+    "lng": 121.738121
+  },
+  "KEE306735": {
+    "name_zh": "三十一號橋",
+    "name_en": "No. 31 Bridge",
+    "lat": 25.130132,
+    "lng": 121.736743
+  },
+  "KEE306736": {
+    "name_zh": "三十一號橋",
+    "name_en": "No. 31 Bridge",
+    "lat": 25.13024,
+    "lng": 121.736985
+  },
+  "KEE306737": {
+    "name_zh": "孝二路",
+    "name_en": "Xiao 2nd Rd.",
+    "lat": 25.129851,
+    "lng": 121.740275
+  },
+  "KEE306739": {
+    "name_zh": "八號碼頭",
+    "name_en": "No. 8 Wharf",
+    "lat": 25.140505,
+    "lng": 121.73966
+  },
+  "KEE306740": {
+    "name_zh": "健民街口",
+    "name_en": "Jianmin St. Intersection",
+    "lat": 25.141964,
+    "lng": 121.73898
+  },
+  "KEE306741": {
+    "name_zh": "光華隧道口",
+    "name_en": "Guanghua Tunnel",
+    "lat": 25.150992,
+    "lng": 121.74354
+  },
+  "KEE306782": {
+    "name_zh": "高遠新村",
+    "name_en": "Gaoyuanxincun",
+    "lat": 25.142165,
+    "lng": 121.74525
+  },
+  "KEE306783": {
+    "name_zh": "高遠新村",
+    "name_en": "Gaoyuanxincun",
+    "lat": 25.142055,
+    "lng": 121.74524
+  },
+  "KEE306784": {
+    "name_zh": "中和國宅",
+    "name_en": "Zhonghe Public Housing",
+    "lat": 25.144229,
+    "lng": 121.744851
+  },
+  "KEE306785": {
+    "name_zh": "聖安宮",
+    "name_en": "Shenan Temple",
+    "lat": 25.144034,
+    "lng": 121.747459
+  },
+  "KEE306786": {
+    "name_zh": "中華路口",
+    "name_en": "Zhonghua Rd. Intersection",
+    "lat": 25.145446,
+    "lng": 121.73879
+  },
+  "KEE306787": {
+    "name_zh": "中華路口",
+    "name_en": "Zhonghua Rd. Intersection",
+    "lat": 25.145471,
+    "lng": 121.738636
+  },
+  "KEE306790": {
+    "name_zh": "中華國小",
+    "name_en": "Zhonghua Elementary School",
+    "lat": 25.14762,
+    "lng": 121.7382
+  },
+  "KEE306791": {
+    "name_zh": "中華國小",
+    "name_en": "Zhonghua Elementary School",
+    "lat": 25.147373,
+    "lng": 121.738161
+  },
+  "KEE306793": {
+    "name_zh": "恩寶禪寺",
+    "name_en": "Enbao Zen Temple",
+    "lat": 25.104747,
+    "lng": 121.742475
+  },
+  "KEE306795": {
+    "name_zh": "圓滿社區",
+    "name_en": "Yuanman Community",
+    "lat": 25.104553,
+    "lng": 121.741016
+  },
+  "KEE306796": {
+    "name_zh": "圓滿社區",
+    "name_en": "Yuanman Community",
+    "lat": 25.103731,
+    "lng": 121.741131
+  },
+  "KEE306797": {
+    "name_zh": "忠勇之家",
+    "name_en": "Home of Loyalty &amp; Brave",
+    "lat": 25.149385,
+    "lng": 121.737274
+  },
+  "KEE306798": {
+    "name_zh": "忠勇之家",
+    "name_en": "Home of Loyalty &amp; Brave",
+    "lat": 25.149215,
+    "lng": 121.737228
+  },
+  "KEE306799": {
+    "name_zh": "台肥基隆一廠",
+    "name_en": "Keelung Taifei Factory",
+    "lat": 25.15039,
+    "lng": 121.73681
+  },
+  "KEE306800": {
+    "name_zh": "台肥基隆一廠",
+    "name_en": "Keelung Taifei Factory",
+    "lat": 25.150658,
+    "lng": 121.73623
+  },
+  "KEE306801": {
+    "name_zh": "公誠二村",
+    "name_en": "Gongchengercun",
+    "lat": 25.152171,
+    "lng": 121.736561
+  },
+  "KEE306802": {
+    "name_zh": "公誠二村",
+    "name_en": "Gongchengercun",
+    "lat": 25.152236,
+    "lng": 121.73628
+  },
+  "KEE306803": {
+    "name_zh": "安樂市場",
+    "name_en": "Anle Market",
+    "lat": 25.132045,
+    "lng": 121.733771
+  },
+  "KEE306804": {
+    "name_zh": "安樂國小",
+    "name_en": "Anle Elementary School",
+    "lat": 25.132426,
+    "lng": 121.732518
+  },
+  "KEE306805": {
+    "name_zh": "慈雲寺",
+    "name_en": "Ciyun Temple",
+    "lat": 25.132693,
+    "lng": 121.731043
+  },
+  "KEE306806": {
+    "name_zh": "干城新村",
+    "name_en": "Ganchengxincun",
+    "lat": 25.132328,
+    "lng": 121.728358
+  },
+  "KEE306807": {
+    "name_zh": "安樂高中",
+    "name_en": "Anle Senior High School",
+    "lat": 25.133891,
+    "lng": 121.729548
+  },
+  "KEE306808": {
+    "name_zh": "協和里",
+    "name_en": "Xiehe Village",
+    "lat": 25.153761,
+    "lng": 121.734321
+  },
+  "KEE306809": {
+    "name_zh": "協和里",
+    "name_en": "Xiehe Village",
+    "lat": 25.153625,
+    "lng": 121.734184
+  },
+  "KEE306810": {
+    "name_zh": "仁愛之家",
+    "name_en": "Senior Citizens Home of Compassion",
+    "lat": 25.134283,
+    "lng": 121.72855
+  },
+  "KEE306811": {
+    "name_zh": "中山高中",
+    "name_en": "Zhongshan Senior High School",
+    "lat": 25.154306,
+    "lng": 121.732238
+  },
+  "KEE306812": {
+    "name_zh": "安一路387號",
+    "name_en": "No. 387 Anyi Rd.",
+    "lat": 25.133845,
+    "lng": 121.727
+  },
+  "KEE306813": {
+    "name_zh": "君茂食品",
+    "name_en": "Junmao Foodstuff",
+    "lat": 25.134966,
+    "lng": 121.725233
+  },
+  "KEE306814": {
+    "name_zh": "鶯歌里(安一路口)",
+    "name_en": "Yingge Village (An 1st Rd.)",
+    "lat": 25.135741,
+    "lng": 121.724203
+  },
+  "KEE306815": {
+    "name_zh": "中山區行政大樓",
+    "name_en": "Administration Building of Zhongshan District",
+    "lat": 25.15279,
+    "lng": 121.729919
+  },
+  "KEE306816": {
+    "name_zh": "新山淨水場",
+    "name_en": "Hsinshan Water Purification Station",
+    "lat": 25.132995,
+    "lng": 121.72028
+  },
+  "KEE306817": {
+    "name_zh": "八德路",
+    "name_en": "Bade Rd.",
+    "lat": 25.112643,
+    "lng": 121.727563
+  },
+  "KEE306818": {
+    "name_zh": "尚仁國小",
+    "name_en": "Shangren Elementary School",
+    "lat": 25.110686,
+    "lng": 121.72683
+  },
+  "KEE306819": {
+    "name_zh": "八德路17巷口",
+    "name_en": "（Ln. 17 Bade Rd. Intersection）",
+    "lat": 25.105813,
+    "lng": 121.724741
+  },
+  "KEE306820": {
+    "name_zh": "復興公寓",
+    "name_en": "Fuxinggongyu",
+    "lat": 25.151594,
+    "lng": 121.728675
+  },
+  "KEE306821": {
+    "name_zh": "武隆街105巷",
+    "name_en": "Ln. 105 Wulong St.",
+    "lat": 25.158371,
+    "lng": 121.693885
+  },
+  "KEE306822": {
+    "name_zh": "復興公寓",
+    "name_en": "Fuxinggongyu",
+    "lat": 25.151344,
+    "lng": 121.728317
+  },
+  "KEE306823": {
+    "name_zh": "隆聖國小",
+    "name_en": "Longsheng Elementary School",
+    "lat": 25.15695,
+    "lng": 121.69478
+  },
+  "KEE306824": {
+    "name_zh": "武聖街口",
+    "name_en": "Wusheng St. Intersection",
+    "lat": 25.156541,
+    "lng": 121.69584
+  },
+  "KEE306825": {
+    "name_zh": "石山",
+    "name_en": "Shishan",
+    "lat": 25.15187,
+    "lng": 121.697765
+  },
+  "KEE306826": {
+    "name_zh": "大武崙工業區",
+    "name_en": "Tapurun Industry Park",
+    "lat": 25.14907,
+    "lng": 121.699916
+  },
+  "KEE306828": {
+    "name_zh": "恩寶禪寺",
+    "name_en": "Enbao Zen Temple",
+    "lat": 25.104715,
+    "lng": 121.742578
+  },
+  "KEE306829": {
+    "name_zh": "羅傑摩爾社區",
+    "name_en": "Luojiemoer Community",
+    "lat": 25.105997,
+    "lng": 121.742942
+  },
+  "KEE306830": {
+    "name_zh": "中山派出所(舊四分局)",
+    "name_en": "Zhongshan Police Office",
+    "lat": 25.13233,
+    "lng": 121.735461
+  },
+  "KEE306831": {
+    "name_zh": "慈雲寺",
+    "name_en": "Ciyun Temple",
+    "lat": 25.132676,
+    "lng": 121.731083
+  },
+  "KEE306832": {
+    "name_zh": "德育護理健康學院",
+    "name_en": "Deh Yu College of Nursing and Health",
+    "lat": 25.150199,
+    "lng": 121.727752
+  },
+  "KEE306833": {
+    "name_zh": "三層站",
+    "name_en": "Sanceng Bus Station",
+    "lat": 25.143834,
+    "lng": 121.702311
+  },
+  "KEE306834": {
+    "name_zh": "大武崙",
+    "name_en": "Tapurun",
+    "lat": 25.141878,
+    "lng": 121.704076
+  },
+  "KEE306835": {
+    "name_zh": "金山鐵店",
+    "name_en": "Jinshan Iron Stores",
+    "lat": 25.14195,
+    "lng": 121.708366
+  },
+  "KEE306836": {
+    "name_zh": "情人湖路口",
+    "name_en": "Lovers Lake Rd. Intersection",
+    "lat": 25.142005,
+    "lng": 121.709643
+  },
+  "KEE306837": {
+    "name_zh": "德育護理健康學院",
+    "name_en": "Deh Yu College of Nursing and Health",
+    "lat": 25.150241,
+    "lng": 121.7276
+  },
+  "KEE306838": {
+    "name_zh": "武嶺街口",
+    "name_en": "Wuling St.Intersection",
+    "lat": 25.140271,
+    "lng": 121.712
+  },
+  "KEE306839": {
+    "name_zh": "忠聯倉儲",
+    "name_en": "Zhonglian Warehouse",
+    "lat": 25.139406,
+    "lng": 121.715916
+  },
+  "KEE306840": {
+    "name_zh": "興寮里",
+    "name_en": "Xingliao Village",
+    "lat": 25.13866,
+    "lng": 121.718245
+  },
+  "KEE306841": {
+    "name_zh": "石皮瀨",
+    "name_en": "Shipilai",
+    "lat": 25.135871,
+    "lng": 121.720728
+  },
+  "KEE306842": {
+    "name_zh": "復興路283巷",
+    "name_en": "Ln. 283 Fuxing Rd.",
+    "lat": 25.14924,
+    "lng": 121.726608
+  },
+  "KEE306843": {
+    "name_zh": "復興路283巷",
+    "name_en": "Ln. 283 Fuxing Rd.",
+    "lat": 25.149381,
+    "lng": 121.726509
+  },
+  "KEE306844": {
+    "name_zh": "鶯歌里(八德路口)",
+    "name_en": "Yingge Village (Bade Rd.)",
+    "lat": 25.11482,
+    "lng": 121.727851
+  },
+  "KEE306845": {
+    "name_zh": "東安宮",
+    "name_en": "Dongan Temple",
+    "lat": 25.077163,
+    "lng": 121.755273
+  },
+  "KEE306846": {
+    "name_zh": "暖東峽谷",
+    "name_en": "Nuandong Valley",
+    "lat": 25.077218,
+    "lng": 121.754495
+  },
+  "KEE306847": {
+    "name_zh": "暖東峽谷",
+    "name_en": "Nuandong Valley",
+    "lat": 25.076998,
+    "lng": 121.754751
+  },
+  "KEE306848": {
+    "name_zh": "東勢街177號",
+    "name_en": "No.177 Dongshih St.",
+    "lat": 25.079326,
+    "lng": 121.753036
+  },
+  "KEE306849": {
+    "name_zh": "東勢街177號",
+    "name_en": "No.177 Dongshih St.",
+    "lat": 25.079268,
+    "lng": 121.75292
+  },
+  "KEE306850": {
+    "name_zh": "東勢坑二號橋",
+    "name_en": "Dongshikeng NO.2 Bridge",
+    "lat": 25.0796,
+    "lng": 121.75235
+  },
+  "KEE306851": {
+    "name_zh": "東勢坑二號橋",
+    "name_en": "Dongshikeng NO.2 Bridge",
+    "lat": 25.079703,
+    "lng": 121.751871
+  },
+  "KEE306852": {
+    "name_zh": "東勢坑",
+    "name_en": "Dongshikeng",
+    "lat": 25.081735,
+    "lng": 121.751128
+  },
+  "KEE306853": {
+    "name_zh": "東勢坑",
+    "name_en": "Dongshikeng",
+    "lat": 25.081763,
+    "lng": 121.750885
+  },
+  "KEE306854": {
+    "name_zh": "德安路口",
+    "name_en": "Dean Rd. Intersection",
+    "lat": 25.148395,
+    "lng": 121.725898
+  },
+  "KEE306855": {
+    "name_zh": "二坑",
+    "name_en": "Erkeng",
+    "lat": 25.08303,
+    "lng": 121.749566
+  },
+  "KEE306856": {
+    "name_zh": "後湖",
+    "name_en": "Houhu",
+    "lat": 25.086356,
+    "lng": 121.747468
+  },
+  "KEE306857": {
+    "name_zh": "後湖",
+    "name_en": "Houhu",
+    "lat": 25.086338,
+    "lng": 121.747238
+  },
+  "KEE306858": {
+    "name_zh": "東勢街71之2號",
+    "name_en": "No.2 of 71 Dongshih St.",
+    "lat": 25.086211,
+    "lng": 121.744766
+  },
+  "KEE306859": {
+    "name_zh": "東勢街71之2號",
+    "name_en": "No.2 of 71 Dongshih St.",
+    "lat": 25.0857,
+    "lng": 121.7456
+  },
+  "KEE306860": {
+    "name_zh": "義興社區",
+    "name_en": "Yixing Community",
+    "lat": 25.083591,
+    "lng": 121.748248
+  },
+  "KEE306861": {
+    "name_zh": "一心站",
+    "name_en": "Yixin Bus Station",
+    "lat": 25.086816,
+    "lng": 121.743883
+  },
+  "KEE306863": {
+    "name_zh": "東勢街49號",
+    "name_en": "No.49 Dongshih St.",
+    "lat": 25.088533,
+    "lng": 121.7427
+  },
+  "KEE306865": {
+    "name_zh": "東勢街41號",
+    "name_en": "No.41 Dongshih St.",
+    "lat": 25.090603,
+    "lng": 121.740965
+  },
+  "KEE306866": {
+    "name_zh": "東勢街41號",
+    "name_en": "No.41 Dongshih St.",
+    "lat": 25.090572,
+    "lng": 121.740878
+  },
+  "KEE306867": {
+    "name_zh": "環翠名盧",
+    "name_en": "Huancuiminglu",
+    "lat": 25.09853,
+    "lng": 121.73826
+  },
+  "KEE306868": {
+    "name_zh": "環翠名盧",
+    "name_en": "Huancuiminglu",
+    "lat": 25.09838,
+    "lng": 121.73819
+  },
+  "KEE306869": {
+    "name_zh": "德安路口",
+    "name_en": "Dean Rd. Intersection",
+    "lat": 25.1482041,
+    "lng": 121.7257889
+  },
+  "KEE306870": {
+    "name_zh": "統一新城",
+    "name_en": "Tongyixincheng",
+    "lat": 25.146553,
+    "lng": 121.726181
+  },
+  "KEE306871": {
+    "name_zh": "統一新城",
+    "name_en": "Tongyixincheng",
+    "lat": 25.146364,
+    "lng": 121.726142
+  },
+  "KEE306872": {
+    "name_zh": "復興路101號",
+    "name_en": "No.101 Fuxing Rd.",
+    "lat": 25.14477,
+    "lng": 121.726195
+  },
+  "KEE306873": {
+    "name_zh": "復興路中和路口",
+    "name_en": "Fuxing Rd. &amp; Zhonghe Rd. Intersection",
+    "lat": 25.143288,
+    "lng": 121.726078
+  },
+  "KEE306874": {
+    "name_zh": "安和二街",
+    "name_en": "Anhe 2nd St.",
+    "lat": 25.12925,
+    "lng": 121.720033
+  },
+  "KEE306875": {
+    "name_zh": "復興路中和路口",
+    "name_en": "復興路中和路口",
+    "lat": 25.14287,
+    "lng": 121.726206
+  },
+  "KEE306876": {
+    "name_zh": "東方巴黎社區",
+    "name_en": "Dongfangbali Community",
+    "lat": 25.14028,
+    "lng": 121.714073
+  },
+  "KEE306877": {
+    "name_zh": "復興郵局",
+    "name_en": "Keelung Fuxing Rd. Post Office",
+    "lat": 25.141996,
+    "lng": 121.726516
+  },
+  "KEE306878": {
+    "name_zh": "復興郵局",
+    "name_en": "Keelung Fuxing Rd. Post Office",
+    "lat": 25.14171,
+    "lng": 121.726885
+  },
+  "KEE306879": {
+    "name_zh": "西康里",
+    "name_en": "Xikang Village",
+    "lat": 25.141201,
+    "lng": 121.727081
+  },
+  "KEE306880": {
+    "name_zh": "烏橋頭",
+    "name_en": "Wuqiaotou",
+    "lat": 25.140578,
+    "lng": 121.727845
+  },
+  "KEE306881": {
+    "name_zh": "烏橋頭",
+    "name_en": "Wuqiaotou",
+    "lat": 25.14079,
+    "lng": 121.72786
+  },
+  "KEE306882": {
+    "name_zh": "崇法街117號",
+    "name_en": "No.117 Chongfa St.",
+    "lat": 25.13391,
+    "lng": 121.76784
+  },
+  "KEE306883": {
+    "name_zh": "市民活動中心",
+    "name_en": "Citizen Activity Center",
+    "lat": 25.133916,
+    "lng": 121.760276
+  },
+  "KEE306884": {
+    "name_zh": "體育場",
+    "name_en": "Municipal Stadium",
+    "lat": 25.132216,
+    "lng": 121.760383
+  },
+  "KEE306885": {
+    "name_zh": "東信國小",
+    "name_en": "Dongshin Elementary School",
+    "lat": 25.131093,
+    "lng": 121.759712
+  },
+  "KEE306886": {
+    "name_zh": "正信路24之24號",
+    "name_en": "No.24-24 Zhengxin Rd.",
+    "lat": 25.131122,
+    "lng": 121.761464
+  },
+  "KEE306887": {
+    "name_zh": "正信路",
+    "name_en": "Zhengxin Rd.",
+    "lat": 25.130031,
+    "lng": 121.761318
+  },
+  "KEE306888": {
+    "name_zh": "深美分站",
+    "name_en": "Shenmei Substation",
+    "lat": 25.135878,
+    "lng": 121.77806
+  },
+  "KEE306889": {
+    "name_zh": "花園新城",
+    "name_en": "Huayuanxincheng",
+    "lat": 25.139263,
+    "lng": 121.729225
+  },
+  "KEE306890": {
+    "name_zh": "花園新城",
+    "name_en": "Huayuanxincheng",
+    "lat": 25.139221,
+    "lng": 121.729586
+  },
+  "KEE306891": {
+    "name_zh": "正信路",
+    "name_en": "Zhengxin Rd.",
+    "lat": 25.12962,
+    "lng": 121.761291
+  },
+  "KEE306892": {
+    "name_zh": "東信國小",
+    "name_en": "Dongshin Elementary School",
+    "lat": 25.131025,
+    "lng": 121.75968
+  },
+  "KEE306893": {
+    "name_zh": "體育場",
+    "name_en": "Municipal Stadium",
+    "lat": 25.132795,
+    "lng": 121.76036
+  },
+  "KEE306894": {
+    "name_zh": "市民活動中心",
+    "name_en": "Citizen Activity Center",
+    "lat": 25.133826,
+    "lng": 121.76014
+  },
+  "KEE306895": {
+    "name_zh": "豐稔街",
+    "name_en": "Fengren St.",
+    "lat": 25.140129,
+    "lng": 121.761222
+  },
+  "KEE306896": {
+    "name_zh": "深美國小正門口",
+    "name_en": "Shen-Mei Elementary School",
+    "lat": 25.1371,
+    "lng": 121.777309
+  },
+  "KEE306897": {
+    "name_zh": "教忠街",
+    "name_en": "Jiaozhong St.",
+    "lat": 25.135905,
+    "lng": 121.778432
+  },
+  "KEE306898": {
+    "name_zh": "教忠街",
+    "name_en": "Jiaozhong St.",
+    "lat": 25.134425,
+    "lng": 121.77739
+  },
+  "KEE306899": {
+    "name_zh": "福源宮",
+    "name_en": "Fuyuan Temple",
+    "lat": 25.133636,
+    "lng": 121.777303
+  },
+  "KEE306900": {
+    "name_zh": "福源宮",
+    "name_en": "Fuyuan Temple",
+    "lat": 25.133305,
+    "lng": 121.777357
+  },
+  "KEE306901": {
+    "name_zh": "崇法國宅",
+    "name_en": "Chongfa Public Housing",
+    "lat": 25.13518,
+    "lng": 121.76841
+  },
+  "KEE306902": {
+    "name_zh": "崇法街117號",
+    "name_en": "No.117 Chongfa St.",
+    "lat": 25.133933,
+    "lng": 121.76805
+  },
+  "KEE306903": {
+    "name_zh": "崇法街194號",
+    "name_en": "No.194 Chongfa St.",
+    "lat": 25.133358,
+    "lng": 121.766054
+  },
+  "KEE306904": {
+    "name_zh": "崇法街65號",
+    "name_en": "No.65 Chongfa St.",
+    "lat": 25.132108,
+    "lng": 121.766195
+  },
+  "KEE306905": {
+    "name_zh": "信義花園社區",
+    "name_en": "Xinyi Garden Community",
+    "lat": 25.132029,
+    "lng": 121.764303
+  },
+  "KEE306906": {
+    "name_zh": "新桃花源社區",
+    "name_en": "New Taohuayuan Community",
+    "lat": 25.13315,
+    "lng": 121.762931
+  },
+  "KEE306907": {
+    "name_zh": "威鎮八方社區",
+    "name_en": "Weizhenbafang Community",
+    "lat": 25.13455,
+    "lng": 121.76239
+  },
+  "KEE306908": {
+    "name_zh": "七堵國小(崇智街)",
+    "name_en": "Qidu Elementary School (Chongzhi St.)",
+    "lat": 25.098348,
+    "lng": 121.714144
+  },
+  "KEE306909": {
+    "name_zh": "崇智公園",
+    "name_en": "Chongzhi Park",
+    "lat": 25.099414,
+    "lng": 121.71368
+  },
+  "KEE306910": {
+    "name_zh": "大華新村",
+    "name_en": "Dahuaxincun",
+    "lat": 25.101966,
+    "lng": 121.715468
+  },
+  "KEE306911": {
+    "name_zh": "八德路17巷口",
+    "name_en": "Ln. 17 Bade Rd. Intersection",
+    "lat": 25.105811,
+    "lng": 121.724569
+  },
+  "KEE306912": {
+    "name_zh": "尚仁國小",
+    "name_en": "Shangren Elementary School",
+    "lat": 25.110576,
+    "lng": 121.726791
+  },
+  "KEE306913": {
+    "name_zh": "八德路口",
+    "name_en": "Bade Rd. Intersection",
+    "lat": 25.112331,
+    "lng": 121.727385
+  },
+  "KEE306915": {
+    "name_zh": "東光路培德路口",
+    "name_en": "Peide Rd. Intersection",
+    "lat": 25.13592,
+    "lng": 121.77131
+  },
+  "KEE306916": {
+    "name_zh": "東光路培德路口",
+    "name_en": "Peide Rd. Intersection",
+    "lat": 25.13576,
+    "lng": 121.77129
+  },
+  "KEE306917": {
+    "name_zh": "東明路六合街口",
+    "name_en": "Don Ming Rd. &amp; Liuhe St. Intersection",
+    "lat": 25.127538,
+    "lng": 121.758794
+  },
+  "KEE306918": {
+    "name_zh": "月眉路",
+    "name_en": "Yuemei Rd.",
+    "lat": 25.12394,
+    "lng": 121.757976
+  },
+  "KEE306919": {
+    "name_zh": "月眉路",
+    "name_en": "Yuemei Rd.",
+    "lat": 25.124809,
+    "lng": 121.758701
+  },
+  "KEE306920": {
+    "name_zh": "南新街",
+    "name_en": "Nanxin St.",
+    "lat": 25.12388,
+    "lng": 121.744626
+  },
+  "KEE306921": {
+    "name_zh": "干城新村",
+    "name_en": "Ganchengxincun",
+    "lat": 25.132346,
+    "lng": 121.728396
+  },
+  "KEE306922": {
+    "name_zh": "安樂高中",
+    "name_en": "Anle Senior High School",
+    "lat": 25.133928,
+    "lng": 121.729475
+  },
+  "KEE306923": {
+    "name_zh": "仁愛之家",
+    "name_en": "Senior Citizens Home of Compassion",
+    "lat": 25.13431,
+    "lng": 121.728446
+  },
+  "KEE306924": {
+    "name_zh": "教孝街",
+    "name_en": "Jiaoxiao St.",
+    "lat": 25.137345,
+    "lng": 121.775016
+  },
+  "KEE306925": {
+    "name_zh": "教孝街",
+    "name_en": "Jiaoxiao St.",
+    "lat": 25.137367,
+    "lng": 121.774599
+  },
+  "KEE306926": {
+    "name_zh": "豐稔街",
+    "name_en": "Fengren St.",
+    "lat": 25.139316,
+    "lng": 121.761383
+  },
+  "KEE306927": {
+    "name_zh": "崇德路口",
+    "name_en": "Chongde Rd. Intersection",
+    "lat": 25.132235,
+    "lng": 121.730003
+  },
+  "KEE306928": {
+    "name_zh": "安樂國小",
+    "name_en": "Anle Elementary School",
+    "lat": 25.1324,
+    "lng": 121.732666
+  },
+  "KEE306929": {
+    "name_zh": "安樂市場",
+    "name_en": "Anle Market",
+    "lat": 25.132064,
+    "lng": 121.733915
+  },
+  "KEE306930": {
+    "name_zh": "西定市場",
+    "name_en": "Xiding Market",
+    "lat": 25.137432,
+    "lng": 121.73183
+  },
+  "KEE306931": {
+    "name_zh": "西定市場",
+    "name_en": "Xiding Market",
+    "lat": 25.137163,
+    "lng": 121.732198
+  },
+  "KEE306932": {
+    "name_zh": "聖心高中",
+    "name_en": "Sacred Heart High School",
+    "lat": 25.135643,
+    "lng": 121.733158
+  },
+  "KEE306934": {
+    "name_zh": "八斗子分站",
+    "name_en": "Badouzi Substation",
+    "lat": 25.143521,
+    "lng": 121.790768
+  },
+  "KEE306935": {
+    "name_zh": "大華新村",
+    "name_en": "Dahuaxincun",
+    "lat": 25.102134,
+    "lng": 121.715577
+  },
+  "KEE306936": {
+    "name_zh": "崇智公園",
+    "name_en": "Chongzhi Park",
+    "lat": 25.099269,
+    "lng": 121.713554
+  },
+  "KEE306937": {
+    "name_zh": "七堵國小(崇智街)",
+    "name_en": "Qidu Elementary School (Chongzhi St.)",
+    "lat": 25.098202,
+    "lng": 121.71397
+  },
+  "KEE306938": {
+    "name_zh": "聖心高中",
+    "name_en": "Sacred Heart High School",
+    "lat": 25.135445,
+    "lng": 121.733746
+  },
+  "KEE306939": {
+    "name_zh": "西定郵局(定國橋)",
+    "name_en": "Xiding Post Office (Dingguo Bridge)",
+    "lat": 25.134131,
+    "lng": 121.734718
+  },
+  "KEE306940": {
+    "name_zh": "西定郵局(定國橋)",
+    "name_en": "Xiding Post Office (Dingguo Bridge)",
+    "lat": 25.134045,
+    "lng": 121.734936
+  },
+  "KEE306941": {
+    "name_zh": "碇內街69號",
+    "name_en": "No.69 Dingnei St.",
+    "lat": 25.092443,
+    "lng": 121.754512
+  },
+  "KEE306942": {
+    "name_zh": "影劇新村",
+    "name_en": "Yingjuxincun",
+    "lat": 25.0956,
+    "lng": 121.751705
+  },
+  "KEE306943": {
+    "name_zh": "影劇新村",
+    "name_en": "Yingjuxincun",
+    "lat": 25.095476,
+    "lng": 121.751628
+  },
+  "KEE306944": {
+    "name_zh": "中山派出所(舊四分局)",
+    "name_en": "Zhongshan Police Office",
+    "lat": 25.132761,
+    "lng": 121.73529
+  },
+  "KEE306945": {
+    "name_zh": "碇內國中",
+    "name_en": "Dingnei Junior High School",
+    "lat": 25.095281,
+    "lng": 121.749196
+  },
+  "KEE306946": {
+    "name_zh": "碇內國中",
+    "name_en": "Dingnei Junior High School",
+    "lat": 25.095293,
+    "lng": 121.74917
+  },
+  "KEE306947": {
+    "name_zh": "復興路138號",
+    "name_en": "No.138 Fuxing Rd.",
+    "lat": 25.144663,
+    "lng": 121.726258
+  },
+  "KEE306948": {
+    "name_zh": "中山區行政大樓",
+    "name_en": "Administration Building of Zhongshan District",
+    "lat": 25.152816,
+    "lng": 121.729667
+  },
+  "KEE306949": {
+    "name_zh": "中山高中",
+    "name_en": "Zhongshan Senior High School",
+    "lat": 25.154548,
+    "lng": 121.732505
+  },
+  "KEE306950": {
+    "name_zh": "富都新城",
+    "name_en": "Fudouxincheng",
+    "lat": 25.154958,
+    "lng": 121.716556
+  },
+  "KEE306951": {
+    "name_zh": "富都新城",
+    "name_en": "Fudouxincheng",
+    "lat": 25.154585,
+    "lng": 121.716825
+  },
+  "KEE306952": {
+    "name_zh": "中和路200巷",
+    "name_en": "Ln. 200 Zhonghe Rd.",
+    "lat": 25.153458,
+    "lng": 121.717438
+  },
+  "KEE306953": {
+    "name_zh": "中和路200巷",
+    "name_en": "Ln. 200 Zhonghe Rd.",
+    "lat": 25.153341,
+    "lng": 121.717483
+  },
+  "KEE306954": {
+    "name_zh": "大慶大城(二)",
+    "name_en": "Daqingdacheng(2)",
+    "lat": 25.15188,
+    "lng": 121.716804
+  },
+  "KEE306956": {
+    "name_zh": "安一路387號",
+    "name_en": "No. 387 Anyi Rd.",
+    "lat": 25.13378,
+    "lng": 121.726923
+  },
+  "KEE306964": {
+    "name_zh": "大慶大城(二)",
+    "name_en": "Daqingdacheng(2)",
+    "lat": 25.151897,
+    "lng": 121.717086
+  },
+  "KEE306965": {
+    "name_zh": "大慶大城社區",
+    "name_en": "Daqingdacheng Community",
+    "lat": 25.149869,
+    "lng": 121.717956
+  },
+  "KEE306966": {
+    "name_zh": "大慶大城社區",
+    "name_en": "Daqingdacheng Community",
+    "lat": 25.14973,
+    "lng": 121.718132
+  },
+  "KEE306967": {
+    "name_zh": "代天宮",
+    "name_en": "Daitian Temple",
+    "lat": 25.148911,
+    "lng": 121.719141
+  },
+  "KEE306968": {
+    "name_zh": "代天宮",
+    "name_en": "Daitian Temple",
+    "lat": 25.148899,
+    "lng": 121.719573
+  },
+  "KEE306969": {
+    "name_zh": "麗景山莊",
+    "name_en": "Lijingshanzhuang",
+    "lat": 25.147383,
+    "lng": 121.719633
+  },
+  "KEE306970": {
+    "name_zh": "麗景山莊",
+    "name_en": "Lijingshanzhuang",
+    "lat": 25.147474,
+    "lng": 121.71994
+  },
+  "KEE306971": {
+    "name_zh": "中和國小",
+    "name_en": "Zhonghe Elementary School",
+    "lat": 25.146926,
+    "lng": 121.72069
+  },
+  "KEE306972": {
+    "name_zh": "中和國小",
+    "name_en": "Zhonghe Elementary School",
+    "lat": 25.146715,
+    "lng": 121.72087
+  },
+  "KEE306973": {
+    "name_zh": "大竿林(一)",
+    "name_en": "Daganlin",
+    "lat": 25.144125,
+    "lng": 121.723513
+  },
+  "KEE306974": {
+    "name_zh": "大竿林(一)",
+    "name_en": "Daganlin",
+    "lat": 25.144125,
+    "lng": 121.723513
+  },
+  "KEE306975": {
+    "name_zh": "孝二路",
+    "name_en": "Xiao 2nd Rd.",
+    "lat": 25.129453,
+    "lng": 121.74007
+  },
+  "KEE306977": {
+    "name_zh": "文明路土地廟",
+    "name_en": "Wenming Rd. Tudi Gong Temple",
+    "lat": 25.15592,
+    "lng": 121.7304
+  },
+  "KEE306978": {
+    "name_zh": "大武崙沙灘",
+    "name_en": "Tapurun Sandbeach",
+    "lat": 25.164295,
+    "lng": 121.707986
+  },
+  "KEE306979": {
+    "name_zh": "海興游泳池",
+    "name_en": "Haixing Swimming Pool",
+    "lat": 25.16035,
+    "lng": 121.732162
+  },
+  "KEE306980": {
+    "name_zh": "湖海路一段16號",
+    "name_en": "No.16 Sec. 1 Huhai Rd.",
+    "lat": 25.164247,
+    "lng": 121.723079
+  },
+  "KEE306981": {
+    "name_zh": "湖海路2.5公里處",
+    "name_en": "Huhai Rd. 2.5K",
+    "lat": 25.164925,
+    "lng": 121.716491
+  },
+  "KEE306982": {
+    "name_zh": "湖海路二段71號",
+    "name_en": "No.71 Sec. 2 Huhai Rd.",
+    "lat": 25.16378,
+    "lng": 121.71173
+  },
+  "KEE306983": {
+    "name_zh": "湖海路2.5公里處",
+    "name_en": "Huhai Rd. 2.5K",
+    "lat": 25.16492,
+    "lng": 121.7166
+  },
+  "KEE306984": {
+    "name_zh": "石厝坑",
+    "name_en": "Shicuokeng",
+    "lat": 25.101518,
+    "lng": 121.712478
+  },
+  "KEE306985": {
+    "name_zh": "湖海路一段16號",
+    "name_en": "No.16 Sec. 1 Huhai Rd.",
+    "lat": 25.16414,
+    "lng": 121.723353
+  },
+  "KEE306986": {
+    "name_zh": "情人湖濱海大道紀念碑",
+    "name_en": "Lovers Lake - Binhai Blvd. Memorial Monument",
+    "lat": 25.162984,
+    "lng": 121.727065
+  },
+  "KEE306987": {
+    "name_zh": "情人湖濱海大道紀念碑",
+    "name_en": "Lovers Lake - Binhai Blvd. Memorial Monument",
+    "lat": 25.162928,
+    "lng": 121.726877
+  },
+  "KEE306988": {
+    "name_zh": "海興游泳池",
+    "name_en": "Haixing Swimming Pool",
+    "lat": 25.160209,
+    "lng": 121.732307
+  },
+  "KEE306989": {
+    "name_zh": "文明路土地廟",
+    "name_en": "Wenming Rd. Tudi Gong Temple",
+    "lat": 25.155809,
+    "lng": 121.730361
+  },
+  "KEE306991": {
+    "name_zh": "美河新都",
+    "name_en": "Meihexindou Community",
+    "lat": 25.100942,
+    "lng": 121.710638
+  },
+  "KEE306992": {
+    "name_zh": "大華一路68之1號",
+    "name_en": "No.68-1 Dahua 1st Rd.",
+    "lat": 25.099232,
+    "lng": 121.706882
+  },
+  "KEE306993": {
+    "name_zh": "連柑宅",
+    "name_en": "Lianganzhai",
+    "lat": 25.095987,
+    "lng": 121.70667
+  },
+  "KEE306994": {
+    "name_zh": "俊賢路",
+    "name_en": "Junxian Rd.",
+    "lat": 25.095283,
+    "lng": 121.706044
+  },
+  "KEE306995": {
+    "name_zh": "火炭坑",
+    "name_en": "Huotankeng",
+    "lat": 25.101033,
+    "lng": 121.699038
+  },
+  "KEE306996": {
+    "name_zh": "火炭坑",
+    "name_en": "Huotankeng",
+    "lat": 25.100685,
+    "lng": 121.699636
+  },
+  "KEE306997": {
+    "name_zh": "連柑宅",
+    "name_en": "Lianganzhai",
+    "lat": 25.096162,
+    "lng": 121.706734
+  },
+  "KEE306998": {
+    "name_zh": "美河新都",
+    "name_en": "Meihexindou Community",
+    "lat": 25.100792,
+    "lng": 121.710772
+  },
+  "KEE306999": {
+    "name_zh": "石厝坑",
+    "name_en": "Shicuokeng",
+    "lat": 25.101297,
+    "lng": 121.712309
+  },
+  "KEE307002": {
+    "name_zh": "正榮街口",
+    "name_en": "Zhengrong St. Intersection",
+    "lat": 25.142988,
+    "lng": 121.761113
+  },
+  "KEE307003": {
+    "name_zh": "東峰街口",
+    "name_en": "Dongfeng St. Intersection",
+    "lat": 25.130521,
+    "lng": 121.776881
+  },
+  "KEE307004": {
+    "name_zh": "八斗街土地廟",
+    "name_en": "Badou St. Tudi Gong Temple",
+    "lat": 25.142595,
+    "lng": 121.796518
+  },
+  "KEE307005": {
+    "name_zh": "八斗街口",
+    "name_en": "Badou St. Intersection",
+    "lat": 25.14142,
+    "lng": 121.79636
+  },
+  "KEE307006": {
+    "name_zh": "新豐街303巷",
+    "name_en": "Ln. 303 Xinfeng St.",
+    "lat": 25.13527,
+    "lng": 121.787391
+  },
+  "KEE307007": {
+    "name_zh": "新豐街303巷",
+    "name_en": "Ln. 303 Xinfeng St.",
+    "lat": 25.135016,
+    "lng": 121.787766
+  },
+  "KEE307008": {
+    "name_zh": "八斗街口",
+    "name_en": "Badou St. Intersection",
+    "lat": 25.14139,
+    "lng": 121.79651
+  },
+  "KEE307009": {
+    "name_zh": "八斗街土地廟",
+    "name_en": "Badou St. Tudi Gong Temple",
+    "lat": 25.142603,
+    "lng": 121.796604
+  },
+  "KEE307010": {
+    "name_zh": "基金一路208巷口",
+    "name_en": "Ln. 208 Jijin 1st Rd. Intersection",
+    "lat": 25.142318,
+    "lng": 121.710258
+  },
+  "KEE307011": {
+    "name_zh": "國花社區",
+    "name_en": "Guohua Community",
+    "lat": 25.144892,
+    "lng": 121.709669
+  },
+  "KEE307012": {
+    "name_zh": "台北大鎮",
+    "name_en": "Taibeidazhen",
+    "lat": 25.146919,
+    "lng": 121.708808
+  },
+  "KEE307013": {
+    "name_zh": "港口",
+    "name_en": "Gangkou",
+    "lat": 25.101919,
+    "lng": 121.695745
+  },
+  "KEE307015": {
+    "name_zh": "港口",
+    "name_en": "Gangkou",
+    "lat": 25.101982,
+    "lng": 121.695987
+  },
+  "KEE307016": {
+    "name_zh": "慶國橋",
+    "name_en": "Qingguo Bridge",
+    "lat": 25.104811,
+    "lng": 121.696219
+  },
+  "KEE307017": {
+    "name_zh": "慶國橋",
+    "name_en": "Qingguo Bridge",
+    "lat": 25.104788,
+    "lng": 121.696128
+  },
+  "KEE307018": {
+    "name_zh": "中埔",
+    "name_en": "Zhongpu",
+    "lat": 25.105106,
+    "lng": 121.693642
+  },
+  "KEE307019": {
+    "name_zh": "中埔",
+    "name_en": "Zhongpu",
+    "lat": 25.105049,
+    "lng": 121.693734
+  },
+  "KEE307020": {
+    "name_zh": "旭騰",
+    "name_en": "Xuteng",
+    "lat": 25.106084,
+    "lng": 121.692587
+  },
+  "KEE307021": {
+    "name_zh": "旭騰",
+    "name_en": "Xuteng",
+    "lat": 25.105964,
+    "lng": 121.692309
+  },
+  "KEE307022": {
+    "name_zh": "瑪南里",
+    "name_en": "Manan Village",
+    "lat": 25.109062,
+    "lng": 121.691873
+  },
+  "KEE307023": {
+    "name_zh": "瑪南里",
+    "name_en": "Manan Village",
+    "lat": 25.108845,
+    "lng": 121.691763
+  },
+  "KEE307024": {
+    "name_zh": "瑪陵國小",
+    "name_en": "Maling Elementary school",
+    "lat": 25.111155,
+    "lng": 121.688916
+  },
+  "KEE307025": {
+    "name_zh": "瑪陵國小",
+    "name_en": "Maling Elementary school",
+    "lat": 25.110999,
+    "lng": 121.688807
+  },
+  "KEE307026": {
+    "name_zh": "青嵐橋(金明昌鹿園)",
+    "name_en": "Qinglan Bridge ( Jin Ming Chang Deer Garden )",
+    "lat": 25.111602,
+    "lng": 121.688064
+  },
+  "KEE307027": {
+    "name_zh": "翠谷橋",
+    "name_en": "Cuigu Bridge",
+    "lat": 25.110957,
+    "lng": 121.686835
+  },
+  "KEE307028": {
+    "name_zh": "翠谷橋",
+    "name_en": "Cuigu Bridge",
+    "lat": 25.110877,
+    "lng": 121.686945
+  },
+  "KEE307029": {
+    "name_zh": "大華三路10號",
+    "name_en": "No.10 Dahua 3rd Rd.",
+    "lat": 25.112432,
+    "lng": 121.684378
+  },
+  "KEE307030": {
+    "name_zh": "大華三路10號",
+    "name_en": "No.10 Dahua 3rd Rd.",
+    "lat": 25.112092,
+    "lng": 121.684784
+  },
+  "KEE307031": {
+    "name_zh": "向揚工業",
+    "name_en": "Xiangyang Industry",
+    "lat": 25.113509,
+    "lng": 121.682571
+  },
+  "KEE307032": {
+    "name_zh": "向揚工業",
+    "name_en": "Xiangyang Industry",
+    "lat": 25.113372,
+    "lng": 121.682451
+  },
+  "KEE307033": {
+    "name_zh": "長潭(焦炭窯)",
+    "name_en": "Zhang Pond",
+    "lat": 25.11758,
+    "lng": 121.680753
+  },
+  "KEE307034": {
+    "name_zh": "長潭(焦炭窯)",
+    "name_en": "Zhang Pond",
+    "lat": 25.1175,
+    "lng": 121.680533
+  },
+  "KEE307035": {
+    "name_zh": "茶花園",
+    "name_en": "Camellia Garden",
+    "lat": 25.121227,
+    "lng": 121.681196
+  },
+  "KEE307036": {
+    "name_zh": "茶花園",
+    "name_en": "Camellia Garden",
+    "lat": 25.121078,
+    "lng": 121.680998
+  },
+  "KEE307039": {
+    "name_zh": "明德國中",
+    "name_en": "Mingde Junior High School",
+    "lat": 25.093398,
+    "lng": 121.715455
+  },
+  "KEE307040": {
+    "name_zh": "明德國中",
+    "name_en": "Mingde Junior High School",
+    "lat": 25.093908,
+    "lng": 121.71534
+  },
+  "KEE307041": {
+    "name_zh": "基隆商工",
+    "name_en": "Keelung Commercial &amp; Industrial Vocational Senior High School",
+    "lat": 25.094997,
+    "lng": 121.717198
+  },
+  "KEE307042": {
+    "name_zh": "六堵加油站",
+    "name_en": "Liudu Gas Station",
+    "lat": 25.08387,
+    "lng": 121.704011
+  },
+  "KEE307043": {
+    "name_zh": "真善美社區",
+    "name_en": "Zhenshanmei Community",
+    "lat": 25.119924,
+    "lng": 121.715732
+  },
+  "KEE307044": {
+    "name_zh": "真善美社區",
+    "name_en": "Zhenshanmei Community",
+    "lat": 25.119931,
+    "lng": 121.715826
+  },
+  "KEE307045": {
+    "name_zh": "鯉魚潭",
+    "name_en": "Liyu Pond",
+    "lat": 25.121948,
+    "lng": 121.679998
+  },
+  "KEE307046": {
+    "name_zh": "鯉魚潭",
+    "name_en": "Liyu Pond",
+    "lat": 25.121794,
+    "lng": 121.679981
+  },
+  "KEE307047": {
+    "name_zh": "仙洞湖",
+    "name_en": "Xiandong Lake",
+    "lat": 25.122865,
+    "lng": 121.679504
+  },
+  "KEE307048": {
+    "name_zh": "仙洞湖",
+    "name_en": "Xiandong Lake",
+    "lat": 25.122801,
+    "lng": 121.679331
+  },
+  "KEE307049": {
+    "name_zh": "福德宮(遊客服務中心)",
+    "name_en": "Fude Temple",
+    "lat": 25.124965,
+    "lng": 121.679531
+  },
+  "KEE307053": {
+    "name_zh": "福德宮(遊客服務中心)",
+    "name_en": "Fude Temple",
+    "lat": 25.124899,
+    "lng": 121.679368
+  },
+  "KEE307054": {
+    "name_zh": "武玄宮",
+    "name_en": "Wuxuan Temple",
+    "lat": 25.12728,
+    "lng": 121.678197
+  },
+  "KEE307055": {
+    "name_zh": "武玄宮",
+    "name_en": "Wuxuan Temple",
+    "lat": 25.127187,
+    "lng": 121.678044
+  },
+  "KEE307056": {
+    "name_zh": "瑪西里民活動中心",
+    "name_en": "Maxi Village Activity Center",
+    "lat": 25.128644,
+    "lng": 121.677593
+  },
+  "KEE307057": {
+    "name_zh": "瑪西里民活動中心",
+    "name_en": "Maxi Village Activity Center",
+    "lat": 25.128705,
+    "lng": 121.677387
+  },
+  "KEE307058": {
+    "name_zh": "大華三路95號",
+    "name_en": "No.95 Dahua 3rd Rd.",
+    "lat": 25.130198,
+    "lng": 121.675353
+  },
+  "KEE307059": {
+    "name_zh": "大華三路95號",
+    "name_en": "No.95 Dahua 3rd Rd.",
+    "lat": 25.130339,
+    "lng": 121.675421
+  },
+  "KEE307060": {
+    "name_zh": "瑪陵",
+    "name_en": "Maling",
+    "lat": 25.130852,
+    "lng": 121.674074
+  },
+  "KEE307061": {
+    "name_zh": "瑪陵",
+    "name_en": "Maling",
+    "lat": 25.130865,
+    "lng": 121.67384
+  },
+  "KEE307062": {
+    "name_zh": "大華三路100號(親水公園)",
+    "name_en": "No.100 Dahua 3rd Rd.",
+    "lat": 25.133273,
+    "lng": 121.673879
+  },
+  "KEE307063": {
+    "name_zh": "面桶寮",
+    "name_en": "Miantongliao",
+    "lat": 25.138858,
+    "lng": 121.670058
+  },
+  "KEE307064": {
+    "name_zh": "面桶寮",
+    "name_en": "Miantongliao",
+    "lat": 25.138977,
+    "lng": 121.669871
+  },
+  "KEE307065": {
+    "name_zh": "苓蘭生態農園",
+    "name_en": "Linglan Eco Farm",
+    "lat": 25.141437,
+    "lng": 121.667676
+  },
+  "KEE307067": {
+    "name_zh": "八德路",
+    "name_en": "Bade Rd.",
+    "lat": 25.112455,
+    "lng": 121.727448
+  },
+  "KEE307070": {
+    "name_zh": "油庫",
+    "name_en": "Oil Depot",
+    "lat": 25.146061,
+    "lng": 121.7936
+  },
+  "KEE307071": {
+    "name_zh": "八斗街150號",
+    "name_en": "No.150 Badou St.",
+    "lat": 25.144539,
+    "lng": 121.795994
+  },
+  "KEE307072": {
+    "name_zh": "福靈宮",
+    "name_en": "Fuling Temple",
+    "lat": 25.14461,
+    "lng": 121.79518
+  },
+  "KEE307073": {
+    "name_zh": "潮境公園",
+    "name_en": "Chaojing Park",
+    "lat": 25.14221,
+    "lng": 121.802175
+  },
+  "KEE307074": {
+    "name_zh": "福靈宮",
+    "name_en": "Fuling Temple",
+    "lat": 25.144336,
+    "lng": 121.795134
+  },
+  "KEE307075": {
+    "name_zh": "油庫",
+    "name_en": "Oil Depot",
+    "lat": 25.146061,
+    "lng": 121.7936
+  },
+  "KEE307076": {
+    "name_zh": "大竿林(二)",
+    "name_en": "Daganlin(二)",
+    "lat": 25.144851,
+    "lng": 121.722278
+  },
+  "KEE307077": {
+    "name_zh": "武聖街114號",
+    "name_en": "No. 114 Wusheng St.",
+    "lat": 25.159593,
+    "lng": 121.697201
+  },
+  "KEE307078": {
+    "name_zh": "內寮社區",
+    "name_en": "Neiliao Community",
+    "lat": 25.1585,
+    "lng": 121.696466
+  },
+  "KEE307079": {
+    "name_zh": "君茂食品",
+    "name_en": "Junmao Foodstuff",
+    "lat": 25.13512,
+    "lng": 121.725151
+  },
+  "KEE307081": {
+    "name_zh": "瑪東里",
+    "name_en": "Madong Village",
+    "lat": 25.115476,
+    "lng": 121.692682
+  },
+  "KEE307082": {
+    "name_zh": "瑪東里",
+    "name_en": "Madong Village",
+    "lat": 25.11554,
+    "lng": 121.69262
+  },
+  "KEE307083": {
+    "name_zh": "大同街",
+    "name_en": "Datong St.",
+    "lat": 25.11678,
+    "lng": 121.695513
+  },
+  "KEE307084": {
+    "name_zh": "大同街",
+    "name_en": "Datong St.",
+    "lat": 25.116838,
+    "lng": 121.695525
+  },
+  "KEE307085": {
+    "name_zh": "自強路口",
+    "name_en": "Ziqiang Intersection",
+    "lat": 25.116691,
+    "lng": 121.6987
+  },
+  "KEE307086": {
+    "name_zh": "自強路口",
+    "name_en": "Ziqiang Intersection",
+    "lat": 25.116716,
+    "lng": 121.698801
+  },
+  "KEE307087": {
+    "name_zh": "舊里民大會堂",
+    "name_en": "Villagers Meeting Hall",
+    "lat": 25.11885,
+    "lng": 121.69884
+  },
+  "KEE307088": {
+    "name_zh": "盧厝",
+    "name_en": "Lucuo",
+    "lat": 25.12167,
+    "lng": 121.698495
+  },
+  "KEE307089": {
+    "name_zh": "盧厝",
+    "name_en": "Lucuo",
+    "lat": 25.121723,
+    "lng": 121.698495
+  },
+  "KEE307090": {
+    "name_zh": "摩天嶺",
+    "name_en": "Motianling",
+    "lat": 25.124303,
+    "lng": 121.699646
+  },
+  "KEE307091": {
+    "name_zh": "摩天嶺",
+    "name_en": "Motianling",
+    "lat": 25.124158,
+    "lng": 121.699621
+  },
+  "KEE307092": {
+    "name_zh": "瑪東農村社區公園",
+    "name_en": "Madong Village Community Park",
+    "lat": 25.125536,
+    "lng": 121.69788
+  },
+  "KEE307093": {
+    "name_zh": "瑪東農村社區公園",
+    "name_en": "Madong Village Community Park",
+    "lat": 25.125616,
+    "lng": 121.697753
+  },
+  "KEE307094": {
+    "name_zh": "瑪新橋",
+    "name_en": "Maxin Bridge",
+    "lat": 25.127681,
+    "lng": 121.696856
+  },
+  "KEE307095": {
+    "name_zh": "瑪新橋",
+    "name_en": "Maxin Bridge",
+    "lat": 25.1277,
+    "lng": 121.696741
+  },
+  "KEE307096": {
+    "name_zh": "大同街52號",
+    "name_en": "No. 52 Datong St.",
+    "lat": 25.13074,
+    "lng": 121.693605
+  },
+  "KEE307097": {
+    "name_zh": "大同街52號",
+    "name_en": "No. 52 Datong St.",
+    "lat": 25.130736,
+    "lng": 121.693681
+  },
+  "KEE307098": {
+    "name_zh": "復興路101號",
+    "name_en": "No.101 Fuxing Rd.",
+    "lat": 25.14481,
+    "lng": 121.726162
+  },
+  "KEE307099": {
+    "name_zh": "復興路138號",
+    "name_en": "No.138 Fuxing Rd.",
+    "lat": 25.144834,
+    "lng": 121.726325
+  },
+  "KEE307100": {
+    "name_zh": "大武崙沙灘停車場",
+    "name_en": "Tapurun Sandbeach Parking Lot",
+    "lat": 25.168042,
+    "lng": 121.707404
+  },
+  "KEE307101": {
+    "name_zh": "湖海路二段142號",
+    "name_en": "No.142 Sec. 2 Huhai Rd.",
+    "lat": 25.165669,
+    "lng": 121.706427
+  },
+  "KEE307102": {
+    "name_zh": "武聖街114號",
+    "name_en": "No. 114 Wusheng St.",
+    "lat": 25.159483,
+    "lng": 121.697266
+  },
+  "KEE307103": {
+    "name_zh": "長庚醫院情人湖院區",
+    "name_en": "Zhanggeng Hospital Lovers Lake Branch",
+    "lat": 25.148412,
+    "lng": 121.708404
+  },
+  "KEE307104": {
+    "name_zh": "長庚醫院情人湖院區",
+    "name_en": "Zhanggeng Hospital Lovers Lake Branch",
+    "lat": 25.148083,
+    "lng": 121.708433
+  },
+  "KEE307105": {
+    "name_zh": "情人湖",
+    "name_en": "Lovers Lake",
+    "lat": 25.15662,
+    "lng": 121.70616
+  },
+  "KEE307106": {
+    "name_zh": "台北大鎮",
+    "name_en": "Taibeidazhen",
+    "lat": 25.146945,
+    "lng": 121.708732
+  },
+  "KEE307107": {
+    "name_zh": "武崙國小",
+    "name_en": "Wulun Elementary School",
+    "lat": 25.138846,
+    "lng": 121.705991
+  },
+  "KEE307108": {
+    "name_zh": "武崙國中",
+    "name_en": "（Wulun Junior High School",
+    "lat": 25.138113,
+    "lng": 121.705744
+  },
+  "KEE307109": {
+    "name_zh": "武嶺街305號",
+    "name_en": "No. 305 Wuling St.",
+    "lat": 25.137875,
+    "lng": 121.708316
+  },
+  "KEE307110": {
+    "name_zh": "武嶺街161號",
+    "name_en": "No. 161 Wuling St.",
+    "lat": 25.139035,
+    "lng": 121.710472
+  },
+  "KEE307111": {
+    "name_zh": "大同街47號",
+    "name_en": "No. 47 Datong St.",
+    "lat": 25.132576,
+    "lng": 121.689381
+  },
+  "KEE307112": {
+    "name_zh": "大同街47號",
+    "name_en": "No. 47 Datong St.",
+    "lat": 25.132576,
+    "lng": 121.688998
+  },
+  "KEE307113": {
+    "name_zh": "陳厝",
+    "name_en": "Chencuo",
+    "lat": 25.13325,
+    "lng": 121.6866
+  },
+  "KEE307114": {
+    "name_zh": "陳厝",
+    "name_en": "Chencuo",
+    "lat": 25.13322,
+    "lng": 121.68679
+  },
+  "KEE307115": {
+    "name_zh": "大同街59-1號",
+    "name_en": "No. 59-1 Datong St.",
+    "lat": 25.134412,
+    "lng": 121.686604
+  },
+  "KEE307116": {
+    "name_zh": "大同街59-1號",
+    "name_en": "No. 59-1 Datong St.",
+    "lat": 25.134376,
+    "lng": 121.686486
+  },
+  "KEE307117": {
+    "name_zh": "大同街63號",
+    "name_en": "No. 63 Datong St.",
+    "lat": 25.136028,
+    "lng": 121.681266
+  },
+  "KEE307118": {
+    "name_zh": "大同街63號",
+    "name_en": "No. 63 Datong St.",
+    "lat": 25.136008,
+    "lng": 121.68124
+  },
+  "KEE307119": {
+    "name_zh": "大同街60號",
+    "name_en": "No. 60 Datong St.",
+    "lat": 25.139316,
+    "lng": 121.681316
+  },
+  "KEE307120": {
+    "name_zh": "工建西路22號",
+    "name_en": "No.22 Gongjian W. Rd.",
+    "lat": 25.094341,
+    "lng": 121.701388
+  },
+  "KEE307121": {
+    "name_zh": "監理站",
+    "name_en": "Keelung Motor Vehicles Supervision Station",
+    "lat": 25.087486,
+    "lng": 121.697753
+  },
+  "KEE307122": {
+    "name_zh": "百六福二街口",
+    "name_en": "Bai 6th St. &amp; Fu 2nd St. Intersection",
+    "lat": 25.085233,
+    "lng": 121.695781
+  },
+  "KEE307123": {
+    "name_zh": "百六福二街口",
+    "name_en": "Bai 6th St. &amp; Fu 2nd St. Intersection",
+    "lat": 25.085123,
+    "lng": 121.695756
+  },
+  "KEE307124": {
+    "name_zh": "堵南國小",
+    "name_en": "Keelung City Dunan Elementary School",
+    "lat": 25.0845,
+    "lng": 121.691966
+  },
+  "KEE307125": {
+    "name_zh": "堵南國小",
+    "name_en": "Keelung City Dunan Elementary School",
+    "lat": 25.0844,
+    "lng": 121.692261
+  },
+  "KEE307126": {
+    "name_zh": "內十四坑",
+    "name_en": "Neishisikeng",
+    "lat": 25.114049,
+    "lng": 121.653953
+  },
+  "KEE307127": {
+    "name_zh": "靜修寺",
+    "name_en": "Jingshiou Temple",
+    "lat": 25.114683,
+    "lng": 121.65503
+  },
+  "KEE307128": {
+    "name_zh": "石公潭",
+    "name_en": "Shigong Pond",
+    "lat": 25.116479,
+    "lng": 121.659759
+  },
+  "KEE307129": {
+    "name_zh": "石公潭",
+    "name_en": "Shigong Pond",
+    "lat": 25.11643,
+    "lng": 121.659698
+  },
+  "KEE307130": {
+    "name_zh": "鹿寮",
+    "name_en": "Luliao",
+    "lat": 25.11316,
+    "lng": 121.664485
+  },
+  "KEE307131": {
+    "name_zh": "鹿寮",
+    "name_en": "Luliao",
+    "lat": 25.113276,
+    "lng": 121.66432
+  },
+  "KEE307132": {
+    "name_zh": "華新二路",
+    "name_en": "Huaxin 2nd Rd.",
+    "lat": 25.111711,
+    "lng": 121.664383
+  },
+  "KEE307133": {
+    "name_zh": "華新二路",
+    "name_en": "Huaxin 2nd Rd.",
+    "lat": 25.112041,
+    "lng": 121.664153
+  },
+  "KEE307134": {
+    "name_zh": "友二里民大會堂",
+    "name_en": "Youer Villagers Meeting Hall",
+    "lat": 25.10853,
+    "lng": 121.665692
+  },
+  "KEE307135": {
+    "name_zh": "復興國小",
+    "name_en": "Fuxhing Elementary School",
+    "lat": 25.106882,
+    "lng": 121.665401
+  },
+  "KEE307136": {
+    "name_zh": "復興國小",
+    "name_en": "Fuxhing Elementary School",
+    "lat": 25.107022,
+    "lng": 121.665378
+  },
+  "KEE307137": {
+    "name_zh": "一坑",
+    "name_en": "Yikeng",
+    "lat": 25.103071,
+    "lng": 121.665351
+  },
+  "KEE307138": {
+    "name_zh": "一坑",
+    "name_en": "Yikeng",
+    "lat": 25.102964,
+    "lng": 121.665321
+  },
+  "KEE307139": {
+    "name_zh": "友益橋",
+    "name_en": "Youi Bridge",
+    "lat": 25.1,
+    "lng": 121.666496
+  },
+  "KEE307140": {
+    "name_zh": "友益橋",
+    "name_en": "Youi Bridge",
+    "lat": 25.100019,
+    "lng": 121.666404
+  },
+  "KEE307141": {
+    "name_zh": "鴛鴦潭",
+    "name_en": "Yuanyang Pond",
+    "lat": 25.098248,
+    "lng": 121.666341
+  },
+  "KEE307142": {
+    "name_zh": "鴛鴦潭",
+    "name_en": "Yuanyang Pond",
+    "lat": 25.098052,
+    "lng": 121.666191
+  },
+  "KEE307143": {
+    "name_zh": "友愛橋",
+    "name_en": "Youai Bridge",
+    "lat": 25.09583,
+    "lng": 121.666661
+  },
+  "KEE307144": {
+    "name_zh": "友愛橋",
+    "name_en": "Youai Bridge",
+    "lat": 25.0957,
+    "lng": 121.666585
+  },
+  "KEE307145": {
+    "name_zh": "友諒橋",
+    "name_en": "Youliang Bridge",
+    "lat": 25.09386,
+    "lng": 121.669246
+  },
+  "KEE307147": {
+    "name_zh": "文明路土地廟",
+    "name_en": "Wenming Rd. Tudi Gong Temple",
+    "lat": 25.155893,
+    "lng": 121.730361
+  },
+  "KEE307148": {
+    "name_zh": "文明路土地廟",
+    "name_en": "Wenming Rd. Tudi Gong Temple",
+    "lat": 25.155748,
+    "lng": 121.730316
+  },
+  "KEE307149": {
+    "name_zh": "大武崙沙灘",
+    "name_en": "Tapurun Sandbeach",
+    "lat": 25.164295,
+    "lng": 121.707986
+  },
+  "KEE307150": {
+    "name_zh": "大武崙沙灘",
+    "name_en": "Tapurun Sandbeach",
+    "lat": 25.164295,
+    "lng": 121.707819
+  },
+  "KEE307151": {
+    "name_zh": "外木山漁港",
+    "name_en": "Waimusan Harbor",
+    "lat": 25.159336,
+    "lng": 121.732863
+  },
+  "KEE307155": {
+    "name_zh": "西定橋",
+    "name_en": "Xiding Bridge",
+    "lat": 25.140926,
+    "lng": 121.727065
+  },
+  "KEE307157": {
+    "name_zh": "西定橋",
+    "name_en": "Xiding Bridge",
+    "lat": 25.141185,
+    "lng": 121.726271
+  },
+  "KEE307159": {
+    "name_zh": "中和橋",
+    "name_en": "Zhonghe Bridge",
+    "lat": 25.141558,
+    "lng": 121.72526
+  },
+  "KEE307160": {
+    "name_zh": "堵南里",
+    "name_en": "Dunan Village",
+    "lat": 25.082213,
+    "lng": 121.684106
+  },
+  "KEE307163": {
+    "name_zh": "堵南里",
+    "name_en": "Dunan Village",
+    "lat": 25.0823205,
+    "lng": 121.684076
+  },
+  "KEE307164": {
+    "name_zh": "中和里活動中心",
+    "name_en": "Activity Center of Zhonghe Village",
+    "lat": 25.14199,
+    "lng": 121.723583
+  },
+  "KEE307166": {
+    "name_zh": "中和里活動中心",
+    "name_en": "Activity Center of Zhonghe Village",
+    "lat": 25.141826,
+    "lng": 121.723506
+  },
+  "KEE307168": {
+    "name_zh": "堵南加油站",
+    "name_en": "Dunan Gas Station",
+    "lat": 25.082275,
+    "lng": 121.685555
+  },
+  "KEE307169": {
+    "name_zh": "堵南加油站",
+    "name_en": "Dunan Gas Station",
+    "lat": 25.08239,
+    "lng": 121.685555
+  },
+  "KEE307171": {
+    "name_zh": "特殊教育學校",
+    "name_en": "National Keelung Special Education School",
+    "lat": 25.082438,
+    "lng": 121.687243
+  },
+  "KEE307172": {
+    "name_zh": "特殊教育學校",
+    "name_en": "National Keelung Special Education School",
+    "lat": 25.082633,
+    "lng": 121.687475
+  },
+  "KEE307173": {
+    "name_zh": "溪頭街口",
+    "name_en": "Xitou St. Intersection",
+    "lat": 25.082891,
+    "lng": 121.688755
+  },
+  "KEE307174": {
+    "name_zh": "溪頭街口",
+    "name_en": "Xitou St. Intersection",
+    "lat": 25.082961,
+    "lng": 121.6886
+  },
+  "KEE307175": {
+    "name_zh": "大德路",
+    "name_en": "Dade Rd.",
+    "lat": 25.084191,
+    "lng": 121.690956
+  },
+  "KEE307176": {
+    "name_zh": "大德路",
+    "name_en": "Dade Rd.",
+    "lat": 25.084336,
+    "lng": 121.690853
+  },
+  "KEE307177": {
+    "name_zh": "福一街口",
+    "name_en": "Fu 1st St. Intersection",
+    "lat": 25.0848002,
+    "lng": 121.6947407
+  },
+  "KEE307178": {
+    "name_zh": "水漾會館",
+    "name_en": "Shuiyang Hall",
+    "lat": 25.086571,
+    "lng": 121.693591
+  },
+  "KEE307179": {
+    "name_zh": "福二街口",
+    "name_en": "Fu 2nd St. Intersection",
+    "lat": 25.0819594,
+    "lng": 121.6966865
+  },
+  "KEE307180": {
+    "name_zh": "百福宮",
+    "name_en": "Baifu Temple",
+    "lat": 25.0830193,
+    "lng": 121.6951135
+  },
+  "KEE307181": {
+    "name_zh": "百三街口",
+    "name_en": "Bai 3rd St. Intersection",
+    "lat": 25.0819739,
+    "lng": 121.6958731
+  },
+  "KEE307182": {
+    "name_zh": "百六街口",
+    "name_en": "Bai 6th St. Intersection",
+    "lat": 25.0854029,
+    "lng": 121.6982818
+  },
+  "KEE307183": {
+    "name_zh": "福三街口",
+    "name_en": "Fu 3rd St. Intersection",
+    "lat": 25.0819706,
+    "lng": 121.6980594
+  },
+  "KEE307184": {
+    "name_zh": "六堵代天府",
+    "name_en": "Liudu Daitian Temple",
+    "lat": 25.089898,
+    "lng": 121.701426
+  },
+  "KEE307185": {
+    "name_zh": "基隆商工",
+    "name_en": "Keelung Commercial &amp; Industrial Vocational Senior High School",
+    "lat": 25.094694,
+    "lng": 121.716586
+  },
+  "KEE307186": {
+    "name_zh": "海灣公司",
+    "name_en": "Crown Van Lines Co.",
+    "lat": 25.09495,
+    "lng": 121.720716
+  },
+  "KEE307187": {
+    "name_zh": "海灣公司",
+    "name_en": "Crown Van Lines Co. Ltd.",
+    "lat": 25.09436,
+    "lng": 121.72139
+  },
+  "KEE307188": {
+    "name_zh": "東新街口",
+    "name_en": "Dongxin St. Intersection",
+    "lat": 25.09477,
+    "lng": 121.71959
+  },
+  "KEE307189": {
+    "name_zh": "東新街口",
+    "name_en": "Dongxin St. Intersection",
+    "lat": 25.094713,
+    "lng": 121.719346
+  },
+  "KEE307190": {
+    "name_zh": "福基煤礦",
+    "name_en": "Fuji Coal Mine",
+    "lat": 25.087066,
+    "lng": 121.723666
+  },
+  "KEE307191": {
+    "name_zh": "七堵區行政大樓",
+    "name_en": "Administration Building of Qidu District",
+    "lat": 25.09777,
+    "lng": 121.716234
+  },
+  "KEE307192": {
+    "name_zh": "東新街138號",
+    "name_en": "No.138 Dongxin St.",
+    "lat": 25.08908,
+    "lng": 121.721923
+  },
+  "KEE307193": {
+    "name_zh": "東新街127號",
+    "name_en": "No.127 Dongxin St.",
+    "lat": 25.090606,
+    "lng": 121.720385
+  },
+  "KEE307194": {
+    "name_zh": "福基煤礦",
+    "name_en": "Fuji Coal Mine",
+    "lat": 25.087033,
+    "lng": 121.723833
+  },
+  "KEE307195": {
+    "name_zh": "北極宮",
+    "name_en": "Beiji Temple",
+    "lat": 25.088366,
+    "lng": 121.722916
+  },
+  "KEE307196": {
+    "name_zh": "長安社區",
+    "name_en": "Changan Community",
+    "lat": 25.075008,
+    "lng": 121.695973
+  },
+  "KEE307197": {
+    "name_zh": "長安社區",
+    "name_en": "Changan Community",
+    "lat": 25.075008,
+    "lng": 121.695973
+  },
+  "KEE307198": {
+    "name_zh": "長安里民會堂",
+    "name_en": "Changan Villagers Meeting Hall",
+    "lat": 25.077029,
+    "lng": 121.69288
+  },
+  "KEE307199": {
+    "name_zh": "長安里民會堂",
+    "name_en": "Changan Villagers Meeting Hall",
+    "lat": 25.076871,
+    "lng": 121.692695
+  },
+  "KEE307200": {
+    "name_zh": "長安街口",
+    "name_en": "Changan St. Intersection",
+    "lat": 25.077643,
+    "lng": 121.690061
+  },
+  "KEE307201": {
+    "name_zh": "長安街口",
+    "name_en": "Changan St. Intersection",
+    "lat": 25.077468,
+    "lng": 121.690111
+  },
+  "KEE307202": {
+    "name_zh": "明德三路口(北五堵)",
+    "name_en": "Mingde 3rd Rd. Intersection(N. Wudu)",
+    "lat": 25.077557,
+    "lng": 121.688844
+  },
+  "KEE307203": {
+    "name_zh": "明德三路口(北五堵)",
+    "name_en": "Mingde 3rd Rd. Intersection(N. Wudu)",
+    "lat": 25.0774,
+    "lng": 121.68895
+  },
+  "KEE307204": {
+    "name_zh": "友一里民大會堂",
+    "name_en": "Youyi Villagers Meeting Hall",
+    "lat": 25.09208,
+    "lng": 121.669059
+  },
+  "KEE307205": {
+    "name_zh": "綠葉山莊",
+    "name_en": "Luyeshanzhuang Community",
+    "lat": 25.090446,
+    "lng": 121.667845
+  },
+  "KEE307206": {
+    "name_zh": "綠葉山莊",
+    "name_en": "Luyeshanzhuang Community",
+    "lat": 25.090567,
+    "lng": 121.667835
+  },
+  "KEE307207": {
+    "name_zh": "土地廟",
+    "name_en": "Tudi Gong Temple",
+    "lat": 25.088918,
+    "lng": 121.667236
+  },
+  "KEE307208": {
+    "name_zh": "友一社區發展協會",
+    "name_en": "Youyi Community Development Association",
+    "lat": 25.087992,
+    "lng": 121.66823
+  },
+  "KEE307209": {
+    "name_zh": "友一社區發展協會",
+    "name_en": "Youyi Community Development Association",
+    "lat": 25.087933,
+    "lng": 121.668112
+  },
+  "KEE307210": {
+    "name_zh": "友一里",
+    "name_en": "Youyi Village",
+    "lat": 25.086223,
+    "lng": 121.672421
+  },
+  "KEE307211": {
+    "name_zh": "友一里",
+    "name_en": "Youyi Village",
+    "lat": 25.086196,
+    "lng": 121.67228
+  },
+  "KEE307212": {
+    "name_zh": "麗景天下社區",
+    "name_en": "Lijingtianxia Community",
+    "lat": 25.085094,
+    "lng": 121.673837
+  },
+  "KEE307213": {
+    "name_zh": "麗景天下社區",
+    "name_en": "Lijingtianxia Community",
+    "lat": 25.084918,
+    "lng": 121.673877
+  },
+  "KEE307214": {
+    "name_zh": "天使宮",
+    "name_en": "Tianshi Temple",
+    "lat": 25.08669,
+    "lng": 121.676491
+  },
+  "KEE307215": {
+    "name_zh": "天使宮",
+    "name_en": "Tianshi Temple",
+    "lat": 25.086496,
+    "lng": 121.676478
+  },
+  "KEE307216": {
+    "name_zh": "真聖堂",
+    "name_en": "Zhensheng Temple",
+    "lat": 25.084488,
+    "lng": 121.683353
+  },
+  "KEE307217": {
+    "name_zh": "真聖堂",
+    "name_en": "Zhensheng Temple",
+    "lat": 25.084455,
+    "lng": 121.683198
+  },
+  "KEE307218": {
+    "name_zh": "百福火車站(大德路)",
+    "name_en": "Baifu Railway Station (Dade Rd.",
+    "lat": 25.078429,
+    "lng": 121.692393
+  },
+  "KEE307219": {
+    "name_zh": "中和里",
+    "name_en": "Zhonghe Village",
+    "lat": 25.14216,
+    "lng": 121.72283
+  },
+  "KEE307220": {
+    "name_zh": "中和里",
+    "name_en": "Zhonghe Village",
+    "lat": 25.142235,
+    "lng": 121.72256
+  },
+  "KEE307221": {
+    "name_zh": "中和路三巷",
+    "name_en": "Ln. 3 Zhonghe Rd.",
+    "lat": 25.142635,
+    "lng": 121.72256
+  },
+  "KEE307226": {
+    "name_zh": "喜市(中和路85巷16號)",
+    "name_en": "Xi Market (No.16 Ln. 85 Zhonghe Rd.)",
+    "lat": 25.1485,
+    "lng": 121.721168
+  },
+  "KEE307227": {
+    "name_zh": "中和路168巷7弄19號",
+    "name_en": "No.19 Aly. 7 Ln. 168 Zhonghe Rd.",
+    "lat": 25.150011,
+    "lng": 121.715993
+  },
+  "KEE307228": {
+    "name_zh": "和慶里",
+    "name_en": "Heqing Village",
+    "lat": 25.150645,
+    "lng": 121.714366
+  },
+  "KEE307229": {
+    "name_zh": "中和路164巷5號",
+    "name_en": "No.5 Ln. 164 Zhonghe Rd.",
+    "lat": 25.149631,
+    "lng": 121.715135
+  },
+  "KEE307232": {
+    "name_zh": "中和路164巷20號",
+    "name_en": "No.20 Ln. 164 Zhonghe Rd.",
+    "lat": 25.148531,
+    "lng": 121.717618
+  },
+  "KEE307235": {
+    "name_zh": "德安路",
+    "name_en": "Dean Rd.",
+    "lat": 25.152097,
+    "lng": 121.724177
+  },
+  "KEE307236": {
+    "name_zh": "天顯宮",
+    "name_en": "TianxianTemple",
+    "lat": 25.1578,
+    "lng": 121.767761
+  },
+  "KEE307237": {
+    "name_zh": "和平街",
+    "name_en": "Heping St.",
+    "lat": 25.15649,
+    "lng": 121.7688
+  },
+  "KEE307238": {
+    "name_zh": "樂利三街32巷",
+    "name_en": "Ln. 32 Leli 3rd St.",
+    "lat": 25.126565,
+    "lng": 121.712703
+  },
+  "KEE307239": {
+    "name_zh": "樂利三街32巷",
+    "name_en": "Ln. 32 Leli 3rd St.",
+    "lat": 25.126388,
+    "lng": 121.712678
+  },
+  "KEE307240": {
+    "name_zh": "龍騰大地社區",
+    "name_en": "Longtengdadi Community",
+    "lat": 25.128868,
+    "lng": 121.718898
+  },
+  "KEE307241": {
+    "name_zh": "安和一街271巷",
+    "name_en": "Ln. 271 Anhe 1st St.",
+    "lat": 25.126213,
+    "lng": 121.722073
+  },
+  "KEE307242": {
+    "name_zh": "建德國中",
+    "name_en": "Jiande Junior High School",
+    "lat": 25.127431,
+    "lng": 121.722137
+  },
+  "KEE307243": {
+    "name_zh": "建德山莊",
+    "name_en": "Jiandeshanzhuang",
+    "lat": 25.128419,
+    "lng": 121.722648
+  },
+  "KEE307244": {
+    "name_zh": "安和一街137巷",
+    "name_en": "Ln. 137 Anhe 1st St.",
+    "lat": 25.128583,
+    "lng": 121.724666
+  },
+  "KEE307245": {
+    "name_zh": "安和一街131巷",
+    "name_en": "Ln. 131 Anhe 1st St.",
+    "lat": 25.1268,
+    "lng": 121.724766
+  },
+  "KEE307246": {
+    "name_zh": "安和一街123巷",
+    "name_en": "Ln. 123 Anhe 1st St.",
+    "lat": 25.125933,
+    "lng": 121.723716
+  },
+  "KEE307249": {
+    "name_zh": "百福火車站(大德路)",
+    "name_en": "Baifu Railway Station (Dade Rd.",
+    "lat": 25.078325,
+    "lng": 121.692299
+  },
+  "KEE307250": {
+    "name_zh": "東都社區",
+    "name_en": "Dongdou Community",
+    "lat": 25.141678,
+    "lng": 121.701478
+  },
+  "KEE307290": {
+    "name_zh": "市府宿舍(暖暖)",
+    "name_en": "Keelung City Dormitory",
+    "lat": 25.10462,
+    "lng": 121.73854
+  },
+  "KEE307293": {
+    "name_zh": "環保局(信義大街)",
+    "name_en": "Environment Protection Bureau (Shinyi St.)",
+    "lat": 25.13095,
+    "lng": 121.76883
+  },
+  "KEE307535": {
+    "name_zh": "安和一街口",
+    "name_en": "Anhe 1st St. Intersection",
+    "lat": 25.124286,
+    "lng": 121.72279
+  },
+  "KEE308493": {
+    "name_zh": "六堵水廠",
+    "name_en": "Liudu Water Purification station",
+    "lat": 25.094839,
+    "lng": 121.702339
+  },
+  "KEE308717": {
+    "name_zh": "仙洞巖佛手洞",
+    "name_en": "Xiandongyan",
+    "lat": 25.14539764,
+    "lng": 121.7481028
+  },
+  "KEE308718": {
+    "name_zh": "仙洞巖佛手洞",
+    "name_en": "Xiandongyan",
+    "lat": 25.145395,
+    "lng": 121.748108
+  },
+  "KEE308719": {
+    "name_zh": "廟口夜市(二信循環站仁二路)",
+    "name_en": "Erxin Loop Station",
+    "lat": 25.129771,
+    "lng": 121.743128
+  },
+  "KEE308720": {
+    "name_zh": "廟口夜市(二信循環站仁二路)",
+    "name_en": "Erxin Loop Station",
+    "lat": 25.12995,
+    "lng": 121.74306
+  },
+  "KEE308744": {
+    "name_zh": "基隆要塞司令部",
+    "name_en": "Keelung Fort Command",
+    "lat": 25.141122,
+    "lng": 121.761696
+  },
+  "KEE308745": {
+    "name_zh": "基隆要塞司令部",
+    "name_en": "Keelung Fort Command",
+    "lat": 25.14146314,
+    "lng": 121.7616059
+  },
+  "KEE308753": {
+    "name_zh": "和平島地質公園入口",
+    "name_en": "Heping Island Park Entrance",
+    "lat": 25.16056,
+    "lng": 121.76353
+  },
+  "KEE308756": {
+    "name_zh": "幸福華城",
+    "name_en": "Xingfuhuacheng Community",
+    "lat": 25.089876,
+    "lng": 121.752769
+  },
+  "KEE308758": {
+    "name_zh": "台北大鎮",
+    "name_en": "Taibeidazhen",
+    "lat": 25.09088,
+    "lng": 121.754511
+  },
+  "KEE308759": {
+    "name_zh": "台北大鎮",
+    "name_en": "Taibeidazhen",
+    "lat": 25.090857,
+    "lng": 121.754381
+  },
+  "KEE309142": {
+    "name_zh": "正信路24之24號",
+    "name_en": "No.24-24 Zhengxin Rd.",
+    "lat": 25.130953,
+    "lng": 121.76138
+  },
+  "KEE309415": {
+    "name_zh": "通仁街84巷口",
+    "name_en": "Ln. 84, Tongren St.",
+    "lat": 25.145365,
+    "lng": 121.736451
+  },
+  "KEE309416": {
+    "name_zh": "通仁街84巷口",
+    "name_en": "Ln. 84, Tongren St.",
+    "lat": 25.145409,
+    "lng": 121.7366
+  },
+  "KEE309417": {
+    "name_zh": "居仁里民活動中心",
+    "name_en": "Juren Village Activity Center",
+    "lat": 25.144312,
+    "lng": 121.734621
+  },
+  "KEE309418": {
+    "name_zh": "居仁里民活動中心",
+    "name_en": "Juren Village Activity Center",
+    "lat": 25.1441,
+    "lng": 121.734719
+  },
+  "KEE309419": {
+    "name_zh": "福仁宮",
+    "name_en": "Furen Palace",
+    "lat": 25.144675,
+    "lng": 121.733554
+  },
+  "KEE309420": {
+    "name_zh": "福仁宮",
+    "name_en": "Furen Palace",
+    "lat": 25.144388,
+    "lng": 121.733532
+  },
+  "KEE309421": {
+    "name_zh": "聖海宮(大德分校)",
+    "name_en": "holy sea palace(Dar Der branch)",
+    "lat": 25.140805,
+    "lng": 121.733575
+  },
+  "KEE309422": {
+    "name_zh": "聖海宮(大德分校)",
+    "name_en": "holy sea palace(Dar Der branch)",
+    "lat": 25.14089,
+    "lng": 121.733683
+  },
+  "KEE309423": {
+    "name_zh": "華興宮",
+    "name_en": "Huaxing Palace",
+    "lat": 25.137034,
+    "lng": 121.735914
+  },
+  "KEE309424": {
+    "name_zh": "華興宮",
+    "name_en": "Huaxing Palace",
+    "lat": 25.137334,
+    "lng": 121.73652
+  },
+  "KEE309425": {
+    "name_zh": "太平青鳥",
+    "name_en": "Taiping Bleu Book",
+    "lat": 25.135593,
+    "lng": 121.737542
+  },
+  "KEE309426": {
+    "name_zh": "華興街53巷口",
+    "name_en": "Ln. 53, Huaxing St.",
+    "lat": 25.139369,
+    "lng": 121.737522
+  },
+  "KEE309427": {
+    "name_zh": "基隆第一景",
+    "name_en": "Keelung first landscape",
+    "lat": 25.137848,
+    "lng": 121.739129
+  },
+  "KEE309428": {
+    "name_zh": "華興街53巷口",
+    "name_en": "Ln. 53, Huaxing St.",
+    "lat": 25.139375,
+    "lng": 121.737408
+  },
+  "KEE309534": {
+    "name_zh": "基隆轉運站",
+    "name_en": "Keelung Transit Station",
+    "lat": 25.133076,
+    "lng": 121.739089
+  },
+  "KEE309535": {
+    "name_zh": "民治里活動中心",
+    "name_en": "Minzhi Village Activity Center",
+    "lat": 25.134482,
+    "lng": 121.740028
+  },
+  "KEE309687": {
+    "name_zh": "通仁街26號",
+    "name_en": "No. 26, Tongren St.",
+    "lat": 25.145821,
+    "lng": 121.737767
+  },
+  "KEE309688": {
+    "name_zh": "朝鳳宮",
+    "name_en": "Chaofeng Palace",
+    "lat": 25.136911,
+    "lng": 121.736238
+  },
+  "KEE309689": {
+    "name_zh": "朝鳳宮",
+    "name_en": "Chaofeng Palace",
+    "lat": 25.137334,
+    "lng": 121.73652
+  },
+  "KEE309690": {
+    "name_zh": "健民里活動中心",
+    "name_en": "Jianmin Village Activity Center",
+    "lat": 25.142462,
+    "lng": 121.73752
+  },
+  "KEE310268": {
+    "name_zh": "德育護理健康學院",
+    "name_en": "Deh Yu College of Nursing and Health",
+    "lat": 25.150199,
+    "lng": 121.727752
+  },
+  "KEE310269": {
+    "name_zh": "德安路口",
+    "name_en": "Dean Rd. Intersection",
+    "lat": 25.148395,
+    "lng": 121.725898
+  },
+  "KEE310270": {
+    "name_zh": "湖海路一段71號",
+    "name_en": "No.71 Sec. 1 Huhai Rd.",
+    "lat": 25.163676,
+    "lng": 121.720468
+  },
+  "KEE310271": {
+    "name_zh": "高遠新村",
+    "name_en": "Gaoyuanxincun Community",
+    "lat": 25.142058,
+    "lng": 121.745113
+  },
+  "KEE310272": {
+    "name_zh": "建德國小",
+    "name_en": "Jiande Elementary School",
+    "lat": 25.124919,
+    "lng": 121.722384
+  },
+  "KEE310275": {
+    "name_zh": "市府宿舍",
+    "name_en": "Keelung City Dormitory",
+    "lat": 25.104598,
+    "lng": 121.738546
+  },
+  "KEE310276": {
+    "name_zh": "市府宿舍",
+    "name_en": "Keelung City Dormitory",
+    "lat": 25.104375,
+    "lng": 121.738661
+  },
+  "KEE310288": {
+    "name_zh": "百福火車站",
+    "name_en": "Baifu Railway Station",
+    "lat": 25.078044,
+    "lng": 121.693505
+  },
+  "KEE310526": {
+    "name_zh": "百七街口",
+    "name_en": "Bai 7th St. Intersection",
+    "lat": 25.086083,
+    "lng": 121.694317
+  },
+  "KEE312013": {
+    "name_zh": "青嵐橋(金明昌鹿園)",
+    "name_en": "Qinglan Bridge ( Jin Ming Chang Deer Garden )",
+    "lat": 25.111431,
+    "lng": 121.687899
+  },
+  "KEE312016": {
+    "name_zh": "大華一路68之1號",
+    "name_en": "No.68-1 Dahua 1st Rd.",
+    "lat": 25.09918,
+    "lng": 121.707101
+  },
+  "KEE312017": {
+    "name_zh": "大華三路100號(親水公園)",
+    "name_en": "No.100 Dahua 3rd Rd.",
+    "lat": 25.133194,
+    "lng": 121.673592
+  },
+  "KEE312085": {
+    "name_zh": "基隆高中",
+    "name_en": "National Keelung Senior High School",
+    "lat": 25.107741,
+    "lng": 121.732785
+  },
+  "KEE312167": {
+    "name_zh": "義興社區",
+    "name_en": "Yixing Community",
+    "lat": 25.08357,
+    "lng": 121.748587
+  }
+}
