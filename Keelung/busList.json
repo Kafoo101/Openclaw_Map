@@ -1,0 +1,6854 @@
+[
+  {
+    "RouteUID": "KEE0155",
+    "RouteID": "0155",
+    "HasSubRoutes": false,
+    "Operators": [
+      {
+        "OperatorID": "109",
+        "OperatorName": {
+          "Zh_tw": "基隆市公車處"
+        },
+        "OperatorCode": "",
+        "OperatorNo": "1107"
+      }
+    ],
+    "AuthorityID": "011",
+    "ProviderID": "010",
+    "SubRoutes": [
+      {
+        "SubRouteUID": "KEE015501",
+        "SubRouteID": "015501",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "3044",
+          "En": "3044"
+        },
+        "Headsign": "基隆車站—經仙洞國小—高遠新村",
+        "HeadsignEn": "Keelung Station— Via Xiandong Elementary School — Gaoyuanxincun Community",
+        "Direction": 0,
+        "DepartureStopNameZh": "基隆火車站(南站)",
+        "DepartureStopNameEn": "Keelung Railway Station S.",
+        "DestinationStopNameZh": "太白莊",
+        "DestinationStopNameEn": "Taibai Village"
+      }
+    ],
+    "BusRouteType": 11,
+    "RouteName": {
+      "Zh_tw": "3044",
+      "En": "3044"
+    },
+    "DepartureStopNameZh": "基隆火車站(南站)",
+    "DepartureStopNameEn": "Keelung Railway Station S.",
+    "DestinationStopNameZh": "太白莊",
+    "DestinationStopNameEn": "Taibai Village",
+    "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0155.jpg",
+    "City": "Keelung",
+    "CityCode": "KEE",
+    "UpdateTime": "2026-05-19T18:14:30+08:00",
+    "VersionID": 6996
+  },
+  {
+    "RouteUID": "KEE0156",
+    "RouteID": "0156",
+    "HasSubRoutes": false,
+    "Operators": [
+      {
+        "OperatorID": "109",
+        "OperatorName": {
+          "Zh_tw": "基隆市公車處"
+        },
+        "OperatorCode": "",
+        "OperatorNo": "1107"
+      }
+    ],
+    "AuthorityID": "011",
+    "ProviderID": "010",
+    "SubRoutes": [
+      {
+        "SubRouteUID": "KEE015601",
+        "SubRouteID": "015601",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "3045",
+          "En": "3045"
+        },
+        "Headsign": "基隆車站—高遠新村",
+        "HeadsignEn": "Keelung Station— Gaoyuanxincun Community",
+        "Direction": 0,
+        "DepartureStopNameZh": "基隆火車站(南站)",
+        "DepartureStopNameEn": "Keelung Railway Station S.",
+        "DestinationStopNameZh": "太白莊",
+        "DestinationStopNameEn": "Taibai Village"
+      }
+    ],
+    "BusRouteType": 11,
+    "RouteName": {
+      "Zh_tw": "3045",
+      "En": "3045"
+    },
+    "DepartureStopNameZh": "基隆火車站(南站)",
+    "DepartureStopNameEn": "Keelung Railway Station S.",
+    "DestinationStopNameZh": "太白莊",
+    "DestinationStopNameEn": "Taibai Village",
+    "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0156.jpg",
+    "City": "Keelung",
+    "CityCode": "KEE",
+    "UpdateTime": "2026-05-19T18:14:30+08:00",
+    "VersionID": 6996
+  },
+  {
+    "RouteUID": "KEE0157",
+    "RouteID": "0157",
+    "HasSubRoutes": false,
+    "Operators": [
+      {
+        "OperatorID": "109",
+        "OperatorName": {
+          "Zh_tw": "基隆市公車處"
+        },
+        "OperatorCode": "",
+        "OperatorNo": "1107"
+      }
+    ],
+    "AuthorityID": "011",
+    "ProviderID": "010",
+    "SubRoutes": [
+      {
+        "SubRouteUID": "KEE015701",
+        "SubRouteID": "015701",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "3072",
+          "En": "3072"
+        },
+        "Headsign": "中和國小→基隆車站(經西定路)",
+        "HeadsignEn": "Zhonghe Elementary School→Keelung Station(Xiding Rd.)",
+        "Direction": 0,
+        "DepartureStopNameZh": "中和路168巷7弄19號",
+        "DepartureStopNameEn": "No.19 Aly. 7 Ln. 168 Zhonghe Rd.",
+        "DestinationStopNameZh": "基隆火車站(南站)",
+        "DestinationStopNameEn": "Keelung Railway Station S."
+      }
+    ],
+    "BusRouteType": 11,
+    "RouteName": {
+      "Zh_tw": "3072",
+      "En": "3072"
+    },
+    "DepartureStopNameZh": "中和路168巷7弄19號",
+    "DepartureStopNameEn": "No.19 Aly. 7 Ln. 168 Zhonghe Rd.",
+    "DestinationStopNameZh": "基隆火車站(南站)",
+    "DestinationStopNameEn": "Keelung Railway Station S.",
+    "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0157.jpg",
+    "City": "Keelung",
+    "CityCode": "KEE",
+    "UpdateTime": "2026-05-19T18:14:30+08:00",
+    "VersionID": 6996
+  },
+  {
+    "RouteUID": "KEE0158",
+    "RouteID": "0158",
+    "HasSubRoutes": false,
+    "Operators": [
+      {
+        "OperatorID": "109",
+        "OperatorName": {
+          "Zh_tw": "基隆市公車處"
+        },
+        "OperatorCode": "",
+        "OperatorNo": "1107"
+      }
+    ],
+    "AuthorityID": "011",
+    "ProviderID": "010",
+    "SubRoutes": [
+      {
+        "SubRouteUID": "KEE015801",
+        "SubRouteID": "015801",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "3073",
+          "En": "3073"
+        },
+        "Headsign": "基隆車站→中和國小(經西定路)→經成功市場",
+        "HeadsignEn": "Keelung Station→Zhonghe Elementary School(Xiding Rd.)→Via Chengong Market",
+        "Direction": 0,
+        "DepartureStopNameZh": "基隆火車站(南站)",
+        "DepartureStopNameEn": "Keelung Railway Station S.",
+        "DestinationStopNameZh": "基隆火車站(南站)",
+        "DestinationStopNameEn": "Keelung Railway Station S."
+      }
+    ],
+    "BusRouteType": 11,
+    "RouteName": {
+      "Zh_tw": "3073",
+      "En": "3073"
+    },
+    "DepartureStopNameZh": "基隆火車站(南站)",
+    "DepartureStopNameEn": "Keelung Railway Station S.",
+    "DestinationStopNameZh": "基隆火車站(南站)",
+    "DestinationStopNameEn": "Keelung Railway Station S.",
+    "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0158.jpg",
+    "City": "Keelung",
+    "CityCode": "KEE",
+    "UpdateTime": "2026-05-19T18:14:30+08:00",
+    "VersionID": 6996
+  },
+  {
+    "RouteUID": "KEE0180",
+    "RouteID": "0180",
+    "HasSubRoutes": false,
+    "Operators": [
+      {
+        "OperatorID": "109",
+        "OperatorName": {
+          "Zh_tw": "基隆市公車處"
+        },
+        "OperatorCode": "",
+        "OperatorNo": "1107"
+      }
+    ],
+    "AuthorityID": "011",
+    "ProviderID": "010",
+    "SubRoutes": [
+      {
+        "SubRouteUID": "KEE018001",
+        "SubRouteID": "018001",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "6034",
+          "En": "6034"
+        },
+        "Headsign": "東勢坑→經東勢街→羅傑摩爾(經暖西國小)",
+        "HeadsignEn": "Dongshi Tunnel→Via Dongshi St.→Luojiemoer(Nuanshi Elementary School)",
+        "Direction": 0,
+        "DepartureStopNameZh": "東安宮",
+        "DepartureStopNameEn": "Dongan Temple",
+        "DestinationStopNameZh": "東安宮",
+        "DestinationStopNameEn": "Dongan Temple"
+      }
+    ],
+    "BusRouteType": 11,
+    "RouteName": {
+      "Zh_tw": "6034",
+      "En": "6034"
+    },
+    "DepartureStopNameZh": "東安宮",
+    "DepartureStopNameEn": "Dongan Temple",
+    "DestinationStopNameZh": "東安宮",
+    "DestinationStopNameEn": "Dongan Temple",
+    "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0180.jpg",
+    "City": "Keelung",
+    "CityCode": "KEE",
+    "UpdateTime": "2026-05-19T18:14:30+08:00",
+    "VersionID": 6996
+  },
+  {
+    "RouteUID": "KEE0181",
+    "RouteID": "0181",
+    "HasSubRoutes": false,
+    "Operators": [
+      {
+        "OperatorID": "109",
+        "OperatorName": {
+          "Zh_tw": "基隆市公車處"
+        },
+        "OperatorCode": "",
+        "OperatorNo": "1107"
+      }
+    ],
+    "AuthorityID": "011",
+    "ProviderID": "010",
+    "SubRoutes": [
+      {
+        "SubRouteUID": "KEE018101",
+        "SubRouteID": "018101",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "6033",
+          "En": "6033"
+        },
+        "Headsign": "東勢坑→經東勢街→羅傑摩爾(經暖暖國小)",
+        "HeadsignEn": "Dongshi Tunnel → Via Dongshi St.→Luojiemoer(Nuannuan Elementary School)",
+        "Direction": 0,
+        "DepartureStopNameZh": "東安宮",
+        "DepartureStopNameEn": "Dongan Temple",
+        "DestinationStopNameZh": "東安宮",
+        "DestinationStopNameEn": "Dongan Temple"
+      }
+    ],
+    "BusRouteType": 11,
+    "RouteName": {
+      "Zh_tw": "6033",
+      "En": "6033"
+    },
+    "DepartureStopNameZh": "東安宮",
+    "DepartureStopNameEn": "Dongan Temple",
+    "DestinationStopNameZh": "東安宮",
+    "DestinationStopNameEn": "Dongan Temple",
+    "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0181.jpg",
+    "City": "Keelung",
+    "CityCode": "KEE",
+    "UpdateTime": "2026-05-19T18:14:30+08:00",
+    "VersionID": 6996
+  },
+  {
+    "RouteUID": "KEE0211",
+    "RouteID": "0211",
+    "HasSubRoutes": false,
+    "Operators": [
+      {
+        "OperatorID": "109",
+        "OperatorName": {
+          "Zh_tw": "基隆市公車處"
+        },
+        "OperatorCode": "",
+        "OperatorNo": "1107"
+      }
+    ],
+    "AuthorityID": "011",
+    "ProviderID": "010",
+    "SubRoutes": [
+      {
+        "SubRouteUID": "KEE021101",
+        "SubRouteID": "021101",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "201",
+          "En": "201"
+        },
+        "Headsign": "深美國小→經仁一路",
+        "HeadsignEn": "Shenmei Elementary School→Via Ren 1st Rd.",
+        "Direction": 0,
+        "DepartureStopNameZh": "深美國小(消防分隊)",
+        "DepartureStopNameEn": "Shen-Mei Elementary School ( Fire Units)",
+        "DestinationStopNameZh": "深美國小(消防分隊)",
+        "DestinationStopNameEn": "Shen-Mei Elementary School ( Fire Units)"
+      }
+    ],
+    "BusRouteType": 11,
+    "RouteName": {
+      "Zh_tw": "201",
+      "En": "201"
+    },
+    "DepartureStopNameZh": "深美國小(消防分隊)",
+    "DepartureStopNameEn": "Shen-Mei Elementary School ( Fire Units)",
+    "DestinationStopNameZh": "深美國小(消防分隊)",
+    "DestinationStopNameEn": "Shen-Mei Elementary School ( Fire Units)",
+    "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0211.jpg",
+    "City": "Keelung",
+    "CityCode": "KEE",
+    "UpdateTime": "2026-05-19T18:14:30+08:00",
+    "VersionID": 6996
+  },
+  {
+    "RouteUID": "KEE0212",
+    "RouteID": "0212",
+    "HasSubRoutes": true,
+    "Operators": [
+      {
+        "OperatorID": "109",
+        "OperatorName": {
+          "Zh_tw": "基隆市公車處"
+        },
+        "OperatorCode": "",
+        "OperatorNo": "1107"
+      }
+    ],
+    "AuthorityID": "011",
+    "ProviderID": "010",
+    "SubRoutes": [
+      {
+        "SubRouteUID": "KEE021201",
+        "SubRouteID": "021201",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "202",
+          "En": "202"
+        },
+        "Headsign": "深美國小→經信二路",
+        "HeadsignEn": "Shenmei Elementary School→Via Xin 2nd Rd.",
+        "Direction": 0,
+        "DepartureStopNameZh": "深美國小(消防分隊)",
+        "DepartureStopNameEn": "Shen-Mei Elementary School ( Fire Units)",
+        "DestinationStopNameZh": "深美國小(消防分隊)",
+        "DestinationStopNameEn": "Shen-Mei Elementary School ( Fire Units)"
+      },
+      {
+        "SubRouteUID": "KEE0212A1",
+        "SubRouteID": "0212A1",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "202A",
+          "En": "202A"
+        },
+        "Headsign": "深美國小→經信二路",
+        "HeadsignEn": "Shenmei Elementary School→Via Xin 2nd Rd.",
+        "Direction": 0,
+        "DepartureStopNameZh": "基隆轉運站",
+        "DepartureStopNameEn": "Keelung Transit Station",
+        "DestinationStopNameZh": "深美國小(消防分隊)",
+        "DestinationStopNameEn": "Shen-Mei Elementary School ( Fire Units)"
+      }
+    ],
+    "BusRouteType": 11,
+    "RouteName": {
+      "Zh_tw": "202",
+      "En": "202"
+    },
+    "DepartureStopNameZh": "深美國小(消防分隊)",
+    "DepartureStopNameEn": "Shen-Mei Elementary School ( Fire Units)",
+    "DestinationStopNameZh": "深美國小(消防分隊)",
+    "DestinationStopNameEn": "Shen-Mei Elementary School ( Fire Units)",
+    "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0212.jpg",
+    "City": "Keelung",
+    "CityCode": "KEE",
+    "UpdateTime": "2026-05-19T18:14:30+08:00",
+    "VersionID": 6996
+  },
+  {
+    "RouteUID": "KEE0231",
+    "RouteID": "0231",
+    "HasSubRoutes": false,
+    "Operators": [
+      {
+        "OperatorID": "109",
+        "OperatorName": {
+          "Zh_tw": "基隆市公車處"
+        },
+        "OperatorCode": "",
+        "OperatorNo": "1107"
+      }
+    ],
+    "AuthorityID": "011",
+    "ProviderID": "010",
+    "SubRoutes": [
+      {
+        "SubRouteUID": "KEE023101",
+        "SubRouteID": "023101",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "203",
+          "En": "203"
+        },
+        "Headsign": "深澳坑→經美的世界(經八斗山莊)",
+        "HeadsignEn": "Shenaokeng→Via Meideshijie Community(Badoushanzhuang Community)",
+        "Direction": 0,
+        "DepartureStopNameZh": "八斗子分站",
+        "DepartureStopNameEn": "Badouzi Substation",
+        "DestinationStopNameZh": "基隆漁會",
+        "DestinationStopNameEn": "Keelung District Fishmens` Association"
+      }
+    ],
+    "BusRouteType": 11,
+    "RouteName": {
+      "Zh_tw": "203",
+      "En": "203"
+    },
+    "DepartureStopNameZh": "八斗子分站",
+    "DepartureStopNameEn": "Badouzi Substation",
+    "DestinationStopNameZh": "基隆漁會",
+    "DestinationStopNameEn": "Keelung District Fishmens` Association",
+    "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0231.jpg",
+    "City": "Keelung",
+    "CityCode": "KEE",
+    "UpdateTime": "2026-05-19T18:14:30+08:00",
+    "VersionID": 6996
+  },
+  {
+    "RouteUID": "KEE0232",
+    "RouteID": "0232",
+    "HasSubRoutes": false,
+    "Operators": [
+      {
+        "OperatorID": "109",
+        "OperatorName": {
+          "Zh_tw": "基隆市公車處"
+        },
+        "OperatorCode": "",
+        "OperatorNo": "1107"
+      }
+    ],
+    "AuthorityID": "011",
+    "ProviderID": "010",
+    "SubRoutes": [
+      {
+        "SubRouteUID": "KEE023201",
+        "SubRouteID": "023201",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "203",
+          "En": "203"
+        },
+        "Headsign": "深澳坑→經富貴社區(經八斗山莊)",
+        "HeadsignEn": "Shenaokeng→Via Fugui Community(Badoushanzhuang Community)",
+        "Direction": 0,
+        "DepartureStopNameZh": "八斗子分站",
+        "DepartureStopNameEn": "Badouzi Substation",
+        "DestinationStopNameZh": "基隆漁會",
+        "DestinationStopNameEn": "Keelung District Fishmens` Association"
+      }
+    ],
+    "BusRouteType": 11,
+    "RouteName": {
+      "Zh_tw": "203",
+      "En": "203"
+    },
+    "DepartureStopNameZh": "八斗子分站",
+    "DepartureStopNameEn": "Badouzi Substation",
+    "DestinationStopNameZh": "基隆漁會",
+    "DestinationStopNameEn": "Keelung District Fishmens` Association",
+    "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0232.jpg",
+    "City": "Keelung",
+    "CityCode": "KEE",
+    "UpdateTime": "2026-05-19T18:14:30+08:00",
+    "VersionID": 6996
+  },
+  {
+    "RouteUID": "KEE0233",
+    "RouteID": "0233",
+    "HasSubRoutes": false,
+    "Operators": [
+      {
+        "OperatorID": "109",
+        "OperatorName": {
+          "Zh_tw": "基隆市公車處"
+        },
+        "OperatorCode": "",
+        "OperatorNo": "1107"
+      }
+    ],
+    "AuthorityID": "011",
+    "ProviderID": "010",
+    "SubRoutes": [
+      {
+        "SubRouteUID": "KEE023301",
+        "SubRouteID": "023301",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "203",
+          "En": "203"
+        },
+        "Headsign": "深澳坑→經富貴社區(去八斗山莊)",
+        "HeadsignEn": "Shenaokeng→Via Fugui Community(Badoushanzhuang Community)",
+        "Direction": 0,
+        "DepartureStopNameZh": "八斗子分站",
+        "DepartureStopNameEn": "Badouzi Substation",
+        "DestinationStopNameZh": "基隆漁會",
+        "DestinationStopNameEn": "Keelung District Fishmens` Association"
+      }
+    ],
+    "BusRouteType": 11,
+    "RouteName": {
+      "Zh_tw": "203",
+      "En": "203"
+    },
+    "DepartureStopNameZh": "八斗子分站",
+    "DepartureStopNameEn": "Badouzi Substation",
+    "DestinationStopNameZh": "基隆漁會",
+    "DestinationStopNameEn": "Keelung District Fishmens` Association",
+    "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0233.jpg",
+    "City": "Keelung",
+    "CityCode": "KEE",
+    "UpdateTime": "2026-05-19T18:14:30+08:00",
+    "VersionID": 6996
+  },
+  {
+    "RouteUID": "KEE0234",
+    "RouteID": "0234",
+    "HasSubRoutes": false,
+    "Operators": [
+      {
+        "OperatorID": "109",
+        "OperatorName": {
+          "Zh_tw": "基隆市公車處"
+        },
+        "OperatorCode": "",
+        "OperatorNo": "1107"
+      }
+    ],
+    "AuthorityID": "011",
+    "ProviderID": "010",
+    "SubRoutes": [
+      {
+        "SubRouteUID": "KEE023401",
+        "SubRouteID": "023401",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "203",
+          "En": "203"
+        },
+        "Headsign": "深澳坑→經富貴社區(回八斗山莊)",
+        "HeadsignEn": "Shenaokeng→Via Fugui Community(Badoushanzhuang Community)",
+        "Direction": 0,
+        "DepartureStopNameZh": "八斗子分站",
+        "DepartureStopNameEn": "Badouzi Substation",
+        "DestinationStopNameZh": "基隆漁會",
+        "DestinationStopNameEn": "Keelung District Fishmens` Association"
+      }
+    ],
+    "BusRouteType": 11,
+    "RouteName": {
+      "Zh_tw": "203",
+      "En": "203"
+    },
+    "DepartureStopNameZh": "八斗子分站",
+    "DepartureStopNameEn": "Badouzi Substation",
+    "DestinationStopNameZh": "基隆漁會",
+    "DestinationStopNameEn": "Keelung District Fishmens` Association",
+    "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0234.jpg",
+    "City": "Keelung",
+    "CityCode": "KEE",
+    "UpdateTime": "2026-05-19T18:14:30+08:00",
+    "VersionID": 6996
+  },
+  {
+    "RouteUID": "KEE0235",
+    "RouteID": "0235",
+    "HasSubRoutes": false,
+    "Operators": [
+      {
+        "OperatorID": "109",
+        "OperatorName": {
+          "Zh_tw": "基隆市公車處"
+        },
+        "OperatorCode": "",
+        "OperatorNo": "1107"
+      }
+    ],
+    "AuthorityID": "011",
+    "ProviderID": "010",
+    "SubRoutes": [
+      {
+        "SubRouteUID": "KEE023501",
+        "SubRouteID": "023501",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "203",
+          "En": "203"
+        },
+        "Headsign": "深澳坑→去經美的世界(回經富貴社區)",
+        "HeadsignEn": "Shenaokeng→Via Meideshijie Community(Fugui Community)",
+        "Direction": 0,
+        "DepartureStopNameZh": "八斗子分站",
+        "DepartureStopNameEn": "Badouzi Substation",
+        "DestinationStopNameZh": "基隆漁會",
+        "DestinationStopNameEn": "Keelung District Fishmens` Association"
+      }
+    ],
+    "BusRouteType": 11,
+    "RouteName": {
+      "Zh_tw": "203",
+      "En": "203"
+    },
+    "DepartureStopNameZh": "八斗子分站",
+    "DepartureStopNameEn": "Badouzi Substation",
+    "DestinationStopNameZh": "基隆漁會",
+    "DestinationStopNameEn": "Keelung District Fishmens` Association",
+    "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0235.jpg",
+    "City": "Keelung",
+    "CityCode": "KEE",
+    "UpdateTime": "2026-05-19T18:14:30+08:00",
+    "VersionID": 6996
+  },
+  {
+    "RouteUID": "KEE0236",
+    "RouteID": "0236",
+    "HasSubRoutes": false,
+    "Operators": [
+      {
+        "OperatorID": "109",
+        "OperatorName": {
+          "Zh_tw": "基隆市公車處"
+        },
+        "OperatorCode": "",
+        "OperatorNo": "1107"
+      }
+    ],
+    "AuthorityID": "011",
+    "ProviderID": "010",
+    "SubRoutes": [
+      {
+        "SubRouteUID": "KEE023601",
+        "SubRouteID": "023601",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "204",
+          "En": "204"
+        },
+        "Headsign": "教忠街→經美的世界",
+        "HeadsignEn": "Jiaozhong St.→Via Meideshijie Community",
+        "Direction": 0,
+        "DepartureStopNameZh": "深美分站",
+        "DepartureStopNameEn": "Shenmei Substation",
+        "DestinationStopNameZh": "深美國小正門口",
+        "DestinationStopNameEn": "Shen-Mei Elementary School"
+      }
+    ],
+    "BusRouteType": 11,
+    "RouteName": {
+      "Zh_tw": "204",
+      "En": "204"
+    },
+    "DepartureStopNameZh": "深美分站",
+    "DepartureStopNameEn": "Shenmei Substation",
+    "DestinationStopNameZh": "深美國小正門口",
+    "DestinationStopNameEn": "Shen-Mei Elementary School",
+    "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0236.jpg",
+    "City": "Keelung",
+    "CityCode": "KEE",
+    "UpdateTime": "2026-05-19T18:14:30+08:00",
+    "VersionID": 6996
+  },
+  {
+    "RouteUID": "KEE0237",
+    "RouteID": "0237",
+    "HasSubRoutes": false,
+    "Operators": [
+      {
+        "OperatorID": "109",
+        "OperatorName": {
+          "Zh_tw": "基隆市公車處"
+        },
+        "OperatorCode": "",
+        "OperatorNo": "1107"
+      }
+    ],
+    "AuthorityID": "011",
+    "ProviderID": "010",
+    "SubRoutes": [
+      {
+        "SubRouteUID": "KEE023701",
+        "SubRouteID": "023701",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "204",
+          "En": "204"
+        },
+        "Headsign": "教忠街→經美的世界(總站發車)",
+        "HeadsignEn": "Jiaozhong St.→Via Meideshijie Community",
+        "Direction": 0,
+        "DepartureStopNameZh": "基隆轉運站",
+        "DepartureStopNameEn": "Keelung Transit Station",
+        "DestinationStopNameZh": "深美國小正門口",
+        "DestinationStopNameEn": "Shen-Mei Elementary School"
+      }
+    ],
+    "BusRouteType": 11,
+    "RouteName": {
+      "Zh_tw": "204",
+      "En": "204"
+    },
+    "DepartureStopNameZh": "基隆轉運站",
+    "DepartureStopNameEn": "Keelung Transit Station",
+    "DestinationStopNameZh": "深美國小正門口",
+    "DestinationStopNameEn": "Shen-Mei Elementary School",
+    "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0237.jpg",
+    "City": "Keelung",
+    "CityCode": "KEE",
+    "UpdateTime": "2026-05-19T18:14:30+08:00",
+    "VersionID": 6996
+  },
+  {
+    "RouteUID": "KEE0238",
+    "RouteID": "0238",
+    "HasSubRoutes": false,
+    "Operators": [
+      {
+        "OperatorID": "109",
+        "OperatorName": {
+          "Zh_tw": "基隆市公車處"
+        },
+        "OperatorCode": "",
+        "OperatorNo": "1107"
+      }
+    ],
+    "AuthorityID": "011",
+    "ProviderID": "010",
+    "SubRoutes": [
+      {
+        "SubRouteUID": "KEE023801",
+        "SubRouteID": "023801",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "204",
+          "En": "204"
+        },
+        "Headsign": "教忠街→經富貴社區(經月眉路)",
+        "HeadsignEn": "Jiaozhong St.→Via Fugui Community(Yuemei Rd.)",
+        "Direction": 0,
+        "DepartureStopNameZh": "深美分站",
+        "DepartureStopNameEn": "Shenmei Substation",
+        "DestinationStopNameZh": "深美國小正門口",
+        "DestinationStopNameEn": "Shen-Mei Elementary School"
+      }
+    ],
+    "BusRouteType": 11,
+    "RouteName": {
+      "Zh_tw": "204",
+      "En": "204"
+    },
+    "DepartureStopNameZh": "深美分站",
+    "DepartureStopNameEn": "Shenmei Substation",
+    "DestinationStopNameZh": "深美國小正門口",
+    "DestinationStopNameEn": "Shen-Mei Elementary School",
+    "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0238.jpg",
+    "City": "Keelung",
+    "CityCode": "KEE",
+    "UpdateTime": "2026-05-19T18:14:30+08:00",
+    "VersionID": 6996
+  },
+  {
+    "RouteUID": "KEE0239",
+    "RouteID": "0239",
+    "HasSubRoutes": false,
+    "Operators": [
+      {
+        "OperatorID": "109",
+        "OperatorName": {
+          "Zh_tw": "基隆市公車處"
+        },
+        "OperatorCode": "",
+        "OperatorNo": "1107"
+      }
+    ],
+    "AuthorityID": "011",
+    "ProviderID": "010",
+    "SubRoutes": [
+      {
+        "SubRouteUID": "KEE023901",
+        "SubRouteID": "023901",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "204",
+          "En": "204"
+        },
+        "Headsign": "教忠街→經富貴社區",
+        "HeadsignEn": "Jiaozhong St.→Via Fugui Community",
+        "Direction": 0,
+        "DepartureStopNameZh": "深美分站",
+        "DepartureStopNameEn": "Shenmei Substation",
+        "DestinationStopNameZh": "深美國小正門口",
+        "DestinationStopNameEn": "Shen-Mei Elementary School"
+      }
+    ],
+    "BusRouteType": 11,
+    "RouteName": {
+      "Zh_tw": "204",
+      "En": "204"
+    },
+    "DepartureStopNameZh": "深美分站",
+    "DepartureStopNameEn": "Shenmei Substation",
+    "DestinationStopNameZh": "深美國小正門口",
+    "DestinationStopNameEn": "Shen-Mei Elementary School",
+    "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0239.jpg",
+    "City": "Keelung",
+    "CityCode": "KEE",
+    "UpdateTime": "2026-05-19T18:14:30+08:00",
+    "VersionID": 6996
+  },
+  {
+    "RouteUID": "KEE0245",
+    "RouteID": "0245",
+    "HasSubRoutes": true,
+    "Operators": [
+      {
+        "OperatorID": "109",
+        "OperatorName": {
+          "Zh_tw": "基隆市公車處"
+        },
+        "OperatorCode": "",
+        "OperatorNo": "1107"
+      }
+    ],
+    "AuthorityID": "011",
+    "ProviderID": "010",
+    "SubRoutes": [
+      {
+        "SubRouteUID": "KEE024501",
+        "SubRouteID": "024501",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "204",
+          "En": "204"
+        },
+        "Headsign": "教忠街→經美的世界(經月眉路)",
+        "HeadsignEn": "Jiaozhong St.→Via Meideshijie Community(Yuemei Rd.)",
+        "Direction": 0,
+        "DepartureStopNameZh": "深美分站",
+        "DepartureStopNameEn": "Shenmei Substation",
+        "DestinationStopNameZh": "深美國小正門口",
+        "DestinationStopNameEn": "Shen-Mei Elementary School"
+      },
+      {
+        "SubRouteUID": "KEE0245A1",
+        "SubRouteID": "0245A1",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "204A",
+          "En": "204A"
+        },
+        "Headsign": "教忠街→經美的世界(經教孝街)",
+        "HeadsignEn": "Jiaozhong St.→Via Meideshijie Community(Jiaohau St.)",
+        "Direction": 0,
+        "DepartureStopNameZh": "深美分站",
+        "DepartureStopNameEn": "Shenmei Substation",
+        "DestinationStopNameZh": "深美國小正門口",
+        "DestinationStopNameEn": "Shen-Mei Elementary School"
+      },
+      {
+        "SubRouteUID": "KEE0245B1",
+        "SubRouteID": "0245B1",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "204B",
+          "En": "204B"
+        },
+        "Headsign": "教忠街—經美的世界(經仁五路)",
+        "HeadsignEn": "Jiaozhong St. — Via Meideshijie Community(Ren 5th Rd.)",
+        "Direction": 0,
+        "DepartureStopNameZh": "深美分站",
+        "DepartureStopNameEn": "Shenmei Substation",
+        "DestinationStopNameZh": "深美國小正門口",
+        "DestinationStopNameEn": "Shen-Mei Elementary School"
+      },
+      {
+        "SubRouteUID": "KEE0245C1",
+        "SubRouteID": "0245C1",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "204C",
+          "En": "204C"
+        },
+        "Headsign": "教忠街—基隆車站(經富貴社區)",
+        "HeadsignEn": "Jiaozhong St. — Keelung Station(Fugui Community)",
+        "Direction": 0,
+        "DepartureStopNameZh": "深美分站",
+        "DepartureStopNameEn": "Shenmei Substation",
+        "DestinationStopNameZh": "基隆轉運站",
+        "DestinationStopNameEn": "Keelung Transit Station"
+      },
+      {
+        "SubRouteUID": "KEE0245D1",
+        "SubRouteID": "0245D1",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "204D",
+          "En": "204D"
+        },
+        "Headsign": "教忠街—基隆車站(經美的世界)",
+        "HeadsignEn": "Jiaozhong St. — Keelung Station(Fugui Community)",
+        "Direction": 0,
+        "DepartureStopNameZh": "深美分站",
+        "DepartureStopNameEn": "Shenmei Substation",
+        "DestinationStopNameZh": "基隆轉運站",
+        "DestinationStopNameEn": "Keelung Transit Station"
+      }
+    ],
+    "BusRouteType": 11,
+    "RouteName": {
+      "Zh_tw": "204",
+      "En": "204"
+    },
+    "DepartureStopNameZh": "深美分站",
+    "DepartureStopNameEn": "Shenmei Substation",
+    "DestinationStopNameZh": "深美國小正門口",
+    "DestinationStopNameEn": "Shen-Mei Elementary School",
+    "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0245.jpg",
+    "City": "Keelung",
+    "CityCode": "KEE",
+    "UpdateTime": "2026-05-19T18:14:30+08:00",
+    "VersionID": 6996
+  },
+  {
+    "RouteUID": "KEE0251",
+    "RouteID": "0251",
+    "HasSubRoutes": true,
+    "Operators": [
+      {
+        "OperatorID": "109",
+        "OperatorName": {
+          "Zh_tw": "基隆市公車處"
+        },
+        "OperatorCode": "",
+        "OperatorNo": "1107"
+      }
+    ],
+    "AuthorityID": "011",
+    "ProviderID": "010",
+    "SubRoutes": [
+      {
+        "SubRouteUID": "KEE025101",
+        "SubRouteID": "025101",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "205",
+          "En": "205"
+        },
+        "Headsign": "信義國中→深美國小(經和平島)",
+        "HeadsignEn": "Xinyi Junior High School→Shenmei Elementary School(Heping Island))",
+        "Direction": 0,
+        "DepartureStopNameZh": "信義國中",
+        "DepartureStopNameEn": "Sinyi Junior High School",
+        "DestinationStopNameZh": "深美國小(消防分隊)",
+        "DestinationStopNameEn": "Shen-Mei Elementary School ( Fire Units)"
+      },
+      {
+        "SubRouteUID": "KEE0251A1",
+        "SubRouteID": "0251A1",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "205A",
+          "En": "205A"
+        },
+        "Headsign": "信義國中—和平島(經祥豐街)",
+        "HeadsignEn": "Xinyi Junior High School — Heping Island(Xiangfeng St.)",
+        "Direction": 0,
+        "DepartureStopNameZh": "信義國中",
+        "DepartureStopNameEn": "Sinyi Junior High School",
+        "DestinationStopNameZh": "阿拉寶灣",
+        "DestinationStopNameEn": "Alabao Bay"
+      }
+    ],
+    "BusRouteType": 11,
+    "RouteName": {
+      "Zh_tw": "205",
+      "En": "205"
+    },
+    "DepartureStopNameZh": "信義國中",
+    "DepartureStopNameEn": "Sinyi Junior High School",
+    "DestinationStopNameZh": "深美國小(消防分隊)",
+    "DestinationStopNameEn": "Shen-Mei Elementary School ( Fire Units)",
+    "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0251.jpg",
+    "City": "Keelung",
+    "CityCode": "KEE",
+    "UpdateTime": "2026-05-19T18:14:30+08:00",
+    "VersionID": 6996
+  },
+  {
+    "RouteUID": "KEE0318",
+    "RouteID": "0318",
+    "HasSubRoutes": false,
+    "Operators": [
+      {
+        "OperatorID": "109",
+        "OperatorName": {
+          "Zh_tw": "基隆市公車處"
+        },
+        "OperatorCode": "",
+        "OperatorNo": "1107"
+      }
+    ],
+    "AuthorityID": "011",
+    "ProviderID": "010",
+    "SubRoutes": [
+      {
+        "SubRouteUID": "KEE031801",
+        "SubRouteID": "031801",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "301",
+          "En": "301"
+        },
+        "Headsign": "太白莊—經成功市場",
+        "HeadsignEn": "Taibai Village — Via Chengong Market",
+        "Direction": 0,
+        "DepartureStopNameZh": "太白莊",
+        "DepartureStopNameEn": "Taibai Village",
+        "DestinationStopNameZh": "太白莊",
+        "DestinationStopNameEn": "Taibai Village"
+      }
+    ],
+    "BusRouteType": 11,
+    "RouteName": {
+      "Zh_tw": "301",
+      "En": "301"
+    },
+    "DepartureStopNameZh": "太白莊",
+    "DepartureStopNameEn": "Taibai Village",
+    "DestinationStopNameZh": "太白莊",
+    "DestinationStopNameEn": "Taibai Village",
+    "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0318.jpg",
+    "City": "Keelung",
+    "CityCode": "KEE",
+    "UpdateTime": "2026-05-19T18:14:30+08:00",
+    "VersionID": 6996
+  },
+  {
+    "RouteUID": "KEE0324",
+    "RouteID": "0324",
+    "HasSubRoutes": false,
+    "Operators": [
+      {
+        "OperatorID": "109",
+        "OperatorName": {
+          "Zh_tw": "基隆市公車處"
+        },
+        "OperatorCode": "",
+        "OperatorNo": "1107"
+      }
+    ],
+    "AuthorityID": "011",
+    "ProviderID": "010",
+    "SubRoutes": [
+      {
+        "SubRouteUID": "KEE032401",
+        "SubRouteID": "032401",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "3037",
+          "En": "3037"
+        },
+        "Headsign": "大竿林→經中山一路",
+        "HeadsignEn": "Daganlin → Via Zhongshan 1st Rd.",
+        "Direction": 0,
+        "DepartureStopNameZh": "富都新城",
+        "DepartureStopNameEn": "Fudouxincheng",
+        "DestinationStopNameZh": "富都新城",
+        "DestinationStopNameEn": "Fudouxincheng"
+      }
+    ],
+    "BusRouteType": 11,
+    "RouteName": {
+      "Zh_tw": "3037",
+      "En": "3037"
+    },
+    "DepartureStopNameZh": "富都新城",
+    "DepartureStopNameEn": "Fudouxincheng",
+    "DestinationStopNameZh": "富都新城",
+    "DestinationStopNameEn": "Fudouxincheng",
+    "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0324.jpg",
+    "City": "Keelung",
+    "CityCode": "KEE",
+    "UpdateTime": "2026-05-19T18:14:30+08:00",
+    "VersionID": 6996
+  },
+  {
+    "RouteUID": "KEE0325",
+    "RouteID": "0325",
+    "HasSubRoutes": false,
+    "Operators": [
+      {
+        "OperatorID": "109",
+        "OperatorName": {
+          "Zh_tw": "基隆市公車處"
+        },
+        "OperatorCode": "",
+        "OperatorNo": "1107"
+      }
+    ],
+    "AuthorityID": "011",
+    "ProviderID": "010",
+    "SubRoutes": [
+      {
+        "SubRouteUID": "KEE032501",
+        "SubRouteID": "032501",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "3014",
+          "En": "3014"
+        },
+        "Headsign": "太白莊→經太平青鳥",
+        "HeadsignEn": "Taibai Village → Via Taiping Bleu Book",
+        "Direction": 0,
+        "DepartureStopNameZh": "太白莊",
+        "DepartureStopNameEn": "Taibai Village",
+        "DestinationStopNameZh": "太白莊",
+        "DestinationStopNameEn": "Taibai Village"
+      }
+    ],
+    "BusRouteType": 11,
+    "RouteName": {
+      "Zh_tw": "3014",
+      "En": "3014"
+    },
+    "DepartureStopNameZh": "太白莊",
+    "DepartureStopNameEn": "Taibai Village",
+    "DestinationStopNameZh": "太白莊",
+    "DestinationStopNameEn": "Taibai Village",
+    "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0325.jpg",
+    "City": "Keelung",
+    "CityCode": "KEE",
+    "UpdateTime": "2026-05-19T18:14:30+08:00",
+    "VersionID": 6996
+  },
+  {
+    "RouteUID": "KEE0326",
+    "RouteID": "0326",
+    "HasSubRoutes": false,
+    "Operators": [
+      {
+        "OperatorID": "109",
+        "OperatorName": {
+          "Zh_tw": "基隆市公車處"
+        },
+        "OperatorCode": "",
+        "OperatorNo": "1107"
+      }
+    ],
+    "AuthorityID": "011",
+    "ProviderID": "010",
+    "SubRoutes": [
+      {
+        "SubRouteUID": "KEE032601",
+        "SubRouteID": "032601",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "311",
+          "En": "311"
+        },
+        "Headsign": "太平青鳥→經通仁街",
+        "HeadsignEn": "Taiping Bleu Book→Via Tongren St.",
+        "Direction": 0,
+        "DepartureStopNameZh": "基隆火車站(南站)",
+        "DepartureStopNameEn": "Keelung Railway Station S.",
+        "DestinationStopNameZh": "基隆火車站(南站)",
+        "DestinationStopNameEn": "Keelung Railway Station S."
+      }
+    ],
+    "BusRouteType": 11,
+    "RouteName": {
+      "Zh_tw": "311",
+      "En": "311"
+    },
+    "DepartureStopNameZh": "基隆火車站(南站)",
+    "DepartureStopNameEn": "Keelung Railway Station S.",
+    "DestinationStopNameZh": "基隆火車站(南站)",
+    "DestinationStopNameEn": "Keelung Railway Station S.",
+    "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0326.jpg",
+    "City": "Keelung",
+    "CityCode": "KEE",
+    "UpdateTime": "2026-05-19T18:14:30+08:00",
+    "VersionID": 6996
+  },
+  {
+    "RouteUID": "KEE0327",
+    "RouteID": "0327",
+    "HasSubRoutes": false,
+    "Operators": [
+      {
+        "OperatorID": "109",
+        "OperatorName": {
+          "Zh_tw": "基隆市公車處"
+        },
+        "OperatorCode": "",
+        "OperatorNo": "1107"
+      }
+    ],
+    "AuthorityID": "011",
+    "ProviderID": "010",
+    "SubRoutes": [
+      {
+        "SubRouteUID": "KEE032701",
+        "SubRouteID": "032701",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "312",
+          "En": "312"
+        },
+        "Headsign": "太平青鳥→經通仁街、健民街",
+        "HeadsignEn": "Taiping Bleu Book→Via Tongren St.、Jianmin St.",
+        "Direction": 0,
+        "DepartureStopNameZh": "基隆火車站(南站)",
+        "DepartureStopNameEn": "Keelung Railway Station S.",
+        "DestinationStopNameZh": "基隆火車站(南站)",
+        "DestinationStopNameEn": "Keelung Railway Station S."
+      }
+    ],
+    "BusRouteType": 11,
+    "RouteName": {
+      "Zh_tw": "312",
+      "En": "312"
+    },
+    "DepartureStopNameZh": "基隆火車站(南站)",
+    "DepartureStopNameEn": "Keelung Railway Station S.",
+    "DestinationStopNameZh": "基隆火車站(南站)",
+    "DestinationStopNameEn": "Keelung Railway Station S.",
+    "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0327.jpg",
+    "City": "Keelung",
+    "CityCode": "KEE",
+    "UpdateTime": "2026-05-19T18:14:30+08:00",
+    "VersionID": 6996
+  },
+  {
+    "RouteUID": "KEE0328",
+    "RouteID": "0328",
+    "HasSubRoutes": false,
+    "Operators": [
+      {
+        "OperatorID": "109",
+        "OperatorName": {
+          "Zh_tw": "基隆市公車處"
+        },
+        "OperatorCode": "",
+        "OperatorNo": "1107"
+      }
+    ],
+    "AuthorityID": "011",
+    "ProviderID": "010",
+    "SubRoutes": [
+      {
+        "SubRouteUID": "KEE032801",
+        "SubRouteID": "032801",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "3047",
+          "En": "3047"
+        },
+        "Headsign": "基隆車站→經成功市場→高遠新村→基隆車站",
+        "HeadsignEn": "Keelung Station→ Via Chengong Marke→ Gaoyuanxincun Community →Keelung Station",
+        "Direction": 0,
+        "DepartureStopNameZh": "基隆火車站(南站)",
+        "DepartureStopNameEn": "Keelung Railway Station S.",
+        "DestinationStopNameZh": "基隆火車站(南站)",
+        "DestinationStopNameEn": "Keelung Railway Station S."
+      }
+    ],
+    "BusRouteType": 11,
+    "RouteName": {
+      "Zh_tw": "3047",
+      "En": "3047"
+    },
+    "DepartureStopNameZh": "基隆火車站(南站)",
+    "DepartureStopNameEn": "Keelung Railway Station S.",
+    "DestinationStopNameZh": "基隆火車站(南站)",
+    "DestinationStopNameEn": "Keelung Railway Station S.",
+    "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0328.jpg",
+    "City": "Keelung",
+    "CityCode": "KEE",
+    "UpdateTime": "2026-05-19T18:14:30+08:00",
+    "VersionID": 6996
+  },
+  {
+    "RouteUID": "KEE0329",
+    "RouteID": "0329",
+    "HasSubRoutes": false,
+    "Operators": [
+      {
+        "OperatorID": "109",
+        "OperatorName": {
+          "Zh_tw": "基隆市公車處"
+        },
+        "OperatorCode": "",
+        "OperatorNo": "1107"
+      }
+    ],
+    "AuthorityID": "011",
+    "ProviderID": "010",
+    "SubRoutes": [
+      {
+        "SubRouteUID": "KEE032901",
+        "SubRouteID": "032901",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "3046",
+          "En": "3046"
+        },
+        "Headsign": "太白莊—高遠新村—經成功市場—基隆車站",
+        "HeadsignEn": "Taibai Village — Gaoyuanxincun Community  — Via Chengong Market — Keelung Station",
+        "Direction": 0,
+        "DepartureStopNameZh": "太白莊",
+        "DepartureStopNameEn": "Taibai Village",
+        "DestinationStopNameZh": "基隆火車站(南站)",
+        "DestinationStopNameEn": "Keelung Railway Station S."
+      }
+    ],
+    "BusRouteType": 11,
+    "RouteName": {
+      "Zh_tw": "3046",
+      "En": "3046"
+    },
+    "DepartureStopNameZh": "太白莊",
+    "DepartureStopNameEn": "Taibai Village",
+    "DestinationStopNameZh": "基隆火車站(南站)",
+    "DestinationStopNameEn": "Keelung Railway Station S.",
+    "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0329.jpg",
+    "City": "Keelung",
+    "CityCode": "KEE",
+    "UpdateTime": "2026-05-19T18:14:30+08:00",
+    "VersionID": 6996
+  },
+  {
+    "RouteUID": "KEE0352",
+    "RouteID": "0352",
+    "HasSubRoutes": true,
+    "Operators": [
+      {
+        "OperatorID": "109",
+        "OperatorName": {
+          "Zh_tw": "基隆市公車處"
+        },
+        "OperatorCode": "",
+        "OperatorNo": "1107"
+      }
+    ],
+    "AuthorityID": "011",
+    "ProviderID": "010",
+    "SubRoutes": [
+      {
+        "SubRouteUID": "KEE035201",
+        "SubRouteID": "035201",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "101",
+          "En": "101"
+        },
+        "Headsign": "和平島—經中正路",
+        "HeadsignEn": "Heping Island — Via Zhongzheng Rd.",
+        "Direction": 0,
+        "DepartureStopNameZh": "阿拉寶灣",
+        "DepartureStopNameEn": "Alabao Bay",
+        "DestinationStopNameZh": "阿拉寶灣",
+        "DestinationStopNameEn": "Alabao Bay"
+      },
+      {
+        "SubRouteUID": "KEE0352A1",
+        "SubRouteID": "0352A1",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "101A",
+          "En": "101A"
+        },
+        "Headsign": "和平島—經中正路",
+        "HeadsignEn": "Heping Island — Via Zhongzheng Rd.",
+        "Direction": 0,
+        "DepartureStopNameZh": "基隆轉運站",
+        "DepartureStopNameEn": "Keelung Transit Station",
+        "DestinationStopNameZh": "阿拉寶灣",
+        "DestinationStopNameEn": "Alabao Bay"
+      }
+    ],
+    "BusRouteType": 11,
+    "RouteName": {
+      "Zh_tw": "101",
+      "En": "101"
+    },
+    "DepartureStopNameZh": "阿拉寶灣",
+    "DepartureStopNameEn": "Alabao Bay",
+    "DestinationStopNameZh": "阿拉寶灣",
+    "DestinationStopNameEn": "Alabao Bay",
+    "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0352.jpg",
+    "City": "Keelung",
+    "CityCode": "KEE",
+    "UpdateTime": "2026-05-19T18:14:30+08:00",
+    "VersionID": 6996
+  },
+  {
+    "RouteUID": "KEE0353",
+    "RouteID": "0353",
+    "HasSubRoutes": false,
+    "Operators": [
+      {
+        "OperatorID": "109",
+        "OperatorName": {
+          "Zh_tw": "基隆市公車處"
+        },
+        "OperatorCode": "",
+        "OperatorNo": "1107"
+      }
+    ],
+    "AuthorityID": "011",
+    "ProviderID": "010",
+    "SubRoutes": [
+      {
+        "SubRouteUID": "KEE035301",
+        "SubRouteID": "035301",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "101",
+          "En": "101"
+        },
+        "Headsign": "和平島—經祥豐街",
+        "HeadsignEn": "Heping Island — Via Xiangfeng St.",
+        "Direction": 0,
+        "DepartureStopNameZh": "阿拉寶灣",
+        "DepartureStopNameEn": "Alabao Bay",
+        "DestinationStopNameZh": "阿拉寶灣",
+        "DestinationStopNameEn": "Alabao Bay"
+      }
+    ],
+    "BusRouteType": 11,
+    "RouteName": {
+      "Zh_tw": "101",
+      "En": "101"
+    },
+    "DepartureStopNameZh": "阿拉寶灣",
+    "DepartureStopNameEn": "Alabao Bay",
+    "DestinationStopNameZh": "阿拉寶灣",
+    "DestinationStopNameEn": "Alabao Bay",
+    "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0353.jpg",
+    "City": "Keelung",
+    "CityCode": "KEE",
+    "UpdateTime": "2026-05-19T18:14:30+08:00",
+    "VersionID": 6996
+  },
+  {
+    "RouteUID": "KEE0354",
+    "RouteID": "0354",
+    "HasSubRoutes": false,
+    "Operators": [
+      {
+        "OperatorID": "109",
+        "OperatorName": {
+          "Zh_tw": "基隆市公車處"
+        },
+        "OperatorCode": "",
+        "OperatorNo": "1107"
+      }
+    ],
+    "AuthorityID": "011",
+    "ProviderID": "010",
+    "SubRoutes": [
+      {
+        "SubRouteUID": "KEE035401",
+        "SubRouteID": "035401",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "102",
+          "En": "102"
+        },
+        "Headsign": "和平島—經祥豐街(經仁五路)",
+        "HeadsignEn": "Heping Island — Via Xiangfeng St.(Via Ren 5th Rd.)",
+        "Direction": 0,
+        "DepartureStopNameZh": "阿拉寶灣",
+        "DepartureStopNameEn": "Alabao Bay",
+        "DestinationStopNameZh": "阿拉寶灣",
+        "DestinationStopNameEn": "Alabao Bay"
+      }
+    ],
+    "BusRouteType": 11,
+    "RouteName": {
+      "Zh_tw": "102",
+      "En": "102"
+    },
+    "DepartureStopNameZh": "阿拉寶灣",
+    "DepartureStopNameEn": "Alabao Bay",
+    "DestinationStopNameZh": "阿拉寶灣",
+    "DestinationStopNameEn": "Alabao Bay",
+    "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0354.jpg",
+    "City": "Keelung",
+    "CityCode": "KEE",
+    "UpdateTime": "2026-05-19T18:14:30+08:00",
+    "VersionID": 6996
+  },
+  {
+    "RouteUID": "KEE0355",
+    "RouteID": "0355",
+    "HasSubRoutes": false,
+    "Operators": [
+      {
+        "OperatorID": "109",
+        "OperatorName": {
+          "Zh_tw": "基隆市公車處"
+        },
+        "OperatorCode": "",
+        "OperatorNo": "1107"
+      }
+    ],
+    "AuthorityID": "011",
+    "ProviderID": "010",
+    "SubRoutes": [
+      {
+        "SubRouteUID": "KEE035501",
+        "SubRouteID": "035501",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "103",
+          "En": "103"
+        },
+        "Headsign": "八斗子—經中正路(經海科館)",
+        "HeadsignEn": "Badouzi — Via Zhongzheng Rd.(National Museum of Marine Science & Technology)",
+        "Direction": 0,
+        "DepartureStopNameZh": "八斗子分站",
+        "DepartureStopNameEn": "Badouzi Substation",
+        "DestinationStopNameZh": "八斗子車站",
+        "DestinationStopNameEn": "Badouzi Railway Station"
+      }
+    ],
+    "BusRouteType": 11,
+    "RouteName": {
+      "Zh_tw": "103",
+      "En": "103"
+    },
+    "DepartureStopNameZh": "八斗子分站",
+    "DepartureStopNameEn": "Badouzi Substation",
+    "DestinationStopNameZh": "八斗子車站",
+    "DestinationStopNameEn": "Badouzi Railway Station",
+    "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0355.jpg",
+    "City": "Keelung",
+    "CityCode": "KEE",
+    "UpdateTime": "2026-05-19T18:14:30+08:00",
+    "VersionID": 6996
+  },
+  {
+    "RouteUID": "KEE0356",
+    "RouteID": "0356",
+    "HasSubRoutes": false,
+    "Operators": [
+      {
+        "OperatorID": "109",
+        "OperatorName": {
+          "Zh_tw": "基隆市公車處"
+        },
+        "OperatorCode": "",
+        "OperatorNo": "1107"
+      }
+    ],
+    "AuthorityID": "011",
+    "ProviderID": "010",
+    "SubRoutes": [
+      {
+        "SubRouteUID": "KEE035601",
+        "SubRouteID": "035601",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "103",
+          "En": "103"
+        },
+        "Headsign": "八斗子—經祥豐街(經海科館)",
+        "HeadsignEn": "Badouzi — Via Xiangfeng St.(National Museum of Marine Science & Technology",
+        "Direction": 0,
+        "DepartureStopNameZh": "八斗子分站",
+        "DepartureStopNameEn": "Badouzi Substation",
+        "DestinationStopNameZh": "八斗子車站",
+        "DestinationStopNameEn": "Badouzi Railway Station"
+      }
+    ],
+    "BusRouteType": 11,
+    "RouteName": {
+      "Zh_tw": "103",
+      "En": "103"
+    },
+    "DepartureStopNameZh": "八斗子分站",
+    "DepartureStopNameEn": "Badouzi Substation",
+    "DestinationStopNameZh": "八斗子車站",
+    "DestinationStopNameEn": "Badouzi Railway Station",
+    "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0356.jpg",
+    "City": "Keelung",
+    "CityCode": "KEE",
+    "UpdateTime": "2026-05-19T18:14:30+08:00",
+    "VersionID": 6996
+  },
+  {
+    "RouteUID": "KEE0358",
+    "RouteID": "0358",
+    "HasSubRoutes": false,
+    "Operators": [
+      {
+        "OperatorID": "109",
+        "OperatorName": {
+          "Zh_tw": "基隆市公車處"
+        },
+        "OperatorCode": "",
+        "OperatorNo": "1107"
+      }
+    ],
+    "AuthorityID": "011",
+    "ProviderID": "010",
+    "SubRoutes": [
+      {
+        "SubRouteUID": "KEE035801",
+        "SubRouteID": "035801",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "104",
+          "En": "104"
+        },
+        "Headsign": "新豐街—經中正路",
+        "HeadsignEn": "Xinfeng St. — Via Zhongzheng Rd.",
+        "Direction": 0,
+        "DepartureStopNameZh": "深美國小(消防分隊)",
+        "DepartureStopNameEn": "Shen-Mei Elementary School ( Fire Units)",
+        "DestinationStopNameZh": "深美國小(消防分隊)",
+        "DestinationStopNameEn": "Shen-Mei Elementary School ( Fire Units)"
+      }
+    ],
+    "BusRouteType": 11,
+    "RouteName": {
+      "Zh_tw": "104",
+      "En": "104"
+    },
+    "DepartureStopNameZh": "深美國小(消防分隊)",
+    "DepartureStopNameEn": "Shen-Mei Elementary School ( Fire Units)",
+    "DestinationStopNameZh": "深美國小(消防分隊)",
+    "DestinationStopNameEn": "Shen-Mei Elementary School ( Fire Units)",
+    "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0358.jpg",
+    "City": "Keelung",
+    "CityCode": "KEE",
+    "UpdateTime": "2026-05-19T18:14:30+08:00",
+    "VersionID": 6996
+  },
+  {
+    "RouteUID": "KEE0359",
+    "RouteID": "0359",
+    "HasSubRoutes": true,
+    "Operators": [
+      {
+        "OperatorID": "109",
+        "OperatorName": {
+          "Zh_tw": "基隆市公車處"
+        },
+        "OperatorCode": "",
+        "OperatorNo": "1107"
+      }
+    ],
+    "AuthorityID": "011",
+    "ProviderID": "010",
+    "SubRoutes": [
+      {
+        "SubRouteUID": "KEE035901",
+        "SubRouteID": "035901",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "104",
+          "En": "104"
+        },
+        "Headsign": "新豐街—經祥豐街",
+        "HeadsignEn": "Xinfeng St. — Via Xiangfeng St.",
+        "Direction": 0,
+        "DepartureStopNameZh": "深美國小(消防分隊)",
+        "DepartureStopNameEn": "Shen-Mei Elementary School ( Fire Units)",
+        "DestinationStopNameZh": "深美國小(消防分隊)",
+        "DestinationStopNameEn": "Shen-Mei Elementary School ( Fire Units)"
+      },
+      {
+        "SubRouteUID": "KEE0359A1",
+        "SubRouteID": "0359A1",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "104A",
+          "En": "104A"
+        },
+        "Headsign": "新豐街—經祥豐街",
+        "HeadsignEn": "Xinfeng St. — Via Xiangfeng St.",
+        "Direction": 0,
+        "DepartureStopNameZh": "基隆轉運站",
+        "DepartureStopNameEn": "Keelung Transit Station",
+        "DestinationStopNameZh": "深美國小(消防分隊)",
+        "DestinationStopNameEn": "Shen-Mei Elementary School ( Fire Units)"
+      }
+    ],
+    "BusRouteType": 11,
+    "RouteName": {
+      "Zh_tw": "104",
+      "En": "104"
+    },
+    "DepartureStopNameZh": "深美國小(消防分隊)",
+    "DepartureStopNameEn": "Shen-Mei Elementary School ( Fire Units)",
+    "DestinationStopNameZh": "深美國小(消防分隊)",
+    "DestinationStopNameEn": "Shen-Mei Elementary School ( Fire Units)",
+    "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0359.jpg",
+    "City": "Keelung",
+    "CityCode": "KEE",
+    "UpdateTime": "2026-05-19T18:14:30+08:00",
+    "VersionID": 6996
+  },
+  {
+    "RouteUID": "KEE0361",
+    "RouteID": "0361",
+    "HasSubRoutes": false,
+    "Operators": [
+      {
+        "OperatorID": "109",
+        "OperatorName": {
+          "Zh_tw": "基隆市公車處"
+        },
+        "OperatorCode": "",
+        "OperatorNo": "1107"
+      }
+    ],
+    "AuthorityID": "011",
+    "ProviderID": "010",
+    "SubRoutes": [
+      {
+        "SubRouteUID": "KEE036101",
+        "SubRouteID": "036101",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "105",
+          "En": "105"
+        },
+        "Headsign": "三總基隆分院—基隆車站",
+        "HeadsignEn": "Tri—Service General Hospital of Keelung — Keelung Station",
+        "Direction": 0,
+        "DepartureStopNameZh": "基隆轉運站",
+        "DepartureStopNameEn": "Keelung Transit Station",
+        "DestinationStopNameZh": "基隆轉運站",
+        "DestinationStopNameEn": "Keelung Transit Station"
+      }
+    ],
+    "BusRouteType": 11,
+    "RouteName": {
+      "Zh_tw": "105",
+      "En": "105"
+    },
+    "DepartureStopNameZh": "基隆轉運站",
+    "DepartureStopNameEn": "Keelung Transit Station",
+    "DestinationStopNameZh": "基隆轉運站",
+    "DestinationStopNameEn": "Keelung Transit Station",
+    "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0361.jpg",
+    "City": "Keelung",
+    "CityCode": "KEE",
+    "UpdateTime": "2026-05-19T18:14:30+08:00",
+    "VersionID": 6996
+  },
+  {
+    "RouteUID": "KEE0362",
+    "RouteID": "0362",
+    "HasSubRoutes": false,
+    "Operators": [
+      {
+        "OperatorID": "109",
+        "OperatorName": {
+          "Zh_tw": "基隆市公車處"
+        },
+        "OperatorCode": "",
+        "OperatorNo": "1107"
+      }
+    ],
+    "AuthorityID": "011",
+    "ProviderID": "010",
+    "SubRoutes": [
+      {
+        "SubRouteUID": "KEE036201",
+        "SubRouteID": "036201",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "107",
+          "En": "107"
+        },
+        "Headsign": "八斗子—經信義國中",
+        "HeadsignEn": "Badouzi — Via Xinyi Junior High School",
+        "Direction": 0,
+        "DepartureStopNameZh": "八斗子分站",
+        "DepartureStopNameEn": "Badouzi Substation",
+        "DestinationStopNameZh": "基隆漁會",
+        "DestinationStopNameEn": "Keelung District Fishmens` Association"
+      }
+    ],
+    "BusRouteType": 11,
+    "RouteName": {
+      "Zh_tw": "107",
+      "En": "107"
+    },
+    "DepartureStopNameZh": "八斗子分站",
+    "DepartureStopNameEn": "Badouzi Substation",
+    "DestinationStopNameZh": "基隆漁會",
+    "DestinationStopNameEn": "Keelung District Fishmens` Association",
+    "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0362.jpg",
+    "City": "Keelung",
+    "CityCode": "KEE",
+    "UpdateTime": "2026-05-19T18:14:30+08:00",
+    "VersionID": 6996
+  },
+  {
+    "RouteUID": "KEE0363",
+    "RouteID": "0363",
+    "HasSubRoutes": false,
+    "Operators": [
+      {
+        "OperatorID": "109",
+        "OperatorName": {
+          "Zh_tw": "基隆市公車處"
+        },
+        "OperatorCode": "",
+        "OperatorNo": "1107"
+      }
+    ],
+    "AuthorityID": "011",
+    "ProviderID": "010",
+    "SubRoutes": [
+      {
+        "SubRouteUID": "KEE036301",
+        "SubRouteID": "036301",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "107",
+          "En": "107"
+        },
+        "Headsign": "八斗子—基隆車站(經信義國中)",
+        "HeadsignEn": "Badouzi — Keelung Station(Xinyi Junior High School)",
+        "Direction": 0,
+        "DepartureStopNameZh": "八斗子分站",
+        "DepartureStopNameEn": "Badouzi Substation",
+        "DestinationStopNameZh": "基隆轉運站",
+        "DestinationStopNameEn": "Keelung Transit Station"
+      }
+    ],
+    "BusRouteType": 11,
+    "RouteName": {
+      "Zh_tw": "107",
+      "En": "107"
+    },
+    "DepartureStopNameZh": "八斗子分站",
+    "DepartureStopNameEn": "Badouzi Substation",
+    "DestinationStopNameZh": "基隆轉運站",
+    "DestinationStopNameEn": "Keelung Transit Station",
+    "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0363.jpg",
+    "City": "Keelung",
+    "CityCode": "KEE",
+    "UpdateTime": "2026-05-19T18:14:30+08:00",
+    "VersionID": 6996
+  },
+  {
+    "RouteUID": "KEE0364",
+    "RouteID": "0364",
+    "HasSubRoutes": false,
+    "Operators": [
+      {
+        "OperatorID": "109",
+        "OperatorName": {
+          "Zh_tw": "基隆市公車處"
+        },
+        "OperatorCode": "",
+        "OperatorNo": "1107"
+      }
+    ],
+    "AuthorityID": "011",
+    "ProviderID": "010",
+    "SubRoutes": [
+      {
+        "SubRouteUID": "KEE036401",
+        "SubRouteID": "036401",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "107",
+          "En": "107"
+        },
+        "Headsign": "調和街—基隆車站(經信義國中)",
+        "HeadsignEn": "Diaohe St. — Keelung Station(Via Xinyi Junior High School)",
+        "Direction": 0,
+        "DepartureStopNameZh": "調和市場",
+        "DepartureStopNameEn": "Diaohe Market",
+        "DestinationStopNameZh": "基隆轉運站",
+        "DestinationStopNameEn": "Keelung Transit Station"
+      }
+    ],
+    "BusRouteType": 11,
+    "RouteName": {
+      "Zh_tw": "107",
+      "En": "107"
+    },
+    "DepartureStopNameZh": "調和市場",
+    "DepartureStopNameEn": "Diaohe Market",
+    "DestinationStopNameZh": "基隆轉運站",
+    "DestinationStopNameEn": "Keelung Transit Station",
+    "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0364.jpg",
+    "City": "Keelung",
+    "CityCode": "KEE",
+    "UpdateTime": "2026-05-19T18:14:30+08:00",
+    "VersionID": 6996
+  },
+  {
+    "RouteUID": "KEE0365",
+    "RouteID": "0365",
+    "HasSubRoutes": false,
+    "Operators": [
+      {
+        "OperatorID": "109",
+        "OperatorName": {
+          "Zh_tw": "基隆市公車處"
+        },
+        "OperatorCode": "",
+        "OperatorNo": "1107"
+      }
+    ],
+    "AuthorityID": "011",
+    "ProviderID": "010",
+    "SubRoutes": [
+      {
+        "SubRouteUID": "KEE036501",
+        "SubRouteID": "036501",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "107",
+          "En": "107"
+        },
+        "Headsign": "調和街—經信義國中",
+        "HeadsignEn": "Diaohe St. — Via Xinyi Junior High School",
+        "Direction": 0,
+        "DepartureStopNameZh": "調和市場",
+        "DepartureStopNameEn": "Diaohe Market",
+        "DestinationStopNameZh": "調和市場",
+        "DestinationStopNameEn": "Diaohe Market"
+      }
+    ],
+    "BusRouteType": 11,
+    "RouteName": {
+      "Zh_tw": "107",
+      "En": "107"
+    },
+    "DepartureStopNameZh": "調和市場",
+    "DepartureStopNameEn": "Diaohe Market",
+    "DestinationStopNameZh": "調和市場",
+    "DestinationStopNameEn": "Diaohe Market",
+    "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0365.jpg",
+    "City": "Keelung",
+    "CityCode": "KEE",
+    "UpdateTime": "2026-05-19T18:14:30+08:00",
+    "VersionID": 6996
+  },
+  {
+    "RouteUID": "KEE0366",
+    "RouteID": "0366",
+    "HasSubRoutes": false,
+    "Operators": [
+      {
+        "OperatorID": "109",
+        "OperatorName": {
+          "Zh_tw": "基隆市公車處"
+        },
+        "OperatorCode": "",
+        "OperatorNo": "1107"
+      }
+    ],
+    "AuthorityID": "011",
+    "ProviderID": "010",
+    "SubRoutes": [
+      {
+        "SubRouteUID": "KEE036601",
+        "SubRouteID": "036601",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "108",
+          "En": "108"
+        },
+        "Headsign": "潮境公園—經祥豐街",
+        "HeadsignEn": "Chaojing Park — Via Xiangfeng St.",
+        "Direction": 0,
+        "DepartureStopNameZh": "潮境公園",
+        "DepartureStopNameEn": "Chaojing Park",
+        "DestinationStopNameZh": "潮境公園",
+        "DestinationStopNameEn": "Chaojing Park"
+      }
+    ],
+    "BusRouteType": 11,
+    "RouteName": {
+      "Zh_tw": "108",
+      "En": "108"
+    },
+    "DepartureStopNameZh": "潮境公園",
+    "DepartureStopNameEn": "Chaojing Park",
+    "DestinationStopNameZh": "潮境公園",
+    "DestinationStopNameEn": "Chaojing Park",
+    "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0366.jpg",
+    "City": "Keelung",
+    "CityCode": "KEE",
+    "UpdateTime": "2026-05-19T18:14:30+08:00",
+    "VersionID": 6996
+  },
+  {
+    "RouteUID": "KEE0367",
+    "RouteID": "0367",
+    "HasSubRoutes": false,
+    "Operators": [
+      {
+        "OperatorID": "109",
+        "OperatorName": {
+          "Zh_tw": "基隆市公車處"
+        },
+        "OperatorCode": "",
+        "OperatorNo": "1107"
+      }
+    ],
+    "AuthorityID": "011",
+    "ProviderID": "010",
+    "SubRoutes": [
+      {
+        "SubRouteUID": "KEE036701",
+        "SubRouteID": "036701",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "108",
+          "En": "108"
+        },
+        "Headsign": "潮境公園—基隆車站",
+        "HeadsignEn": "Chaojing Park — Keelung Station",
+        "Direction": 0,
+        "DepartureStopNameZh": "潮境公園",
+        "DepartureStopNameEn": "Chaojing Park",
+        "DestinationStopNameZh": "基隆轉運站",
+        "DestinationStopNameEn": "Keelung Transit Station"
+      }
+    ],
+    "BusRouteType": 11,
+    "RouteName": {
+      "Zh_tw": "108",
+      "En": "108"
+    },
+    "DepartureStopNameZh": "潮境公園",
+    "DepartureStopNameEn": "Chaojing Park",
+    "DestinationStopNameZh": "基隆轉運站",
+    "DestinationStopNameEn": "Keelung Transit Station",
+    "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0367.jpg",
+    "City": "Keelung",
+    "CityCode": "KEE",
+    "UpdateTime": "2026-05-19T18:14:30+08:00",
+    "VersionID": 6996
+  },
+  {
+    "RouteUID": "KEE0369",
+    "RouteID": "0369",
+    "HasSubRoutes": false,
+    "Operators": [
+      {
+        "OperatorID": "109",
+        "OperatorName": {
+          "Zh_tw": "基隆市公車處"
+        },
+        "OperatorCode": "",
+        "OperatorNo": "1107"
+      }
+    ],
+    "AuthorityID": "011",
+    "ProviderID": "010",
+    "SubRoutes": [
+      {
+        "SubRouteUID": "KEE036901",
+        "SubRouteID": "036901",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "109",
+          "En": "109"
+        },
+        "Headsign": "天顯宮—基隆車站(經中正路)",
+        "HeadsignEn": "Tianxian Temple — Keelung Station(Via Zhongzheng Rd.)",
+        "Direction": 0,
+        "DepartureStopNameZh": "基隆轉運站",
+        "DepartureStopNameEn": "Keelung Transit Station",
+        "DestinationStopNameZh": "基隆轉運站",
+        "DestinationStopNameEn": "Keelung Transit Station"
+      }
+    ],
+    "BusRouteType": 11,
+    "RouteName": {
+      "Zh_tw": "109",
+      "En": "109"
+    },
+    "DepartureStopNameZh": "基隆轉運站",
+    "DepartureStopNameEn": "Keelung Transit Station",
+    "DestinationStopNameZh": "基隆轉運站",
+    "DestinationStopNameEn": "Keelung Transit Station",
+    "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0369.jpg",
+    "City": "Keelung",
+    "CityCode": "KEE",
+    "UpdateTime": "2026-05-19T18:14:30+08:00",
+    "VersionID": 6996
+  },
+  {
+    "RouteUID": "KEE0370",
+    "RouteID": "0370",
+    "HasSubRoutes": false,
+    "Operators": [
+      {
+        "OperatorID": "109",
+        "OperatorName": {
+          "Zh_tw": "基隆市公車處"
+        },
+        "OperatorCode": "",
+        "OperatorNo": "1107"
+      }
+    ],
+    "AuthorityID": "011",
+    "ProviderID": "010",
+    "SubRoutes": [
+      {
+        "SubRouteUID": "KEE037001",
+        "SubRouteID": "037001",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "6065",
+          "En": "6065"
+        },
+        "Headsign": "碇內—七堵(經過港路)—碇內",
+        "HeadsignEn": "Dingnei— Qidu(Via Guogang Rd.) —Dingnei",
+        "Direction": 0,
+        "DepartureStopNameZh": "四腳亭",
+        "DepartureStopNameEn": "Sijiaoting",
+        "DestinationStopNameZh": "四腳亭",
+        "DestinationStopNameEn": "Sijiaoting"
+      }
+    ],
+    "BusRouteType": 11,
+    "RouteName": {
+      "Zh_tw": "6065",
+      "En": "6065"
+    },
+    "DepartureStopNameZh": "四腳亭",
+    "DepartureStopNameEn": "Sijiaoting",
+    "DestinationStopNameZh": "四腳亭",
+    "DestinationStopNameEn": "Sijiaoting",
+    "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0370.jpg",
+    "City": "Keelung",
+    "CityCode": "KEE",
+    "UpdateTime": "2026-05-19T18:14:30+08:00",
+    "VersionID": 6996
+  },
+  {
+    "RouteUID": "KEE0371",
+    "RouteID": "0371",
+    "HasSubRoutes": false,
+    "Operators": [
+      {
+        "OperatorID": "109",
+        "OperatorName": {
+          "Zh_tw": "基隆市公車處"
+        },
+        "OperatorCode": "",
+        "OperatorNo": "1107"
+      }
+    ],
+    "AuthorityID": "011",
+    "ProviderID": "010",
+    "SubRoutes": [
+      {
+        "SubRouteUID": "KEE037101",
+        "SubRouteID": "037101",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "6071",
+          "En": "6071"
+        },
+        "Headsign": "八南里—羅傑摩爾(經過港路)",
+        "HeadsignEn": "Banan Village—Luojiemoer(Guogang Rd.",
+        "Direction": 0,
+        "DepartureStopNameZh": "八南里",
+        "DepartureStopNameEn": "Banan Village",
+        "DestinationStopNameZh": "羅傑摩爾社區",
+        "DestinationStopNameEn": "Luojiemoer Community"
+      }
+    ],
+    "BusRouteType": 11,
+    "RouteName": {
+      "Zh_tw": "6071",
+      "En": "6071"
+    },
+    "DepartureStopNameZh": "八南里",
+    "DepartureStopNameEn": "Banan Village",
+    "DestinationStopNameZh": "羅傑摩爾社區",
+    "DestinationStopNameEn": "Luojiemoer Community",
+    "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0371.jpg",
+    "City": "Keelung",
+    "CityCode": "KEE",
+    "UpdateTime": "2026-05-19T18:14:30+08:00",
+    "VersionID": 6996
+  },
+  {
+    "RouteUID": "KEE0372",
+    "RouteID": "0372",
+    "HasSubRoutes": false,
+    "Operators": [
+      {
+        "OperatorID": "109",
+        "OperatorName": {
+          "Zh_tw": "基隆市公車處"
+        },
+        "OperatorCode": "",
+        "OperatorNo": "1107"
+      }
+    ],
+    "AuthorityID": "011",
+    "ProviderID": "010",
+    "SubRoutes": [
+      {
+        "SubRouteUID": "KEE037201",
+        "SubRouteID": "037201",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "608",
+          "En": "608"
+        },
+        "Headsign": "基隆車站—南新街",
+        "HeadsignEn": "Keelung Station—Nanxin St.",
+        "Direction": 0,
+        "DepartureStopNameZh": "基隆火車站(南站)",
+        "DepartureStopNameEn": "Keelung Railway Station S.",
+        "DestinationStopNameZh": "基隆火車站(南站)",
+        "DestinationStopNameEn": "Keelung Railway Station S."
+      }
+    ],
+    "BusRouteType": 11,
+    "RouteName": {
+      "Zh_tw": "608",
+      "En": "608"
+    },
+    "DepartureStopNameZh": "基隆火車站(南站)",
+    "DepartureStopNameEn": "Keelung Railway Station S.",
+    "DestinationStopNameZh": "基隆火車站(南站)",
+    "DestinationStopNameEn": "Keelung Railway Station S.",
+    "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0372.jpg",
+    "City": "Keelung",
+    "CityCode": "KEE",
+    "UpdateTime": "2026-05-19T18:14:30+08:00",
+    "VersionID": 6996
+  },
+  {
+    "RouteUID": "KEE0373",
+    "RouteID": "0373",
+    "HasSubRoutes": false,
+    "Operators": [
+      {
+        "OperatorID": "109",
+        "OperatorName": {
+          "Zh_tw": "基隆市公車處"
+        },
+        "OperatorCode": "",
+        "OperatorNo": "1107"
+      }
+    ],
+    "AuthorityID": "011",
+    "ProviderID": "010",
+    "SubRoutes": [
+      {
+        "SubRouteUID": "KEE037301",
+        "SubRouteID": "037301",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "7012",
+          "En": "7012"
+        },
+        "Headsign": "瑪陵—經苓蘭生態農園",
+        "HeadsignEn": "Maling — Via Linglan Recreational Farm",
+        "Direction": 0,
+        "DepartureStopNameZh": "七堵分站",
+        "DepartureStopNameEn": "Qidu Substation",
+        "DestinationStopNameZh": "南七堵",
+        "DestinationStopNameEn": "Nanqidu"
+      }
+    ],
+    "BusRouteType": 11,
+    "RouteName": {
+      "Zh_tw": "7012",
+      "En": "7012"
+    },
+    "DepartureStopNameZh": "七堵分站",
+    "DepartureStopNameEn": "Qidu Substation",
+    "DestinationStopNameZh": "南七堵",
+    "DestinationStopNameEn": "Nanqidu",
+    "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0373.jpg",
+    "City": "Keelung",
+    "CityCode": "KEE",
+    "UpdateTime": "2026-05-19T18:14:30+08:00",
+    "VersionID": 6996
+  },
+  {
+    "RouteUID": "KEE0374",
+    "RouteID": "0374",
+    "HasSubRoutes": false,
+    "Operators": [
+      {
+        "OperatorID": "109",
+        "OperatorName": {
+          "Zh_tw": "基隆市公車處"
+        },
+        "OperatorCode": "",
+        "OperatorNo": "1107"
+      }
+    ],
+    "AuthorityID": "011",
+    "ProviderID": "010",
+    "SubRoutes": [
+      {
+        "SubRouteUID": "KEE037401",
+        "SubRouteID": "037401",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "701",
+          "En": "701"
+        },
+        "Headsign": "七堵—瑪陵",
+        "HeadsignEn": "Qidu — Maling",
+        "Direction": 0,
+        "DepartureStopNameZh": "七堵分站",
+        "DepartureStopNameEn": "Qidu Substation",
+        "DestinationStopNameZh": "南七堵",
+        "DestinationStopNameEn": "Nanqidu"
+      }
+    ],
+    "BusRouteType": 11,
+    "RouteName": {
+      "Zh_tw": "701",
+      "En": "701"
+    },
+    "DepartureStopNameZh": "七堵分站",
+    "DepartureStopNameEn": "Qidu Substation",
+    "DestinationStopNameZh": "南七堵",
+    "DestinationStopNameEn": "Nanqidu",
+    "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0374.jpg",
+    "City": "Keelung",
+    "CityCode": "KEE",
+    "UpdateTime": "2026-05-19T18:14:30+08:00",
+    "VersionID": 6996
+  },
+  {
+    "RouteUID": "KEE0375",
+    "RouteID": "0375",
+    "HasSubRoutes": false,
+    "Operators": [
+      {
+        "OperatorID": "109",
+        "OperatorName": {
+          "Zh_tw": "基隆市公車處"
+        },
+        "OperatorCode": "",
+        "OperatorNo": "1107"
+      }
+    ],
+    "AuthorityID": "011",
+    "ProviderID": "010",
+    "SubRoutes": [
+      {
+        "SubRouteUID": "KEE037501",
+        "SubRouteID": "037501",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "703",
+          "En": "703"
+        },
+        "Headsign": "七堵—瑪東里",
+        "HeadsignEn": "Qidu — Madong Village.",
+        "Direction": 0,
+        "DepartureStopNameZh": "七堵分站",
+        "DepartureStopNameEn": "Qidu Substation",
+        "DestinationStopNameZh": "南七堵",
+        "DestinationStopNameEn": "Nanqidu"
+      }
+    ],
+    "BusRouteType": 11,
+    "RouteName": {
+      "Zh_tw": "703",
+      "En": "703"
+    },
+    "DepartureStopNameZh": "七堵分站",
+    "DepartureStopNameEn": "Qidu Substation",
+    "DestinationStopNameZh": "南七堵",
+    "DestinationStopNameEn": "Nanqidu",
+    "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0375.jpg",
+    "City": "Keelung",
+    "CityCode": "KEE",
+    "UpdateTime": "2026-05-19T18:14:30+08:00",
+    "VersionID": 6996
+  },
+  {
+    "RouteUID": "KEE0376",
+    "RouteID": "0376",
+    "HasSubRoutes": true,
+    "Operators": [
+      {
+        "OperatorID": "109",
+        "OperatorName": {
+          "Zh_tw": "基隆市公車處"
+        },
+        "OperatorCode": "",
+        "OperatorNo": "1107"
+      }
+    ],
+    "AuthorityID": "011",
+    "ProviderID": "010",
+    "SubRoutes": [
+      {
+        "SubRouteUID": "KEE037601",
+        "SubRouteID": "037601",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "702",
+          "En": "702"
+        },
+        "Headsign": "七堵—友蚋",
+        "HeadsignEn": "Qidu — Yourui",
+        "Direction": 0,
+        "DepartureStopNameZh": "七堵分站",
+        "DepartureStopNameEn": "Qidu Substation",
+        "DestinationStopNameZh": "七堵郵局",
+        "DestinationStopNameEn": "Keelung Qidu Post Office"
+      },
+      {
+        "SubRouteUID": "KEE0376A1",
+        "SubRouteID": "0376A1",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "702A",
+          "En": "702A"
+        },
+        "Headsign": "友蚋—經百三街",
+        "HeadsignEn": "Yourui — Via Bai 3rd St.",
+        "Direction": 0,
+        "DepartureStopNameZh": "七堵分站",
+        "DepartureStopNameEn": "Qidu Substation",
+        "DestinationStopNameZh": "七堵郵局",
+        "DestinationStopNameEn": "Keelung Qidu Post Office"
+      },
+      {
+        "SubRouteUID": "KEE0376D1",
+        "SubRouteID": "0376D1",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "702D",
+          "En": "702D"
+        },
+        "Headsign": "友蚋—回經大德路、百三街",
+        "HeadsignEn": "(Yourui — Via DaDe Rd. Bai 3rd St.)",
+        "Direction": 0,
+        "DepartureStopNameZh": "七堵分站",
+        "DepartureStopNameEn": "Qidu Substation",
+        "DestinationStopNameZh": "七堵郵局",
+        "DestinationStopNameEn": "Keelung Qidu Post Office"
+      }
+    ],
+    "BusRouteType": 11,
+    "RouteName": {
+      "Zh_tw": "702",
+      "En": "702"
+    },
+    "DepartureStopNameZh": "七堵分站",
+    "DepartureStopNameEn": "Qidu Substation",
+    "DestinationStopNameZh": "七堵郵局",
+    "DestinationStopNameEn": "Keelung Qidu Post Office",
+    "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0376.jpg",
+    "City": "Keelung",
+    "CityCode": "KEE",
+    "UpdateTime": "2026-05-19T18:14:30+08:00",
+    "VersionID": 6996
+  },
+  {
+    "RouteUID": "KEE0380",
+    "RouteID": "0380",
+    "HasSubRoutes": false,
+    "Operators": [
+      {
+        "OperatorID": "109",
+        "OperatorName": {
+          "Zh_tw": "基隆市公車處"
+        },
+        "OperatorCode": "",
+        "OperatorNo": "1107"
+      }
+    ],
+    "AuthorityID": "011",
+    "ProviderID": "010",
+    "SubRoutes": [
+      {
+        "SubRouteUID": "KEE038001",
+        "SubRouteID": "038001",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "705",
+          "En": "705"
+        },
+        "Headsign": "百福車站—接駁公車",
+        "HeadsignEn": "Baifu Station — Shuttle Bus",
+        "Direction": 0,
+        "DepartureStopNameZh": "百福火車站",
+        "DepartureStopNameEn": "Baifu Railway Station",
+        "DestinationStopNameZh": "百福宮",
+        "DestinationStopNameEn": "Baifu Temple"
+      }
+    ],
+    "BusRouteType": 11,
+    "RouteName": {
+      "Zh_tw": "705",
+      "En": "705"
+    },
+    "DepartureStopNameZh": "百福火車站",
+    "DepartureStopNameEn": "Baifu Railway Station",
+    "DestinationStopNameZh": "百福宮",
+    "DestinationStopNameEn": "Baifu Temple",
+    "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0380.jpg",
+    "City": "Keelung",
+    "CityCode": "KEE",
+    "UpdateTime": "2026-05-19T18:14:30+08:00",
+    "VersionID": 6996
+  },
+  {
+    "RouteUID": "KEE0381",
+    "RouteID": "0381",
+    "HasSubRoutes": false,
+    "Operators": [
+      {
+        "OperatorID": "109",
+        "OperatorName": {
+          "Zh_tw": "基隆市公車處"
+        },
+        "OperatorCode": "",
+        "OperatorNo": "1107"
+      }
+    ],
+    "AuthorityID": "011",
+    "ProviderID": "010",
+    "SubRoutes": [
+      {
+        "SubRouteUID": "KEE038101",
+        "SubRouteID": "038101",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "301",
+          "En": "301"
+        },
+        "Headsign": "太白莊→經中山一路",
+        "HeadsignEn": "Taibai Village → Via Zhongshan 1st Rd.",
+        "Direction": 0,
+        "DepartureStopNameZh": "太白莊",
+        "DepartureStopNameEn": "Taibai Village",
+        "DestinationStopNameZh": "太白莊",
+        "DestinationStopNameEn": "Taibai Village"
+      }
+    ],
+    "BusRouteType": 11,
+    "RouteName": {
+      "Zh_tw": "301",
+      "En": "301"
+    },
+    "DepartureStopNameZh": "太白莊",
+    "DepartureStopNameEn": "Taibai Village",
+    "DestinationStopNameZh": "太白莊",
+    "DestinationStopNameEn": "Taibai Village",
+    "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0381.jpg",
+    "City": "Keelung",
+    "CityCode": "KEE",
+    "UpdateTime": "2026-05-19T18:14:30+08:00",
+    "VersionID": 6996
+  },
+  {
+    "RouteUID": "KEE0382",
+    "RouteID": "0382",
+    "HasSubRoutes": false,
+    "Operators": [
+      {
+        "OperatorID": "109",
+        "OperatorName": {
+          "Zh_tw": "基隆市公車處"
+        },
+        "OperatorCode": "",
+        "OperatorNo": "1107"
+      }
+    ],
+    "AuthorityID": "011",
+    "ProviderID": "010",
+    "SubRoutes": [
+      {
+        "SubRouteUID": "KEE038201",
+        "SubRouteID": "038201",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "7061",
+          "En": "7061"
+        },
+        "Headsign": "泰安路—自治街",
+        "HeadsignEn": "Taian Rd. — Zizhi St.",
+        "Direction": 0,
+        "DepartureStopNameZh": "泰安路186之1號",
+        "DepartureStopNameEn": "No.186-1 Taian Rd.",
+        "DestinationStopNameZh": "自治街",
+        "DestinationStopNameEn": "Zizhi St."
+      }
+    ],
+    "BusRouteType": 11,
+    "RouteName": {
+      "Zh_tw": "7061",
+      "En": "7061"
+    },
+    "DepartureStopNameZh": "泰安路186之1號",
+    "DepartureStopNameEn": "No.186-1 Taian Rd.",
+    "DestinationStopNameZh": "自治街",
+    "DestinationStopNameEn": "Zizhi St.",
+    "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0382.jpg",
+    "City": "Keelung",
+    "CityCode": "KEE",
+    "UpdateTime": "2026-05-19T18:14:30+08:00",
+    "VersionID": 6996
+  },
+  {
+    "RouteUID": "KEE0383",
+    "RouteID": "0383",
+    "HasSubRoutes": false,
+    "Operators": [
+      {
+        "OperatorID": "109",
+        "OperatorName": {
+          "Zh_tw": "基隆市公車處"
+        },
+        "OperatorCode": "",
+        "OperatorNo": "1107"
+      }
+    ],
+    "AuthorityID": "011",
+    "ProviderID": "010",
+    "SubRoutes": [
+      {
+        "SubRouteUID": "KEE038302",
+        "SubRouteID": "038302",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "7062",
+          "En": "7062"
+        },
+        "Headsign": "自治街—泰安路",
+        "HeadsignEn": "Zizhi St. — Taian Rd.",
+        "Direction": 1,
+        "DepartureStopNameZh": "自治街",
+        "DepartureStopNameEn": "Zizhi St.",
+        "DestinationStopNameZh": "泰安路186之1號",
+        "DestinationStopNameEn": "No.186-1 Taian Rd."
+      }
+    ],
+    "BusRouteType": 11,
+    "RouteName": {
+      "Zh_tw": "7062",
+      "En": "7062"
+    },
+    "DepartureStopNameZh": "自治街",
+    "DepartureStopNameEn": "Zizhi St.",
+    "DestinationStopNameZh": "泰安路186之1號",
+    "DestinationStopNameEn": "No.186-1 Taian Rd.",
+    "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0383.jpg",
+    "City": "Keelung",
+    "CityCode": "KEE",
+    "UpdateTime": "2026-05-19T18:14:30+08:00",
+    "VersionID": 6996
+  },
+  {
+    "RouteUID": "KEE0384",
+    "RouteID": "0384",
+    "HasSubRoutes": false,
+    "Operators": [
+      {
+        "OperatorID": "109",
+        "OperatorName": {
+          "Zh_tw": "基隆市公車處"
+        },
+        "OperatorCode": "",
+        "OperatorNo": "1107"
+      }
+    ],
+    "AuthorityID": "011",
+    "ProviderID": "010",
+    "SubRoutes": [
+      {
+        "SubRouteUID": "KEE038401",
+        "SubRouteID": "038401",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "8011",
+          "En": "8011"
+        },
+        "Headsign": "安樂市場 — 信義國中(經長庚醫院)",
+        "HeadsignEn": "Renai House — Xinyi Junior High School(Changgung Memorial Hospital)",
+        "Direction": 0,
+        "DepartureStopNameZh": "安樂市場",
+        "DepartureStopNameEn": "Anle Market",
+        "DestinationStopNameZh": "信義國中",
+        "DestinationStopNameEn": "Sinyi Junior High School"
+      }
+    ],
+    "BusRouteType": 11,
+    "RouteName": {
+      "Zh_tw": "8011",
+      "En": "8011"
+    },
+    "DepartureStopNameZh": "安樂市場",
+    "DepartureStopNameEn": "Anle Market",
+    "DestinationStopNameZh": "信義國中",
+    "DestinationStopNameEn": "Sinyi Junior High School",
+    "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0384.jpg",
+    "City": "Keelung",
+    "CityCode": "KEE",
+    "UpdateTime": "2026-05-19T18:14:30+08:00",
+    "VersionID": 6996
+  },
+  {
+    "RouteUID": "KEE0385",
+    "RouteID": "0385",
+    "HasSubRoutes": false,
+    "Operators": [
+      {
+        "OperatorID": "109",
+        "OperatorName": {
+          "Zh_tw": "基隆市公車處"
+        },
+        "OperatorCode": "",
+        "OperatorNo": "1107"
+      }
+    ],
+    "AuthorityID": "011",
+    "ProviderID": "010",
+    "SubRoutes": [
+      {
+        "SubRouteUID": "KEE038501",
+        "SubRouteID": "038501",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "8012",
+          "En": "8012"
+        },
+        "Headsign": "信義國中—經長庚醫院",
+        "HeadsignEn": "Xinyi Junior High School — Via Changgung Memorial Hospita",
+        "Direction": 0,
+        "DepartureStopNameZh": "信義國中",
+        "DepartureStopNameEn": "Sinyi Junior High School",
+        "DestinationStopNameZh": "信義國中",
+        "DestinationStopNameEn": "Sinyi Junior High School"
+      }
+    ],
+    "BusRouteType": 11,
+    "RouteName": {
+      "Zh_tw": "8012",
+      "En": "8012"
+    },
+    "DepartureStopNameZh": "信義國中",
+    "DepartureStopNameEn": "Sinyi Junior High School",
+    "DestinationStopNameZh": "信義國中",
+    "DestinationStopNameEn": "Sinyi Junior High School",
+    "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0385.jpg",
+    "City": "Keelung",
+    "CityCode": "KEE",
+    "UpdateTime": "2026-05-19T18:14:30+08:00",
+    "VersionID": 6996
+  },
+  {
+    "RouteUID": "KEE0386",
+    "RouteID": "0386",
+    "HasSubRoutes": false,
+    "Operators": [
+      {
+        "OperatorID": "109",
+        "OperatorName": {
+          "Zh_tw": "基隆市公車處"
+        },
+        "OperatorCode": "",
+        "OperatorNo": "1107"
+      }
+    ],
+    "AuthorityID": "011",
+    "ProviderID": "010",
+    "SubRoutes": [
+      {
+        "SubRouteUID": "KEE038601",
+        "SubRouteID": "038601",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "8013",
+          "En": "8013"
+        },
+        "Headsign": "信義國中—基隆車站(經長庚醫院)",
+        "HeadsignEn": "Xinyi Junior High School — Keelung Station(Changgung Memorial Hospital)",
+        "Direction": 0,
+        "DepartureStopNameZh": "信義國中",
+        "DepartureStopNameEn": "Sinyi Junior High School",
+        "DestinationStopNameZh": "長庚醫院",
+        "DestinationStopNameEn": "Keelung City Zhanggeng Memorial Hospital"
+      }
+    ],
+    "BusRouteType": 11,
+    "RouteName": {
+      "Zh_tw": "8013",
+      "En": "8013"
+    },
+    "DepartureStopNameZh": "信義國中",
+    "DepartureStopNameEn": "Sinyi Junior High School",
+    "DestinationStopNameZh": "長庚醫院",
+    "DestinationStopNameEn": "Keelung City Zhanggeng Memorial Hospital",
+    "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0386.jpg",
+    "City": "Keelung",
+    "CityCode": "KEE",
+    "UpdateTime": "2026-05-19T18:14:30+08:00",
+    "VersionID": 6996
+  },
+  {
+    "RouteUID": "KEE0387",
+    "RouteID": "0387",
+    "HasSubRoutes": true,
+    "Operators": [
+      {
+        "OperatorID": "109",
+        "OperatorName": {
+          "Zh_tw": "基隆市公車處"
+        },
+        "OperatorCode": "",
+        "OperatorNo": "1107"
+      }
+    ],
+    "AuthorityID": "011",
+    "ProviderID": "010",
+    "SubRoutes": [
+      {
+        "SubRouteUID": "KEE038701",
+        "SubRouteID": "038701",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "8021",
+          "En": "8021"
+        },
+        "Headsign": "八斗子—經長庚醫院",
+        "HeadsignEn": "Badouzi — Via Changgung Memorial Hospital",
+        "Direction": 0,
+        "DepartureStopNameZh": "八斗子車站",
+        "DepartureStopNameEn": "Badouzi Railway Station",
+        "DestinationStopNameZh": "八斗子車站",
+        "DestinationStopNameEn": "Badouzi Railway Station"
+      },
+      {
+        "SubRouteUID": "KEE0387A1",
+        "SubRouteID": "0387A1",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "8022A",
+          "En": "8022A"
+        },
+        "Headsign": "八斗子—長庚醫院",
+        "HeadsignEn": "Badouzi — Via Changgung Memorial Hospital",
+        "Direction": 0,
+        "DepartureStopNameZh": "八斗子車站",
+        "DepartureStopNameEn": "Badouzi Railway Station",
+        "DestinationStopNameZh": "長庚醫院",
+        "DestinationStopNameEn": "Keelung City Zhanggeng Memorial Hospital"
+      }
+    ],
+    "BusRouteType": 11,
+    "RouteName": {
+      "Zh_tw": "8021",
+      "En": "8021"
+    },
+    "DepartureStopNameZh": "八斗子車站",
+    "DepartureStopNameEn": "Badouzi Railway Station",
+    "DestinationStopNameZh": "八斗子車站",
+    "DestinationStopNameEn": "Badouzi Railway Station",
+    "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0387.jpg",
+    "City": "Keelung",
+    "CityCode": "KEE",
+    "UpdateTime": "2026-05-19T18:14:30+08:00",
+    "VersionID": 6996
+  },
+  {
+    "RouteUID": "KEE0389",
+    "RouteID": "0389",
+    "HasSubRoutes": false,
+    "Operators": [
+      {
+        "OperatorID": "109",
+        "OperatorName": {
+          "Zh_tw": "基隆市公車處"
+        },
+        "OperatorCode": "",
+        "OperatorNo": "1107"
+      }
+    ],
+    "AuthorityID": "011",
+    "ProviderID": "010",
+    "SubRoutes": [
+      {
+        "SubRouteUID": "KEE038901",
+        "SubRouteID": "038901",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "301",
+          "En": "301"
+        },
+        "Headsign": "太白莊→經高遠新村",
+        "HeadsignEn": "Taibai Village → Via Gaoyuanxincun Community",
+        "Direction": 0,
+        "DepartureStopNameZh": "太白莊",
+        "DepartureStopNameEn": "Taibai Village",
+        "DestinationStopNameZh": "太白莊",
+        "DestinationStopNameEn": "Taibai Village"
+      }
+    ],
+    "BusRouteType": 11,
+    "RouteName": {
+      "Zh_tw": "301",
+      "En": "301"
+    },
+    "DepartureStopNameZh": "太白莊",
+    "DepartureStopNameEn": "Taibai Village",
+    "DestinationStopNameZh": "太白莊",
+    "DestinationStopNameEn": "Taibai Village",
+    "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0389.jpg",
+    "City": "Keelung",
+    "CityCode": "KEE",
+    "UpdateTime": "2026-05-19T18:14:30+08:00",
+    "VersionID": 6996
+  },
+  {
+    "RouteUID": "KEE0391",
+    "RouteID": "0391",
+    "HasSubRoutes": true,
+    "Operators": [
+      {
+        "OperatorID": "109",
+        "OperatorName": {
+          "Zh_tw": "基隆市公車處"
+        },
+        "OperatorCode": "",
+        "OperatorNo": "1107"
+      }
+    ],
+    "AuthorityID": "011",
+    "ProviderID": "010",
+    "SubRoutes": [
+      {
+        "SubRouteUID": "KEE039101",
+        "SubRouteID": "039101",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "803",
+          "En": "803"
+        },
+        "Headsign": "八斗子—經長庚醫院(經信義國中)",
+        "HeadsignEn": "Badouzi — Via Changgung Memorial Hospital(Xinyi Junior High School)",
+        "Direction": 0,
+        "DepartureStopNameZh": "八斗子車站",
+        "DepartureStopNameEn": "Badouzi Railway Station",
+        "DestinationStopNameZh": "國家新城",
+        "DestinationStopNameEn": "Guojiaxincheng"
+      },
+      {
+        "SubRouteUID": "KEE039102",
+        "SubRouteID": "039102",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "803",
+          "En": "803"
+        },
+        "Headsign": "經長庚醫院—八斗子(經信義國中)",
+        "HeadsignEn": "Via Changgung Memorial Hospital —Badouzi (Xinyi Junior High School))",
+        "Direction": 1,
+        "DepartureStopNameZh": "國家新城",
+        "DepartureStopNameEn": "Guojiaxincheng",
+        "DestinationStopNameZh": "八斗子車站",
+        "DestinationStopNameEn": "Badouzi Railway Station"
+      }
+    ],
+    "BusRouteType": 11,
+    "RouteName": {
+      "Zh_tw": "803",
+      "En": "803"
+    },
+    "DepartureStopNameZh": "八斗子車站",
+    "DepartureStopNameEn": "Badouzi Railway Station",
+    "DestinationStopNameZh": "國家新城",
+    "DestinationStopNameEn": "Guojiaxincheng",
+    "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0391.jpg",
+    "City": "Keelung",
+    "CityCode": "KEE",
+    "UpdateTime": "2026-05-19T18:14:30+08:00",
+    "VersionID": 6996
+  },
+  {
+    "RouteUID": "KEE0393",
+    "RouteID": "0393",
+    "HasSubRoutes": false,
+    "Operators": [
+      {
+        "OperatorID": "109",
+        "OperatorName": {
+          "Zh_tw": "基隆市公車處"
+        },
+        "OperatorCode": "",
+        "OperatorNo": "1107"
+      }
+    ],
+    "AuthorityID": "011",
+    "ProviderID": "010",
+    "SubRoutes": [
+      {
+        "SubRouteUID": "KEE039301",
+        "SubRouteID": "039301",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "302",
+          "En": "302"
+        },
+        "Headsign": "太白莊→基隆火車站",
+        "HeadsignEn": "Zhongshan Senior High School → Via Xiding Rd.",
+        "Direction": 0,
+        "DepartureStopNameZh": "太白莊",
+        "DepartureStopNameEn": "Taibai Village",
+        "DestinationStopNameZh": "太白莊",
+        "DestinationStopNameEn": "Taibai Village"
+      }
+    ],
+    "BusRouteType": 11,
+    "RouteName": {
+      "Zh_tw": "302",
+      "En": "302"
+    },
+    "DepartureStopNameZh": "太白莊",
+    "DepartureStopNameEn": "Taibai Village",
+    "DestinationStopNameZh": "太白莊",
+    "DestinationStopNameEn": "Taibai Village",
+    "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0393.jpg",
+    "City": "Keelung",
+    "CityCode": "KEE",
+    "UpdateTime": "2026-05-19T18:14:30+08:00",
+    "VersionID": 6996
+  },
+  {
+    "RouteUID": "KEE0394",
+    "RouteID": "0394",
+    "HasSubRoutes": false,
+    "Operators": [
+      {
+        "OperatorID": "109",
+        "OperatorName": {
+          "Zh_tw": "基隆市公車處"
+        },
+        "OperatorCode": "",
+        "OperatorNo": "1107"
+      }
+    ],
+    "AuthorityID": "011",
+    "ProviderID": "010",
+    "SubRoutes": [
+      {
+        "SubRouteUID": "KEE039401",
+        "SubRouteID": "039401",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "302",
+          "En": "302"
+        },
+        "Headsign": "太白莊→基隆火車站",
+        "HeadsignEn": "Zhongshan Senior High School → Via Xiding Rd.",
+        "Direction": 0,
+        "DepartureStopNameZh": "太白莊",
+        "DepartureStopNameEn": "Taibai Village",
+        "DestinationStopNameZh": "太白莊",
+        "DestinationStopNameEn": "Taibai Village"
+      }
+    ],
+    "BusRouteType": 11,
+    "RouteName": {
+      "Zh_tw": "302",
+      "En": "302"
+    },
+    "DepartureStopNameZh": "太白莊",
+    "DepartureStopNameEn": "Taibai Village",
+    "DestinationStopNameZh": "太白莊",
+    "DestinationStopNameEn": "Taibai Village",
+    "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0394.jpg",
+    "City": "Keelung",
+    "CityCode": "KEE",
+    "UpdateTime": "2026-05-19T18:14:30+08:00",
+    "VersionID": 6996
+  },
+  {
+    "RouteUID": "KEE0395",
+    "RouteID": "0395",
+    "HasSubRoutes": true,
+    "Operators": [
+      {
+        "OperatorID": "109",
+        "OperatorName": {
+          "Zh_tw": "基隆市公車處"
+        },
+        "OperatorCode": "",
+        "OperatorNo": "1107"
+      }
+    ],
+    "AuthorityID": "011",
+    "ProviderID": "010",
+    "SubRoutes": [
+      {
+        "SubRouteUID": "KEE039501",
+        "SubRouteID": "039501",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "303",
+          "En": "303"
+        },
+        "Headsign": "大竿林→經西定路",
+        "HeadsignEn": "Daganlin → Via Xiding Rd.",
+        "Direction": 0,
+        "DepartureStopNameZh": "富都新城",
+        "DepartureStopNameEn": "Fudouxincheng",
+        "DestinationStopNameZh": "富都新城",
+        "DestinationStopNameEn": "Fudouxincheng"
+      },
+      {
+        "SubRouteUID": "KEE0395A1",
+        "SubRouteID": "0395A1",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "303A",
+          "En": "303A"
+        },
+        "Headsign": "大竿林→經西定路→經成功市場",
+        "HeadsignEn": "Daganlin → Via Xiding Rd.",
+        "Direction": 0,
+        "DepartureStopNameZh": "富都新城",
+        "DepartureStopNameEn": "Fudouxincheng",
+        "DestinationStopNameZh": "富都新城",
+        "DestinationStopNameEn": "Fudouxincheng"
+      }
+    ],
+    "BusRouteType": 11,
+    "RouteName": {
+      "Zh_tw": "303",
+      "En": "303"
+    },
+    "DepartureStopNameZh": "富都新城",
+    "DepartureStopNameEn": "Fudouxincheng",
+    "DestinationStopNameZh": "富都新城",
+    "DestinationStopNameEn": "Fudouxincheng",
+    "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0395.jpg",
+    "City": "Keelung",
+    "CityCode": "KEE",
+    "UpdateTime": "2026-05-19T18:14:30+08:00",
+    "VersionID": 6996
+  },
+  {
+    "RouteUID": "KEE0396",
+    "RouteID": "0396",
+    "HasSubRoutes": false,
+    "Operators": [
+      {
+        "OperatorID": "109",
+        "OperatorName": {
+          "Zh_tw": "基隆市公車處"
+        },
+        "OperatorCode": "",
+        "OperatorNo": "1107"
+      }
+    ],
+    "AuthorityID": "011",
+    "ProviderID": "010",
+    "SubRoutes": [
+      {
+        "SubRouteUID": "KEE039601",
+        "SubRouteID": "039601",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "303",
+          "En": "303"
+        },
+        "Headsign": "大竿林→基隆車站",
+        "HeadsignEn": "Daganlin → Keelung Station",
+        "Direction": 0,
+        "DepartureStopNameZh": "富都新城",
+        "DepartureStopNameEn": "Fudouxincheng",
+        "DestinationStopNameZh": "基隆火車站(南站)",
+        "DestinationStopNameEn": "Keelung Railway Station S."
+      }
+    ],
+    "BusRouteType": 11,
+    "RouteName": {
+      "Zh_tw": "303",
+      "En": "303"
+    },
+    "DepartureStopNameZh": "富都新城",
+    "DepartureStopNameEn": "Fudouxincheng",
+    "DestinationStopNameZh": "基隆火車站(南站)",
+    "DestinationStopNameEn": "Keelung Railway Station S.",
+    "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0396.jpg",
+    "City": "Keelung",
+    "CityCode": "KEE",
+    "UpdateTime": "2026-05-19T18:14:30+08:00",
+    "VersionID": 6996
+  },
+  {
+    "RouteUID": "KEE0397",
+    "RouteID": "0397",
+    "HasSubRoutes": false,
+    "Operators": [
+      {
+        "OperatorID": "109",
+        "OperatorName": {
+          "Zh_tw": "基隆市公車處"
+        },
+        "OperatorCode": "",
+        "OperatorNo": "1107"
+      }
+    ],
+    "AuthorityID": "011",
+    "ProviderID": "010",
+    "SubRoutes": [
+      {
+        "SubRouteUID": "KEE039701",
+        "SubRouteID": "039701",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "303",
+          "En": "303"
+        },
+        "Headsign": "基隆車站→大竿林(經西定路)",
+        "HeadsignEn": "Keelung Station → Via  Daganlin",
+        "Direction": 0,
+        "DepartureStopNameZh": "基隆火車站(南站)",
+        "DepartureStopNameEn": "Keelung Railway Station S.",
+        "DestinationStopNameZh": "富都新城",
+        "DestinationStopNameEn": "Fudouxincheng"
+      }
+    ],
+    "BusRouteType": 11,
+    "RouteName": {
+      "Zh_tw": "303",
+      "En": "303"
+    },
+    "DepartureStopNameZh": "基隆火車站(南站)",
+    "DepartureStopNameEn": "Keelung Railway Station S.",
+    "DestinationStopNameZh": "富都新城",
+    "DestinationStopNameEn": "Fudouxincheng",
+    "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0397.jpg",
+    "City": "Keelung",
+    "CityCode": "KEE",
+    "UpdateTime": "2026-05-19T18:14:30+08:00",
+    "VersionID": 6996
+  },
+  {
+    "RouteUID": "KEE0398",
+    "RouteID": "0398",
+    "HasSubRoutes": true,
+    "Operators": [
+      {
+        "OperatorID": "109",
+        "OperatorName": {
+          "Zh_tw": "基隆市公車處"
+        },
+        "OperatorCode": "",
+        "OperatorNo": "1107"
+      }
+    ],
+    "AuthorityID": "011",
+    "ProviderID": "010",
+    "SubRoutes": [
+      {
+        "SubRouteUID": "KEE039801",
+        "SubRouteID": "039801",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "303",
+          "En": "303"
+        },
+        "Headsign": "大竿林—回經中山一路",
+        "HeadsignEn": "Daganlin — Via Zhongshan 1st Rd.",
+        "Direction": 0,
+        "DepartureStopNameZh": "富都新城",
+        "DepartureStopNameEn": "Fudouxincheng",
+        "DestinationStopNameZh": "富都新城",
+        "DestinationStopNameEn": "Fudouxincheng"
+      },
+      {
+        "SubRouteUID": "KEE0398A1",
+        "SubRouteID": "0398A1",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "303A",
+          "En": "303A"
+        },
+        "Headsign": "大竿林—去經中山一路",
+        "HeadsignEn": "Daganlin — Via Zhongshan 1st Rd.",
+        "Direction": 0,
+        "DepartureStopNameZh": "富都新城",
+        "DepartureStopNameEn": "Fudouxincheng",
+        "DestinationStopNameZh": "富都新城",
+        "DestinationStopNameEn": "Fudouxincheng"
+      }
+    ],
+    "BusRouteType": 11,
+    "RouteName": {
+      "Zh_tw": "303",
+      "En": "303"
+    },
+    "DepartureStopNameZh": "富都新城",
+    "DepartureStopNameEn": "Fudouxincheng",
+    "DestinationStopNameZh": "富都新城",
+    "DestinationStopNameEn": "Fudouxincheng",
+    "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0398.jpg",
+    "City": "Keelung",
+    "CityCode": "KEE",
+    "UpdateTime": "2026-05-19T18:14:30+08:00",
+    "VersionID": 6996
+  },
+  {
+    "RouteUID": "KEE0421",
+    "RouteID": "0421",
+    "HasSubRoutes": false,
+    "Operators": [
+      {
+        "OperatorID": "109",
+        "OperatorName": {
+          "Zh_tw": "基隆市公車處"
+        },
+        "OperatorCode": "",
+        "OperatorNo": "1107"
+      }
+    ],
+    "AuthorityID": "011",
+    "ProviderID": "010",
+    "SubRoutes": [
+      {
+        "SubRouteUID": "KEE042102",
+        "SubRouteID": "042102",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "7063",
+          "En": "7063"
+        },
+        "Headsign": "自治街—泰安路—自治街",
+        "HeadsignEn": "Zizhi St. — Taian Rd. —Zizhi St",
+        "Direction": 1,
+        "DepartureStopNameZh": "自治街",
+        "DepartureStopNameEn": "Zizhi St.",
+        "DestinationStopNameZh": "自治街",
+        "DestinationStopNameEn": "Zizhi St."
+      }
+    ],
+    "BusRouteType": 11,
+    "RouteName": {
+      "Zh_tw": "7063",
+      "En": "7063"
+    },
+    "DepartureStopNameZh": "自治街",
+    "DepartureStopNameEn": "Zizhi St.",
+    "DestinationStopNameZh": "自治街",
+    "DestinationStopNameEn": "Zizhi St.",
+    "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0421.jpg",
+    "City": "Keelung",
+    "CityCode": "KEE",
+    "UpdateTime": "2026-05-19T18:14:30+08:00",
+    "VersionID": 6996
+  },
+  {
+    "RouteUID": "KEE0434",
+    "RouteID": "0434",
+    "HasSubRoutes": false,
+    "Operators": [
+      {
+        "OperatorID": "109",
+        "OperatorName": {
+          "Zh_tw": "基隆市公車處"
+        },
+        "OperatorCode": "",
+        "OperatorNo": "1107"
+      }
+    ],
+    "AuthorityID": "011",
+    "ProviderID": "010",
+    "SubRoutes": [
+      {
+        "SubRouteUID": "KEE043401",
+        "SubRouteID": "043401",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "205",
+          "En": "205"
+        },
+        "Headsign": "總站—和平島(經祥豐街)",
+        "HeadsignEn": "Keelung Station — Heping Island(Xiangfeng St.)",
+        "Direction": 0,
+        "DepartureStopNameZh": "基隆轉運站",
+        "DepartureStopNameEn": "Keelung Transit Station",
+        "DestinationStopNameZh": "阿拉寶灣",
+        "DestinationStopNameEn": "Alabao Bay"
+      }
+    ],
+    "BusRouteType": 11,
+    "RouteName": {
+      "Zh_tw": "205",
+      "En": "205"
+    },
+    "DepartureStopNameZh": "基隆轉運站",
+    "DepartureStopNameEn": "Keelung Transit Station",
+    "DestinationStopNameZh": "阿拉寶灣",
+    "DestinationStopNameEn": "Alabao Bay",
+    "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0434.jpg",
+    "City": "Keelung",
+    "CityCode": "KEE",
+    "UpdateTime": "2026-05-19T18:14:30+08:00",
+    "VersionID": 6996
+  },
+  {
+    "RouteUID": "KEE0435",
+    "RouteID": "0435",
+    "HasSubRoutes": false,
+    "Operators": [
+      {
+        "OperatorID": "109",
+        "OperatorName": {
+          "Zh_tw": "基隆市公車處"
+        },
+        "OperatorCode": "",
+        "OperatorNo": "1107"
+      }
+    ],
+    "AuthorityID": "011",
+    "ProviderID": "010",
+    "SubRoutes": [
+      {
+        "SubRouteUID": "KEE043501",
+        "SubRouteID": "043501",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "206",
+          "En": "206"
+        },
+        "Headsign": "崇法國宅—基隆車站",
+        "HeadsignEn": "Chongfaguozhai — Keelung Station",
+        "Direction": 0,
+        "DepartureStopNameZh": "崇法國宅",
+        "DepartureStopNameEn": "Chongfa Public Housing",
+        "DestinationStopNameZh": "基隆轉運站",
+        "DestinationStopNameEn": "Keelung Transit Station"
+      }
+    ],
+    "BusRouteType": 11,
+    "RouteName": {
+      "Zh_tw": "206",
+      "En": "206"
+    },
+    "DepartureStopNameZh": "崇法國宅",
+    "DepartureStopNameEn": "Chongfa Public Housing",
+    "DestinationStopNameZh": "基隆轉運站",
+    "DestinationStopNameEn": "Keelung Transit Station",
+    "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0435.jpg",
+    "City": "Keelung",
+    "CityCode": "KEE",
+    "UpdateTime": "2026-05-19T18:14:30+08:00",
+    "VersionID": 6996
+  },
+  {
+    "RouteUID": "KEE0436",
+    "RouteID": "0436",
+    "HasSubRoutes": false,
+    "Operators": [
+      {
+        "OperatorID": "109",
+        "OperatorName": {
+          "Zh_tw": "基隆市公車處"
+        },
+        "OperatorCode": "",
+        "OperatorNo": "1107"
+      }
+    ],
+    "AuthorityID": "011",
+    "ProviderID": "010",
+    "SubRoutes": [
+      {
+        "SubRouteUID": "KEE043601",
+        "SubRouteID": "043601",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "310",
+          "En": "310"
+        },
+        "Headsign": "濱海大道—大武崙沙灘",
+        "HeadsignEn": "Binhai Blvd — Tapurun Beach",
+        "Direction": 0,
+        "DepartureStopNameZh": "基隆火車站(南站)",
+        "DepartureStopNameEn": "Keelung Railway Station S.",
+        "DestinationStopNameZh": "基隆火車站(南站)",
+        "DestinationStopNameEn": "Keelung Railway Station S."
+      }
+    ],
+    "BusRouteType": 11,
+    "RouteName": {
+      "Zh_tw": "310",
+      "En": "310"
+    },
+    "DepartureStopNameZh": "基隆火車站(南站)",
+    "DepartureStopNameEn": "Keelung Railway Station S.",
+    "DestinationStopNameZh": "基隆火車站(南站)",
+    "DestinationStopNameEn": "Keelung Railway Station S.",
+    "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0436.jpg",
+    "City": "Keelung",
+    "CityCode": "KEE",
+    "UpdateTime": "2026-05-19T18:14:30+08:00",
+    "VersionID": 6996
+  },
+  {
+    "RouteUID": "KEE0437",
+    "RouteID": "0437",
+    "HasSubRoutes": false,
+    "Operators": [
+      {
+        "OperatorID": "109",
+        "OperatorName": {
+          "Zh_tw": "基隆市公車處"
+        },
+        "OperatorCode": "",
+        "OperatorNo": "1107"
+      }
+    ],
+    "AuthorityID": "011",
+    "ProviderID": "010",
+    "SubRoutes": [
+      {
+        "SubRouteUID": "KEE043701",
+        "SubRouteID": "043701",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "402",
+          "En": "402"
+        },
+        "Headsign": "堵南里—經七堵郵局",
+        "HeadsignEn": "Dunan Village — Via Qidu Post Office",
+        "Direction": 0,
+        "DepartureStopNameZh": "堵南里",
+        "DepartureStopNameEn": "Dunan Village",
+        "DestinationStopNameZh": "堵南里",
+        "DestinationStopNameEn": "Dunan Village"
+      }
+    ],
+    "BusRouteType": 11,
+    "RouteName": {
+      "Zh_tw": "402",
+      "En": "402"
+    },
+    "DepartureStopNameZh": "堵南里",
+    "DepartureStopNameEn": "Dunan Village",
+    "DestinationStopNameZh": "堵南里",
+    "DestinationStopNameEn": "Dunan Village",
+    "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0437.jpg",
+    "City": "Keelung",
+    "CityCode": "KEE",
+    "UpdateTime": "2026-05-19T18:14:30+08:00",
+    "VersionID": 6996
+  },
+  {
+    "RouteUID": "KEE0438",
+    "RouteID": "0438",
+    "HasSubRoutes": true,
+    "Operators": [
+      {
+        "OperatorID": "109",
+        "OperatorName": {
+          "Zh_tw": "基隆市公車處"
+        },
+        "OperatorCode": "",
+        "OperatorNo": "1107"
+      }
+    ],
+    "AuthorityID": "011",
+    "ProviderID": "010",
+    "SubRoutes": [
+      {
+        "SubRouteUID": "KEE043801",
+        "SubRouteID": "043801",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "403",
+          "En": "403"
+        },
+        "Headsign": "東新街(海灣公司)—經七堵郵局(海灣公司)",
+        "HeadsignEn": "Dongxin St.(Crownvan Co. LTD) — Via Qidu Post Office(Crownvan Co. LTD)",
+        "Direction": 0,
+        "DepartureStopNameZh": "海灣公司",
+        "DepartureStopNameEn": "Crown Van Lines Co.",
+        "DestinationStopNameZh": "海灣公司",
+        "DestinationStopNameEn": "Crown Van Lines Co. Ltd."
+      },
+      {
+        "SubRouteUID": "KEE0438A1",
+        "SubRouteID": "0438A1",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "403A",
+          "En": "403A"
+        },
+        "Headsign": "東新街(福基煤礦)—經光明路(海灣公司)",
+        "HeadsignEn": "Dongxin St.(Fuji Mine) — Via Guangming Rd.(Crownvan Co. LTD)",
+        "Direction": 0,
+        "DepartureStopNameZh": "福基煤礦",
+        "DepartureStopNameEn": "Fuji Coal Mine",
+        "DestinationStopNameZh": "海灣公司",
+        "DestinationStopNameEn": "Crown Van Lines Co. Ltd."
+      },
+      {
+        "SubRouteUID": "KEE0438B1",
+        "SubRouteID": "0438B1",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "403B",
+          "En": "403B"
+        },
+        "Headsign": "東新街(福基煤礦)—經七堵郵局(福基煤礦)",
+        "HeadsignEn": "Dongxin St.(Fuji Mine) — Via Qidu Post Office(Fuji Mine)",
+        "Direction": 0,
+        "DepartureStopNameZh": "福基煤礦",
+        "DepartureStopNameEn": "Fuji Coal Mine",
+        "DestinationStopNameZh": "福基煤礦",
+        "DestinationStopNameEn": "Fuji Coal Mine"
+      },
+      {
+        "SubRouteUID": "KEE0438C1",
+        "SubRouteID": "0438C1",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "403C",
+          "En": "403C"
+        },
+        "Headsign": "東新街(福基煤礦)—經七堵郵局(海灣公司)",
+        "HeadsignEn": "Dongxin St.(Fuji Mine) —Qidu Post Office(Crownvan Co. LTD)",
+        "Direction": 0,
+        "DepartureStopNameZh": "福基煤礦",
+        "DepartureStopNameEn": "Fuji Coal Mine",
+        "DestinationStopNameZh": "海灣公司",
+        "DestinationStopNameEn": "Crown Van Lines Co. Ltd."
+      },
+      {
+        "SubRouteUID": "KEE0438D1",
+        "SubRouteID": "0438D1",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "403D",
+          "En": "403D"
+        },
+        "Headsign": "東新街(海灣公司)—經光明路(海灣公司)",
+        "HeadsignEn": "Dongxin St.(Crownvan Co. LTD) — Via Guangming Rd.(Crownvan Co. LTD)",
+        "Direction": 0,
+        "DepartureStopNameZh": "海灣公司",
+        "DepartureStopNameEn": "Crown Van Lines Co.",
+        "DestinationStopNameZh": "海灣公司",
+        "DestinationStopNameEn": "Crown Van Lines Co. Ltd."
+      },
+      {
+        "SubRouteUID": "KEE0438E1",
+        "SubRouteID": "0438E1",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "403E",
+          "En": "403E"
+        },
+        "Headsign": "東新街(海灣公司)—經光明路(福基煤礦)",
+        "HeadsignEn": "Dongxin St.(Crownvan Co. LTD) — Via Guangming Rd.(Fuji Mine)",
+        "Direction": 0,
+        "DepartureStopNameZh": "海灣公司",
+        "DepartureStopNameEn": "Crown Van Lines Co.",
+        "DestinationStopNameZh": "福基煤礦",
+        "DestinationStopNameEn": "Fuji Coal Mine"
+      },
+      {
+        "SubRouteUID": "KEE0438F1",
+        "SubRouteID": "0438F1",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "4037F",
+          "En": "4037F"
+        },
+        "Headsign": "東新街(海灣公司)—經七堵郵局(福基煤礦)",
+        "HeadsignEn": "Dongxin St.(Crownvan Co. LTD) — Via Qidu Post Office(Fuji Mine)",
+        "Direction": 0,
+        "DepartureStopNameZh": "海灣公司",
+        "DepartureStopNameEn": "Crown Van Lines Co.",
+        "DestinationStopNameZh": "福基煤礦",
+        "DestinationStopNameEn": "Fuji Coal Mine"
+      }
+    ],
+    "BusRouteType": 11,
+    "RouteName": {
+      "Zh_tw": "403",
+      "En": "403"
+    },
+    "DepartureStopNameZh": "海灣公司",
+    "DepartureStopNameEn": "Crown Van Lines Co.",
+    "DestinationStopNameZh": "海灣公司",
+    "DestinationStopNameEn": "Crown Van Lines Co. Ltd.",
+    "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0438.jpg",
+    "City": "Keelung",
+    "CityCode": "KEE",
+    "UpdateTime": "2026-05-19T18:14:30+08:00",
+    "VersionID": 6996
+  },
+  {
+    "RouteUID": "KEE0443",
+    "RouteID": "0443",
+    "HasSubRoutes": false,
+    "Operators": [
+      {
+        "OperatorID": "109",
+        "OperatorName": {
+          "Zh_tw": "基隆市公車處"
+        },
+        "OperatorCode": "",
+        "OperatorNo": "1107"
+      }
+    ],
+    "AuthorityID": "011",
+    "ProviderID": "010",
+    "SubRoutes": [
+      {
+        "SubRouteUID": "KEE044301",
+        "SubRouteID": "044301",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "406",
+          "En": "406"
+        },
+        "Headsign": "長安社區—經堵南里",
+        "HeadsignEn": "Zhang Community — Via Dunan Village",
+        "Direction": 0,
+        "DepartureStopNameZh": "長安社區",
+        "DepartureStopNameEn": "Changan Community",
+        "DestinationStopNameZh": "長安社區",
+        "DestinationStopNameEn": "Changan Community"
+      }
+    ],
+    "BusRouteType": 11,
+    "RouteName": {
+      "Zh_tw": "406",
+      "En": "406"
+    },
+    "DepartureStopNameZh": "長安社區",
+    "DepartureStopNameEn": "Changan Community",
+    "DestinationStopNameZh": "長安社區",
+    "DestinationStopNameEn": "Changan Community",
+    "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0443.jpg",
+    "City": "Keelung",
+    "CityCode": "KEE",
+    "UpdateTime": "2026-05-19T18:14:30+08:00",
+    "VersionID": 6996
+  },
+  {
+    "RouteUID": "KEE0444",
+    "RouteID": "0444",
+    "HasSubRoutes": false,
+    "Operators": [
+      {
+        "OperatorID": "109",
+        "OperatorName": {
+          "Zh_tw": "基隆市公車處"
+        },
+        "OperatorCode": "",
+        "OperatorNo": "1107"
+      }
+    ],
+    "AuthorityID": "011",
+    "ProviderID": "010",
+    "SubRoutes": [
+      {
+        "SubRouteUID": "KEE044401",
+        "SubRouteID": "044401",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "407",
+          "En": "407"
+        },
+        "Headsign": "七堵—基隆車站(經長庚醫院)",
+        "HeadsignEn": "Qidu — Keelung Station(Changgung Memorial Hospital)",
+        "Direction": 0,
+        "DepartureStopNameZh": "七堵郵局",
+        "DepartureStopNameEn": "Keelung Qidu Post Office",
+        "DestinationStopNameZh": "基隆火車站(南站)",
+        "DestinationStopNameEn": "Keelung Railway Station S."
+      }
+    ],
+    "BusRouteType": 11,
+    "RouteName": {
+      "Zh_tw": "407",
+      "En": "407"
+    },
+    "DepartureStopNameZh": "七堵郵局",
+    "DepartureStopNameEn": "Keelung Qidu Post Office",
+    "DestinationStopNameZh": "基隆火車站(南站)",
+    "DestinationStopNameEn": "Keelung Railway Station S.",
+    "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0444.jpg",
+    "City": "Keelung",
+    "CityCode": "KEE",
+    "UpdateTime": "2026-05-19T18:14:30+08:00",
+    "VersionID": 6996
+  },
+  {
+    "RouteUID": "KEE0445",
+    "RouteID": "0445",
+    "HasSubRoutes": false,
+    "Operators": [
+      {
+        "OperatorID": "109",
+        "OperatorName": {
+          "Zh_tw": "基隆市公車處"
+        },
+        "OperatorCode": "",
+        "OperatorNo": "1107"
+      }
+    ],
+    "AuthorityID": "011",
+    "ProviderID": "010",
+    "SubRoutes": [
+      {
+        "SubRouteUID": "KEE044501",
+        "SubRouteID": "044501",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "4081",
+          "En": "4081"
+        },
+        "Headsign": "基隆車站—長安社區(經長庚醫院)",
+        "HeadsignEn": "Keelung Station — Via Zhang Community(Changgung Memorial Hospital)",
+        "Direction": 0,
+        "DepartureStopNameZh": "基隆火車站(南站)",
+        "DepartureStopNameEn": "Keelung Railway Station S.",
+        "DestinationStopNameZh": "長安社區",
+        "DestinationStopNameEn": "Changan Community"
+      }
+    ],
+    "BusRouteType": 11,
+    "RouteName": {
+      "Zh_tw": "4081",
+      "En": "4081"
+    },
+    "DepartureStopNameZh": "基隆火車站(南站)",
+    "DepartureStopNameEn": "Keelung Railway Station S.",
+    "DestinationStopNameZh": "長安社區",
+    "DestinationStopNameEn": "Changan Community",
+    "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0445.jpg",
+    "City": "Keelung",
+    "CityCode": "KEE",
+    "UpdateTime": "2026-05-19T18:14:30+08:00",
+    "VersionID": 6996
+  },
+  {
+    "RouteUID": "KEE0446",
+    "RouteID": "0446",
+    "HasSubRoutes": false,
+    "Operators": [
+      {
+        "OperatorID": "109",
+        "OperatorName": {
+          "Zh_tw": "基隆市公車處"
+        },
+        "OperatorCode": "",
+        "OperatorNo": "1107"
+      }
+    ],
+    "AuthorityID": "011",
+    "ProviderID": "010",
+    "SubRoutes": [
+      {
+        "SubRouteUID": "KEE044601",
+        "SubRouteID": "044601",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "409",
+          "En": "409"
+        },
+        "Headsign": "堵南里—長庚醫院(經七堵郵局)",
+        "HeadsignEn": "Dunan Village — Changgung Memorial Hospital(Qidu Post Office)",
+        "Direction": 0,
+        "DepartureStopNameZh": "堵南里",
+        "DepartureStopNameEn": "Dunan Village",
+        "DestinationStopNameZh": "長庚醫院",
+        "DestinationStopNameEn": "Keelung City Zhanggeng Memorial Hospital"
+      }
+    ],
+    "BusRouteType": 11,
+    "RouteName": {
+      "Zh_tw": "409",
+      "En": "409"
+    },
+    "DepartureStopNameZh": "堵南里",
+    "DepartureStopNameEn": "Dunan Village",
+    "DestinationStopNameZh": "長庚醫院",
+    "DestinationStopNameEn": "Keelung City Zhanggeng Memorial Hospital",
+    "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0446.jpg",
+    "City": "Keelung",
+    "CityCode": "KEE",
+    "UpdateTime": "2026-05-19T18:14:30+08:00",
+    "VersionID": 6996
+  },
+  {
+    "RouteUID": "KEE0447",
+    "RouteID": "0447",
+    "HasSubRoutes": false,
+    "Operators": [
+      {
+        "OperatorID": "109",
+        "OperatorName": {
+          "Zh_tw": "基隆市公車處"
+        },
+        "OperatorCode": "",
+        "OperatorNo": "1107"
+      }
+    ],
+    "AuthorityID": "011",
+    "ProviderID": "010",
+    "SubRoutes": [
+      {
+        "SubRouteUID": "KEE044701",
+        "SubRouteID": "044701",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "4101",
+          "En": "4101"
+        },
+        "Headsign": "七堵郵局—壯觀台北(經長庚醫院)",
+        "HeadsignEn": "Via Qidu Post Office — Via Zhuangguantaipei Community",
+        "Direction": 0,
+        "DepartureStopNameZh": "七堵郵局",
+        "DepartureStopNameEn": "Keelung Qidu Post Office",
+        "DestinationStopNameZh": "七堵郵局",
+        "DestinationStopNameEn": "Keelung Qidu Post Office"
+      }
+    ],
+    "BusRouteType": 11,
+    "RouteName": {
+      "Zh_tw": "4101",
+      "En": "4101"
+    },
+    "DepartureStopNameZh": "七堵郵局",
+    "DepartureStopNameEn": "Keelung Qidu Post Office",
+    "DestinationStopNameZh": "七堵郵局",
+    "DestinationStopNameEn": "Keelung Qidu Post Office",
+    "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0447.jpg",
+    "City": "Keelung",
+    "CityCode": "KEE",
+    "UpdateTime": "2026-05-19T18:14:30+08:00",
+    "VersionID": 6996
+  },
+  {
+    "RouteUID": "KEE0448",
+    "RouteID": "0448",
+    "HasSubRoutes": true,
+    "Operators": [
+      {
+        "OperatorID": "109",
+        "OperatorName": {
+          "Zh_tw": "基隆市公車處"
+        },
+        "OperatorCode": "",
+        "OperatorNo": "1107"
+      }
+    ],
+    "AuthorityID": "011",
+    "ProviderID": "010",
+    "SubRoutes": [
+      {
+        "SubRouteUID": "KEE044801",
+        "SubRouteID": "044801",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "501",
+          "En": "501"
+        },
+        "Headsign": "國家新城—經長庚醫院(經麥金路)",
+        "HeadsignEn": "Guojiaxincheng — Via Changgung Memorial Hospital",
+        "Direction": 0,
+        "DepartureStopNameZh": "樂利三街32巷",
+        "DepartureStopNameEn": "Ln. 32 Leli 3rd St.",
+        "DestinationStopNameZh": "樂利三街32巷",
+        "DestinationStopNameEn": "Ln. 32 Leli 3rd St."
+      },
+      {
+        "SubRouteUID": "KEE0448A1",
+        "SubRouteID": "0448A1",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "501A",
+          "En": "501A"
+        },
+        "Headsign": "國家新城—經長庚醫院(經麥金路)",
+        "HeadsignEn": "Guojiaxincheng — Via Changgung Memorial Hospital",
+        "Direction": 0,
+        "DepartureStopNameZh": "基隆轉運站",
+        "DepartureStopNameEn": "Keelung Transit Station",
+        "DestinationStopNameZh": "樂利三街32巷",
+        "DestinationStopNameEn": "Ln. 32 Leli 3rd St."
+      }
+    ],
+    "BusRouteType": 11,
+    "RouteName": {
+      "Zh_tw": "501",
+      "En": "501"
+    },
+    "DepartureStopNameZh": "樂利三街32巷",
+    "DepartureStopNameEn": "Ln. 32 Leli 3rd St.",
+    "DestinationStopNameZh": "樂利三街32巷",
+    "DestinationStopNameEn": "Ln. 32 Leli 3rd St.",
+    "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0448.jpg",
+    "City": "Keelung",
+    "CityCode": "KEE",
+    "UpdateTime": "2026-05-19T18:14:30+08:00",
+    "VersionID": 6996
+  },
+  {
+    "RouteUID": "KEE0449",
+    "RouteID": "0449",
+    "HasSubRoutes": false,
+    "Operators": [
+      {
+        "OperatorID": "109",
+        "OperatorName": {
+          "Zh_tw": "基隆市公車處"
+        },
+        "OperatorCode": "",
+        "OperatorNo": "1107"
+      }
+    ],
+    "AuthorityID": "011",
+    "ProviderID": "010",
+    "SubRoutes": [
+      {
+        "SubRouteUID": "KEE044901",
+        "SubRouteID": "044901",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "502",
+          "En": "502"
+        },
+        "Headsign": "建德國中—經成功市場(經安樂路)",
+        "HeadsignEn": "Jiande Junior High School — Via Chengong Market",
+        "Direction": 0,
+        "DepartureStopNameZh": "建德國小",
+        "DepartureStopNameEn": "Jiande Elementary School",
+        "DestinationStopNameZh": "建德國小",
+        "DestinationStopNameEn": "Jiande Elementary School"
+      }
+    ],
+    "BusRouteType": 11,
+    "RouteName": {
+      "Zh_tw": "502",
+      "En": "502"
+    },
+    "DepartureStopNameZh": "建德國小",
+    "DepartureStopNameEn": "Jiande Elementary School",
+    "DestinationStopNameZh": "建德國小",
+    "DestinationStopNameEn": "Jiande Elementary School",
+    "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0449.jpg",
+    "City": "Keelung",
+    "CityCode": "KEE",
+    "UpdateTime": "2026-05-19T18:14:30+08:00",
+    "VersionID": 6996
+  },
+  {
+    "RouteUID": "KEE0456",
+    "RouteID": "0456",
+    "HasSubRoutes": false,
+    "Operators": [
+      {
+        "OperatorID": "109",
+        "OperatorName": {
+          "Zh_tw": "基隆市公車處"
+        },
+        "OperatorCode": "",
+        "OperatorNo": "1107"
+      }
+    ],
+    "AuthorityID": "011",
+    "ProviderID": "010",
+    "SubRoutes": [
+      {
+        "SubRouteUID": "KEE045601",
+        "SubRouteID": "045601",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "408",
+          "En": "408"
+        },
+        "Headsign": "長安社區—基隆車站(經長庚醫院)",
+        "HeadsignEn": "Zhang Community — Keelung Station(Changgung Memorial Hospital)",
+        "Direction": 0,
+        "DepartureStopNameZh": "長安社區",
+        "DepartureStopNameEn": "Changan Community",
+        "DestinationStopNameZh": "基隆火車站(南站)",
+        "DestinationStopNameEn": "Keelung Railway Station S."
+      }
+    ],
+    "BusRouteType": 11,
+    "RouteName": {
+      "Zh_tw": "408",
+      "En": "408"
+    },
+    "DepartureStopNameZh": "長安社區",
+    "DepartureStopNameEn": "Changan Community",
+    "DestinationStopNameZh": "基隆火車站(南站)",
+    "DestinationStopNameEn": "Keelung Railway Station S.",
+    "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0456.jpg",
+    "City": "Keelung",
+    "CityCode": "KEE",
+    "UpdateTime": "2026-05-19T18:14:30+08:00",
+    "VersionID": 6996
+  },
+  {
+    "RouteUID": "KEE0467",
+    "RouteID": "0467",
+    "HasSubRoutes": false,
+    "Operators": [
+      {
+        "OperatorID": "109",
+        "OperatorName": {
+          "Zh_tw": "基隆市公車處"
+        },
+        "OperatorCode": "",
+        "OperatorNo": "1107"
+      }
+    ],
+    "AuthorityID": "011",
+    "ProviderID": "010",
+    "SubRoutes": [
+      {
+        "SubRouteUID": "KEE046701",
+        "SubRouteID": "046701",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "5106",
+          "En": "5106"
+        },
+        "Headsign": "七堵—大武崙(經壯觀台北)",
+        "HeadsignEn": "Qidu — Tapurun(Zhuangguantaipei Community)",
+        "Direction": 0,
+        "DepartureStopNameZh": "七堵火車站",
+        "DepartureStopNameEn": "Qidu Railway Station",
+        "DestinationStopNameZh": "武隆街105巷",
+        "DestinationStopNameEn": "Ln. 105 Wulong St."
+      }
+    ],
+    "BusRouteType": 11,
+    "RouteName": {
+      "Zh_tw": "5106",
+      "En": "5106"
+    },
+    "DepartureStopNameZh": "七堵火車站",
+    "DepartureStopNameEn": "Qidu Railway Station",
+    "DestinationStopNameZh": "武隆街105巷",
+    "DestinationStopNameEn": "Ln. 105 Wulong St.",
+    "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0467.jpg",
+    "City": "Keelung",
+    "CityCode": "KEE",
+    "UpdateTime": "2026-05-19T18:14:30+08:00",
+    "VersionID": 6996
+  },
+  {
+    "RouteUID": "KEE0468",
+    "RouteID": "0468",
+    "HasSubRoutes": true,
+    "Operators": [
+      {
+        "OperatorID": "109",
+        "OperatorName": {
+          "Zh_tw": "基隆市公車處"
+        },
+        "OperatorCode": "",
+        "OperatorNo": "1107"
+      }
+    ],
+    "AuthorityID": "011",
+    "ProviderID": "010",
+    "SubRoutes": [
+      {
+        "SubRouteUID": "KEE046801",
+        "SubRouteID": "046801",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "R66",
+          "En": "R66"
+        },
+        "Headsign": "海科館→七堵車站",
+        "HeadsignEn": "R66",
+        "Direction": 0,
+        "DepartureStopNameZh": "八斗子車站",
+        "DepartureStopNameEn": "Badouzi Railway Station",
+        "DestinationStopNameZh": "七堵火車站",
+        "DestinationStopNameEn": "Qidu Railway Station"
+      },
+      {
+        "SubRouteUID": "KEE046802",
+        "SubRouteID": "046802",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "R66",
+          "En": "R66"
+        },
+        "Headsign": "七堵車站→海科館",
+        "HeadsignEn": "R66",
+        "Direction": 1,
+        "DepartureStopNameZh": "七堵火車站",
+        "DepartureStopNameEn": "Qidu Railway Station",
+        "DestinationStopNameZh": "八斗子車站",
+        "DestinationStopNameEn": "Badouzi Railway Station"
+      }
+    ],
+    "BusRouteType": 11,
+    "RouteName": {
+      "Zh_tw": "R66",
+      "En": "R66"
+    },
+    "DepartureStopNameZh": "八斗子車站",
+    "DepartureStopNameEn": "Badouzi Railway Station",
+    "DestinationStopNameZh": "七堵火車站",
+    "DestinationStopNameEn": "Qidu Railway Station",
+    "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0468.jpg",
+    "City": "Keelung",
+    "CityCode": "KEE",
+    "UpdateTime": "2026-05-19T18:14:30+08:00",
+    "VersionID": 6996
+  },
+  {
+    "RouteUID": "KEE0469",
+    "RouteID": "0469",
+    "HasSubRoutes": true,
+    "Operators": [
+      {
+        "OperatorID": "109",
+        "OperatorName": {
+          "Zh_tw": "基隆市公車處"
+        },
+        "OperatorCode": "",
+        "OperatorNo": "1107"
+      }
+    ],
+    "AuthorityID": "011",
+    "ProviderID": "010",
+    "SubRoutes": [
+      {
+        "SubRouteUID": "KEE046901",
+        "SubRouteID": "046901",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "R86",
+          "En": "R86"
+        },
+        "Headsign": "幸福華城→七堵車站(幸福華城發車)",
+        "HeadsignEn": "R86",
+        "Direction": 0,
+        "DepartureStopNameZh": "幸福華城",
+        "DepartureStopNameEn": "Xingfuhuacheng Community",
+        "DestinationStopNameZh": "七堵火車站",
+        "DestinationStopNameEn": "Qidu Railway Station"
+      },
+      {
+        "SubRouteUID": "KEE046902",
+        "SubRouteID": "046902",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "R86",
+          "En": "R86"
+        },
+        "Headsign": "七堵車站→幸福華城(幸福華城發車)",
+        "HeadsignEn": "R86",
+        "Direction": 1,
+        "DepartureStopNameZh": "七堵火車站",
+        "DepartureStopNameEn": "Qidu Railway Station",
+        "DestinationStopNameZh": "幸福華城",
+        "DestinationStopNameEn": "Xingfuhuacheng Community"
+      },
+      {
+        "SubRouteUID": "KEE0469A1",
+        "SubRouteID": "0469A1",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "R86A",
+          "En": "R86A"
+        },
+        "Headsign": "幸福華城→七堵車站(台北大鎮發車)",
+        "HeadsignEn": "R86",
+        "Direction": 0,
+        "DepartureStopNameZh": "台北大鎮",
+        "DepartureStopNameEn": "Taibeidazhen",
+        "DestinationStopNameZh": "七堵火車站",
+        "DestinationStopNameEn": "Qidu Railway Station"
+      },
+      {
+        "SubRouteUID": "KEE0469A2",
+        "SubRouteID": "0469A2",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "R86A",
+          "En": "R86A"
+        },
+        "Headsign": "七堵車站→幸福華城(台北大鎮發車)",
+        "HeadsignEn": "R86",
+        "Direction": 1,
+        "DepartureStopNameZh": "七堵火車站",
+        "DepartureStopNameEn": "Qidu Railway Station",
+        "DestinationStopNameZh": "台北大鎮",
+        "DestinationStopNameEn": "Taibeidazhen"
+      }
+    ],
+    "BusRouteType": 11,
+    "RouteName": {
+      "Zh_tw": "R86",
+      "En": "R86"
+    },
+    "DepartureStopNameZh": "幸福華城",
+    "DepartureStopNameEn": "Xingfuhuacheng Community",
+    "DestinationStopNameZh": "七堵火車站",
+    "DestinationStopNameEn": "Qidu Railway Station",
+    "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0469.jpg",
+    "City": "Keelung",
+    "CityCode": "KEE",
+    "UpdateTime": "2026-05-19T18:14:30+08:00",
+    "VersionID": 6996
+  },
+  {
+    "RouteUID": "KEE0470",
+    "RouteID": "0470",
+    "HasSubRoutes": true,
+    "Operators": [
+      {
+        "OperatorID": "109",
+        "OperatorName": {
+          "Zh_tw": "基隆市公車處"
+        },
+        "OperatorCode": "",
+        "OperatorNo": "1107"
+      }
+    ],
+    "AuthorityID": "011",
+    "ProviderID": "010",
+    "SubRoutes": [
+      {
+        "SubRouteUID": "KEE047001",
+        "SubRouteID": "047001",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "R82",
+          "En": "R82"
+        },
+        "Headsign": "國家新城→七堵車站",
+        "HeadsignEn": "R82",
+        "Direction": 0,
+        "DepartureStopNameZh": "國家新城",
+        "DepartureStopNameEn": "Guojiaxincheng",
+        "DestinationStopNameZh": "七堵火車站",
+        "DestinationStopNameEn": "Qidu Railway Station"
+      },
+      {
+        "SubRouteUID": "KEE047002",
+        "SubRouteID": "047002",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "R82",
+          "En": "R82"
+        },
+        "Headsign": "七堵車站→國家新城",
+        "HeadsignEn": "R82",
+        "Direction": 1,
+        "DepartureStopNameZh": "七堵火車站",
+        "DepartureStopNameEn": "Qidu Railway Station",
+        "DestinationStopNameZh": "國家新城",
+        "DestinationStopNameEn": "Guojiaxincheng"
+      },
+      {
+        "SubRouteUID": "KEE0470A1",
+        "SubRouteID": "0470A1",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "R82A",
+          "En": "R82A"
+        },
+        "Headsign": "國家新城→百福車站",
+        "HeadsignEn": "Guojiaxincheng → Baifu Railway Station",
+        "Direction": 0,
+        "DepartureStopNameZh": "國家新城",
+        "DepartureStopNameEn": "Guojiaxincheng",
+        "DestinationStopNameZh": "百福火車站",
+        "DestinationStopNameEn": "Baifu Railway Station"
+      },
+      {
+        "SubRouteUID": "KEE0470A2",
+        "SubRouteID": "0470A2",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "R82A",
+          "En": "R82A"
+        },
+        "Headsign": "百福車站→國家新城",
+        "HeadsignEn": "Baifu Railway Station–Guojiaxincheng",
+        "Direction": 1,
+        "DepartureStopNameZh": "百福火車站",
+        "DepartureStopNameEn": "Baifu Railway Station",
+        "DestinationStopNameZh": "國家新城",
+        "DestinationStopNameEn": "Guojiaxincheng"
+      },
+      {
+        "SubRouteUID": "KEE0470B1",
+        "SubRouteID": "0470B1",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "R82B",
+          "En": "R82B"
+        },
+        "Headsign": "國家新城→七堵車站",
+        "HeadsignEn": "Guojiaxincheng → Qidu Railway Station",
+        "Direction": 0,
+        "DepartureStopNameZh": "國家新城",
+        "DepartureStopNameEn": "Guojiaxincheng",
+        "DestinationStopNameZh": "七堵火車站",
+        "DestinationStopNameEn": "Qidu Railway Station"
+      },
+      {
+        "SubRouteUID": "KEE0470B2",
+        "SubRouteID": "0470B2",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "R82B",
+          "En": "R82B"
+        },
+        "Headsign": "七堵車站→國家新城(經建德逆行)",
+        "HeadsignEn": "Qidu Railway Station→Guojiaxincheng(via Jiande Retrograde)",
+        "Direction": 1,
+        "DepartureStopNameZh": "七堵火車站",
+        "DepartureStopNameEn": "Qidu Railway Station",
+        "DestinationStopNameZh": "國家新城",
+        "DestinationStopNameEn": "Guojiaxincheng"
+      },
+      {
+        "SubRouteUID": "KEE0470C1",
+        "SubRouteID": "0470C1",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "R82C",
+          "En": "R82C"
+        },
+        "Headsign": "國家新城→七堵車站(經建德逆行",
+        "HeadsignEn": "Guojiaxincheng→Qidu Railway Station(via Jiande Retrograde)",
+        "Direction": 0,
+        "DepartureStopNameZh": "國家新城",
+        "DepartureStopNameEn": "Guojiaxincheng",
+        "DestinationStopNameZh": "七堵火車站",
+        "DestinationStopNameEn": "Qidu Railway Station"
+      },
+      {
+        "SubRouteUID": "KEE0470C2",
+        "SubRouteID": "0470C2",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "0470C",
+          "En": "0470C"
+        },
+        "Headsign": "七堵車站→國家新城",
+        "HeadsignEn": "Qidu Railway Station→Guojiaxincheng",
+        "Direction": 1,
+        "DepartureStopNameZh": "七堵火車站",
+        "DepartureStopNameEn": "Qidu Railway Station",
+        "DestinationStopNameZh": "國家新城",
+        "DestinationStopNameEn": "Guojiaxincheng"
+      },
+      {
+        "SubRouteUID": "KEE0470D1",
+        "SubRouteID": "0470D1",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "R82D",
+          "En": "R82D"
+        },
+        "Headsign": "國家新城→七堵車站(經建德逆行)",
+        "HeadsignEn": "Guojiaxincheng→Qidu Railway Station(via Jiande Retrograde))",
+        "Direction": 0,
+        "DepartureStopNameZh": "國家新城",
+        "DepartureStopNameEn": "Guojiaxincheng",
+        "DestinationStopNameZh": "七堵火車站",
+        "DestinationStopNameEn": "Qidu Railway Station"
+      },
+      {
+        "SubRouteUID": "KEE0470D2",
+        "SubRouteID": "0470D2",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "R82D",
+          "En": "R82D"
+        },
+        "Headsign": "七堵車站→國家新城(經建德逆行)",
+        "HeadsignEn": "Qidu Railway Station→(Guojiaxincheng(via Jiande Retrograde))",
+        "Direction": 1,
+        "DepartureStopNameZh": "七堵火車站",
+        "DepartureStopNameEn": "Qidu Railway Station",
+        "DestinationStopNameZh": "國家新城",
+        "DestinationStopNameEn": "Guojiaxincheng"
+      },
+      {
+        "SubRouteUID": "KEE0470E1",
+        "SubRouteID": "0470E1",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "R82E",
+          "En": "R82E"
+        },
+        "Headsign": "國家新城→百福車站",
+        "HeadsignEn": "Guojiaxincheng → Baifu Railway Station",
+        "Direction": 0,
+        "DepartureStopNameZh": "國家新城",
+        "DepartureStopNameEn": "Guojiaxincheng",
+        "DestinationStopNameZh": "百福火車站",
+        "DestinationStopNameEn": "Baifu Railway Station"
+      },
+      {
+        "SubRouteUID": "KEE0470E2",
+        "SubRouteID": "0470E2",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "0470E",
+          "En": "0470E"
+        },
+        "Headsign": "百福車站→國家新城(經建德逆行)",
+        "HeadsignEn": "Baifu Railway Station–Guojiaxincheng(via Jiande Retrograde)",
+        "Direction": 1,
+        "DepartureStopNameZh": "百福火車站",
+        "DepartureStopNameEn": "Baifu Railway Station",
+        "DestinationStopNameZh": "國家新城",
+        "DestinationStopNameEn": "Guojiaxincheng"
+      }
+    ],
+    "BusRouteType": 11,
+    "RouteName": {
+      "Zh_tw": "R82",
+      "En": "R82"
+    },
+    "DepartureStopNameZh": "國家新城",
+    "DepartureStopNameEn": "Guojiaxincheng",
+    "DestinationStopNameZh": "七堵火車站",
+    "DestinationStopNameEn": "Qidu Railway Station",
+    "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0470.jpg",
+    "City": "Keelung",
+    "CityCode": "KEE",
+    "UpdateTime": "2026-05-19T18:14:30+08:00",
+    "VersionID": 6996
+  },
+  {
+    "RouteUID": "KEE0472",
+    "RouteID": "0472",
+    "HasSubRoutes": true,
+    "Operators": [
+      {
+        "OperatorID": "109",
+        "OperatorName": {
+          "Zh_tw": "基隆市公車處"
+        },
+        "OperatorCode": "",
+        "OperatorNo": "1107"
+      }
+    ],
+    "AuthorityID": "011",
+    "ProviderID": "010",
+    "SubRoutes": [
+      {
+        "SubRouteUID": "KEE047201",
+        "SubRouteID": "047201",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "T99",
+          "En": "T99"
+        },
+        "Headsign": "T99 濱海奇基",
+        "HeadsignEn": "Binhai Wonderful Keelung",
+        "Direction": 0,
+        "DepartureStopNameZh": "基隆轉運站",
+        "DepartureStopNameEn": "Keelung Transit Station",
+        "DestinationStopNameZh": "八斗子車站",
+        "DestinationStopNameEn": "Badouzi Railway Station"
+      },
+      {
+        "SubRouteUID": "KEE047202",
+        "SubRouteID": "047202",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "T99",
+          "En": "T99"
+        },
+        "Headsign": "T99 濱海奇基",
+        "HeadsignEn": "Binhai Wonderful Keelung",
+        "Direction": 1,
+        "DepartureStopNameZh": "八斗子車站",
+        "DepartureStopNameEn": "Badouzi Railway Station",
+        "DestinationStopNameZh": "基隆轉運站",
+        "DestinationStopNameEn": "Keelung Transit Station"
+      }
+    ],
+    "BusRouteType": 11,
+    "RouteName": {
+      "Zh_tw": "T99",
+      "En": "T99"
+    },
+    "DepartureStopNameZh": "基隆轉運站",
+    "DepartureStopNameEn": "Keelung Transit Station",
+    "DestinationStopNameZh": "八斗子車站",
+    "DestinationStopNameEn": "Badouzi Railway Station",
+    "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0472.jpg",
+    "City": "Keelung",
+    "CityCode": "KEE",
+    "UpdateTime": "2026-05-19T18:14:30+08:00",
+    "VersionID": 6996
+  },
+  {
+    "RouteUID": "KEE0473",
+    "RouteID": "0473",
+    "HasSubRoutes": false,
+    "Operators": [
+      {
+        "OperatorID": "109",
+        "OperatorName": {
+          "Zh_tw": "基隆市公車處"
+        },
+        "OperatorCode": "",
+        "OperatorNo": "1107"
+      }
+    ],
+    "AuthorityID": "011",
+    "ProviderID": "010",
+    "SubRoutes": [
+      {
+        "SubRouteUID": "KEE047301",
+        "SubRouteID": "047301",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "6011",
+          "En": "6011"
+        },
+        "Headsign": "四腳亭—經源遠路",
+        "HeadsignEn": "Sijiaoting — Via Yuanyuan Rd.",
+        "Direction": 0,
+        "DepartureStopNameZh": "四腳亭分站",
+        "DepartureStopNameEn": "Sijiaoting Substation",
+        "DestinationStopNameZh": "四腳亭",
+        "DestinationStopNameEn": "Sijiaoting"
+      }
+    ],
+    "BusRouteType": 11,
+    "RouteName": {
+      "Zh_tw": "6011",
+      "En": "6011"
+    },
+    "DepartureStopNameZh": "四腳亭分站",
+    "DepartureStopNameEn": "Sijiaoting Substation",
+    "DestinationStopNameZh": "四腳亭",
+    "DestinationStopNameEn": "Sijiaoting",
+    "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0473.jpg",
+    "City": "Keelung",
+    "CityCode": "KEE",
+    "UpdateTime": "2026-05-19T18:14:30+08:00",
+    "VersionID": 6996
+  },
+  {
+    "RouteUID": "KEE0474",
+    "RouteID": "0474",
+    "HasSubRoutes": false,
+    "Operators": [
+      {
+        "OperatorID": "109",
+        "OperatorName": {
+          "Zh_tw": "基隆市公車處"
+        },
+        "OperatorCode": "",
+        "OperatorNo": "1107"
+      }
+    ],
+    "AuthorityID": "011",
+    "ProviderID": "010",
+    "SubRoutes": [
+      {
+        "SubRouteUID": "KEE047401",
+        "SubRouteID": "047401",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "6021",
+          "En": "6021"
+        },
+        "Headsign": "暖暖—經過港路",
+        "HeadsignEn": "Nuannuan — Via Guogang Rd.",
+        "Direction": 0,
+        "DepartureStopNameZh": "暖暖分站(調度站)",
+        "DepartureStopNameEn": "Nuannuan Substation",
+        "DestinationStopNameZh": "威德廟",
+        "DestinationStopNameEn": "Weide Temple"
+      }
+    ],
+    "BusRouteType": 11,
+    "RouteName": {
+      "Zh_tw": "6021",
+      "En": "6021"
+    },
+    "DepartureStopNameZh": "暖暖分站(調度站)",
+    "DepartureStopNameEn": "Nuannuan Substation",
+    "DestinationStopNameZh": "威德廟",
+    "DestinationStopNameEn": "Weide Temple",
+    "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0474.jpg",
+    "City": "Keelung",
+    "CityCode": "KEE",
+    "UpdateTime": "2026-05-19T18:14:30+08:00",
+    "VersionID": 6996
+  },
+  {
+    "RouteUID": "KEE0475",
+    "RouteID": "0475",
+    "HasSubRoutes": false,
+    "Operators": [
+      {
+        "OperatorID": "109",
+        "OperatorName": {
+          "Zh_tw": "基隆市公車處"
+        },
+        "OperatorCode": "",
+        "OperatorNo": "1107"
+      }
+    ],
+    "AuthorityID": "011",
+    "ProviderID": "010",
+    "SubRoutes": [
+      {
+        "SubRouteUID": "KEE047501",
+        "SubRouteID": "047501",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "6031",
+          "En": "6031"
+        },
+        "Headsign": "東勢坑—經東勢街(經暖暖國小)",
+        "HeadsignEn": "Dongshi Tunnel — Via Dongshi St.(Nuannuan Elementary School).",
+        "Direction": 0,
+        "DepartureStopNameZh": "東安宮",
+        "DepartureStopNameEn": "Dongan Temple",
+        "DestinationStopNameZh": "東安宮",
+        "DestinationStopNameEn": "Dongan Temple"
+      }
+    ],
+    "BusRouteType": 11,
+    "RouteName": {
+      "Zh_tw": "6031",
+      "En": "6031"
+    },
+    "DepartureStopNameZh": "東安宮",
+    "DepartureStopNameEn": "Dongan Temple",
+    "DestinationStopNameZh": "東安宮",
+    "DestinationStopNameEn": "Dongan Temple",
+    "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0475.jpg",
+    "City": "Keelung",
+    "CityCode": "KEE",
+    "UpdateTime": "2026-05-19T18:14:30+08:00",
+    "VersionID": 6996
+  },
+  {
+    "RouteUID": "KEE0476",
+    "RouteID": "0476",
+    "HasSubRoutes": false,
+    "Operators": [
+      {
+        "OperatorID": "109",
+        "OperatorName": {
+          "Zh_tw": "基隆市公車處"
+        },
+        "OperatorCode": "",
+        "OperatorNo": "1107"
+      }
+    ],
+    "AuthorityID": "011",
+    "ProviderID": "010",
+    "SubRoutes": [
+      {
+        "SubRouteUID": "KEE047601",
+        "SubRouteID": "047601",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "6032",
+          "En": "6032"
+        },
+        "Headsign": "基隆車站—東勢坑",
+        "HeadsignEn": "Keelung Railway Station—Dongshi Tunnel",
+        "Direction": 0,
+        "DepartureStopNameZh": "基隆火車站(南站)",
+        "DepartureStopNameEn": "Keelung Railway Station S.",
+        "DestinationStopNameZh": "東安宮",
+        "DestinationStopNameEn": "Dongan Temple"
+      }
+    ],
+    "BusRouteType": 11,
+    "RouteName": {
+      "Zh_tw": "6032",
+      "En": "6032"
+    },
+    "DepartureStopNameZh": "基隆火車站(南站)",
+    "DepartureStopNameEn": "Keelung Railway Station S.",
+    "DestinationStopNameZh": "東安宮",
+    "DestinationStopNameEn": "Dongan Temple",
+    "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0476.jpg",
+    "City": "Keelung",
+    "CityCode": "KEE",
+    "UpdateTime": "2026-05-19T18:14:30+08:00",
+    "VersionID": 6996
+  },
+  {
+    "RouteUID": "KEE0477",
+    "RouteID": "0477",
+    "HasSubRoutes": false,
+    "Operators": [
+      {
+        "OperatorID": "109",
+        "OperatorName": {
+          "Zh_tw": "基隆市公車處"
+        },
+        "OperatorCode": "",
+        "OperatorNo": "1107"
+      }
+    ],
+    "AuthorityID": "011",
+    "ProviderID": "010",
+    "SubRoutes": [
+      {
+        "SubRouteUID": "KEE047701",
+        "SubRouteID": "047701",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "605",
+          "En": "605"
+        },
+        "Headsign": "龍門谷—經東碇路(經水源路)",
+        "HeadsignEn": "Longmen Valley — Via Dongding Rd.(Shuiyuan Rd.)",
+        "Direction": 0,
+        "DepartureStopNameZh": "幸福華城",
+        "DepartureStopNameEn": "Xingfuhuacheng Community",
+        "DestinationStopNameZh": "幸福華城",
+        "DestinationStopNameEn": "Xingfuhuacheng Community"
+      }
+    ],
+    "BusRouteType": 11,
+    "RouteName": {
+      "Zh_tw": "605",
+      "En": "605"
+    },
+    "DepartureStopNameZh": "幸福華城",
+    "DepartureStopNameEn": "Xingfuhuacheng Community",
+    "DestinationStopNameZh": "幸福華城",
+    "DestinationStopNameEn": "Xingfuhuacheng Community",
+    "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0477.jpg",
+    "City": "Keelung",
+    "CityCode": "KEE",
+    "UpdateTime": "2026-05-19T18:14:30+08:00",
+    "VersionID": 6996
+  },
+  {
+    "RouteUID": "KEE0478",
+    "RouteID": "0478",
+    "HasSubRoutes": false,
+    "Operators": [
+      {
+        "OperatorID": "109",
+        "OperatorName": {
+          "Zh_tw": "基隆市公車處"
+        },
+        "OperatorCode": "",
+        "OperatorNo": "1107"
+      }
+    ],
+    "AuthorityID": "011",
+    "ProviderID": "010",
+    "SubRoutes": [
+      {
+        "SubRouteUID": "KEE047801",
+        "SubRouteID": "047801",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "6052",
+          "En": "6052"
+        },
+        "Headsign": "龍門谷—經東碇路(去長庚醫院)",
+        "HeadsignEn": "Longmen Valley — Via Dongding Rd.(Changgung Memorial Hospital)",
+        "Direction": 0,
+        "DepartureStopNameZh": "幸福華城",
+        "DepartureStopNameEn": "Xingfuhuacheng Community",
+        "DestinationStopNameZh": "幸福華城",
+        "DestinationStopNameEn": "Xingfuhuacheng Community"
+      }
+    ],
+    "BusRouteType": 11,
+    "RouteName": {
+      "Zh_tw": "6052",
+      "En": "6052"
+    },
+    "DepartureStopNameZh": "幸福華城",
+    "DepartureStopNameEn": "Xingfuhuacheng Community",
+    "DestinationStopNameZh": "幸福華城",
+    "DestinationStopNameEn": "Xingfuhuacheng Community",
+    "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0478.jpg",
+    "City": "Keelung",
+    "CityCode": "KEE",
+    "UpdateTime": "2026-05-19T18:14:30+08:00",
+    "VersionID": 6996
+  },
+  {
+    "RouteUID": "KEE0479",
+    "RouteID": "0479",
+    "HasSubRoutes": false,
+    "Operators": [
+      {
+        "OperatorID": "109",
+        "OperatorName": {
+          "Zh_tw": "基隆市公車處"
+        },
+        "OperatorCode": "",
+        "OperatorNo": "1107"
+      }
+    ],
+    "AuthorityID": "011",
+    "ProviderID": "010",
+    "SubRoutes": [
+      {
+        "SubRouteUID": "KEE047901",
+        "SubRouteID": "047901",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "6053",
+          "En": "6053"
+        },
+        "Headsign": "龍門谷—經東碇路(回程經長庚醫院)",
+        "HeadsignEn": "Longmen Valley — Via Dongding Rd.(Changgung Memorial Hospital)",
+        "Direction": 0,
+        "DepartureStopNameZh": "幸福華城",
+        "DepartureStopNameEn": "Xingfuhuacheng Community",
+        "DestinationStopNameZh": "幸福華城",
+        "DestinationStopNameEn": "Xingfuhuacheng Community"
+      }
+    ],
+    "BusRouteType": 11,
+    "RouteName": {
+      "Zh_tw": "6053",
+      "En": "6053"
+    },
+    "DepartureStopNameZh": "幸福華城",
+    "DepartureStopNameEn": "Xingfuhuacheng Community",
+    "DestinationStopNameZh": "幸福華城",
+    "DestinationStopNameEn": "Xingfuhuacheng Community",
+    "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0479.jpg",
+    "City": "Keelung",
+    "CityCode": "KEE",
+    "UpdateTime": "2026-05-19T18:14:30+08:00",
+    "VersionID": 6996
+  },
+  {
+    "RouteUID": "KEE0480",
+    "RouteID": "0480",
+    "HasSubRoutes": false,
+    "Operators": [
+      {
+        "OperatorID": "109",
+        "OperatorName": {
+          "Zh_tw": "基隆市公車處"
+        },
+        "OperatorCode": "",
+        "OperatorNo": "1107"
+      }
+    ],
+    "AuthorityID": "011",
+    "ProviderID": "010",
+    "SubRoutes": [
+      {
+        "SubRouteUID": "KEE048001",
+        "SubRouteID": "048001",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "605",
+          "En": "605"
+        },
+        "Headsign": "基隆車站—龍門谷",
+        "HeadsignEn": "Keelung Station — Longmen Valley",
+        "Direction": 0,
+        "DepartureStopNameZh": "基隆火車站(南站)",
+        "DepartureStopNameEn": "Keelung Railway Station S.",
+        "DestinationStopNameZh": "幸福華城",
+        "DestinationStopNameEn": "Xingfuhuacheng Community"
+      }
+    ],
+    "BusRouteType": 11,
+    "RouteName": {
+      "Zh_tw": "605",
+      "En": "605"
+    },
+    "DepartureStopNameZh": "基隆火車站(南站)",
+    "DepartureStopNameEn": "Keelung Railway Station S.",
+    "DestinationStopNameZh": "幸福華城",
+    "DestinationStopNameEn": "Xingfuhuacheng Community",
+    "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0480.jpg",
+    "City": "Keelung",
+    "CityCode": "KEE",
+    "UpdateTime": "2026-05-19T18:14:30+08:00",
+    "VersionID": 6996
+  },
+  {
+    "RouteUID": "KEE0481",
+    "RouteID": "0481",
+    "HasSubRoutes": false,
+    "Operators": [
+      {
+        "OperatorID": "109",
+        "OperatorName": {
+          "Zh_tw": "基隆市公車處"
+        },
+        "OperatorCode": "",
+        "OperatorNo": "1107"
+      }
+    ],
+    "AuthorityID": "011",
+    "ProviderID": "010",
+    "SubRoutes": [
+      {
+        "SubRouteUID": "KEE048101",
+        "SubRouteID": "048101",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "605",
+          "En": "605"
+        },
+        "Headsign": "幸福華城→基隆火車站",
+        "HeadsignEn": "Longmen Valley — Keelung Station",
+        "Direction": 0,
+        "DepartureStopNameZh": "幸福華城",
+        "DepartureStopNameEn": "Xingfuhuacheng Community",
+        "DestinationStopNameZh": "基隆火車站(南站)",
+        "DestinationStopNameEn": "Keelung Railway Station S."
+      }
+    ],
+    "BusRouteType": 11,
+    "RouteName": {
+      "Zh_tw": "605",
+      "En": "605"
+    },
+    "DepartureStopNameZh": "幸福華城",
+    "DepartureStopNameEn": "Xingfuhuacheng Community",
+    "DestinationStopNameZh": "基隆火車站(南站)",
+    "DestinationStopNameEn": "Keelung Railway Station S.",
+    "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0481.jpg",
+    "City": "Keelung",
+    "CityCode": "KEE",
+    "UpdateTime": "2026-05-19T18:14:30+08:00",
+    "VersionID": 6996
+  },
+  {
+    "RouteUID": "KEE0482",
+    "RouteID": "0482",
+    "HasSubRoutes": true,
+    "Operators": [
+      {
+        "OperatorID": "109",
+        "OperatorName": {
+          "Zh_tw": "基隆市公車處"
+        },
+        "OperatorCode": "",
+        "OperatorNo": "1107"
+      }
+    ],
+    "AuthorityID": "011",
+    "ProviderID": "010",
+    "SubRoutes": [
+      {
+        "SubRouteUID": "KEE048201",
+        "SubRouteID": "048201",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "606",
+          "En": "606"
+        },
+        "Headsign": "碇內—七堵(經八堵車站)",
+        "HeadsignEn": "Dingnei — Qidu(National Keelung Commercial & Industrial Vocational Senior High School)",
+        "Direction": 0,
+        "DepartureStopNameZh": "四腳亭",
+        "DepartureStopNameEn": "Sijiaoting",
+        "DestinationStopNameZh": "四腳亭",
+        "DestinationStopNameEn": "Sijiaoting"
+      },
+      {
+        "SubRouteUID": "KEE0482A1",
+        "SubRouteID": "0482A1",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "6062A",
+          "En": "6062A"
+        },
+        "Headsign": "碇內—七堵(經過港路)",
+        "HeadsignEn": "Dingnei — Qidu(Via Guogang Rd.)",
+        "Direction": 0,
+        "DepartureStopNameZh": "四腳亭",
+        "DepartureStopNameEn": "Sijiaoting",
+        "DestinationStopNameZh": "七堵分站",
+        "DestinationStopNameEn": "Qidu Substation"
+      },
+      {
+        "SubRouteUID": "KEE0482B1",
+        "SubRouteID": "0482B1",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "606B",
+          "En": "606B"
+        },
+        "Headsign": "碇內—七堵(經工建路)",
+        "HeadsignEn": "Dingnei — Qidu(Gongjian Rd.)",
+        "Direction": 0,
+        "DepartureStopNameZh": "四腳亭",
+        "DepartureStopNameEn": "Sijiaoting",
+        "DestinationStopNameZh": "四腳亭",
+        "DestinationStopNameEn": "Sijiaoting"
+      },
+      {
+        "SubRouteUID": "KEE0482C1",
+        "SubRouteID": "0482C1",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "606C",
+          "En": "606C"
+        },
+        "Headsign": "碇內—七堵(經八堵車站)",
+        "HeadsignEn": "Dingnei — Qidu(National Keelung Commercial & Industrial Vocational Senior High School)",
+        "Direction": 0,
+        "DepartureStopNameZh": "四腳亭",
+        "DepartureStopNameEn": "Sijiaoting",
+        "DestinationStopNameZh": "基隆商工",
+        "DestinationStopNameEn": "Keelung Commercial &amp; Industrial Vocational Sen"
+      },
+      {
+        "SubRouteUID": "KEE0482C2",
+        "SubRouteID": "0482C2",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "606C",
+          "En": "606C"
+        },
+        "Headsign": "七堵—碇內(經八堵車站)",
+        "HeadsignEn": "Qidu— Dingnei (National Keelung Commercial & Industrial Vocational Senior High School)",
+        "Direction": 1,
+        "DepartureStopNameZh": "基隆商工",
+        "DepartureStopNameEn": "Keelung Commercial &amp; Industrial Vocational Sen",
+        "DestinationStopNameZh": "四腳亭",
+        "DestinationStopNameEn": "Sijiaoting"
+      }
+    ],
+    "BusRouteType": 11,
+    "RouteName": {
+      "Zh_tw": "606",
+      "En": "606"
+    },
+    "DepartureStopNameZh": "四腳亭",
+    "DepartureStopNameEn": "Sijiaoting",
+    "DestinationStopNameZh": "四腳亭",
+    "DestinationStopNameEn": "Sijiaoting",
+    "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0482.jpg",
+    "City": "Keelung",
+    "CityCode": "KEE",
+    "UpdateTime": "2026-05-19T18:14:30+08:00",
+    "VersionID": 6996
+  },
+  {
+    "RouteUID": "KEE0487",
+    "RouteID": "0487",
+    "HasSubRoutes": false,
+    "Operators": [
+      {
+        "OperatorID": "109",
+        "OperatorName": {
+          "Zh_tw": "基隆市公車處"
+        },
+        "OperatorCode": "",
+        "OperatorNo": "1107"
+      }
+    ],
+    "AuthorityID": "011",
+    "ProviderID": "010",
+    "SubRoutes": [
+      {
+        "SubRouteUID": "KEE048701",
+        "SubRouteID": "048701",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "6082",
+          "En": "6082"
+        },
+        "Headsign": "南新街—基隆車站",
+        "HeadsignEn": "Nanxin St. — Keelung Station",
+        "Direction": 0,
+        "DepartureStopNameZh": "南新街",
+        "DepartureStopNameEn": "Nanxin St.",
+        "DestinationStopNameZh": "基隆火車站(南站)",
+        "DestinationStopNameEn": "Keelung Railway Station S."
+      }
+    ],
+    "BusRouteType": 11,
+    "RouteName": {
+      "Zh_tw": "6082",
+      "En": "6082"
+    },
+    "DepartureStopNameZh": "南新街",
+    "DepartureStopNameEn": "Nanxin St.",
+    "DestinationStopNameZh": "基隆火車站(南站)",
+    "DestinationStopNameEn": "Keelung Railway Station S.",
+    "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0487.jpg",
+    "City": "Keelung",
+    "CityCode": "KEE",
+    "UpdateTime": "2026-05-19T18:14:30+08:00",
+    "VersionID": 6996
+  },
+  {
+    "RouteUID": "KEE0489",
+    "RouteID": "0489",
+    "HasSubRoutes": false,
+    "Operators": [
+      {
+        "OperatorID": "109",
+        "OperatorName": {
+          "Zh_tw": "基隆市公車處"
+        },
+        "OperatorCode": "",
+        "OperatorNo": "1107"
+      }
+    ],
+    "AuthorityID": "011",
+    "ProviderID": "010",
+    "SubRoutes": [
+      {
+        "SubRouteUID": "KEE048901",
+        "SubRouteID": "048901",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "606",
+          "En": "606"
+        },
+        "Headsign": "七堵—碇內(經過港路)",
+        "HeadsignEn": "Qidu – Dingnei(Via Guogang Rd.)",
+        "Direction": 0,
+        "DepartureStopNameZh": "南七堵",
+        "DepartureStopNameEn": "Nanqidu",
+        "DestinationStopNameZh": "四腳亭",
+        "DestinationStopNameEn": "Sijiaoting"
+      }
+    ],
+    "BusRouteType": 11,
+    "RouteName": {
+      "Zh_tw": "606",
+      "En": "606"
+    },
+    "DepartureStopNameZh": "南七堵",
+    "DepartureStopNameEn": "Nanqidu",
+    "DestinationStopNameZh": "四腳亭",
+    "DestinationStopNameEn": "Sijiaoting",
+    "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0489.jpg",
+    "City": "Keelung",
+    "CityCode": "KEE",
+    "UpdateTime": "2026-05-19T18:14:30+08:00",
+    "VersionID": 6996
+  },
+  {
+    "RouteUID": "KEE0490",
+    "RouteID": "0490",
+    "HasSubRoutes": true,
+    "Operators": [
+      {
+        "OperatorID": "109",
+        "OperatorName": {
+          "Zh_tw": "基隆市公車處"
+        },
+        "OperatorCode": "",
+        "OperatorNo": "1107"
+      }
+    ],
+    "AuthorityID": "011",
+    "ProviderID": "010",
+    "SubRoutes": [
+      {
+        "SubRouteUID": "KEE049001",
+        "SubRouteID": "049001",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "R90",
+          "En": "R90"
+        },
+        "Headsign": "國家新城→八堵車站",
+        "HeadsignEn": "R90",
+        "Direction": 0,
+        "DepartureStopNameZh": "國家新城",
+        "DepartureStopNameEn": "Guojiaxincheng",
+        "DestinationStopNameZh": "八堵火車站",
+        "DestinationStopNameEn": "Badu Railway Station"
+      },
+      {
+        "SubRouteUID": "KEE0490A1",
+        "SubRouteID": "0490A1",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "R90A",
+          "En": "R90A"
+        },
+        "Headsign": "國家新城→七堵車站",
+        "HeadsignEn": "R90",
+        "Direction": 0,
+        "DepartureStopNameZh": "國家新城",
+        "DepartureStopNameEn": "Guojiaxincheng",
+        "DestinationStopNameZh": "七堵火車站",
+        "DestinationStopNameEn": "Qidu Railway Station"
+      },
+      {
+        "SubRouteUID": "KEE0490B1",
+        "SubRouteID": "0490B1",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "R90B",
+          "En": "R90B"
+        },
+        "Headsign": "國家新城→基隆高中",
+        "HeadsignEn": "R90Anle→Badu Line",
+        "Direction": 0,
+        "DepartureStopNameZh": "國家新城",
+        "DepartureStopNameEn": "Guojiaxincheng",
+        "DestinationStopNameZh": "基隆高中",
+        "DestinationStopNameEn": "National Keelung Senior High School"
+      }
+    ],
+    "BusRouteType": 11,
+    "RouteName": {
+      "Zh_tw": "R90",
+      "En": "R90"
+    },
+    "DepartureStopNameZh": "國家新城",
+    "DepartureStopNameEn": "Guojiaxincheng",
+    "DestinationStopNameZh": "八堵火車站",
+    "DestinationStopNameEn": "Badu Railway Station",
+    "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0490.jpg",
+    "City": "Keelung",
+    "CityCode": "KEE",
+    "UpdateTime": "2026-05-19T18:14:30+08:00",
+    "VersionID": 6996
+  },
+  {
+    "RouteUID": "KEE0521",
+    "RouteID": "0521",
+    "HasSubRoutes": true,
+    "Operators": [
+      {
+        "OperatorID": "109",
+        "OperatorName": {
+          "Zh_tw": "基隆市公車處"
+        },
+        "OperatorCode": "",
+        "OperatorNo": "1107"
+      }
+    ],
+    "AuthorityID": "011",
+    "ProviderID": "010",
+    "SubRoutes": [
+      {
+        "SubRouteUID": "KEE052101",
+        "SubRouteID": "052101",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "304",
+          "En": "304"
+        },
+        "Headsign": "高遠新村→經仙洞國小→基隆車站",
+        "HeadsignEn": "Gaoyuanxincun Community→Via Xiandong Elementary School→TRA Keelung Station",
+        "Direction": 0,
+        "DepartureStopNameZh": "聖安宮",
+        "DepartureStopNameEn": "Shenan Temple",
+        "DestinationStopNameZh": "基隆火車站(南站)",
+        "DestinationStopNameEn": "Keelung Railway Station S."
+      },
+      {
+        "SubRouteUID": "KEE0521A1",
+        "SubRouteID": "0521A1",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "304A",
+          "En": "304A"
+        },
+        "Headsign": "高遠新村→經中山一路",
+        "HeadsignEn": "Gaoyuanxincun Community→Via Zhongshan 1st Rd.",
+        "Direction": 0,
+        "DepartureStopNameZh": "聖安宮",
+        "DepartureStopNameEn": "Shenan Temple",
+        "DestinationStopNameZh": "太白莊",
+        "DestinationStopNameEn": "Taibai Village"
+      }
+    ],
+    "BusRouteType": 11,
+    "RouteName": {
+      "Zh_tw": "304",
+      "En": "304"
+    },
+    "DepartureStopNameZh": "聖安宮",
+    "DepartureStopNameEn": "Shenan Temple",
+    "DestinationStopNameZh": "基隆火車站(南站)",
+    "DestinationStopNameEn": "Keelung Railway Station S.",
+    "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0521.jpg",
+    "City": "Keelung",
+    "CityCode": "KEE",
+    "UpdateTime": "2026-05-19T18:14:30+08:00",
+    "VersionID": 6996
+  },
+  {
+    "RouteUID": "KEE0523",
+    "RouteID": "0523",
+    "HasSubRoutes": true,
+    "Operators": [
+      {
+        "OperatorID": "109",
+        "OperatorName": {
+          "Zh_tw": "基隆市公車處"
+        },
+        "OperatorCode": "",
+        "OperatorNo": "1107"
+      }
+    ],
+    "AuthorityID": "011",
+    "ProviderID": "010",
+    "SubRoutes": [
+      {
+        "SubRouteUID": "KEE052301",
+        "SubRouteID": "052301",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "305",
+          "En": "305"
+        },
+        "Headsign": "濱海大道→大武崙沙灘(經西定路)",
+        "HeadsignEn": "Binhai Blvd → Waimusan Harbor(Xiding Rd.)",
+        "Direction": 0,
+        "DepartureStopNameZh": "基隆火車站(南站)",
+        "DepartureStopNameEn": "Keelung Railway Station S.",
+        "DestinationStopNameZh": "基隆火車站(南站)",
+        "DestinationStopNameEn": "Keelung Railway Station S."
+      },
+      {
+        "SubRouteUID": "KEE0523A1",
+        "SubRouteID": "0523A1",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "305A",
+          "En": "305A"
+        },
+        "Headsign": "濱海大道—大武崙沙灘",
+        "HeadsignEn": "Binhai Blvd — Waimusan Harbor",
+        "Direction": 0,
+        "DepartureStopNameZh": "基隆火車站(南站)",
+        "DepartureStopNameEn": "Keelung Railway Station S.",
+        "DestinationStopNameZh": "大武崙沙灘停車場",
+        "DestinationStopNameEn": "Tapurun Sandbeach Parking Lot"
+      }
+    ],
+    "BusRouteType": 11,
+    "RouteName": {
+      "Zh_tw": "305",
+      "En": "305"
+    },
+    "DepartureStopNameZh": "基隆火車站(南站)",
+    "DepartureStopNameEn": "Keelung Railway Station S.",
+    "DestinationStopNameZh": "基隆火車站(南站)",
+    "DestinationStopNameEn": "Keelung Railway Station S.",
+    "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0523.jpg",
+    "City": "Keelung",
+    "CityCode": "KEE",
+    "UpdateTime": "2026-05-19T18:14:30+08:00",
+    "VersionID": 6996
+  },
+  {
+    "RouteUID": "KEE0525",
+    "RouteID": "0525",
+    "HasSubRoutes": false,
+    "Operators": [
+      {
+        "OperatorID": "109",
+        "OperatorName": {
+          "Zh_tw": "基隆市公車處"
+        },
+        "OperatorCode": "",
+        "OperatorNo": "1107"
+      }
+    ],
+    "AuthorityID": "011",
+    "ProviderID": "010",
+    "SubRoutes": [
+      {
+        "SubRouteUID": "KEE052501",
+        "SubRouteID": "052501",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "306",
+          "En": "306"
+        },
+        "Headsign": "基隆車站—中平街(經西定路)",
+        "HeadsignEn": "Keelung Station — hongping St.",
+        "Direction": 0,
+        "DepartureStopNameZh": "基隆火車站(南站)",
+        "DepartureStopNameEn": "Keelung Railway Station S.",
+        "DestinationStopNameZh": "基隆火車站(南站)",
+        "DestinationStopNameEn": "Keelung Railway Station S."
+      }
+    ],
+    "BusRouteType": 11,
+    "RouteName": {
+      "Zh_tw": "306",
+      "En": "306"
+    },
+    "DepartureStopNameZh": "基隆火車站(南站)",
+    "DepartureStopNameEn": "Keelung Railway Station S.",
+    "DestinationStopNameZh": "基隆火車站(南站)",
+    "DestinationStopNameEn": "Keelung Railway Station S.",
+    "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0525.jpg",
+    "City": "Keelung",
+    "CityCode": "KEE",
+    "UpdateTime": "2026-05-19T18:14:30+08:00",
+    "VersionID": 6996
+  },
+  {
+    "RouteUID": "KEE0526",
+    "RouteID": "0526",
+    "HasSubRoutes": false,
+    "Operators": [
+      {
+        "OperatorID": "109",
+        "OperatorName": {
+          "Zh_tw": "基隆市公車處"
+        },
+        "OperatorCode": "",
+        "OperatorNo": "1107"
+      }
+    ],
+    "AuthorityID": "011",
+    "ProviderID": "010",
+    "SubRoutes": [
+      {
+        "SubRouteUID": "KEE052601",
+        "SubRouteID": "052601",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "307",
+          "En": "307"
+        },
+        "Headsign": "基隆車站→中和國小(經西定路)",
+        "HeadsignEn": "Keelung Station→Zhonghe Elementary School(Via Xiding Rd.)",
+        "Direction": 0,
+        "DepartureStopNameZh": "基隆火車站(南站)",
+        "DepartureStopNameEn": "Keelung Railway Station S.",
+        "DestinationStopNameZh": "基隆火車站(南站)",
+        "DestinationStopNameEn": "Keelung Railway Station S."
+      }
+    ],
+    "BusRouteType": 11,
+    "RouteName": {
+      "Zh_tw": "307",
+      "En": "307"
+    },
+    "DepartureStopNameZh": "基隆火車站(南站)",
+    "DepartureStopNameEn": "Keelung Railway Station S.",
+    "DestinationStopNameZh": "基隆火車站(南站)",
+    "DestinationStopNameEn": "Keelung Railway Station S.",
+    "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0526.jpg",
+    "City": "Keelung",
+    "CityCode": "KEE",
+    "UpdateTime": "2026-05-19T18:14:30+08:00",
+    "VersionID": 6996
+  },
+  {
+    "RouteUID": "KEE0527",
+    "RouteID": "0527",
+    "HasSubRoutes": true,
+    "Operators": [
+      {
+        "OperatorID": "109",
+        "OperatorName": {
+          "Zh_tw": "基隆市公車處"
+        },
+        "OperatorCode": "",
+        "OperatorNo": "1107"
+      }
+    ],
+    "AuthorityID": "011",
+    "ProviderID": "010",
+    "SubRoutes": [
+      {
+        "SubRouteUID": "KEE052701",
+        "SubRouteID": "052701",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "308",
+          "En": "308"
+        },
+        "Headsign": "基隆車站—外木山漁港",
+        "HeadsignEn": "Keelung Station — Waimusan Harbor",
+        "Direction": 0,
+        "DepartureStopNameZh": "基隆火車站(南站)",
+        "DepartureStopNameEn": "Keelung Railway Station S.",
+        "DestinationStopNameZh": "外木山漁港",
+        "DestinationStopNameEn": "Waimusan Harbor"
+      },
+      {
+        "SubRouteUID": "KEE0527A1",
+        "SubRouteID": "0527A1",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "308A",
+          "En": "308A"
+        },
+        "Headsign": "外木山漁港—基隆車站(經德安路)",
+        "HeadsignEn": "Waimusan Harbor — Keelung Station",
+        "Direction": 0,
+        "DepartureStopNameZh": "外木山漁港",
+        "DepartureStopNameEn": "Waimusan Harbor",
+        "DestinationStopNameZh": "基隆火車站(南站)",
+        "DestinationStopNameEn": "Keelung Railway Station S."
+      }
+    ],
+    "BusRouteType": 11,
+    "RouteName": {
+      "Zh_tw": "308",
+      "En": "308"
+    },
+    "DepartureStopNameZh": "基隆火車站(南站)",
+    "DepartureStopNameEn": "Keelung Railway Station S.",
+    "DestinationStopNameZh": "外木山漁港",
+    "DestinationStopNameEn": "Waimusan Harbor",
+    "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0527.jpg",
+    "City": "Keelung",
+    "CityCode": "KEE",
+    "UpdateTime": "2026-05-19T18:14:30+08:00",
+    "VersionID": 6996
+  },
+  {
+    "RouteUID": "KEE0529",
+    "RouteID": "0529",
+    "HasSubRoutes": false,
+    "Operators": [
+      {
+        "OperatorID": "109",
+        "OperatorName": {
+          "Zh_tw": "基隆市公車處"
+        },
+        "OperatorCode": "",
+        "OperatorNo": "1107"
+      }
+    ],
+    "AuthorityID": "011",
+    "ProviderID": "010",
+    "SubRoutes": [
+      {
+        "SubRouteUID": "KEE052901",
+        "SubRouteID": "052901",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "3043",
+          "En": "3043"
+        },
+        "Headsign": "高遠新村—基隆車站",
+        "HeadsignEn": "Gaoyuanxincun Community — Keelung Station",
+        "Direction": 0,
+        "DepartureStopNameZh": "聖安宮",
+        "DepartureStopNameEn": "Shenan Temple",
+        "DestinationStopNameZh": "基隆火車站(南站)",
+        "DestinationStopNameEn": "Keelung Railway Station S."
+      }
+    ],
+    "BusRouteType": 11,
+    "RouteName": {
+      "Zh_tw": "3043",
+      "En": "3043"
+    },
+    "DepartureStopNameZh": "聖安宮",
+    "DepartureStopNameEn": "Shenan Temple",
+    "DestinationStopNameZh": "基隆火車站(南站)",
+    "DestinationStopNameEn": "Keelung Railway Station S.",
+    "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0529.jpg",
+    "City": "Keelung",
+    "CityCode": "KEE",
+    "UpdateTime": "2026-05-19T18:14:30+08:00",
+    "VersionID": 6996
+  },
+  {
+    "RouteUID": "KEE0531",
+    "RouteID": "0531",
+    "HasSubRoutes": false,
+    "Operators": [
+      {
+        "OperatorID": "109",
+        "OperatorName": {
+          "Zh_tw": "基隆市公車處"
+        },
+        "OperatorCode": "",
+        "OperatorNo": "1107"
+      }
+    ],
+    "AuthorityID": "011",
+    "ProviderID": "010",
+    "SubRoutes": [
+      {
+        "SubRouteUID": "KEE053101",
+        "SubRouteID": "053101",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "3062",
+          "En": "3062"
+        },
+        "Headsign": "中平街—基隆車站(經西定路)",
+        "HeadsignEn": "hongping St. — Keelung Station",
+        "Direction": 0,
+        "DepartureStopNameZh": "中和路三巷",
+        "DepartureStopNameEn": "Ln. 3 Zhonghe Rd.",
+        "DestinationStopNameZh": "基隆火車站(南站)",
+        "DestinationStopNameEn": "Keelung Railway Station S."
+      }
+    ],
+    "BusRouteType": 11,
+    "RouteName": {
+      "Zh_tw": "3062",
+      "En": "3062"
+    },
+    "DepartureStopNameZh": "中和路三巷",
+    "DepartureStopNameEn": "Ln. 3 Zhonghe Rd.",
+    "DestinationStopNameZh": "基隆火車站(南站)",
+    "DestinationStopNameEn": "Keelung Railway Station S.",
+    "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0531.jpg",
+    "City": "Keelung",
+    "CityCode": "KEE",
+    "UpdateTime": "2026-05-19T18:14:30+08:00",
+    "VersionID": 6996
+  },
+  {
+    "RouteUID": "KEE0532",
+    "RouteID": "0532",
+    "HasSubRoutes": false,
+    "Operators": [
+      {
+        "OperatorID": "109",
+        "OperatorName": {
+          "Zh_tw": "基隆市公車處"
+        },
+        "OperatorCode": "",
+        "OperatorNo": "1107"
+      }
+    ],
+    "AuthorityID": "011",
+    "ProviderID": "010",
+    "SubRoutes": [
+      {
+        "SubRouteUID": "KEE053201",
+        "SubRouteID": "053201",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "3063",
+          "En": "3063"
+        },
+        "Headsign": "基隆車站—中平街(經西定路)—經成功市場",
+        "HeadsignEn": "Keelung Station — hongping St.— Via Chengong Market",
+        "Direction": 0,
+        "DepartureStopNameZh": "基隆火車站(南站)",
+        "DepartureStopNameEn": "Keelung Railway Station S.",
+        "DestinationStopNameZh": "基隆火車站(南站)",
+        "DestinationStopNameEn": "Keelung Railway Station S."
+      }
+    ],
+    "BusRouteType": 11,
+    "RouteName": {
+      "Zh_tw": "3063",
+      "En": "3063"
+    },
+    "DepartureStopNameZh": "基隆火車站(南站)",
+    "DepartureStopNameEn": "Keelung Railway Station S.",
+    "DestinationStopNameZh": "基隆火車站(南站)",
+    "DestinationStopNameEn": "Keelung Railway Station S.",
+    "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0532.jpg",
+    "City": "Keelung",
+    "CityCode": "KEE",
+    "UpdateTime": "2026-05-19T18:14:30+08:00",
+    "VersionID": 6996
+  },
+  {
+    "RouteUID": "KEE0929",
+    "RouteID": "0929",
+    "HasSubRoutes": false,
+    "Operators": [
+      {
+        "OperatorID": "109",
+        "OperatorName": {
+          "Zh_tw": "基隆市公車處"
+        },
+        "OperatorCode": "",
+        "OperatorNo": "1107"
+      }
+    ],
+    "AuthorityID": "011",
+    "ProviderID": "010",
+    "SubRoutes": [
+      {
+        "SubRouteUID": "KEE092901",
+        "SubRouteID": "092901",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "503",
+          "En": "503"
+        },
+        "Headsign": "鶯歌里—七堵(去經南榮路)",
+        "HeadsignEn": "Yingge Village — Qidu(Nanrong Rd.)",
+        "Direction": 0,
+        "DepartureStopNameZh": "七堵分站",
+        "DepartureStopNameEn": "Qidu Substation",
+        "DestinationStopNameZh": "南七堵",
+        "DestinationStopNameEn": "Nanqidu"
+      }
+    ],
+    "BusRouteType": 11,
+    "RouteName": {
+      "Zh_tw": "503",
+      "En": "503"
+    },
+    "DepartureStopNameZh": "七堵分站",
+    "DepartureStopNameEn": "Qidu Substation",
+    "DestinationStopNameZh": "南七堵",
+    "DestinationStopNameEn": "Nanqidu",
+    "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0929.jpg",
+    "City": "Keelung",
+    "CityCode": "KEE",
+    "UpdateTime": "2026-05-19T18:14:30+08:00",
+    "VersionID": 6996
+  },
+  {
+    "RouteUID": "KEE0930",
+    "RouteID": "0930",
+    "HasSubRoutes": false,
+    "Operators": [
+      {
+        "OperatorID": "109",
+        "OperatorName": {
+          "Zh_tw": "基隆市公車處"
+        },
+        "OperatorCode": "",
+        "OperatorNo": "1107"
+      }
+    ],
+    "AuthorityID": "011",
+    "ProviderID": "010",
+    "SubRoutes": [
+      {
+        "SubRouteUID": "KEE093001",
+        "SubRouteID": "093001",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "503",
+          "En": "503"
+        },
+        "Headsign": "鶯歌里—七堵(去經麥金路)",
+        "HeadsignEn": "Yingge Village — Qidu(Maijin Rd.)",
+        "Direction": 0,
+        "DepartureStopNameZh": "七堵分站",
+        "DepartureStopNameEn": "Qidu Substation",
+        "DestinationStopNameZh": "南七堵",
+        "DestinationStopNameEn": "Nanqidu"
+      }
+    ],
+    "BusRouteType": 11,
+    "RouteName": {
+      "Zh_tw": "503",
+      "En": "503"
+    },
+    "DepartureStopNameZh": "七堵分站",
+    "DepartureStopNameEn": "Qidu Substation",
+    "DestinationStopNameZh": "南七堵",
+    "DestinationStopNameEn": "Nanqidu",
+    "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0930.jpg",
+    "City": "Keelung",
+    "CityCode": "KEE",
+    "UpdateTime": "2026-05-19T18:14:30+08:00",
+    "VersionID": 6996
+  },
+  {
+    "RouteUID": "KEE0931",
+    "RouteID": "0931",
+    "HasSubRoutes": false,
+    "Operators": [
+      {
+        "OperatorID": "109",
+        "OperatorName": {
+          "Zh_tw": "基隆市公車處"
+        },
+        "OperatorCode": "",
+        "OperatorNo": "1107"
+      }
+    ],
+    "AuthorityID": "011",
+    "ProviderID": "010",
+    "SubRoutes": [
+      {
+        "SubRouteUID": "KEE093101",
+        "SubRouteID": "093101",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "503",
+          "En": "503"
+        },
+        "Headsign": "基隆車站—鶯歌里",
+        "HeadsignEn": "Keelung Station — Yingge Village",
+        "Direction": 0,
+        "DepartureStopNameZh": "基隆轉運站",
+        "DepartureStopNameEn": "Keelung Transit Station",
+        "DestinationStopNameZh": "南七堵",
+        "DestinationStopNameEn": "Nanqidu"
+      }
+    ],
+    "BusRouteType": 11,
+    "RouteName": {
+      "Zh_tw": "503",
+      "En": "503"
+    },
+    "DepartureStopNameZh": "基隆轉運站",
+    "DepartureStopNameEn": "Keelung Transit Station",
+    "DestinationStopNameZh": "南七堵",
+    "DestinationStopNameEn": "Nanqidu",
+    "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0931.jpg",
+    "City": "Keelung",
+    "CityCode": "KEE",
+    "UpdateTime": "2026-05-19T18:14:30+08:00",
+    "VersionID": 6996
+  },
+  {
+    "RouteUID": "KEE0932",
+    "RouteID": "0932",
+    "HasSubRoutes": false,
+    "Operators": [
+      {
+        "OperatorID": "109",
+        "OperatorName": {
+          "Zh_tw": "基隆市公車處"
+        },
+        "OperatorCode": "",
+        "OperatorNo": "1107"
+      }
+    ],
+    "AuthorityID": "011",
+    "ProviderID": "010",
+    "SubRoutes": [
+      {
+        "SubRouteUID": "KEE093201",
+        "SubRouteID": "093201",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "505",
+          "En": "505"
+        },
+        "Headsign": "大武崙—經安一路",
+        "HeadsignEn": "Tapurun — Via An 1st Rd.",
+        "Direction": 0,
+        "DepartureStopNameZh": "武隆街105巷",
+        "DepartureStopNameEn": "Ln. 105 Wulong St.",
+        "DestinationStopNameZh": "武隆街105巷",
+        "DestinationStopNameEn": "Ln. 105 Wulong St."
+      }
+    ],
+    "BusRouteType": 11,
+    "RouteName": {
+      "Zh_tw": "505",
+      "En": "505"
+    },
+    "DepartureStopNameZh": "武隆街105巷",
+    "DepartureStopNameEn": "Ln. 105 Wulong St.",
+    "DestinationStopNameZh": "武隆街105巷",
+    "DestinationStopNameEn": "Ln. 105 Wulong St.",
+    "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0932.jpg",
+    "City": "Keelung",
+    "CityCode": "KEE",
+    "UpdateTime": "2026-05-19T18:14:30+08:00",
+    "VersionID": 6996
+  },
+  {
+    "RouteUID": "KEE0933",
+    "RouteID": "0933",
+    "HasSubRoutes": false,
+    "Operators": [
+      {
+        "OperatorID": "109",
+        "OperatorName": {
+          "Zh_tw": "基隆市公車處"
+        },
+        "OperatorCode": "",
+        "OperatorNo": "1107"
+      }
+    ],
+    "AuthorityID": "011",
+    "ProviderID": "010",
+    "SubRoutes": [
+      {
+        "SubRouteUID": "KEE093301",
+        "SubRouteID": "093301",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "505",
+          "En": "505"
+        },
+        "Headsign": "大武崙—經長庚醫院",
+        "HeadsignEn": "Tapurun — Via Changgung Memorial Hospital",
+        "Direction": 0,
+        "DepartureStopNameZh": "武隆街105巷",
+        "DepartureStopNameEn": "Ln. 105 Wulong St.",
+        "DestinationStopNameZh": "武隆街105巷",
+        "DestinationStopNameEn": "Ln. 105 Wulong St."
+      }
+    ],
+    "BusRouteType": 11,
+    "RouteName": {
+      "Zh_tw": "505",
+      "En": "505"
+    },
+    "DepartureStopNameZh": "武隆街105巷",
+    "DepartureStopNameEn": "Ln. 105 Wulong St.",
+    "DestinationStopNameZh": "武隆街105巷",
+    "DestinationStopNameEn": "Ln. 105 Wulong St.",
+    "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0933.jpg",
+    "City": "Keelung",
+    "CityCode": "KEE",
+    "UpdateTime": "2026-05-19T18:14:30+08:00",
+    "VersionID": 6996
+  },
+  {
+    "RouteUID": "KEE0934",
+    "RouteID": "0934",
+    "HasSubRoutes": false,
+    "Operators": [
+      {
+        "OperatorID": "109",
+        "OperatorName": {
+          "Zh_tw": "基隆市公車處"
+        },
+        "OperatorCode": "",
+        "OperatorNo": "1107"
+      }
+    ],
+    "AuthorityID": "011",
+    "ProviderID": "010",
+    "SubRoutes": [
+      {
+        "SubRouteUID": "KEE093401",
+        "SubRouteID": "093401",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "505",
+          "En": "505"
+        },
+        "Headsign": "大武崙—經安一路(去經台北大鎮)",
+        "HeadsignEn": "Tapurun — Via An 1st Rd.(Taipeidazhen Community)",
+        "Direction": 0,
+        "DepartureStopNameZh": "武隆街105巷",
+        "DepartureStopNameEn": "Ln. 105 Wulong St.",
+        "DestinationStopNameZh": "武隆街105巷",
+        "DestinationStopNameEn": "Ln. 105 Wulong St."
+      }
+    ],
+    "BusRouteType": 11,
+    "RouteName": {
+      "Zh_tw": "505",
+      "En": "505"
+    },
+    "DepartureStopNameZh": "武隆街105巷",
+    "DepartureStopNameEn": "Ln. 105 Wulong St.",
+    "DestinationStopNameZh": "武隆街105巷",
+    "DestinationStopNameEn": "Ln. 105 Wulong St.",
+    "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0934.jpg",
+    "City": "Keelung",
+    "CityCode": "KEE",
+    "UpdateTime": "2026-05-19T18:14:30+08:00",
+    "VersionID": 6996
+  },
+  {
+    "RouteUID": "KEE0935",
+    "RouteID": "0935",
+    "HasSubRoutes": false,
+    "Operators": [
+      {
+        "OperatorID": "109",
+        "OperatorName": {
+          "Zh_tw": "基隆市公車處"
+        },
+        "OperatorCode": "",
+        "OperatorNo": "1107"
+      }
+    ],
+    "AuthorityID": "011",
+    "ProviderID": "010",
+    "SubRoutes": [
+      {
+        "SubRouteUID": "KEE093501",
+        "SubRouteID": "093501",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "505",
+          "En": "505"
+        },
+        "Headsign": "大武崙—經長庚醫院(回經台北大鎮)",
+        "HeadsignEn": "Tapurun — Via Changgung Memorial Hospital(Taipeidazhen Community)",
+        "Direction": 0,
+        "DepartureStopNameZh": "武隆街105巷",
+        "DepartureStopNameEn": "Ln. 105 Wulong St.",
+        "DestinationStopNameZh": "武隆街105巷",
+        "DestinationStopNameEn": "Ln. 105 Wulong St."
+      }
+    ],
+    "BusRouteType": 11,
+    "RouteName": {
+      "Zh_tw": "505",
+      "En": "505"
+    },
+    "DepartureStopNameZh": "武隆街105巷",
+    "DepartureStopNameEn": "Ln. 105 Wulong St.",
+    "DestinationStopNameZh": "武隆街105巷",
+    "DestinationStopNameEn": "Ln. 105 Wulong St.",
+    "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0935.jpg",
+    "City": "Keelung",
+    "CityCode": "KEE",
+    "UpdateTime": "2026-05-19T18:14:30+08:00",
+    "VersionID": 6996
+  },
+  {
+    "RouteUID": "KEE0936",
+    "RouteID": "0936",
+    "HasSubRoutes": false,
+    "Operators": [
+      {
+        "OperatorID": "109",
+        "OperatorName": {
+          "Zh_tw": "基隆市公車處"
+        },
+        "OperatorCode": "",
+        "OperatorNo": "1107"
+      }
+    ],
+    "AuthorityID": "011",
+    "ProviderID": "010",
+    "SubRoutes": [
+      {
+        "SubRouteUID": "KEE093601",
+        "SubRouteID": "093601",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "505",
+          "En": "505"
+        },
+        "Headsign": "大武崙—經安一路(回經台北大鎮)",
+        "HeadsignEn": "Tapurun — Via An 1st Rd.(Taipeidazhen Community)",
+        "Direction": 0,
+        "DepartureStopNameZh": "武隆街105巷",
+        "DepartureStopNameEn": "Ln. 105 Wulong St.",
+        "DestinationStopNameZh": "武隆街105巷",
+        "DestinationStopNameEn": "Ln. 105 Wulong St."
+      }
+    ],
+    "BusRouteType": 11,
+    "RouteName": {
+      "Zh_tw": "505",
+      "En": "505"
+    },
+    "DepartureStopNameZh": "武隆街105巷",
+    "DepartureStopNameEn": "Ln. 105 Wulong St.",
+    "DestinationStopNameZh": "武隆街105巷",
+    "DestinationStopNameEn": "Ln. 105 Wulong St.",
+    "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0936.jpg",
+    "City": "Keelung",
+    "CityCode": "KEE",
+    "UpdateTime": "2026-05-19T18:14:30+08:00",
+    "VersionID": 6996
+  },
+  {
+    "RouteUID": "KEE0938",
+    "RouteID": "0938",
+    "HasSubRoutes": true,
+    "Operators": [
+      {
+        "OperatorID": "109",
+        "OperatorName": {
+          "Zh_tw": "基隆市公車處"
+        },
+        "OperatorCode": "",
+        "OperatorNo": "1107"
+      }
+    ],
+    "AuthorityID": "011",
+    "ProviderID": "010",
+    "SubRoutes": [
+      {
+        "SubRouteUID": "KEE093801",
+        "SubRouteID": "093801",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "5062",
+          "En": "5062"
+        },
+        "Headsign": "壯觀里—基隆轉運站",
+        "HeadsignEn": "Zhuangguan Village — Keelung Transit Station",
+        "Direction": 0,
+        "DepartureStopNameZh": "松竹梅社區",
+        "DepartureStopNameEn": "Songzhumei Community",
+        "DestinationStopNameZh": "九如(維也納)社區",
+        "DestinationStopNameEn": "Jiuru (Vienna) Community"
+      },
+      {
+        "SubRouteUID": "KEE0938A1",
+        "SubRouteID": "0938A1",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "5062A",
+          "En": "5062A"
+        },
+        "Headsign": "壯觀里—基隆轉運站(經成功一路)",
+        "HeadsignEn": "Zhuangguan Village — Keelung Transit Station( Section 1,  Chenggong Road)",
+        "Direction": 0,
+        "DepartureStopNameZh": "松竹梅社區",
+        "DepartureStopNameEn": "Songzhumei Community",
+        "DestinationStopNameZh": "九如(維也納)社區",
+        "DestinationStopNameEn": "Jiuru (Vienna) Community"
+      }
+    ],
+    "BusRouteType": 11,
+    "RouteName": {
+      "Zh_tw": "5062",
+      "En": "5062"
+    },
+    "DepartureStopNameZh": "松竹梅社區",
+    "DepartureStopNameEn": "Songzhumei Community",
+    "DestinationStopNameZh": "九如(維也納)社區",
+    "DestinationStopNameEn": "Jiuru (Vienna) Community",
+    "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0938.jpg",
+    "City": "Keelung",
+    "CityCode": "KEE",
+    "UpdateTime": "2026-05-19T18:14:30+08:00",
+    "VersionID": 6996
+  },
+  {
+    "RouteUID": "KEE0939",
+    "RouteID": "0939",
+    "HasSubRoutes": true,
+    "Operators": [
+      {
+        "OperatorID": "109",
+        "OperatorName": {
+          "Zh_tw": "基隆市公車處"
+        },
+        "OperatorCode": "",
+        "OperatorNo": "1107"
+      }
+    ],
+    "AuthorityID": "011",
+    "ProviderID": "010",
+    "SubRoutes": [
+      {
+        "SubRouteUID": "KEE093901",
+        "SubRouteID": "093901",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "5081",
+          "En": "5081"
+        },
+        "Headsign": "澳底漁港—基隆車站",
+        "HeadsignEn": "Aodi Harbor — Keelung Station",
+        "Direction": 0,
+        "DepartureStopNameZh": "大武崙沙灘停車場",
+        "DepartureStopNameEn": "Tapurun Sandbeach Parking Lot",
+        "DestinationStopNameZh": "基隆轉運站",
+        "DestinationStopNameEn": "Keelung Transit Station"
+      },
+      {
+        "SubRouteUID": "KEE0939A1",
+        "SubRouteID": "0939A1",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "5082A",
+          "En": "5082A"
+        },
+        "Headsign": "澳底漁港—經安一路",
+        "HeadsignEn": "Aodi Harbor — Via An 1st Rd.",
+        "Direction": 0,
+        "DepartureStopNameZh": "基隆轉運站",
+        "DepartureStopNameEn": "Keelung Transit Station",
+        "DestinationStopNameZh": "大武崙沙灘停車場",
+        "DestinationStopNameEn": "Tapurun Sandbeach Parking Lot"
+      }
+    ],
+    "BusRouteType": 11,
+    "RouteName": {
+      "Zh_tw": "5081",
+      "En": "5081"
+    },
+    "DepartureStopNameZh": "大武崙沙灘停車場",
+    "DepartureStopNameEn": "Tapurun Sandbeach Parking Lot",
+    "DestinationStopNameZh": "基隆轉運站",
+    "DestinationStopNameEn": "Keelung Transit Station",
+    "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0939.jpg",
+    "City": "Keelung",
+    "CityCode": "KEE",
+    "UpdateTime": "2026-05-19T18:14:30+08:00",
+    "VersionID": 6996
+  },
+  {
+    "RouteUID": "KEE0941",
+    "RouteID": "0941",
+    "HasSubRoutes": true,
+    "Operators": [
+      {
+        "OperatorID": "109",
+        "OperatorName": {
+          "Zh_tw": "基隆市公車處"
+        },
+        "OperatorCode": "",
+        "OperatorNo": "1107"
+      }
+    ],
+    "AuthorityID": "011",
+    "ProviderID": "010",
+    "SubRoutes": [
+      {
+        "SubRouteUID": "KEE094101",
+        "SubRouteID": "094101",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "509",
+          "En": "509"
+        },
+        "Headsign": "情人湖—經安一路",
+        "HeadsignEn": "Valentine Lake — Via An 1st Rd.",
+        "Direction": 0,
+        "DepartureStopNameZh": "基隆轉運站",
+        "DepartureStopNameEn": "Keelung Transit Station",
+        "DestinationStopNameZh": "基隆轉運站",
+        "DestinationStopNameEn": "Keelung Transit Station"
+      },
+      {
+        "SubRouteUID": "KEE0941A1",
+        "SubRouteID": "0941A1",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "509A",
+          "En": "509A"
+        },
+        "Headsign": "情人湖—經安一路(經東都社區)",
+        "HeadsignEn": "Valentine Lake — Via An 1st Rd.(Dondu Community)",
+        "Direction": 0,
+        "DepartureStopNameZh": "基隆轉運站",
+        "DepartureStopNameEn": "Keelung Transit Station",
+        "DestinationStopNameZh": "基隆轉運站",
+        "DestinationStopNameEn": "Keelung Transit Station"
+      },
+      {
+        "SubRouteUID": "KEE0941B1",
+        "SubRouteID": "0941B1",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "5093B",
+          "En": "5093B"
+        },
+        "Headsign": "情人湖—經麥金路",
+        "HeadsignEn": "Valentine Lake — Via Maijin Rd.",
+        "Direction": 0,
+        "DepartureStopNameZh": "基隆轉運站",
+        "DepartureStopNameEn": "Keelung Transit Station",
+        "DestinationStopNameZh": "基隆轉運站",
+        "DestinationStopNameEn": "Keelung Transit Station"
+      }
+    ],
+    "BusRouteType": 11,
+    "RouteName": {
+      "Zh_tw": "509",
+      "En": "509"
+    },
+    "DepartureStopNameZh": "基隆轉運站",
+    "DepartureStopNameEn": "Keelung Transit Station",
+    "DestinationStopNameZh": "基隆轉運站",
+    "DestinationStopNameEn": "Keelung Transit Station",
+    "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0941.jpg",
+    "City": "Keelung",
+    "CityCode": "KEE",
+    "UpdateTime": "2026-05-19T18:14:30+08:00",
+    "VersionID": 6996
+  },
+  {
+    "RouteUID": "KEE0944",
+    "RouteID": "0944",
+    "HasSubRoutes": true,
+    "Operators": [
+      {
+        "OperatorID": "109",
+        "OperatorName": {
+          "Zh_tw": "基隆市公車處"
+        },
+        "OperatorCode": "",
+        "OperatorNo": "1107"
+      }
+    ],
+    "AuthorityID": "011",
+    "ProviderID": "010",
+    "SubRoutes": [
+      {
+        "SubRouteUID": "KEE094401",
+        "SubRouteID": "094401",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "510",
+          "En": "510"
+        },
+        "Headsign": "大武崙—七堵(經麥金路)",
+        "HeadsignEn": "Tapurun — Qidu(Maijin Rd.)",
+        "Direction": 0,
+        "DepartureStopNameZh": "武隆街105巷",
+        "DepartureStopNameEn": "Ln. 105 Wulong St.",
+        "DestinationStopNameZh": "七堵火車站",
+        "DestinationStopNameEn": "Qidu Railway Station"
+      },
+      {
+        "SubRouteUID": "KEE0944A1",
+        "SubRouteID": "0944A1",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "510A",
+          "En": "510A"
+        },
+        "Headsign": "七堵—大武崙",
+        "HeadsignEn": "Qidu — Tapurun",
+        "Direction": 0,
+        "DepartureStopNameZh": "七堵火車站",
+        "DepartureStopNameEn": "Qidu Railway Station",
+        "DestinationStopNameZh": "武隆街105巷",
+        "DestinationStopNameEn": "Ln. 105 Wulong St."
+      },
+      {
+        "SubRouteUID": "KEE0944B1",
+        "SubRouteID": "0944B1",
+        "OperatorIDs": [
+          "109"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "5105B",
+          "En": "5105B"
+        },
+        "Headsign": "大武崙—七堵(經壯觀台北)",
+        "HeadsignEn": "Tapurun — Qidu(Zhuangguantaipei Community)",
+        "Direction": 0,
+        "DepartureStopNameZh": "武隆街105巷",
+        "DepartureStopNameEn": "Ln. 105 Wulong St.",
+        "DestinationStopNameZh": "七堵火車站",
+        "DestinationStopNameEn": "Qidu Railway Station"
+      }
+    ],
+    "BusRouteType": 11,
+    "RouteName": {
+      "Zh_tw": "510",
+      "En": "510"
+    },
+    "DepartureStopNameZh": "武隆街105巷",
+    "DepartureStopNameEn": "Ln. 105 Wulong St.",
+    "DestinationStopNameZh": "七堵火車站",
+    "DestinationStopNameEn": "Qidu Railway Station",
+    "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0944.jpg",
+    "City": "Keelung",
+    "CityCode": "KEE",
+    "UpdateTime": "2026-05-19T18:14:30+08:00",
+    "VersionID": 6996
+  }
+]
