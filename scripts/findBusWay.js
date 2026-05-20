@@ -9,7 +9,7 @@ const stopRoutes = JSON.parse(fs.readFileSync("./processed/stopRoutes.json", "ut
 // =========================
 // DIJKSTRA ROUTE SEARCH
 // =========================
-function findRoute(start, end) {
+function findBusWay(start, end) {
 
     const pq = [{
         node: start,
@@ -74,14 +74,14 @@ function findRoute(start, end) {
 // =========================
 // EXPORT / CLI
 // =========================
-module.exports = { findRoute };
+module.exports = { findBusWay };
 
 if (require.main === module) {
 
     const start = process.argv[2];
     const end = process.argv[3];
 
-    const result = findRoute(start, end);
+    const result = findBusWay(start, end);
 
     console.log(JSON.stringify(result, null, 2));
 }
