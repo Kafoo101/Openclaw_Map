@@ -4,46 +4,94 @@ const fs = require("fs");
 // LOAD DATA
 // =========================
 const graph = JSON.parse(fs.readFileSync("./processed/graph.json", "utf8"));
-const stopRoutes = JSON.parse(fs.readFileSync("./processed/stopRoutes.json", "utf8"));
+const stopInfo = JSON.parse(fs.readFileSync("./processed/stopInfo.json", "utf8"));
+const routeInfo = JSON.parse(fs.readFileSync("./processed/routeInfo.json", "utf8"));
+const SPEED = 5; // m/s (~40 km/h bus average)
 
 // =========================
-// DIJKSTRA ROUTE SEARCH
+// HEURISTIC (Haversine distance)
 // =========================
-function findBusWay(start, end) {
+function haversine(lat1, lon1, lat2, lon2) {
+    const R = 6371e3;
+    const toRad = x => x * Math.PI / 180;
 
-    const pq = [{
+    const dLat = toRad(lat2 - lat1);
+    const dLon = toRad(lon2 - lon1);
+
+    const a =
+        Math.sin(dLat / 2) ** 2 +
+        Math.cos(toRad(lat1)) *
+        Math.cos(toRad(lat2)) *
+        Math.sin(dLon / 2) ** 2;
+
+    return R * (2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a)));
+}
+
+function heuristic(a, b) {
+    const A = stopInfo[a];
+    const B = stopInfo[b];
+
+    if (!A || !B) return 0;
+
+    return haversine(A.lat, A.lng, B.lat, B.lng) / SPEED;
+}
+
+function toReadable(routePath) {
+
+    return routePath.map(step => {
+
+        const stop = stopInfo[step.node];
+        const routeKey = step.route? step.route.substring(0, step.route.lastIndexOf("_")) : null;
+        const route = routeKey ? routeInfo[routeKey] : null;
+
+        return {
+            stop: stop?.name_en || step.node,
+            route: route?.name_en || step.route
+        };
+    });
+}
+
+// =========================
+// A* SEARCH
+// =========================
+function findBusWayAStar(start, end) {
+
+    const openSet = [{
         node: start,
-        path: [start],
         route: null,
-        stops: 0
+        cost: 0,
+        routePath: [{ node: start, route: null }]
     }];
 
-    const visited = new Map();
+    const bestCost = new Map();
 
-    while (pq.length) {
+    while (openSet.length > 0) {
 
-        // sort by lowest cost (priority queue simulation)
-        pq.sort((a, b) => a.stops - b.stops);
-        const current = pq.shift();
+        // sort by f = g + h
+        openSet.sort((a, b) => {
+            const fa = a.cost + heuristic(a.node, end);
+            const fb = b.cost + heuristic(b.node, end);
+            return fa - fb;
+        });
 
-        const { node, path, route, stops } = current;
+        const current = openSet.shift();
 
-        // reached destination
+        const { node, route, cost, routePath } = current;
+
         if (node === end) {
             return {
-                //type: "dijkstra",
-                path,
-                stops
+                routePath,
+                cost
             };
         }
 
-        const key = node + "|" + route;
+        const stateKey = node + "|" + route;
 
-        if (visited.has(key) && visited.get(key) <= stops) {
+        if (bestCost.has(stateKey) && bestCost.get(stateKey) <= cost) {
             continue;
         }
 
-        visited.set(key, stops);
+        bestCost.set(stateKey, cost);
 
         const neighbors = graph[node] || [];
 
@@ -53,17 +101,18 @@ function findBusWay(start, end) {
             const nextRoute = edge.route;
 
             const isTransfer = route !== null && route !== nextRoute;
+            
+            const distance = edge.cost ?? 1;
+            const travelTime = distance / SPEED;
+            const transferPenalty = isTransfer ? 360 : 0;
+            const stepCost = travelTime + transferPenalty;
 
-            const newStops =
-                stops +
-                1 +                    // 1 per stop
-                (isTransfer ? 10 : 0); // transfer penalty
-
-            pq.push({
+            const newCost = cost + stepCost;
+            openSet.push({
                 node: nextNode,
-                path: [...path, nextNode],
                 route: nextRoute,
-                stops: newStops
+                cost: newCost,
+                routePath: [...routePath, { node: nextNode, route: nextRoute }]
             });
         }
     }
@@ -72,16 +121,21 @@ function findBusWay(start, end) {
 }
 
 // =========================
-// EXPORT / CLI
+// CLI
 // =========================
-module.exports = { findBusWay };
-
 if (require.main === module) {
 
     const start = process.argv[2];
     const end = process.argv[3];
 
-    const result = findBusWay(start, end);
+    const result = findBusWayAStar(start, end);
 
-    console.log(JSON.stringify(result, null, 2));
+    const readable = {
+        cost: result.cost,
+        route: toReadable(result.routePath)
+    };
+
+    console.log(JSON.stringify(readable, null, 2));
 }
+
+module.exports = { findBusWayAStar };

@@ -23,7 +23,23 @@ const stopInfo = {};
 const routeIndex = {};
 const stopRoutes = {};
 const shapeIndex = {};
-const routeMeta = {};
+const routeInfo = {};
+
+function haversine(lat1, lon1, lat2, lon2) {
+    const R = 6371e3; // meters
+    const toRad = x => x * Math.PI / 180;
+
+    const dLat = toRad(lat2 - lat1);
+    const dLon = toRad(lon2 - lon1);
+
+    const a =
+        Math.sin(dLat / 2) ** 2 +
+        Math.cos(toRad(lat1)) *
+        Math.cos(toRad(lat2)) *
+        Math.sin(dLon / 2) ** 2;
+
+    return R * (2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a)));
+}
 
 // ======================================================
 // 1. STOP LAYER
@@ -59,7 +75,7 @@ for (const bus of busList) {
 
         const routeKey = `${routeUID}_${subRouteUID}`;
 
-        routeMeta[routeKey] = {
+        routeInfo[routeKey] = {
             routeUID,
             subRouteUID,
             name_zh: sub.SubRouteName?.Zh_tw || routeNameZh,
@@ -112,16 +128,26 @@ for (const route of stopRoute) {
         // ==================================================
         if (prevStop && prevStop !== stopUID) {
 
-            // ❗ prevent immediate reverse duplication noise
+            const from = stopInfo[prevStop];
+            const to = stopInfo[stopUID];
+
+            let cost = 1; // base hop cost
+            if (from && to) {
+                cost = haversine(from.lat, from.lng, to.lat, to.lng);
+            }
+
             const neighbors = graph[prevStop];
 
-            const alreadyExists = neighbors.some(e => e.to === stopUID && e.route === routeKey);
+            const alreadyExists = neighbors.some(e =>
+                e.to === stopUID && e.route === routeKey
+            );
 
             if (!alreadyExists) {
                 graph[prevStop].push({
                     to: stopUID,
                     route: routeKey,
-                    direction: direction
+                    direction: direction,
+                    cost: cost
                 });
             }
         }
@@ -153,6 +179,6 @@ fs.writeFileSync("./processed/stopInfo.json", JSON.stringify(stopInfo, null, 2))
 fs.writeFileSync("./processed/routeIndex.json", JSON.stringify(routeIndex, null, 2));
 fs.writeFileSync("./processed/stopRoutes.json", JSON.stringify(stopRoutes, null, 2));
 fs.writeFileSync("./processed/shapeIndex.json", JSON.stringify(shapeIndex, null, 2));
-fs.writeFileSync("./processed/routeMeta.json", JSON.stringify(routeMeta, null, 2));
+fs.writeFileSync("./processed/routeInfo.json", JSON.stringify(routeInfo, null, 2));
 
 console.log("Graph build complete.");
