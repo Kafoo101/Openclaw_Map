@@ -138,4 +138,4 @@ if (require.main === module) {
     console.log(JSON.stringify(readable, null, 2));
 }
 
-module.exports = { findBusWayAStar };
+module.exports = { findBusWayAStar, toReadable };
