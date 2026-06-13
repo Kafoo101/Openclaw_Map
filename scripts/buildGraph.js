@@ -138,8 +138,10 @@ for (const route of stopRoute) {
 
             const neighbors = graph[prevStop];
 
-            const alreadyExists = neighbors.some(e =>
-                e.to === stopUID && e.route === routeKey
+            const alreadyExists = neighbors.some(e => 
+                e.to === stopUID && 
+                e.route === routeKey && 
+                e.sequence === i
             );
 
             if (!alreadyExists) {
@@ -147,7 +149,8 @@ for (const route of stopRoute) {
                     to: stopUID,
                     route: routeKey,
                     direction: direction,
-                    cost: cost
+                    cost: cost,
+                    sequence: i 
                 });
             }
         }
@@ -174,11 +177,11 @@ for (const shape of shapePoly) {
 // ======================================================
 // 5. SAVE OUTPUT
 // ======================================================
-fs.writeFileSync("./processed/graph.json", JSON.stringify(graph, null, 2));
-fs.writeFileSync("./processed/stopInfo.json", JSON.stringify(stopInfo, null, 2));
-fs.writeFileSync("./processed/routeIndex.json", JSON.stringify(routeIndex, null, 2));
-fs.writeFileSync("./processed/stopRoutes.json", JSON.stringify(stopRoutes, null, 2));
-fs.writeFileSync("./processed/shapeIndex.json", JSON.stringify(shapeIndex, null, 2));
-fs.writeFileSync("./processed/routeInfo.json", JSON.stringify(routeInfo, null, 2));
+fs.writeFileSync("./processed/graph2.json", JSON.stringify(graph, null, 2));
+//fs.writeFileSync("./processed/stopInfo.json", JSON.stringify(stopInfo, null, 2));
+//fs.writeFileSync("./processed/routeIndex.json", JSON.stringify(routeIndex, null, 2));
+//fs.writeFileSync("./processed/stopRoutes.json", JSON.stringify(stopRoutes, null, 2));
+//fs.writeFileSync("./processed/shapeIndex.json", JSON.stringify(shapeIndex, null, 2));
+//fs.writeFileSync("./processed/routeInfo.json", JSON.stringify(routeInfo, null, 2));
 
 console.log("Graph build complete.");
