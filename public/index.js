@@ -18,11 +18,11 @@ async function busRouting(startGps, endGps, departureTimeStr, maxWalkMinutes) {
 
 async function runTestRoute() {
     // 1. Define where the user is standing (Start) and where they want to go (End)
-    // (These are sample coordinates near Keelung Station / Harbor area)
+    // (These are sample coordinates)
     const startLocation = { lat: 25.1505, lon: 121.7754 }; 
     const endLocation   = { lat: 25.1245, lon: 121.7840 }; 
     
-    const departureTime = "14:50"; // Leaving at 8 AM
+    const departureTime = "14:50"; // Leaving time
     const maxWalkMinutes = 15;     // Your adjustable walking cap
 
     try {
@@ -38,6 +38,9 @@ async function runTestRoute() {
     } catch (error) {
         console.error("Navigation failed:", error);
     }
+
+    //ubah bagian sini
+
 }
 
 // OpenStreetMap tiles
