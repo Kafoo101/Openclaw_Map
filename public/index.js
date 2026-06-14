@@ -34,13 +34,13 @@ async function runTestRoute() {
         // 3. Print the gorgeous, complete journey result
         console.log("\n--- Final Optimized Result ---");
         console.log(finalItinerary);
+        // ubah bagian sini
+
+        
 
     } catch (error) {
         console.error("Navigation failed:", error);
     }
-
-    //ubah bagian sini
-
 }
 
 // OpenStreetMap tiles
