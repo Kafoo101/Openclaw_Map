@@ -20,13 +20,14 @@
     </div> -->
 
     <div id="chat">
-        <h3>Route Planner</h3>
+        <h3>AI Chat</h3>
 
-        <input id="origin" placeholder="Origin" />
+        <div id="messages" aria-live="polite"></div>
 
-        <input id="destination" placeholder="Destination" />
-
-        <button onclick="route()">Get Route</button>
+        <div id="composer">
+            <textarea id="messageInput" placeholder="Type a message" rows="2"></textarea>
+            <button id="sendBtn">Send</button>
+        </div>
     </div>
 
     <div id="map"></div>

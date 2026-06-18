@@ -34,9 +34,7 @@ async function runTestRoute() {
         // 3. Print the gorgeous, complete journey result
         console.log("\n--- Final Optimized Result ---");
         console.log(finalItinerary);
-        // ubah bagian sini
-
-        
+        // NOTE: route planner removed — chat UI handles user messages only for now.
 
     } catch (error) {
         console.error("Navigation failed:", error);
@@ -146,5 +144,36 @@ async function route() {
 
 // Initial Location
 goToPlace("National Taiwan Ocean University");
-runTestRoute();
-//drawLine("National Taiwan Ocean University", "Evergreen Laurel Hotel Keelung");
+// initialize chat UI
+document.addEventListener('DOMContentLoaded', () => {
+    const messages = document.getElementById('messages');
+    const input = document.getElementById('messageInput');
+    const sendBtn = document.getElementById('sendBtn');
+
+    function appendMessage(kind, text) {
+        const el = document.createElement('div');
+        el.className = 'message ' + (kind === 'user' ? 'user' : 'bot');
+        el.textContent = text;
+        messages.appendChild(el);
+        messages.scrollTop = messages.scrollHeight;
+    }
+
+    function sendMessage() {
+        const text = input.value.trim();
+        if (!text) return;
+        appendMessage('user', text);
+        input.value = '';
+        input.focus();
+
+        // placeholder for AI response: currently no backend
+        // appendMessage('bot', 'Thinking...');
+    }
+
+    sendBtn.addEventListener('click', sendMessage);
+    input.addEventListener('keydown', (e) => {
+        if (e.key === 'Enter' && !e.shiftKey) {
+            e.preventDefault();
+            sendMessage();
+        }
+    });
+});
