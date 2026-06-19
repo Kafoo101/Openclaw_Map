@@ -12,7 +12,7 @@ async function busRouting(startGps, endGps, departureTimeStr, maxWalkMinutes) {
         body: JSON.stringify({ startGps, endGps, departureTimeStr, maxWalkMinutes })
     });
 
-    // const result = await response.json();
+    // const result = await response.json(); a/
     const result = await response.text();
     console.log("Raw response:", result);
     return JSON.parse(result);
