@@ -8,6 +8,7 @@ const PORT = 3000;
 // serve frontend files
 app.use(express.json());
 app.use(express.static(path.join(__dirname, 'public')));
+app.use('/processed', express.static(path.join(__dirname, 'processed')));
 
 app.post("/api/route", async (req, res) => {
     try {

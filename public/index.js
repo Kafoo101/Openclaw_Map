@@ -12,8 +12,10 @@ async function busRouting(startGps, endGps, departureTimeStr, maxWalkMinutes) {
         body: JSON.stringify({ startGps, endGps, departureTimeStr, maxWalkMinutes })
     });
 
-    const result = await response.json();
-    return result;
+    // const result = await response.json();
+    const result = await response.text();
+    console.log("Raw response:", result);
+    return JSON.parse(result);
 }
 
 async function runTestRoute() {
@@ -34,6 +36,65 @@ async function runTestRoute() {
         // 3. Print the gorgeous, complete journey result
         console.log("\n--- Final Optimized Result ---");
         console.log(finalItinerary);
+
+        if (finalItinerary && finalItinerary.journey && finalItinerary.journey.length > 0) {
+            const [raptorIndex, shapeIndex] = await Promise.all([
+                fetch("/processed/raptorIndex.json").then(r => r.json()),
+                fetch("/processed/shapeIndex.json").then(r => r.json())
+            ]);
+
+            const colors = ["red", "blue", "green", "orange", "purple"];
+            let legIndex = 0;
+            for (const leg of finalItinerary.journey) {
+                const { route, boardedAt, alightedAt } = leg;
+                if (!route || !boardedAt || !alightedAt) continue;
+
+                const stopSequence = raptorIndex.routeStops[route];
+                if (!stopSequence) {
+                    console.warn(`Route ${route} not found in raptorIndex`);
+                    continue;
+                }
+
+                const boardIndex  = stopSequence.indexOf(boardedAt);
+                const alightIndex = stopSequence.indexOf(alightedAt);
+                if (boardIndex === -1 || alightIndex === -1) {
+                    console.warn(`Stop not found — boardedAt: ${boardedAt} (idx ${boardIndex}), alightedAt: ${alightedAt} (idx ${alightIndex})`);
+                    continue;
+                }
+
+                const shapeEntry = shapeIndex[route];
+                if (!shapeEntry || !shapeEntry.polyline) {
+                    console.warn(`Shape/polyline not found for route ${route}`);
+                    continue;
+                }
+
+                const allCoords = polyline.decode(shapeEntry.polyline); 
+
+                const totalStops    = stopSequence.length - 1;
+                const startRatio    = boardIndex  / totalStops;
+                const endRatio      = alightIndex / totalStops;
+                const startShapeIdx = Math.floor(startRatio * (allCoords.length - 1));
+                const endShapeIdx   = Math.ceil(endRatio    * (allCoords.length - 1));
+
+                const slicedCoords = allCoords.slice(startShapeIdx, endShapeIdx + 1);
+
+                const busPolyline = L.polyline(slicedCoords, {
+                    color: colors[legIndex % colors.length],
+                    weight: 5,
+                    opacity: 0.8
+                }).addTo(map);
+
+                busPolyline.bindPopup(`🚌 ${route}<br>Naik: ${boardedAt}<br>Turun: ${alightedAt}`);
+                legIndex++;
+            }
+
+            const allPolylines = [];
+            map.eachLayer(layer => { if (layer instanceof L.Polyline) allPolylines.push(layer); });
+            if (allPolylines.length > 0) {
+                map.fitBounds(L.featureGroup(allPolylines).getBounds());
+            }
+        }
+
         // NOTE: route planner removed — chat UI handles user messages only for now.
 
     } catch (error) {
@@ -176,4 +237,6 @@ document.addEventListener('DOMContentLoaded', () => {
             sendMessage();
         }
     });
+
+    runTestRoute();
 });
