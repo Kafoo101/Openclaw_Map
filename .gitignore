@@ -1,2 +1,4 @@
 node_modules/
 .env
+processed/dailySchedule.json
+processed/raptorIndex.json
