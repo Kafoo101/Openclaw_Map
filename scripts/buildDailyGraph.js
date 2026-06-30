@@ -1,4 +1,5 @@
 const fs = require("fs");
+const { fetchDailyETA } = require("./fetchTDXData")
 
 // ==========================================
 // CONFIGURATION
@@ -22,6 +23,23 @@ function timeToMinutes(timeString) {
     return (hours * 60) + minutes;
 }
 
+async function verifyRecency(){
+    const data = JSON.parse(fs.readFileSync(OUTPUT_FILE, "utf8"));
+    const lastUpdated = new Date(data.timeStamp.lastUpdated);
+    const today = new Date();
+
+    if(lastUpdated.toDateString() === today.toDateString()){
+        console.log("Data is up to date, proceeding...");
+    }
+    else{
+        console.log("Data is not up to date, fetching latest data from TDX website...");
+        const result = await fetchDailyETA();
+        fs.writeFileSync(INPUT_FILE, JSON.stringify(result, null, 2), "utf8");
+        return false; //rebuild flag in raptorEngine.js
+    }
+    return true;
+}
+
 function buildAndSaveMemoryIndex() {
     console.log("Starting unified daily RAPTOR index build...");
 
@@ -32,10 +50,12 @@ function buildAndSaveMemoryIndex() {
 
     const rawData = JSON.parse(fs.readFileSync(INPUT_FILE, "utf8"));
 
+    const timeStamp  = {};
     const routeStops = {}; 
     const routeTrips = {}; 
     const stopRoutes = {}; 
 
+    timeStamp.lastUpdated = rawData[0].BusDate;
     for (const route of rawData) {
         
         if (!route.Timetables || route.Timetables.length === 0) continue;
@@ -77,6 +97,7 @@ function buildAndSaveMemoryIndex() {
     }
 
     const masterIndex = {
+        timeStamp,
         routeStops,
         routeTrips,
         stopRoutes
@@ -89,4 +110,4 @@ function buildAndSaveMemoryIndex() {
     console.log(`Successfully parsed raw TDX and generated RAPTOR index at: ${OUTPUT_FILE}`);
 }
 
-buildAndSaveMemoryIndex();
+module.exports = { verifyRecency, buildAndSaveMemoryIndex };

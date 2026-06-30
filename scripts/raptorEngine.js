@@ -1,5 +1,7 @@
 const fs = require("fs");
 
+const { verifyRecency, buildAndSaveMemoryIndex } = require("./buildDailyGraph");
+
 // ==========================================
 // 1. GLOBAL MEMORY (State)
 // ==========================================
@@ -14,12 +16,12 @@ const MAX_TRANSFERS = 3;
 // ==========================================
 // 2. INITIALIZATION (Runs once on startup)
 // ==========================================
-function initEngine() {
+async function initEngine() {
     const indexPath = "./processed/raptorIndex.json";
-    
-    if (!fs.existsSync(indexPath)) {
-        console.error(`[Fatal] RAPTOR index not found at ${indexPath}. Run Phase 1 first.`);
-        return false;
+
+    if (!fs.existsSync(indexPath) || !(await verifyRecency())) {
+        buildAndSaveMemoryIndex();
+        console.log("Data update complete")
     }
 
     console.log("Loading RAPTOR index into memory...");
@@ -237,9 +239,9 @@ function minutesToTime(minutes) {
 // ==========================================
 // 5. PUBLIC API (The Wrapper)
 // ==========================================
-function findRoute(walkableOrigins, destinationStop) {
+async function findRoute(walkableOrigins, destinationStop) {
     if (!engineReady) {
-        const success = initEngine();
+        const success = await initEngine();
         if (!success) return { error: "Engine failed to initialize." };
     }
     
@@ -252,15 +254,21 @@ module.exports = { initEngine, findRoute };
 // ==========================================
 // CLI TESTER
 // ==========================================
-if (require.main === module) {
-    initEngine();
-    
+async function main()
+{
+    await initEngine();
+
     const testOrigins = {
-        "KEE306429": 480,  
-        "KEE306430": 485   
+        "KEE306429": 480,
+        "KEE306430": 485
     };
+
     const testDestination = "KEE309534";
-    
-    const result = findRoute(testOrigins, testDestination);
+
+    const result = await findRoute(testOrigins, testDestination);
     console.log(JSON.stringify(result, null, 2));
+}
+
+if (require.main === module) {
+    main().catch(console.error);
 }

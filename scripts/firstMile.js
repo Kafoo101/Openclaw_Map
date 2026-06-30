@@ -114,7 +114,7 @@ async function planDoorToDoorRoute(startGps, endGps, departureTimeStr, maxWalkMi
 
     // 3. RUN CORE RAPTOR PATTERN
     console.log(`Running RAPTOR with ${Object.keys(walkableOrigins).length} origin stops and ${destinationStopUIDs.length} target stops...`);
-    const raptorResult = findRoute(walkableOrigins, destinationStopUIDs);
+    const raptorResult = await findRoute(walkableOrigins, destinationStopUIDs);
 
     if (!raptorResult || raptorResult.length === 0) {
         return { error: "No transit routes found matching your criteria." };
