@@ -6,6 +6,7 @@ let raptorIndex;
 let shapeIndex;
 let stopInfo;
 let routeInfo;
+let routeIndex;
 
 // Dedicated layer group to hold all active route drawings (lines, markers, labels)
 // This allows us to clear the map instantly when switching modes
@@ -23,11 +24,12 @@ const redIcon = new L.Icon({
 // --- 1. CORE DATA & UTILITIES ---
 
 async function loadData() {
-    [raptorIndex, shapeIndex, stopInfo, routeInfo] = await Promise.all([
+    [raptorIndex, shapeIndex, stopInfo, routeInfo, routeIndex] = await Promise.all([
         fetch("/processed/raptorIndex.json").then(r => r.json()),
         fetch("/processed/shapeIndex.json").then(r => r.json()),
         fetch("/processed/stopInfo.json").then(r => r.json()),
-        fetch("/processed/routeInfo.json").then(r => r.json())
+        fetch("/processed/routeInfo.json").then(r => r.json()),
+        fetch("/processed/routeIndex.json").then(r => r.json())
     ]);
 }
 
@@ -96,6 +98,71 @@ function getUserLocation() {
             }
         );
     });
+}
+
+function getCurrentTimeFormatted() {
+    const now = new Date();
+    // Get hours and minutes, pad with leading zeros if needed
+    const hours = String(now.getHours()).padStart(2, '0');
+    const minutes = String(now.getMinutes()).padStart(2, '0');
+    return `${hours}:${minutes}`;
+}
+
+// Helper to turn the "minutes since midnight" back into HH:MM
+function formatMinutesToTime(totalMinutes) {
+    const hours = Math.floor(totalMinutes / 60) % 24;
+    const minutes = Math.floor(totalMinutes % 60);
+    return `${String(hours).padStart(2, '0')}:${String(minutes).padStart(2, '0')}`;
+}
+
+function timeToMinutes(timeStr) {
+    const [hours, minutes] = timeStr.split(':').map(Number);
+    return (hours * 60) + minutes;
+}
+
+function getStopName(stopUID) {
+    // Looks up "name_en" from your loaded stopInfo object
+    return stopInfo[stopUID]?.name_en || stopUID;
+}
+
+function countStops(routeId, boardUID, alightUID) {
+    // 1. Get the array of stops directly
+    const stops = routeIndex[routeId];
+    
+    // 2. Safety check: if route doesn't exist, return 0
+    if (!stops || !Array.isArray(stops)) {
+        console.warn("Route ID not found or invalid format:", routeId);
+        return 0;
+    }
+    
+    // 3. Find indices directly in the array
+    const boardIdx = stops.indexOf(boardUID);
+    const alightIdx = stops.indexOf(alightUID);
+    
+    // 4. Handle cases where stops aren't found (maybe the bus route changed?)
+    if (boardIdx === -1 || alightIdx === -1) return 0;
+    
+    return Math.abs(alightIdx - boardIdx);
+}
+
+function generateRouteSummary(result) {
+    if (!result || !result.journey) return "I couldn't find a viable route.";
+    
+    const legs = result.journey;
+    
+    const descriptions = legs.map((leg) => {
+        const originName = getStopName(leg.boardedAt);
+        const destName = getStopName(leg.alightedAt);
+        const stopCount = countStops(leg.route, leg.boardedAt, leg.alightedAt);
+        
+        return `From ${originName} to ${destName} (${stopCount} stops)`;
+    });
+
+    let summary = `I've mapped out your trip. ${descriptions.join(", then ")}. `;
+    
+    summary += `You'll arrive at your final destination at approximately ${formatMinutesToTime(result.finalDoorArrivalTime)}.`;
+
+    return summary;
 }
 
 // --- 2. VEHICLE ROUTING ENGINE (OSRM) ---
@@ -228,7 +295,7 @@ async function handleBusRouting(startCoords, endCoords, departureTimeStr, maxWal
         stopLat = stopInfo[stopUID].lat;
         stopLon = stopInfo[stopUID].lng;
         //lanjut coding
-        
+        return finalItinerary;
 
     } else {
         console.log("No valid bus routes found for this itinerary.");
@@ -255,10 +322,12 @@ async function smartRoute(origin, destination, transportationMode, departureTime
         }
 
         // 3. Branching execution path based on mode selection
+        let result = null;
+
         if (transportationMode === 'vehicle') {
             await handleVehicleRouting(startCoords, endCoords);
         } else if (transportationMode === 'bus') {
-            await handleBusRouting(startCoords, endCoords, departureTimeStr, maxWalkMinutes);
+            result = await handleBusRouting(startCoords, endCoords, departureTimeStr, maxWalkMinutes);
         } else {
             console.error(`Unknown transportation mode: ${transportationMode}`);
             return;
@@ -269,6 +338,9 @@ async function smartRoute(origin, destination, transportationMode, departureTime
         if (activeLayers.length > 0) {
             map.fitBounds(currentRouteLayer.getBounds(), { padding: [30, 30] });
         }
+
+        //console.log("result :", result);
+        return result;
 
     } catch (error) {
         console.error("Smart routing failed to complete execution:", error);
@@ -300,6 +372,12 @@ function setupChatUI() {
         const text = input.value.trim();
         if (!text) return;
 
+        const time = getCurrentTimeFormatted();
+        const payload = {
+            message: text,
+            timestamp: time
+        };
+
         // 1. Render the user's message instantly on-screen
         appendMessage('user', text);
         input.value = '';
@@ -310,13 +388,41 @@ function setupChatUI() {
             const response = await fetch('/api/chat', {
                 method: 'POST',
                 headers: { 'Content-Type': 'application/json' },
-                body: JSON.stringify({ message: text })
+                body: JSON.stringify(payload)
             });
 
             const data = await response.json();
+            
+            //console.log(await response);
 
             // 3. Render the text reply directly from Gemini
-            if (data.reply) {
+            if (data.actionType === "ROUTE_DATA") {
+                //appendMessage('bot', `Route Data Received: ${JSON.stringify(data.data)}`);
+
+                //console.log("DEBUG: Raw Args received from Gemini:", data.data.transportationMode);
+
+                //add delay to departure time if provided
+                const baseTimeStr = data.data.departureTimeStr === "NOW" ? time : data.data.departureTimeStr;
+                console.log("DEBUG: Base Departure Time:", baseTimeStr, "Delay:", data.data.delay);
+                const totalMinutes = timeToMinutes(baseTimeStr) + (data.data.delay || 0);
+                const adjustedDepartureTime = formatMinutesToTime(totalMinutes);
+
+                const result = await smartRoute(
+                    data.data.origin,
+                    data.data.destination,
+                    data.data.transportationMode,
+                    adjustedDepartureTime,
+                    data.data.maxWalkMinutes || 12,
+                );
+                
+                //console.log("DEBUG: Result from smartRoute:", result);
+
+                if(result) {
+                    const humanMessage = generateRouteSummary(result);
+                    appendMessage('bot', humanMessage);
+                }
+
+            } else if (data.reply) {
                 appendMessage('bot', data.reply);
             } else if (data.error) {
                 appendMessage('bot', `System Error: ${data.error}`);
