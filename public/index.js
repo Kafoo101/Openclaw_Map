@@ -12,6 +12,10 @@ let routeIndex;
 // This allows us to clear the map instantly when switching modes
 const currentRouteLayer = L.featureGroup().addTo(map);
 
+map.createPane('walkingDotsPane');
+map.getPane('walkingDotsPane').style.zIndex = 700;
+map.getPane('walkingDotsPane').style.pointerEvents = 'none';
+
 const redIcon = new L.Icon({
     iconUrl: "https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-red.png",
     shadowUrl: "https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/images/marker-shadow.png",
@@ -167,11 +171,19 @@ function generateRouteSummary(result) {
 
 // --- 2. VEHICLE ROUTING ENGINE (OSRM) ---
 
-async function getVehicleOSRMRoute(start, end) {
-    const url = `https://router.project-osrm.org/route/v1/driving/${start.lng},${start.lat};${end.lng},${end.lat}?overview=full&geometries=geojson`;
+async function getOSRMRoute(profile, start, end) {
+    const url = `https://router.project-osrm.org/route/v1/${profile}/${start.lng},${start.lat};${end.lng},${end.lat}?overview=full&geometries=geojson`;
     const res = await fetch(url);
     const data = await res.json();
     return data.routes[0].geometry.coordinates;
+}
+
+async function getVehicleOSRMRoute(start, end) {
+    return getOSRMRoute('driving', start, end);
+}
+
+async function getWalkingOSRMRoute(start, end) {
+    return getOSRMRoute('foot', start, end);
 }
 
 async function handleVehicleRouting(startCoords, endCoords) {
@@ -190,6 +202,70 @@ async function handleVehicleRouting(startCoords, endCoords) {
         weight: 5,
         opacity: 0.8
     }).addTo(currentRouteLayer);
+}
+
+async function drawWalkingDotRoute(startCoords, endCoords) {
+    const coords = await getWalkingOSRMRoute(startCoords, endCoords);
+    const latlngs = coords.map(c => [c[1], c[0]]);
+
+    if (latlngs.length === 0) return;
+
+    const sampledPoints = [latlngs[0]];
+    const spacingMeters = 28;
+
+    const toMeters = (a, b) => {
+        const latScale = 111320;
+        const lngScale = 111320 * Math.cos(((a[0] + b[0]) / 2) * Math.PI / 180);
+        const dLat = (b[0] - a[0]) * latScale;
+        const dLng = (b[1] - a[1]) * lngScale;
+        return Math.sqrt((dLat * dLat) + (dLng * dLng));
+    };
+
+    const interpolatePoint = (a, b, fraction) => [
+        a[0] + ((b[0] - a[0]) * fraction),
+        a[1] + ((b[1] - a[1]) * fraction)
+    ];
+
+    let distanceSinceLastDot = 0;
+    let previousPoint = latlngs[0];
+
+    for (let i = 1; i < latlngs.length; i++) {
+        const currentPoint = latlngs[i];
+        let segmentStart = previousPoint;
+        let segmentLength = toMeters(segmentStart, currentPoint);
+
+        while (distanceSinceLastDot + segmentLength >= spacingMeters) {
+            const remaining = spacingMeters - distanceSinceLastDot;
+            const fraction = remaining / segmentLength;
+            const nextDot = interpolatePoint(segmentStart, currentPoint, fraction);
+            sampledPoints.push(nextDot);
+
+            segmentStart = nextDot;
+            segmentLength = toMeters(segmentStart, currentPoint);
+            distanceSinceLastDot = 0;
+        }
+
+        distanceSinceLastDot += segmentLength;
+        previousPoint = currentPoint;
+    }
+
+    const lastPoint = latlngs[latlngs.length - 1];
+    const sampledLastPoint = sampledPoints[sampledPoints.length - 1];
+    if (sampledLastPoint[0] !== lastPoint[0] || sampledLastPoint[1] !== lastPoint[1]) {
+        sampledPoints.push(lastPoint);
+    }
+
+    for (const point of sampledPoints) {
+        L.circleMarker(point, {
+            pane: 'walkingDotsPane',
+            color: '#2563eb',
+            fillColor: '#2563eb',
+            fillOpacity: 0.98,
+            weight: 2,
+            radius: 3,
+            opacity: 0.98
+        }).addTo(currentRouteLayer);
+    }
 }
 
 
@@ -283,7 +359,10 @@ async function handleBusRouting(startCoords, endCoords, departureTimeStr, maxWal
         let stopUID = finalItinerary.journey[0].boardedAt;
         let stopLat = stopInfo[stopUID].lat;
         let stopLon = stopInfo[stopUID].lng;
-        //lanjut coding
+        await drawWalkingDotRoute(
+            startCoords,
+            { lat: stopLat, lng: stopLon, displayName: getStopName(stopUID) }
+        );
         
 
         for (const leg of finalItinerary.journey) {
@@ -294,7 +373,10 @@ async function handleBusRouting(startCoords, endCoords, departureTimeStr, maxWal
         stopUID = finalItinerary.journey[finalItinerary.journey.length - 1].alightedAt;
         stopLat = stopInfo[stopUID].lat;
         stopLon = stopInfo[stopUID].lng;
-        //lanjut coding
+        await drawWalkingDotRoute(
+            { lat: stopLat, lng: stopLon, displayName: getStopName(stopUID) },
+            endCoords
+        );
         return finalItinerary;
 
     } else {
